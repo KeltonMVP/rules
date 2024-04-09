@@ -1,3 +1,6 @@
+---
+icon: material/alert-outline
+---
 # Bun venit în Română
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).

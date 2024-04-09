@@ -1,5 +1,7 @@
+# Site information
 site_name: B-Zone SA:MP Rules
 
+# Theme elements
 theme:
   name: material
   favicon: images/favicon.png
@@ -46,6 +48,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to system preferences
 
+# Used plugins
 plugins:
   - search
   - i18n:
@@ -62,9 +65,12 @@ plugins:
       enable_creation_date: true
       fallback_to_build_date: true
 
+# Used extensions
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
+  - tables
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
@@ -73,11 +79,16 @@ markdown_extensions:
   - toc:
       permalink: true
 
+# Copyright elements and cookie settings
 copyright: >
   Copyright &copy; 2008-<script>document.write(new Date().getFullYear())</script> B-ZONE All Rights Reserved
   <br/><a href="#__consent">Change cookie settings</a>
+
+# Custom css
 extra_css:
   - stylesheets/extra.css
+
+# Footer elements
 extra:
   generator: false
   social:
@@ -96,10 +107,9 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for.
 
+# Navigation
 nav:
   - Server Rules:
-    - 'Reguli Generale':
-      - 'Reguli Generale': index.md
+    - Reguli Generale: server/server-rules.md
   - Faction Rules:
-    - 'Reguli Factiuni':
-      - 'Reguli Factiuni': indexFactions.md
+    - Reguli Factiuni: factions/faction-rules.md
