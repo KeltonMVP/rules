@@ -9,3 +9,31 @@
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
   height: 2.5rem;
 }
+
+.md-typeset h1 {
+  font-weight: bold !important;
+}
+
+.md-typeset h2 {
+  color: #ff5500;
+  font-weight: bold !important;
+  border-top: 1px solid #424657;
+  padding-top: 24px;
+}
+
+.md-typeset h3 {
+  color: #dadf0f;
+  font-weight: 600 !important;
+}
+
+p {
+  margin-left: 1rem;
+}
+
+[dir=ltr] .md-typeset ol li, [dir=ltr] .md-typeset ul li {
+  margin-left: 2.25em;
+}
+
+.md-typeset ol li, .md-typeset ul li {
+  margin-bottom: initial;
+}
