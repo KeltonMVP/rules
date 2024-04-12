@@ -38,7 +38,87 @@ Recovering a lost account can only be done by [a recovery request](https://www.r
 
 ??? warning "Examples of ways your account can get hacked"
 
-    More details on this subject can be found here https://forum.b-zone.ro/contspart/ (to be edited with the info from the forum, no external links)
+    - sharing your password/PIN with others.
+    - using easily guessable password and PIN.
+    - not activating 2FA (two-factor authentication) on your account.
+    - having your email address compromised.
+    - entering your password and PIN in places other than our SA-MP server or our server's website.
+    - clicking on unknown links.
+    - downloading unknown files.
+
+??? success "Preventing account hacking"
+    - the most important prevention method by far is activating 2FA, details on how to do this can be found below.
+    - do not share your account password/PIN with anyone under any circumstances.
+    - use a password that is at least 10 characters long, contains at least 1 uppercase letter that is not the first letter, at least 1 digit, and at least 1 symbol (ex: andr3!Pl4yB!g).
+    - secure your email address using the same tips as securing your sa-mp account, and activate 2FA there as well.
+    - do not use or enter your password and PIN on servers or websites that do not belong to us. We will never organize giveaways where you need to enter your account password. Those are 100% scams. These websites are known as phishing sites. Find more information online.
+    - do not click on links that you do not recognize as completely safe. Clicking on some links may take you to websites that contain cookie stealers (which connect someone else to your accounts stored in your browser) or automatically install various viruses.
+    - do not download or accept files that you do not fully trust as being clean. You could receive a file from a friend that contains viruses. You could download a mod or modpack that contains viruses. Not everything you find on the internet or receive from others is clean. If you need mods, we advise you to download them only from our forum from [the mods section](https://forum.b-zone.ro/files/), where they are verified before being approved there.
+
+    #### <span style="font-size: 25px !important; color: #ff5500 !important; border-top: 1px solid #424657 !important; padding-top: 7px !important;">2FA Activation Tutorial</span>
+
+    In short, 2FA is an additional application on your phone that generates a 6-digit code that changes periodically. That code will be used to log in to your account when the calendar day changes or when your IP changes.
+
+    <span style="color:red;">Important to know:</span> if you do not have 2FA activated and someone logs into your account, that person can activate 2FA and lock you out of your account. Another thing you need to know is that if your email address is compromised, the person who compromised it can use it to gain access to 2FA on the sa-mp server, so be careful with your email and set a valid email on your account.
+
+    For enhanced protection, 2FA is mandatory for individuals holding positions on the server (leader, helper, admin) and they will not be able to use their accounts without having it activated.
+
+    If you deactivate 2FA after activating it, the old entry in the app will no longer work. You must use the entry from the app created at the time of 2FA reactivation.
+
+    In case of loss or reset of your phone, or deletion of the app, the secret key with which you can regain access to 2FA can be recovered using our [2FA recovery system](https://www.rpg.b-zone.ro/account/recoverTOTP) on our website.
+
+    1. <span style="color:lime;">Activating 2FA</span> is done on the RPG website, by going to My Account and then to Security. Click on the activation button.
+    <figure markdown="span">
+        ![2FA activation](images/2FA-activate.png){ width="800" }
+        <figcaption>2FA Activation</figcaption>
+    </figure>
+
+    2. A window will open with a QR code and a secret key. Read the instructions carefully and download the desired 2FA application. Do not close the window!<br/>
+    You can use Google Authenticator, Authy, or another preferred application.<br/>
+    Tip: Save that long code (the secret key) somewhere in case you lose access to your account's email.
+    <figure markdown="span">
+        ![2FA activation window](images/2FA-window.png){ width="500" }
+        <figcaption>2FA Activation Window</figcaption>
+    </figure>
+
+    3. After installing the desired application, look for the add button and select the desired option: scan the QR code or manually enter the secret key (that long code).
+    <figure markdown="span">
+        ![adding a new entry](images/2FA-new-entry.png){ width="250" }
+        <figcaption>Adding a New Entry</figcaption>
+    </figure>
+
+    4. If you opted for the QR code scanning method, then all you have to do is point your phone's camera at the QR code on the RPG website. The phone will automatically recognize the QR code and add a new entry to the application.
+    <figure markdown="span">
+        ![scanning the QR code](images/2FA-qr-scan.png){ width="250" }
+        <figcaption>Scanning the QR Code</figcaption>
+    </figure>
+
+    5. If you opted for manual entry, enter the desired name for the entry, copy the secret key (that long code) into the application exactly as it is, including uppercase letters, lowercase letters, and numbers. Also, leave the "Time Based" option checked because the codes only work based on that.
+    <figure markdown="span">
+        ![manual entry](images/2FA-manual-entry.png){ width="250" }
+        <figcaption>Manual Entry</figcaption>
+    </figure>
+
+    6. The final step is to add the code generated by the new entry in the application to the window on the RPG website. Enter the code there, without spaces, and click the <span style="color:lime;">Activate</span> button to activate your 2FA.
+    <figure markdown="span">
+        ![final activation](images/2FA-final-activation.png){ width="500" }
+        <figcaption>Final Activation</figcaption>
+    </figure>
+
+    7. <span style="color:red;">Deactivating 2FA</span> is also done from My Account, going to Security and clicking on the deactivation button.<br/>
+    You will not be able to deactivate 2FA without access to the code generated by the application with which 2FA was initially activated.
+    <figure markdown="span">
+        ![2FA deactivation](images/2FA-deactivate.png){ width="800" }
+        <figcaption>2FA Deactivation</figcaption>
+    </figure>
+
+    8. In the window that opens, you will need to enter the code generated by the application and click the green button. You will then receive a success message and see that 2FA is deactivated.
+    <figure markdown="span">
+        ![final deactivation](images/2FA-final-deactivation.png){ width="500" }
+        <figcaption>Final Deactivation</figcaption>
+    </figure>
+
+    At this point, 2FA on your account is completely deactivated, so the risk of compromise is higher. Remember that it is your responsibility to ensure the correct security of your account.
 
 ### Multiple Accounts
 You can own multiple accounts, but breaking some rules like: illegal businesses, stealing accounts, cheating, forbidden mods, bug abuse, advertising, scamming, language, toxicity, repeated rule breaking, other severe rule breaking can be punished on all accounts you own.
@@ -359,7 +439,46 @@ We reserve our right to web suspend players that abuse the ticketing system.
     The rules above apply also to deleted comments, withdrawn complaints, added witnesses, proofs posted in complaints and so on.
 
 ??? warning "Pointless complaining and posthunting"
-    TO BE EDITED WITH INFO FROM THE FORUM
+    #### <span style="font-size: 25px !important; color: #ff5500 !important;">Posthunting</span>
+    We define a posthunter as a person with ill intent who intentionally seeks even the smallest mistakes or puts another player in very difficult situations in order to report them to the staff, with the ultimate goal of sanctioning them.
+
+    Considering the various situations that may arise through complaints, the server staff is the only authority capable of deciding when a player is attempting posthunting.
+
+    <span style="color:yellow;">Consequences of posthunting:</span>
+    
+    - complaints will be ignored and a warning will be issued if there are only a few complaints.
+    - if the player exaggerates or has already been warned, the complaints will be ignored and a minimum 3-day web suspension will be issued, with the sanction increasing depending on the number of offenses.
+    - complaints from secondary accounts will also be ignored.
+    - in the case of posthunting between faction colleagues, the member will be warned to cease the behavior, and the complaints will be ignored, with direct sanctions such as <span style="color:red;">Faction Warn or dismissal depending on the case for subsequent offenses.</span>
+
+    <span style="color:lime;">What is not considered posthunting:</span>
+
+    - reporting a player who gravely insults you or speaks vulgarly with evidence.
+    - reporting a player suspected of using cheats or illegal mods, with valid evidence and where the admins have not already made a decision.
+    - reporting a player who abuses bugs to gain an unfair advantage over you.
+    - reporting a player intentionally advertising another server to lure players there.
+    - reporting a player who has scammed you.
+    - reporting a player engaging in non-roleplay behavior to gain an advantage and abuse you.
+    - reporting a player who insults/swears on global chats (live, news, event, gov, ad, etc.).
+    - reporting a player who blackmails you.
+    - reporting a player who has falsified evidence against you.
+    - reporting an admin/leader who has sanctioned/dismissed you wrongly.
+    - reporting a leader who has unreasonably rejected you from a faction.
+    - reporting an admin/leader who has given a wrong answer to a complaint made by you.
+    - other similar situations.
+
+    <span style="color:red;">What is considered posthunting:</span>
+
+    - reporting another player who does something that does not directly affect you and does not constitute a serious rule violation.
+    - exaggerated reporting of admins because you disagree with the decisions made even if multiple admins have given the same response.
+    - reporting a leader for unreasonably rejecting a player who applied to the faction.
+    - reporting a leader for not responding promptly to complaints without you having an active complaint in that faction.
+    - reporting a leader for not posting certain sanctions/evidence on the forum without you being part of the faction or being the one sanctioned/tested, etc.
+    - reporting a helper for giving a wrong response without you being the one they responded to (except for insulting/vulgar messages).
+    - when a player opens multiple complaints where the response is against them (player is unaware of the rules).
+    - reporting an admin/leader who has wrongly sanctioned someone else other than you.
+    - when it is observed that the player's intention from the beginning was to intentionally seek a rule violation to bring sanctions against the reported person.
+    - other similar situations.
 
 ### Reporting staff members
 Complaints to staff members (leader, helper, admin) can be made just by people involved directly (<span style="color:red;">complaint rejected automatically</span>).

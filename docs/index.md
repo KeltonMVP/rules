@@ -39,7 +39,87 @@ Recuperarea unui cont pierdut se poate face numai printr-o [cerere de recuperare
 
 ??? warning "Exemple cum poate sa-ti fie spart contul"
 
-    Mai multe detalii despre acest subiect gasiti aici https://forum.b-zone.ro/contspart/ (de adaugat exemplele aici, fara linkuri externe)
+    - impartirea parolei/PIN-ului cu alte persoane.
+    - parola si PIN usor de ghicit.
+    - lipsa activarii 2FA-ului (autentificare in 2 pasi) pe cont.
+    - adresa de email sparta.
+    - introducerea parolei si PIN-ului in alte locuri in afara serverului nostru de sa-mp sau a websiteului serverului nostru.
+    - accesarea de linkuri necunoscute.
+    - descarcarea de fisiere necunoscute.
+
+??? success "Preventia spargerilor de conturi"
+    - cea mai importanta metoda de preventie este pe departe activarea 2FA-ului, gasiti detalii mai jos cum puteti face asta.
+    - nu oferiti parola/PIN-ul contului absolut nimanui.
+    - folositi o parola care sa aiba minim 10 caractere, minim 1 majuscula care sa nu fie prima litera din parola, minim 1 cifra si minim 1 simbol (ex: andr3!Joac4B!ne).
+    - aveti grija de adresa de email utilizand aceleasi sfaturi ca pentru securizarea contului de sa-mp, si acolo puteti activa 2FA.
+    - nu folositi si nu introduceti parola si PIN-ul pe alte servere sau alte site-uri care nu ne apartin. Nu vom organiza niciodata tombole in care sa va introduceti parola de la cont. Acelea sunt 100% inselatorii. Aceste site-uri sunt cunoscute ca si site-uri de tip phishing. Gasiti mai multe informatii online.
+    - nu intrati pe linkuri pe care nu le cunoasteti ca fiind in totalitate curate. Accesarea unor linkuri va poate duce pe site-uri care contin cookie stealere (care sa conecteze pe altcineva pe conturile tale din browser) sau care sa contina tot felul de virusi cu instalare automata.
+    - nu descarcati si nu acceptati fisiere in care nu aveti incredere in totalitate ca sunt curate. Puteti primi un fisier de la un prieten care sa contina virusi. Puteti descarca un mod sau un modpack care contine virusi. Nu tot ce gasiti pe internet sau primiti de la altii este curat. Daca aveti nevoie de moduri va sfatuim sa le descarcati doar de la noi de pe forum din [sectiunea de moduri](https://forum.b-zone.ro/files/), unde acestea sunt verificate inainte de a fi aprobate acolo.
+
+    #### <span style="font-size: 25px !important; color: #ff5500 !important; border-top: 1px solid #424657 !important; padding-top: 7px !important;">Tutorial de activare 2FA</span>
+
+    Pe scurt, 2FA-ul este o aplicatie suplimentara pe telefon care va genera un cod din 6 cifre care se schimba periodic. Acel cod va fi folosit la conectarea pe cont cand se schimba ziua calendaristica sau cand vi se schimba IP-ul.
+
+    <span style="color:red;">Important de stiut:</span> daca nu aveti 2FA-ul activat iar cineva va intra pe cont, acea persoana poate activa 2FA-ul si sa va blocheze in afara contului. Ce mai trebuie sa stiti este ca daca va este sparta adresa de email, cel care a spart-o se poate folosi de aceasta pentru a dobandi acces la 2FA-ul de pe serverul de sa-mp, asadar aveti grija de email si setati un email valid pe cont.
+
+    Pentru o protectie sporita, 2FA-ul este obligatoriu pentru persoanele care detin functii pe server (lider, helper, admin) si nu vor putea folosi conturile fara a-l avea activat.
+
+    Daca dezactivati 2FA-ul dupa ce l-ati activat, intrarea veche din aplicatie nu va mai functiona. Este obligatoriu sa folositi intrarea din aplicatie creata la momentul reactivarii 2FA-ului.
+
+    In cazul pierderii sau resetarii telefonului, ori a stergerii aplicatiei, cheia secreta cu care puteti redobandi acces la 2FA poate fi recuperata folosind [sistemul de recuperare 2FA](https://www.rpg.b-zone.ro/account/recoverTOTP) de pe website-ul nostru.
+
+    1. <span style="color:lime;">Activarea 2FA-ului</span> se face de pe website-ul RPG, intrand la My Account si apoi la Security. Faceti click pe butonul de activare.
+    <figure markdown="span">
+        ![activare 2FA](images/2FA-activate.png){ width="800" }
+        <figcaption>Activare 2FA</figcaption>
+    </figure>
+
+    2. Se va deschide un fereastra cu un cod QR si o cheie secreta. Cititi cu atentie instructiunile si descarcati aplicatia de 2FA dorita. Nu inchideti fereastra!<br/>
+    Puteti folosi ca aplicatie Google Authenticator, Authy sau alta aplicatie pe care o preferati.<br/>
+    Sfat: Salvati undeva acel cod lung (cheia secreta) pentru situatiile in care veti pierde accesul la emailul de pe cont.
+    <figure markdown="span">
+        ![fereastra de activare 2FA](images/2FA-window.png){ width="500" }
+        <figcaption>Fereastra de activare 2FA</figcaption>
+    </figure>
+
+    3. Dupa instalarea aplicatiei dorite, cautati butonul de adaugare si selectati optiunea dorita: scanarea codului QR sau introducerea manuala a cheii secrete (acel cod lung).
+    <figure markdown="span">
+        ![adaugarea unei intrari noi](images/2FA-new-entry.png){ width="250" }
+        <figcaption>Adaugarea unei intrari noi</figcaption>
+    </figure>
+
+    4. Daca ati optat pentru metoda de scanare QR, atunci tot ce trebuie sa faceti este sa indreptati camera telefonului inspre codul QR de pe website-ul RPG. Telefonul va recunoaste automat QR-ul si o sa va adauge o intrare noua in aplicatie.
+    <figure markdown="span">
+        ![scanarea codului QR](images/2FA-qr-scan.png){ width="250" }
+        <figcaption>Scanarea Codului QR</figcaption>
+    </figure>
+
+    5. Daca ati optat pentru introducerea manuala, introduceti numele dorit pentru intrare, copiati cheia secreta (acel cod lung) in aplicatie respectand intocmai literele mari, mici si cifrele. De asemenea lasati bifata optiunea de "Time Based" deoarece codurile functioneaza doar in functie de asta.
+    <figure markdown="span">
+        ![introducerea manuala](images/2FA-manual-entry.png){ width="250" }
+        <figcaption>Introducerea manuala</figcaption>
+    </figure>
+
+    6. Ultimul pas reprezinta adaugarea introducerea codului generat de noua intrare din aplicatie in fereastra de pe website-ul RPG. Introduceti codul acolo, fara spatii, si faceti click pe butonul <span style="color:lime;">Activate</span> pentru a va activa 2FA-ul.
+    <figure markdown="span">
+        ![activarea finala](images/2FA-final-activation.png){ width="500" }
+        <figcaption>Activarea finala</figcaption>
+    </figure>
+
+    7. <span style="color:red;">Dezactivarea 2FA-ului</span> se face tot de la My Account, intrand la Security si facand click pe butonul de dezactivare.<br/>
+    Nu veti putea dezactiva 2FA-ul fara acces la codul generat de aplicatia cu care a fost activat initial 2FA-ul.
+    <figure markdown="span">
+        ![dezactivarea 2FA-ului](images/2FA-deactivate.png){ width="800" }
+        <figcaption>Dezactivarea 2FA-ului</figcaption>
+    </figure>
+
+    8. In fereastra care se va deschide va trebui sa introduceti codul generat de aplicatie si sa faceti click pe butonul verde. Veti primi apoi un mesaj de succes si veti vedea 2FA-ul dezactivat.
+    <figure markdown="span">
+        ![dezactivarea finala](images/2FA-final-deactivation.png){ width="500" }
+        <figcaption>Dezactivarea finala</figcaption>
+    </figure>
+
+    In acest moment 2FA-ul de pe cont este complet dezactivat, asadar si riscul de a fi spar este mai mare. Retineti ca este responsabilitatea voastra sa aveti grija de securizarea corecta a contului.
 
 ### Conturi Multiple
 Puteti detine mai multe conturi, insa incalcarea anumitor reguli precum: afaceri ilegale, spargeri de conturi, coduri, moduri interzise, bug abuse, reclama, inselatorii, limbaj, toxicitate, incalcari repetate ale regulamentului, alte incalcari grave de regulament poate fi sanctionata pe toate conturile detinute.
@@ -361,7 +441,46 @@ Ne rezervam dreptul de a oferi suspend pe website persoanelor care abuzeaza de s
     Regulile de mai sus se aplica inclusiv comentariilor sterse, reclamatiilor retrase, martorilor adaugati cat, dovezilor postate in reclamatii, continutului extern (linkuri catre alte site-uri) si asa mai departe.
 
 ??? warning "Reclamatiile aiurea si posthuntingul"
-    DE EDITAT CU INFO DE PE FORUM
+    #### <span style="font-size: 25px !important; color: #ff5500 !important;">Posthuntingul</span>
+    Definim un posthunter ca fiind o persoana cu rea-vointa care cauta in mod intentionat pana si cele mai mici greseli sau pune un alt jucator in situatii foarte dificile, pentru a raporta jucatorul staffului, avand ca scop final sanctionarea acestuia.
+
+    Avand in vedere diversele situatii care pot aparea prin reclamatii, stafful serverului este singurul in masura sa decida atunci cand un jucator incearca sa faca posthunting.
+
+    <span style="color:yellow;">Consecinte posthunting:</span>
+    
+    - se ignora reclamatia/reclamatiile si se ofera un avertisment daca este vorba de un numar redus de reclamatii.
+    - daca jucatorul exagereaza sau a fost deja avertizat, vor fi ignorate reclamatiile si se va oferi <span style="color:red;">web suspend minim 3 zile</span>, sanctiunea crescand in functie de numarul de abateri.
+    - vor fi ignorate inclusiv reclamatiile de pe conturile secundare.
+    - in cazul posthuntingului intre colegi de factiune, membrul va fi avertizat sa inceteze si i se va ignora reclamatia/reclamatiile, urmand ca la urmatoarele abateri sa fie sanctionat direct <span style="color:red;">cu Faction Warn sau demitere in functie de caz.</span>
+
+    <span style="color:lime;">Ce nu se considera posthunting:</span>
+
+    - raportarea unui jucator care te insulta grav/vorbeste vulgar cu dovezile tale.
+    - raportarea unui jucator suspect de coduri sau moduri ilegale, avand dovezi valide si asupra caruia adminii nu au luat deja o decizie.
+    - raportarea unui jucator care face bug abuse pentru a avea un avantaj incorect fata de tine.
+    - raportarea unui jucator care face reclama intentionata unui alt server cu scopul de a duce alti jucatori acolo.
+    - raportarea unui jucator care te-a inselat.
+    - raportarea unui jucator care face comportament non-rp ca sa-si ofere un avantaj si sa abuzeze asupra ta.
+    - raportarea unui jucator care jigneste/injura pe chaturi globale (livve, news, event, gov, ad, etc.).
+    - raportarea unui jucator care te santajeaza.
+    - raportarea unui jucator care a falsificat dovezi asupra ta.
+    - raportarea unui admin/lider care te-a sanctionat/demis aiurea.
+    - raportarea unui lider care te-a respins fara motiv intemeiat in factiune.
+    - raportarea unui admin/lider care a raspuns gresit la o reclamatie facuta de tine.
+    - alte situatii similare. 
+
+    <span style="color:red;">Ce se considera posthunting:</span>
+
+    - raportarea unui alt jucator care face ceva ce nu te afecteaza in mod direct si nu constituie o incalcare grava a regulilor.
+    - raportarea exagerata a adminilor pentru ca nu esti de acord cu deciziile luate chiar daca mai multi admini ti-au raspuns cu acelasi lucru.
+    - raportarea unui lider ca a respins aiurea un jucator care a aplicat in factiune.
+    - raportarea unui lider ca nu a raspuns la timp la reclamatii fara ca tu sa ai o reclamatie activa la respectiva factiune.
+    - raportarea unui lider ca nu posteaza pe forum anumite sanctiuni/evidente fara ca tu sa faci parte din factiune sau sa fii cel sanctionat/testat, etc.
+    - raportarea unui helper ca greseste un raspuns fara ca tu sa fii cel caruia ii raspunde (exceptie pentru mesaje jignitoare/vulgare).
+    - atunci cand un jucator deschide multiple reclamatii a caror raspuns este in defavoarea sa (jucatorul nu cunoaste regulile).
+    - raportarea unui admin/lider care a sanctionat gresit pe altcineva in afara de tine.
+    - atunci cand se observa ca intentia jucatorului era inca de la inceput sa caute intentionat o incalcare de regulament pentru a aduce sanctiuni persoanei raportate.
+    - alte situatii de acest gen.
 
 ### Raportarea membrilor staffului
 Reclamatiile la adresa staffului (lideri, helperi, admini) pot fi facute doar de persoanele implicate in mod direct (<span style="color:red;">reclamatie respinsa automat</span>).
