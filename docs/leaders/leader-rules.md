@@ -6,14 +6,14 @@
 
 Adminii cu rol de Manager de Factiune (adminii 4+) vor intocmi o lista de candidati care ar merita o sansa la o astfel de functie, in functie de o lista de prioritati si anumite criterii de baza pe care dorim sa le vedem de la un candidat.
 
-<span style="color:lime;">Prioritatea pe lista:</span>
+<span style="color:var(--green);">Prioritatea pe lista:</span>
 
 - membrii care au acumulat o vechime considerabila (rank 4+) in factiunea la care cautam lider.
 - fost membri cu o vechime considerabila (rank 4+), care au parasit factiunea la care cautam lider de cel mult o luna au a doua prioritate.
 - membrii care au acumulat o vechime considerabila (rank 4+) in alte factiuni de acelasi tip au a treia prioritate.
 - tot ceea ce nu se incadreaza in ceea ce e mentionat mai sus au ultima prioritate.
 
-<span style="color:lime;">Criterii de baza cautate:</span>
+<span style="color:var(--green);">Criterii de baza cautate:</span>
 
 - sa nu aiba vreo interdictie, inclusiv pe conturi secundare.
 - sa nu fi pierdut recent vreo alta functie.
@@ -34,18 +34,18 @@ De indata ce lista este finalizata si exista suficienti candidati, vor exista do
 
 In functie de rezultat, primii 3 cei mai votati candidati vor ajunge la un sondaj secundar care va fi facut pentru membrii factiunii la care se cauta lider. 
 
-Daca doar 2 candidati obtin majoritatea voturilor, sondajul va fi efectuat doar cu 2 candidati. Daca 4 candidati ai un numar de vot apropiat, vom adauga pe cat posibil 4 candidati.
+Daca doar 2 candidati obtin majoritatea voturilor, sondajul va fi efectuat doar cu 2 candidati. Daca 4 candidati au un numar de vot apropiat, vom adauga pe cat posibil 4 candidati.
 
 ### Durata Functiei
 
-Perioada minima pe care trebuie sa o aveti ca lider pentru a nu primi <span style="color:red;">FP 300</span> este de <span style="color:yellow;">4 luni de zile.</span>
+Perioada minima pe care trebuie sa o aveti ca lider pentru a nu primi <span style="color:red;">FP 300</span> este de <span style="color:var(--pink);">4 luni de zile.</span>
 
 Perioada este stabilita astfel deoarece dorim ca persoanele care-si asuma o astfel de functie sa inteleaga si importanta acesteia inca de dinainte sa o accepte. Nu va obliga nimeni sa acceptati functia de lider, o faceti din propria voastra vointa, insa trebuie sa fiti constienti ca trebuie sa va implicati din momentul in care ati acceptat-o.
 
 !!! danger "Important"
     Functia de Lider este un privilegiu pe care vi-l oferim, nu un drept absolut. Noi decidem cine merita o sansa si tot noi decidem cine nu isi face treaba corespunzator si nu mai merita sa detina aceasta functie.
 
-<span style="color:lime;">Faction Punish 0/60:</span>
+<span style="color:var(--green);">Faction Punish 0/60:</span>
 
 - orice lider care indeplineste perioada minima mentionata mai sus si care paraseste functia printr-o cerere de demisie va fi scos cu Faction Punish 0.
 
@@ -65,7 +65,7 @@ Perioada este stabilita astfel deoarece dorim ca persoanele care-si asuma o astf
 - cererile de inactivitate se vor face in canalul dedicat de pe discordul staffului.
 - liderii care nu au minim o luna vechime nu vor putea face cereri de inactivitate mai mari de 5 zile.
 - liderii au dreptul la cel mult 14 zile de inactivitate o data la 60 de zile.
-- dupa expirarea unei inactivitati Liderul are la dispozitie 24 de ore sa se conecteze pe servver sau <span style="color:red;">va fi demis cu 3/3 Leader Warnuri.</span>
+- dupa expirarea unei inactivitati Liderul are la dispozitie 24 de ore sa se conecteze pe server sau <span style="color:red;">va fi demis cu 3/3 Leader Warnuri.</span>
 
 !!! example "Nota informativa"
     Pot exista anumite exceptii de la regulile de mai sus cu aprobarea unui Admin 6.
@@ -91,7 +91,7 @@ Daca se produc abuzuri de pe cont, indiferent ca au fost produse de o alta perso
 
 ### Renuntarea la Functie
 
-Renuntarea la functie se face prin crearea unei demisii in canalul dedicat de pe discordul staffului cu un <span style="color:yellow;">minim de 3 zile</span> inainte de a renunta permanent la orice activitate ce tine de functia de Lider.
+Renuntarea la functie se face prin crearea unei demisii in canalul dedicat de pe discordul staffului cu un <span style="color:var(--pink);">minim de 3 zile</span> inainte de a renunta permanent la orice activitate ce tine de functia de Lider.
 
 In cererea de demisie puteti propune membri din factiune pe care ii considerati ca merita sa fie luati in considerare ca si candidati pentru lider.
 
@@ -117,7 +117,7 @@ Puteti alege cel mult 3 sublideri in decurs de-o luna (<span style="color:red;">
 
 Reguli alegere sublideri pentru <span style="color:orange;">factiuni pasnice, departamente, hitmen:</span>
 
-- aveti maxim o saptamana de cand ati primit functia sa promovati <span style="color:yellow;">un singur sublider</span> din afara factiunii sau dintre membrii de rank 1-2.
+- aveti maxim o saptamana de cand ati primit functia sa promovati <span style="color:var(--pink);">un singur sublider</span> din afara factiunii sau dintre membrii de rank 1-2.
 - subliderii adusi din afara factiunii trebuie sa aiba un rank 3 anterior intr-o factiune in ultimii 2 ani de zile.
 - urmatorii sublideri vor fi promovati numai din interiorul factiunii dintre membrii de minim rank 3.
 
@@ -147,3 +147,1066 @@ Pentru urmatoarea promovare a fostului sublider la rank 2-5 va incepe numaratoar
         - pentru rank 4: 30 de zile + cele 35 de zile de la rank 3, in total 65 de zile.
     - asadar subliderul nostru are vechimea necesara pentru rank 3 in cazul in care n-a primit niciun Faction Warn.
     - fiecare Faction Warn adauga 14 zile suplimentare de asteptare.
+
+## 3. Subforumul Factiunii
+
+- modificarea topicurilor din cadrul factiunii la care sunteti Lider se face numai prin aprobare de la un Admin 4+ (<span style="color:red;">sanctiune: Leader Warn</span>).
+- topicurile nu se sterg, ele se pun pe hidden daca nu mai aveti nevoie de ele.
+- topicurile importante ale factiunilor precum: Anunturi, Evidente si asa mai departe trebuie sa fie permanent puse ca Pinned.
+- asigurati-va ca toate topicurile din cadrul factiunii sunt actualizate la zi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> daca continua).
+- cand faceti o modificare sau anuntati ceva, aveti obligatia de a anunta acest lucru cu cel putin 48 de ore inainte de a intra in vigoare (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> daca continua).
+- nu permiteti membrilor sa faca spam in topicurile factiunii, in special in cel de Discutii intre Membri.
+    - eventual inchideti topicul daca se face prea mult spam si raportati postarile respective.
+- Liderii trebuie sa posteze sanctiunile oferite impreuna cu dovezile in cel mult 48 de ore (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
+## 4. Recrutarea Membrilor
+
+### Deschiderea Aplicatiilor
+
+- aplicatiile pot fi deschise atunci cand exista cel putin un loc liber in factiune sau urmeaza sa se elibereze un loc.
+- liderii au obligatia de a deschide aplicatiile si de a recruta minim 2 jucatori atunci cand au cel mult 5 locuri libere.
+- daca liderul nu are cerere de inactivitate si nu recruteaza timp de 5 zile cand are cel mult 5 locuri libere va fi sanctionat.
+
+Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
+
+### Inchiderea Aplicatiilor
+
+Aplicatiile pot fi inchise cand este indeplinita cel putin una din urmatoarele conditii:
+
+- cand au aplicat minim 2 jucatori pentru fiecare loc disponibil.
+- dupa cel putin 2 ore de la deschiderea lor (regula nu se aplica atunci cand liderul stabileste inchiderea aplicatiilor la un numar prestabilit de aplicatii).
+- cand au fost deschise strict pentru a recruta un sublider.
+
+Inchiderea incorecta a aplicatiilor va fi sanctionata cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
+
+### Raspunsul Aplicatiilor
+
+#### <span style="color:#3baad5;">Cerinte Minime Acceptare</span>
+
+- sa aplice si sa aiba o aplicatie decenta.
+- sa nu aiba interdictie in respectiva factiune.
+- sa fie suficient de activ.
+- sa nu se afle pe blacklistul unei factiuni.
+- puteti accepta jucatori fara activitate in luna curenta/anterioara in cazul in care nu sunt suficienti candidati care sa fie acceptati la sesiunea respectiva de recrutare, in schimb prioritatea de acceptare va ramane mereu pentru cei mai activi dintre ei.
+
+!!! danger "Important"
+    Daca un jucator aflat pe blacklist reuseste sa intre in factiune, va trebui sa plateasca blacklistul sau va fi demis.
+
+    Jucatorii care nu indeplinesc cerintele minime sau sunt acceptati in mod gresit vor fi demisi fara Faction Punish si liderul sanctionat cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
+
+#### <span style="color:#3baad5;">Testele Competitive</span>
+
+Daca aplica <span style="color:var(--green);">MAI MULTI</span> jucatori decat locuri libere iar acei jucatori merita acceptati, in ciuda faptului ca aveti mai putine locuri, atunci se vor sustine teste competitive (adica jucatorii cu punctajele cele mai mari la teste vor ramane in factiune).
+
+Daca aplica <span style="color:orange;">MAI PUTINI</span> jucatori decat locurile libere, nu sunt necesare testele competitive.
+
+Jucatorii acceptati care urmeaza sa fie promovati direct ca Sublider nu vor sustine teste competitive.
+
+!!! example "Exemplu"
+    Caz 1: o factiune are <span style="color:var(--pink);">6 locuri libere</span>, se deschid aplicatiile pentru o ora si se acumuleaza 20 de aplicatii. Dupa analizarea aplicatiilor, se constata ca <span style="color:var(--green);">pot fi acceptati 10 jucatori.</span> Deoarece sunt doar 6 locuri libere, toti 10 jucatorii vor sustine testul de intrare, iar primii 6 cu cel mai bun rezultat se vor alatura factiunii.
+
+    Caz 2: o factiune are <span style="color:var(--pink);">6 locuri libere</span>, se deschid aplicatiile pentru o ora si se acumuleaza 20 de aplicatii. Dupa analizarea aplicatiilor, se constata ca <span style="color:var(--green);">pot fi acceptati 6 jucatori.</span> Cum sunt 6 locuri libere si 6 jucatori acceptati, toti jucatorii vor ramane in factiune daca vor trece testele.
+
+Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
+
+#### <span style="color:#3baad5;">Raspunsul Propriu-Zis</span>
+
+- ordinea in care se raspunde la aplicatii nu este importanta.
+- toate aplicatiile trebuie sa primeasca un raspuns la cel mult 5 zile din momentul in care au fost realizate (<span style="color:red;">sanctiune: Leader Warn</span>).
+- toti jucatorii respinsi trebuie sa primeasca un motiv intemeiat si argumentat pentru respingere (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+- nu este permis sa respingeti un jucator pe un motiv si sa acceptati alt jucator care nu indeplineste nici el acelasi motiv in aceeasi sesiune de recrutare (<span style="color:red;">sanctiune: Leader Warn</span>).
+
+!!! example "Nota informativa"
+    Ex: Daca respingeti un jucator pentru aplicatie slaba si acceptati altul in aceeasi sesiune de recrutare cu o aplicatie la fel de slaba veti fi sanctionati.
+
+!!! danger "Important"
+    Nu puneti la motiv de respingere lucruri neclare (nu-mi inspiri incredere, nu esti activ etc.) ci oferiti informatii concrete (ai primit 10 FW-uri recent pentru comportament, ai fost demis de multe ori pentru limbaj, ai prea multe sanctiuni primite de la admini, ai stat foarte putin in toate factiunile anterioare etc.).
+
+    Aplicatiile trebuie sa fie verificate daca sunt copiate inainte sa fie acceptate. [Aveti aici un ghid](https://forum.b-zone.ro/topic/465474--) care va explica cum sa verificati aplicatiile corect. Daca un lider nu verifica aplicatiile cu atentie, risca sa primeasca <span style="color:red;">Avertisment verbal sau Leader Warn</span> in functie de gravitatea problemei si numarul de aplicatii neverificate corespunzator.
+
+### Testarea Candidatilor
+
+Doar membrii de minim rank 4 si statut de Tester pot sustine teste cu candidatii.<br/>
+Liderul are dreptul de a decide cui ofera statutul de Tester dintre membrii de minim rank 4.
+
+#### <span style="color:#3baad5;">Reguli Testare Candidati</span>
+
+Cei acceptati pentru teste vor sustine un test de cunoastere a regulamentului general si a regulamentului intern.
+
+- testerii au obligatia de a tine o evidenta cu dovezi foto sau video pe parcursul testelor teoretice <span style="color:var(--pink);">timp de 7 zile.</span> 
+    - aceasta evidenta trebuie sa contina dovezi cu toate persoanele testate, a intrebarilor adresate acestora si a raspunsurilor oferite de ele. 
+    - dovezile nu le vor publica niciunde decat la cererea unui lider sau admin. 
+    - in cazul in care se solicita aceste dovezi si nu exista, membrul responsabil cu testul <span style="color:red;">primeste rank down iar cel testat trebuie sa redea testele.</span>
+- testerii trebuie sa prezinte regulamentul testului inainte de a-l sustine cu jucatorul si sa se asigure ca acesta l-a inteles cat si care sunt situatiile in care poate pica testul.
+- nu trebuie sa existe discriminari sau diferentieri de niciun fel intre jucatorii cu acelasi nivel de experienta ori a jucatorilor straini.
+- fiecarui jucator acceptat trebuie sa i se ofere suficient timp sa sustina testele si sa aiba cu cine sa le sustina, <span style="color:var(--pink);">avand cel mult 72 de ore de la acceptarea aplicatiei.</span> De preferat precizati-le o persoana de contact si un interval orar la care se pot prezenta (<span style="color:red;">sanctiune: Leader Warn sau Faction Warn daca e tester</span>).
+
+!!! danger "Important"
+    In cazul in care testul este dat in mod incorect, <span style="color:red;">testerul primeste faction warn</span> iar cel testat trebuie sa redea testele cu un alt tester.
+
+    In situatiile in care candidatul este activ pe server dar nu reuseste sa gaseasca niciun tester pentru a sustine testele deoarece acestia sunt inactivi, i se va prelungi durata pentru testare iar liderul va fi tras la raspundere.
+
+#### <span style="color:#3baad5;">Testul Teoretic</span>
+
+Testul contine 15 intrebari de complexitate medie din regulamentele generale si interne ale factiunii.
+
+Candidatii au dreptul la cel mult 3/3 puncte gresite, astfel:
+
+- vor primi 1/3 puncte pentru raspuns gresit sau lipsa unui raspuns in timpul cerut.
+- vor primi 0.5/3 puncte pentru raspunsuri partial corecte.
+- la 3/3 candidatul va pica testul teoretic.
+
+Candidatii care incearca sa fraudeze testele vor fi sanctionati (<span style="color:red;">sanctiune: test picat + blacklist 3 luni + 2 x AV pe blacklist</span>). Motivul pentru blacklist: "Fraudare test - data expirare".
+
+Testerii care incearca sa fraudeze testele sau nu le sustin vor fi sanctionati (<span style="color:red;">sanctiune: demitere</span>).
+
+#### <span style="color:#3baad5;">Testul Practic</span>
+
+Se va sustine si test practic in cazul in care se considera necesar, aici nefiind nevoie de o evidenta din partea testerului. In cazul in care jucatorul doreste sa raporteze proba practica trebuie sa aiba el singur dovezi.
+
+Decizia de a sustine sau nu testele practice poate fi facuta doar de catre lider, trebuind sa fie justificata unui manager de factiuni. Mai mult, trebuie sa fie aplicata in mod egal tuturor candidatilor din respectiva sesiune de recrutare. De exemplu daca liderul decide sa nu se sustina test practic cu un candidat dintr-o sesiune, atunci toti candidatii acceptati in respectiva sesiune trebuie sa beneficieze si ei de acelasi tratament.
+
+### Reaplicarea in Aceeasi Factiune
+
+Un membru demis din factiune, voluntar sau nu, nu are voie sa fie invitat cu acelasi cont in aceeasi factiune din care a fost demis timp de minim 2 saptamani (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
+!!! example "Nota informatia"
+    Jucatorul acceptat incorect va fi demis din factiune fara Faction Punish.
+
+## 5. Sanctiuni si Demiteri
+
+### Logurile Membrilor
+
+Motivele tuturor logurilor de factiune create pe website trebuie sa fie concrete.
+
+Exemple:
+
+- sanctiune: precizati motivul concret al sanctionarii (limbaj, DM, wanted aiurea, raport activitate, etc.).
+- stergere sanctiune: sanctionare gresita sau sanctiune expirata.
+- promovare: felicitari, indeplinire perioada minima.
+- rank down: precizati motivul concret al sanctionarii (schimbare sublider, comportament, limbaj, blacklist aiurea).
+- demitere: demisie, limbaj vulgar, cearta cu colegii, neascultare rank superior, inactivitate, fraudare raport, raportare coleg pe website, blacklist.
+
+Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
+### Sanctionarea Membrilor
+
+Toate sanctiunile pe care le poate aplica un lider se gasesc in regulamentul general cat si cel intern al factiunii.
+
+Un Lider are obligatia de a-si sanctiona membrii in mod corect atunci cand acestia incalca regulile serverului sau ale factiunii.
+
+- favorizarea sau discriminarea anumitor membri in cadrul factiunii se va sanctiona.
+- se interzice stergerea sanctiunilor unui membru care are reclamatie activa sau care trebuie sa primeasca o noua sanctiune.
+- la stergerea unei sanctiuni, a unei promovari, demiteri, etc. se va tine cont si de ora la care a fost primita sanctiunea, invite-ul.
+- orice membru care nu paraseste factiunea prin cerere de demisie ci o paraseste fiind sanctionat de lider o va parasi cu Faction Punish 10 sau 60 in functie de situatie.
+- membrii care nu aduc suficiente contributii unei factiuni si tot ceea ce fac e sa tina locul ocupat trebuie demisi, in caz contrar liderii vor fi sanctionati.
+- membrii care primesc ban 3 zile sau mai mult de la admini trebuiesc demisi din factiune, in caz contrar veti fi sanctionati.
+    - trebuie sa tineti respectivii membri in factiune timp de 48 de ore pana cand fac cerere de unban si primesc un raspuns. Vor ramane in factiune doar daca primesc unban de la admini, nu daca isi cumpara unban.
+
+DM-ul se va sanctiona doar atunci cand exista dovezi clare (de preferat video / mai multe poze) care sa ateste ca jucatorul respectiv a facut DM. Mesajul informativ de daune nu este suficient pentru sanctionarea DM-ului (nici cel care specifica cine te-a omorat si de la ce distanta a facut asta).
+
+!!! example "Nota informativa"
+    Inainte de a sanctiona cel mai bine este sa va consultati cu un admin de nivel 4+ daca nu sunteti siguri.
+
+Sanctiunile pe care le oferiti membrilor trebuie postate pe forum in cel mult 48 de ore de cand ati sanctionat membrul.
+
+- daca liderul are cerere de inactivitate trebuie sa posteze sanctiunile pe forum in cel mult 24 de ore dupa ce-i expira cererea.
+
+Jucatorii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
+
+Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa deterinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune.
+
+- intrebati-va membrii care au astfel de conturi si cu care cont doresc sa ramana in factiune; daca aflam ca aveti astfel de conturi atunci ambele conturi ale respectivului jucator vor fi demise iar voi veti fi sanctionati.
+
+!!! danger "Important"
+    Membrii promovati inainte de a fi sanctionati vor primi la loc rankul anterior.
+
+Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
+## 6. Reclamatii si Raport de Activitate
+
+### Reclamatii Website
+
+- Liderii au obligatia de a raspunde tuturor reclamatiilor adresate membrilor sai la cel mult 48 de ore de la deschiderea acestora.
+- daca liderul are cerere de inactivitate va avea la dispozitie 24 de ore de la expirarea cererii sa raspunda reclamatiilor.
+- in situatia in care liderul are nelamuriri legate de reclamatie si apeleaza la ajutorul adminilor fara a primi un raspuns din partea acestora in acele 48 de ore atunci respectiva durata nu se mai aplica.
+- reclamatia membrului cu cerere de inactivitate va ramane deschisa pana la 24 de ore de la expirarea cererii.
+    - in tot acest timp liderul nu are voie sa promoveze membrul sau sa-i accepte cererea de demisie.
+- dovezile din reclamatii trebuie sa fie valide, asta inseamna: sa apartina persoanei care face reclamatia, sa nu fie mai vechi de 3 zile, sa aiba pe ele numele reclamantului, serverul cat si data si ora.
+    - reclamatiile care nu au dovezi valide vor fi anulate.
+    - reclamatiile fara dovezi vor fi anulate.
+    - reclamatiile pot fi refacute cu dovezi valide.
+- reclamatiile in care reclamantul foloseste un limbaj vulgar vor fi anulate iar acesta va fi sanctionat de admini.
+
+Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
+### Raportul de Activitate
+
+Liderul este cel care stabileste punctajele minime pentru rapoartele de activitate cat si pe ce criterii se acorda punctele.
+
+Punctele de raport sunt corectate in mod automat de catre server, astfel ca liderul nu trebuie sa intervina la corectat, la acordat de sanctiuni pentru raport si asa mai departe.
+
+<span style="color:var(--pink);">In cazul gangurilor revine responsabilitatea liderului</span> sa faca evidenta prezentei la waruri si sa sanctioneze membrii (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
+Liderul isi poate rezerva dreptul de a demite din factiune membrii care nu aduc suficiente contributii pentru respectiva factiune (nu sunt destul de activi, fac mereu raport minim, o tin in inactivitati, etc.).
+
+## 7. Promovare Membri si Locuri Factiuni
+
+Duratele de mai jos sunt duratele minime care trebuiesc asteptate. Liderul decide cand un membru merita sa fie promovat.
+
+Adminii vor face promovari doar atunci cand liderul factiunii le cere asta.
+
+Numarul de zile de promovare reprezinta numarul de zile pe care trebuie sa-l astepte un membru de la ultima promovare pentru a dobandi noul rank.
+
+Membrii care acumuleaza vechimea de rank 2 si rank 3 trebuie sa primeasca la timp rank up daca liderul acestora nu are dovezi in care comportamentul lor nu ar fi fost unul tocmai corespunzator sau acestia nu au fost destul de activi (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> la urmatoarea).
+
+<table>
+	<tbody>
+		<tr>
+			<th class="table-center-long-rows" colspan="6">
+				<span style="color:#b9ac12;">Factiuni Pasnice</span>
+			</th>
+		</tr>
+		<tr>
+			<th class="table-center-rows">
+				Rank
+			</th>
+			<th class="table-center-rows">
+				Auto Rank
+			</th>
+			<th class="table-center-rows">
+				Manual Rank
+			</th>
+			<th class="table-center-rows">
+				Auto FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual AV-Clear
+			</th>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				1
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				2
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				3
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				4
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				5
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				6
+			</td>
+			<td class="table-center-rows">
+				0
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<th class="table-center-long-rows" colspan="6">
+				<span style="color:#ab00f1;">Ganguri</span>
+			</th>
+		</tr>
+		<tr>
+			<th class="table-center-rows">
+				Rank
+			</th>
+			<th class="table-center-rows">
+				Auto Rank
+			</th>
+			<th class="table-center-rows">
+				Manual Rank
+			</th>
+			<th class="table-center-rows">
+				Auto FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual AV-Clear
+			</th>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				1
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				2
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				3
+			</td>
+			<td class="table-center-rows">
+				28
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				4
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				5
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				44
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				6
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<th class="table-center-long-rows" colspan="6">
+				<span style="color:#3381f5;">Departamente</span>
+			</th>
+		</tr>
+		<tr>
+			<th class="table-center-rows">
+				Rank
+			</th>
+			<th class="table-center-rows">
+				Auto Rank
+			</th>
+			<th class="table-center-rows">
+				Manual Rank
+			</th>
+			<th class="table-center-rows">
+				Auto FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual AV-Clear
+			</th>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				1
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				2
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				3
+			</td>
+			<td class="table-center-rows">
+				28
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				4
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				5
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				44
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				6
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<th class="table-center-long-rows" colspan="6">
+				<span style="color:#f72121;">Hitmen Agency</span>
+			</th>
+		</tr>
+		<tr>
+			<th class="table-center-rows">
+				Rank
+			</th>
+			<th class="table-center-rows">
+				Auto Rank
+			</th>
+			<th class="table-center-rows">
+				Manual Rank
+			</th>
+			<th class="table-center-rows">
+				Auto FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual AV-Clear
+			</th>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				1
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				2
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				3
+			</td>
+			<td class="table-center-rows">
+				28
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				4
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				5
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				44
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				6
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<th class="table-center-long-rows" colspan="6">
+				<span style="color:#00a78b;">Sons of Anarchy</span>
+			</th>
+		</tr>
+		<tr>
+			<th class="table-center-rows">
+				Rank
+			</th>
+			<th class="table-center-rows">
+				Auto Rank
+			</th>
+			<th class="table-center-rows">
+				Manual Rank
+			</th>
+			<th class="table-center-rows">
+				Auto FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual FW-Clear
+			</th>
+			<th class="table-center-rows">
+				Manual AV-Clear
+			</th>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				1
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				2
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				14
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				3
+			</td>
+			<td class="table-center-rows">
+				28
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				4
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				5
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				44
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+		<tr>
+			<td class="table-center-rows">
+				6
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				-
+			</td>
+			<td class="table-center-rows">
+				30
+			</td>
+			<td class="table-center-rows">
+				21
+			</td>
+			<td class="table-center-rows">
+				7
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+!!! danger "Important"
+    Fiecare FW primit adauga 14 zile suplimentare de asteptare pentru a promova.<br/>
+		La 2 Avertismentele Verbale (AV-uri) jucatorul va fi sanctionat cu 1 Faction Warn pentru acumularea a 2 AV-uri.<br/>
+		AV-urile nu adauga zile suplimentare de asteptare pentru a promova. Evidenta acestora trebuie tinuta manual de catre lider.<br/>
+    Numarul total de locuri pentru fiecare factiune poate fi vizualizat pe websiteul RPG.
+
+## 8. Reguli Suplimentare
+
+### Reguli Generale
+
+1. Fiecare Lider are obligatia de a respecta [Regulamentul Serverului](/), Regulamentul Liderilor, Regulamentele Factiunii sale cat si sa aplice sanctiunile corecte pentru incalcarea acestora.
+
+2. Un Lider nu are voie sa faca reclamatie unui alt Lider, inclusiv de pe conturi cu care imparte IP comun (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
+	- in cazul in care exista motiv de reclamatie vor fi contactati managerii de factiuni (adminii 4+) pe discordul staffului (mesaj privat) cu motivul si dovezile necesare.
+
+3. Nu este permis sa se dea Wipe la membri fara un motiv extrem de serios si ca o ultima solutie (<span style="color:red;">sanctiune: Demitere FP 300</span>).
+	- se acorda Wipe numai prin aprobarea unui manager de factiuni (admin 4+).
+
+4. Liderilor le este permis sa joace pe alte conturi pe acelasi server cu aprobare de la managerii de factiuni (adminii 4+).
+
+5. Un avertisment la functia de lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte avertismente intre timp.
+	- aceste avertismente se vor inlatura numai la cererea liderului si numai cu acordul unui manager de factiune (admin 4+) daca acesta considera ca liderului merita sa-i fie sters avertismentul.
+
+6. Este strict interzis unui Lider sa ceara diverse compensatii pentru a accepta un jucator in factiune, a-l trece testul, a-l scuti de sanctiuni, a-l promova, etc (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
+
+7. Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
+
+8. Liderii de Ganguri au obligatia de a se prezenta la 3 din 5 zile de waruri pe saptamana (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere, <span style="color:red;">Demitere</span> daca continua).
+
+9. Liderii de gang au obligatia de a avea minim 3 attack-uri in fiecare saptamana in care se desfasoara wars (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere).
+
+### Activitatea Membrilor
+
+La inceputul fiecarei luni trebuie sa va ocupati voi de verificarea activitatii membrilor pe luna anterioara si sanctionarea lor. Acest lucru poate fi facut pe website in Leader Panel, tabul Member Activity.
+
+Membrii vor fi sanctionati in urmatorul fel:
+
+- sub 15 ore reale - prima abatere este <span style="color:red;">Faction Warn.</span>
+- sub 15 ore reale - a doua abatere este <span style="color:red;">Rank Down.</span>
+- sub 15 ore reale - a treia abatere este <span style="color:red;">Demitere.</span>
+- sub 8 ore reale - <span style="color:red;">demitere de la prima abatere.</span>
+
+!!! danger "Important"
+	Sanctiunile pentru activitate vor fi acordate doar membrilor care au cel putin 30 de zile in factiune.
+
+[OLD - TO BE REVIEWD] Liderii care nu-si sanctioneaza membrii in prima zi din luna si incep sanctionarea lor din ziua urmatoare (de exemplu: 02.03.2021 sau 03.03.2021) vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la functie fiind la prima abatere, urmand sa primeasca <span style="color:red;">Leader Warn</span> de la a doua abatere.
+
+Liderii vor fi nevoiti sa posteze evidenta lunara a orelor pe forum in topicul specific de ore lunare creat la fiecare factiune in parte. In acel topic se va posta un tabel cu orele reale ale membrilor vostri.
+
+[OLD - TO BE REVIEWD] In data de 1 a fiecarei luni va trebui postata evidenta (nu mai tarziu). Cine intarzie cu evidenta va fi sanctionat exact ca mai sus.
+
+Pentru a nu se ajunge la situatii in care un membru a avut prima abatere in 2020 si a doua abatere in 2022, rezultand in rank down, <span style="color:var(--pink);">abaterile se reseteaza mereu la 6 luni de la ultima sanctiune acordata</span> pentru lipsa orelor.
+
+!!! example "Exemplu"
+	Daca un membru a primit prima sanctiune pentru ore jucate in 1 Ianuarie 2023, adica un FW fiind prima abatere, si pana in luna August nu mai are nicio abatere iar atunci va trebui sa primeasca inca o sanctiune ca nu are 15 ore reale, acesta va primi din nou un FW fiind prima abatere deoarece s-au resetat, 6 luni de la 1 ianuarie considerandu-se 1 iulie 2023.
+
+### Activitatile Organizate
+
+Micile greseli ce pot aparea in momentul in care un membru dintr-o factiune face o invoire (numarul invoirii, rank-ul detinut etc.) nu o sa se sanctioneze din prima cu respingerea invoirii. 
+
+La prima abatere membru va fi <span style="color:var(--pink);">mustrat</span> (adica ii aduceti la cunostinta greseala, fara sanctiune), la a doua abatere sanctionat cu <span style="color:red;">Avertisment Verbal</span> si de la a treia abatere sanctionat cu <span style="color:red;">Faction Warn</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
+
+Sanctiunile pentru intarziere sunt urmatoarele pentru toate factiunile:
+
+- intarziere de pana la 10 minute: <span style="color:var(--green);">nimic.</span>
+- intarziere intre 10 si 20 de minute: <span style="color:red;">Avertisment Verbal.</span>
+- intarziere intre 20 si 30 de minute: <span style="color:red;">Avertisment Verbal + amenda 50.000$.</span>
+- intarziere de peste 30 de minute: <span style="color:red;">Faction Warn.</span>
+
+!!! danger "Important"
+	O activitate cu prezenta obligatorie la care se aplica aceste sanctiuni trebuie sa tina intre 40 si 60 de minute.
+
+	Activitatile cu prezenta obligatorie trebuie sa fie anuntate cu minim o saptamana inainte (anunt pe forum, FMOTD) si singura modalitate ca membrii sa fie invoiti este printr-o invoire deschisa pe website din timp.
+
+Daca un lider doreste sa organizeze o activitate cu prezenta obligatorie, trebuie sa aiba un motiv bine intemeiat (ex: sedinta dupa ce un lider nou a fost promovat, dupa schimbari majore de regulament, etc.) si sa ceara acordul unui manager de factiuni (admin 4+).
+
+### Reguli Ganguri
+
+1. Daca o cerere de interdictie se inchide in 3 zile fara sa existe un vot majoritar din partea voastra, veti fi sanctionati incepand cu <span style="color:var(--pink);">mustrare verbala</span>, urmand <span style="color:red;">Avertisment Verbal</span>, <span style="color:red;">Leader Warn</span> si <span style="color:red;">Demitere.</span>
+
+2. Liderii care accepta in mod constient persoane care folosesc coduri o sa fie sanctionati cu <span style="color:red;">Leader Warn sau Demitere</span>, in functie de caz.
+
+3. Liderii si subliderii au obligatia de a se prezenta la waruri. Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar liderii trebuie sa posteze in topicul specific invoirilor pentru lider, mai multe detalii gasiti [aici](https://forum.b-zone.ro/topic/447772--) (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
+
+4. Membrii care fac parte dintr-un gang si intre timp primesc <span style="color:var(--pink);">interdictie</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60</span>. Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. Liderii care vor accepta jucatori cu interdictie vor fi sanctionati cu <span style="color:red;">Leader Warn</span>, chiar si de la prima abatere.
+
+5. In cazul in care exista reclamatii pentru <span style="color:var(--pink);">fast c-bug</span> facut de catre membri la waruri (atat obligatorii cat si optionale), unde sanctiunea este Faction Warn, se va aplica sanctiunea o singura data daca dovezile pe care este reclamat (din reclamatii diferite) sunt facute intr-un <span style="color:var(--pink);">interval de 10 minute</span> la acel moment. Daca diferenta dintre dovezi este mai mare de 10 minute, acesta va fi sanctionat pentru fiecare dovada.
+
+6.  In cazul in care subliderul primeste ban pentru coduri (<span style="color:var(--pink);">Aimbot/Norecoil</span>) o sa fiti sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
+
+7. La fiecare vot pe care-l aduceti jucatorului caruia i s-a facut cererea de interdictie sunteti obligati sa aduceti si un argument pentru votul respectiv.
+
+8. Liderii NU au voie sa sanctioneze membrii la war pe motive precum "cine moare fara kill are FW" - "cine moare are FW". Va puteti sanctiona membrii pentru neascultare rank superior doar daca oferiti suficient timp sa ajunga la o pozitie de backup, iar acei membrii continua sa va ignore si sa nu vina la pozitia ceruta de voi (<span style="color:red;">sanctiune: Leader Warn</span>).
+
+#### <span style="color:#3baad5;">Invoirile</span>
+
+1. Toate invoirile se fac pe website.
+
+2. Puteti accepta <span style="color:var(--pink);">maxim 5 invoiri</span> intr-o zi de war. (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
+
+	- daca sunt 5 sau mai putine invoiri acestea vor fi acceptate automat.
+	- daca sunt mai mult de 5 invoiri primele 5 au prioritate. In cazul in care un membru care are invoire a fost prezent la toate warurile din ziua respectiva, invoirea lui va fi respinsa.
+
+#### <span style="color:#3baad5;">Secundele la Waruri</span>
+
+1. Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula: 
+
+	- pentru warurile din orasul gangului limita poate fi impusa intre <span style="color:var(--green);">500 - 800 secunde.</span>
+	- pentru warurile din celelalte orase limita poate fi impusa intre <span style="color:var(--green);">300 - 600 secunde.</span>
+
+2. Liderul poate decide sa nu tina cont de secunde pentru o anumita zi de war (fiind necesare <span style="color:var(--pink);">30 de secunde pe turf pentru prezenta</span
+
+!!! danger "Important"
+	In cazul in care exista abuzuri ce tin de aceasta regula se va acorda direct <span style="color:red;">Leader Warn.</span> Managerii de factiuni (adminii 4+) pot solicita dovezi liderului prin care sa demonstreaza ca a anuntat numarul de secunde.
+
+!!! example "Nota informativa"
+	- regula doreste sa impuna un interval de secunde decent, astfel un lider nu poate impune un numar exagerat de secunde.
+	- partea cea mai importanta a acestei reguli este faptul ca in cazul in care liderul doreste sa NU adauge secunde pentru o zi de war sunt necesare DOAR 30 de secunde pe turf pentru a putea fi considerat prezent.
+	- regula permite o modificare flexibila a secundelor in functie de war/zi de war.
+	- regula va obliga sa faceti dovezi atunci cand anuntati numarul de secunde pentru un war sau pentru o zi de war (de preferat sa se faca pe /fmotd).

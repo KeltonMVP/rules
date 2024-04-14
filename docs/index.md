@@ -25,7 +25,7 @@ Nu sunt permise afacerile sau tentativele de afaceri de conturi pe bunuri reale 
     Datorita multitudinii de jucatori care incalca aceste reguli, ne rezervam dreptul de a trage la raspundere si a sanctiona transferurile sau afacerile care nu au niciun rationament logic sau justificare.
 
 ### Securitatea Contului
-Stafful nu se ocupa de problemele legate de conturi sparte, bunuri pierdute in timpul spargerii unui cont, sanctiuni primite in timpul spargerii unui cont si asa mai departe. Este datoria fiecarui jucator sa aiba grija de contul sau sau de emailul care e setat pe cont.
+Stafful nu se ocupa de problemele legate de conturi sparte, bunuri pierdute in timpul spargerii unui cont, sanctiuni primite in timpul spargerii unui cont si asa mai departe. Este datoria fiecarui jucator sa aiba grija de contul sau de emailul care e setat pe cont.
 
 Impartirea contului cu alte persoane poate duce la astfel de probleme si riscati sa ramaneti fara cont, bunuri sau sa fiti sanctionati din cauza acestora.
 
@@ -68,7 +68,7 @@ Recuperarea unui cont pierdut se poate face numai printr-o [cerere de recuperare
 
     In cazul pierderii sau resetarii telefonului, ori a stergerii aplicatiei, cheia secreta cu care puteti redobandi acces la 2FA poate fi recuperata folosind [sistemul de recuperare 2FA](https://www.rpg.b-zone.ro/account/recoverTOTP) de pe website-ul nostru.
 
-    1. <span style="color:lime;">Activarea 2FA-ului</span> se face de pe website-ul RPG, intrand la My Account si apoi la Security. Faceti click pe butonul de activare.
+    1. <span style="color:var(--green);">Activarea 2FA-ului</span> se face de pe website-ul RPG, intrand la My Account si apoi la Security. Faceti click pe butonul de activare.
     <figure markdown="span">
         ![activare 2FA](images/2FA-activate.png){ width="800" }
         <figcaption>Activare 2FA</figcaption>
@@ -100,7 +100,7 @@ Recuperarea unui cont pierdut se poate face numai printr-o [cerere de recuperare
         <figcaption>Introducerea manuala</figcaption>
     </figure>
 
-    6. Ultimul pas reprezinta adaugarea introducerea codului generat de noua intrare din aplicatie in fereastra de pe website-ul RPG. Introduceti codul acolo, fara spatii, si faceti click pe butonul <span style="color:lime;">Activate</span> pentru a va activa 2FA-ul.
+    6. Ultimul pas reprezinta adaugarea introducerea codului generat de noua intrare din aplicatie in fereastra de pe website-ul RPG. Introduceti codul acolo, fara spatii, si faceti click pe butonul <span style="color:var(--green);">Activate</span> pentru a va activa 2FA-ul.
     <figure markdown="span">
         ![activarea finala](images/2FA-final-activation.png){ width="500" }
         <figcaption>Activarea finala</figcaption>
@@ -262,7 +262,7 @@ Permitem jucatorilor nostri sa se exprime liber, insa fara a folosi injuraturi s
 
 Exemple de limbaj sanctionabil:
 
-- sugi pula, fmm, mortii ma-tii, rasa ma-tii muie, sa-ti moara familia etc.
+- sugi pula, fmm, mortii ma-tii, rasa ma-tii, muie, sa-ti moara familia etc.
 - diferitele inventii pentru a modifica injuraturile precum: pu_la, fememe, mu!e etc.
 - insultele cenzurate sau limbajul vulgar cenzurat folosite in mod exagerat.
 
@@ -422,6 +422,7 @@ Falsificarea dovezilor este strict interzisa (<span style="color:red;">sanctiune
 Dovezile trebuie de preferat facute fara page-up, pentru a se putea interpreta cat mai corect situatia. In functie de caz, aceste dovezi pot sa fie luate in considerare, dar exista si riscul sa fie ignorate daca sunt neclare.
 
 Se accepta dovezi concrete din afara serverului, de preferat video, in cazul reclamatiilor pentru afaceri ilegale, spargeri de conturi, comentarii vulgare, martori vulgari, reclamatii adresate staffului (lider, helper, admin) sau alte incalcari grave ale regulamentului.​
+
 In cazul dovezilor de pe browser se accepta numai videouri in care sa se dea minim un refresh la pagina sa se vada ca dovada nu e falsificata (<span style="color:red;">reclamatie respinsa automat</span>).
 
 ### Continut
@@ -438,7 +439,7 @@ Este interzis sa faci reclama (servere, site-uri, pagini, canale, clipuri, etc.)
 Ne rezervam dreptul de a oferi suspend pe website persoanelor care abuzeaza de sistemul de ticketing.
 
 !!! example "Nota informativa"
-    Regulile de mai sus se aplica inclusiv comentariilor sterse, reclamatiilor retrase, martorilor adaugati cat, dovezilor postate in reclamatii, continutului extern (linkuri catre alte site-uri) si asa mai departe.
+    Regulile de mai sus se aplica inclusiv comentariilor sterse, reclamatiilor retrase, martorilor adaugati, dovezilor postate in reclamatii, continutul extern (linkuri catre alte site-uri) si asa mai departe.
 
 ??? warning "Reclamatiile aiurea si posthuntingul"
     #### <span style="font-size: 25px !important; color: #ff5500 !important;">Posthuntingul</span>
@@ -446,14 +447,14 @@ Ne rezervam dreptul de a oferi suspend pe website persoanelor care abuzeaza de s
 
     Avand in vedere diversele situatii care pot aparea prin reclamatii, stafful serverului este singurul in masura sa decida atunci cand un jucator incearca sa faca posthunting.
 
-    <span style="color:yellow;">Consecinte posthunting:</span>
+    <span style="color:var(--pink);">Consecinte posthunting:</span>
     
     - se ignora reclamatia/reclamatiile si se ofera un avertisment daca este vorba de un numar redus de reclamatii.
     - daca jucatorul exagereaza sau a fost deja avertizat, vor fi ignorate reclamatiile si se va oferi <span style="color:red;">web suspend minim 3 zile</span>, sanctiunea crescand in functie de numarul de abateri.
     - vor fi ignorate inclusiv reclamatiile de pe conturile secundare.
     - in cazul posthuntingului intre colegi de factiune, membrul va fi avertizat sa inceteze si i se va ignora reclamatia/reclamatiile, urmand ca la urmatoarele abateri sa fie sanctionat direct <span style="color:red;">cu Faction Warn sau demitere in functie de caz.</span>
 
-    <span style="color:lime;">Ce nu se considera posthunting:</span>
+    <span style="color:var(--green);">Ce nu se considera posthunting:</span>
 
     - raportarea unui jucator care te insulta grav/vorbeste vulgar cu dovezile tale.
     - raportarea unui jucator suspect de coduri sau moduri ilegale, avand dovezi valide si asupra caruia adminii nu au luat deja o decizie.
