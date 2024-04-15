@@ -1,0 +1,1860 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="leaders/leader-rules/">
+      
+      
+      <link rel="icon" href="../images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Server Rules - B-Zone SA:MP Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#b-zone-samp-rules" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="./" title="B-Zone SA:MP Rules" class="md-header__button md-logo" aria-label="B-Zone SA:MP Rules" data-md-component="logo">
+      
+  <img src="https://res.b-zone.ro/ll/actual.jpg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            B-Zone SA:MP Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Server Rules
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="deep-purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple"  aria-label="Switch to system preferences"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preferences" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Select language">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.06 18a3.99 3.99 0 0 1-.2-.89c-.67.7-1.48 1.05-2.41 1.05-.83 0-1.52-.24-2.05-.71-.53-.45-.8-1.06-.8-1.79 0-.88.33-1.56 1-2.05.67-.49 1.61-.73 2.83-.73h1.4v-.64c0-.49-.15-.88-.45-1.17-.3-.29-.75-.43-1.33-.43-.52 0-.95.12-1.3.36-.35.25-.52.54-.52.89h-1.46c0-.43.15-.84.45-1.24.28-.4.71-.71 1.22-.94.51-.21 1.06-.35 1.69-.35.98 0 1.74.24 2.29.73s.84 1.16.86 2.02V16c0 .8.1 1.42.3 1.88V18h-1.52m-2.4-1.12c.45 0 .88-.11 1.29-.32.4-.21.7-.49.88-.83v-1.57H18.7c-1.77 0-2.66.47-2.66 1.41 0 .43.15.73.46.96.3.23.68.35 1.16.35m-12.2-3.17h4.07L7.5 8.29l-2.04 5.42M6.64 6h1.72l4.71 12h-1.93l-.97-2.57H4.82L3.86 18H1.93L6.64 6Z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="/" hreflang="ro" class="md-select__link">
+              Română
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/en/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+    
+  
+  Server Rules
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="leaders/leader-rules/" class="md-tabs__link">
+          
+  
+    
+  
+  Leader Rules
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="factions/peaceful-faction-rules/" class="md-tabs__link">
+          
+  
+    
+  
+  Faction Rules
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="./" title="B-Zone SA:MP Rules" class="md-nav__button md-logo" aria-label="B-Zone SA:MP Rules" data-md-component="logo">
+      
+  <img src="https://res.b-zone.ro/ll/actual.jpg" alt="logo">
+
+    </a>
+    B-Zone SA:MP Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="./" class="md-nav__link md-nav__link--active">
+              
+  
+  <span class="md-ellipsis">
+    Server Rules
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Server Rules
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Leader Rules
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Leader Rules
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaders/leader-rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Leader Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Faction Rules
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Faction Rules
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Peaceful Factions
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Peaceful Factions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/peaceful-faction-rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Peaceful Faction General Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/paramedics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paramedics Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/news-reporters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    News Reporters Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Taxi Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/school-instructors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    School Instructors Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gangs
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Gangs
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/gang-rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gang General Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="factions/gsb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Green Street Bloods Rules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-accounts" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Accounts
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Accounts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#accountsgoods-businesses" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accounts/Goods Businesses
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#account-security" class="md-nav__link">
+    <span class="md-ellipsis">
+      Account Security
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Account Security">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2fa-activation-tutorial" class="md-nav__link">
+    <span class="md-ellipsis">
+      2FA Activation Tutorial
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multiple-accounts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Multiple Accounts
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#account-sharing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Account Sharing
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#server-activity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Server Activity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inactivity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inactivity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-samp-client-cheats-mods-bugs-and-advertising" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. SA:MP Client, Cheats, Mods, Bugs and Advertising
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. SA:MP Client, Cheats, Mods, Bugs and Advertising">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-samp-client" class="md-nav__link">
+    <span class="md-ellipsis">
+      The SA:MP Client
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cheats" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cheats
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mods
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bug-abuse" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bug Abuse
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#advertising" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advertising
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-scamming" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Scamming
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-language" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Language
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Language">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#civilians" class="md-nav__link">
+    <span class="md-ellipsis">
+      Civilians
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#faction-members" class="md-nav__link">
+    <span class="md-ellipsis">
+      Faction members
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#offences-insults-or-vulgar-language-to-admins-or-the-server" class="md-nav__link">
+    <span class="md-ellipsis">
+      Offences, insults or vulgar language to admins or the server
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#property-name" class="md-nav__link">
+    <span class="md-ellipsis">
+      Property Name
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spamming" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spamming
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-non-rp-behavior" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. NON-RP Behavior
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-global-chats" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Global Chats
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Global Chats">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#live-or-event-chat" class="md-nav__link">
+    <span class="md-ellipsis">
+      Live or Event chat
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#public-announcements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Public announcements
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-extra-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. Extra Rules
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="7. Extra Rules">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nickname-playerclan-clan-crests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Nickname player/clan, clan crests
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-report-function" class="md-nav__link">
+    <span class="md-ellipsis">
+      The /report function
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-n-function" class="md-nav__link">
+    <span class="md-ellipsis">
+      The /n function
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unban-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Unban requests
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#disturbing-players-or-the-staff" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disturbing players or the staff
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-cheaters-in-clan-zones" class="md-nav__link">
+    <span class="md-ellipsis">
+      Using cheaters in clan zones
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#abusive-clan-level-increase" class="md-nav__link">
+    <span class="md-ellipsis">
+      Abusive clan level increase
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#function-abuse" class="md-nav__link">
+    <span class="md-ellipsis">
+      Function abuse
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distribution-of-personal-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Distribution of personal data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#blackmail" class="md-nav__link">
+    <span class="md-ellipsis">
+      Blackmail
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-website" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. Website
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="8. Website">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#proofs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Proofs
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#content" class="md-nav__link">
+    <span class="md-ellipsis">
+      Content
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Content">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#posthunting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Posthunting
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reporting-staff-members" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reporting staff members
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-exceptions" class="md-nav__link">
+    <span class="md-ellipsis">
+      9. Exceptions
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="b-zone-samp-rules">B-Zone SA:MP Rules<a class="headerlink" href="#b-zone-samp-rules" title="Permanent link">&para;</a></h1>
+<h2 id="1-accounts">1. Accounts<a class="headerlink" href="#1-accounts" title="Permanent link">&para;</a></h2>
+<p>The owner of an account is always considered to be the possessor of the email address registered on the account. For security reasons make sure you do not lose access to the account's email address, otherwise it is lost.</p>
+<p>The staff offers limited help via <a href="https://www.rpg.b-zone.ro/account/recoverAccount">the recovery system</a> on the RPG website and does not guarantee the recovery of a lost account. We reserve our right to reject recoveries  without offering any reason.</p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>All punishments will be given depending on the real level of the player (meaning we will calculate the respect points of the player to determinate their real level).</p>
+</div>
+<h3 id="accountsgoods-businesses">Accounts/Goods Businesses<a class="headerlink" href="#accountsgoods-businesses" title="Permanent link">&para;</a></h3>
+<p>We do not allow businesses or attempts of businesses with real goods for game goods (<span style="color:red;">punishment: permanent ban</span>).</p>
+<p>We do not allow businesses or attempts of businesses with gold for game goods (<span style="color:red;">punishment: ban 30 days</span>).</p>
+<p>We do not allow businesses or attempts of businesses that involve creating multiple clans and selling them overpriced after they get older than a month (<span style="color:red;">punishment: ban 30 days</span>).</p>
+<p>We do not allow businesses or attempts of businesses with accounts for real or game goods (<span style="color:red;">punishment: permanent ban without the right to buy shop unban</span>).</p>
+<div class="admonition danger">
+<p class="admonition-title">Important</p>
+<p>The second offence is punished <span style="color:red;">directly with permanent ban without the right to buy shop unban</span>.</p>
+<p>Due to the multitude of players who violate these rules, we reserve the right to hold accountable and sanction transfers or businesses that have no logical reasoning or justification.</p>
+</div>
+<h3 id="account-security">Account Security<a class="headerlink" href="#account-security" title="Permanent link">&para;</a></h3>
+<p>The staff does not handle problems regarding hacked accounts, stolen goods, punishments received while your account was hacked and so on. It is your duty to take care of your account or your email address.
+Sharing an account with other people may lead to such probems and you risk remaining without an account, goods or get punished because of this.</p>
+<p>Recovering a lost account can only be done by <a href="https://www.rpg.b-zone.ro/account/recoverAccount">a recovery request</a> on the website, by clicking the Sign In button and then on Lost your account. Read the rules that show up carefully when trying to recover an account.</p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>Level 4+ admins reserve their right to punish someone who hacks accounts or to help someone with a hacked account if they consider necessary. </p>
+<p>Attention, admins have absolutely no obligation to punish someone or help you if your account got hacked.</p>
+</div>
+<details class="warning">
+<summary>Examples of ways your account can get hacked</summary>
+<ul>
+<li>sharing your password/PIN with others.</li>
+<li>using easily guessable password and PIN.</li>
+<li>not activating 2FA (two-factor authentication) on your account.</li>
+<li>having your email address compromised.</li>
+<li>entering your password and PIN in places other than our SA-MP server or our server's website.</li>
+<li>clicking on unknown links.</li>
+<li>downloading unknown files.</li>
+</ul>
+</details>
+<details class="success">
+<summary>Preventing account hacking</summary>
+<ul>
+<li>the most important prevention method by far is activating 2FA, details on how to do this can be found below.</li>
+<li>do not share your account password/PIN with anyone under any circumstances.</li>
+<li>use a password that is at least 10 characters long, contains at least 1 uppercase letter that is not the first letter, at least 1 digit, and at least 1 symbol (ex: andr3!Pl4yB!g).</li>
+<li>secure your email address using the same tips as securing your sa-mp account, and activate 2FA there as well.</li>
+<li>do not use or enter your password and PIN on servers or websites that do not belong to us. We will never organize giveaways where you need to enter your account password. Those are 100% scams. These websites are known as phishing sites. Find more information online.</li>
+<li>do not click on links that you do not recognize as completely safe. Clicking on some links may take you to websites that contain cookie stealers (which connect someone else to your accounts stored in your browser) or automatically install various viruses.</li>
+<li>do not download or accept files that you do not fully trust as being clean. You could receive a file from a friend that contains viruses. You could download a mod or modpack that contains viruses. Not everything you find on the internet or receive from others is clean. If you need mods, we advise you to download them only from our forum from <a href="https://forum.b-zone.ro/files/">the mods section</a>, where they are verified before being approved there.</li>
+</ul>
+<h4 id="2fa-activation-tutorial"><span style="font-size: 25px !important; color: #ff5500 !important; border-top: 1px solid #424657 !important; padding-top: 7px !important;">2FA Activation Tutorial</span><a class="headerlink" href="#2fa-activation-tutorial" title="Permanent link">&para;</a></h4>
+<p>In short, 2FA is an additional application on your phone that generates a 6-digit code that changes periodically. That code will be used to log in to your account when the calendar day changes or when your IP changes.</p>
+<p><span style="color:red;">Important to know:</span> if you do not have 2FA activated and someone logs into your account, that person can activate 2FA and lock you out of your account. Another thing you need to know is that if your email address is compromised, the person who compromised it can use it to gain access to 2FA on the sa-mp server, so be careful with your email and set a valid email on your account.</p>
+<p>For enhanced protection, 2FA is mandatory for individuals holding positions on the server (leader, helper, admin) and they will not be able to use their accounts without having it activated.</p>
+<p>If you deactivate 2FA after activating it, the old entry in the app will no longer work. You must use the entry from the app created at the time of 2FA reactivation.</p>
+<p>In case of loss or reset of your phone, or deletion of the app, the secret key with which you can regain access to 2FA can be recovered using our <a href="https://www.rpg.b-zone.ro/account/recoverTOTP">2FA recovery system</a> on our website.</p>
+<ol>
+<li>
+<p><span style="color:var(--green);">Activating 2FA</span> is done on the RPG website, by going to My Account and then to Security. Click on the activation button.
+<figure markdown="span">
+    <img alt="2FA activation" src="../images/2FA-activate.png" width="800" />
+    <figcaption>2FA Activation</figcaption>
+</figure></p>
+</li>
+<li>
+<p>A window will open with a QR code and a secret key. Read the instructions carefully and download the desired 2FA application. Do not close the window!<br/>
+You can use Google Authenticator, Authy, or another preferred application.<br/>
+Tip: Save that long code (the secret key) somewhere in case you lose access to your account's email.
+<figure markdown="span">
+    <img alt="2FA activation window" src="../images/2FA-window.png" width="500" />
+    <figcaption>2FA Activation Window</figcaption>
+</figure></p>
+</li>
+<li>
+<p>After installing the desired application, look for the add button and select the desired option: scan the QR code or manually enter the secret key (that long code).
+<figure markdown="span">
+    <img alt="adding a new entry" src="../images/2FA-new-entry.png" width="250" />
+    <figcaption>Adding a New Entry</figcaption>
+</figure></p>
+</li>
+<li>
+<p>If you opted for the QR code scanning method, then all you have to do is point your phone's camera at the QR code on the RPG website. The phone will automatically recognize the QR code and add a new entry to the application.
+<figure markdown="span">
+    <img alt="scanning the QR code" src="../images/2FA-qr-scan.png" width="250" />
+    <figcaption>Scanning the QR Code</figcaption>
+</figure></p>
+</li>
+<li>
+<p>If you opted for manual entry, enter the desired name for the entry, copy the secret key (that long code) into the application exactly as it is, including uppercase letters, lowercase letters, and numbers. Also, leave the "Time Based" option checked because the codes only work based on that.
+<figure markdown="span">
+    <img alt="manual entry" src="../images/2FA-manual-entry.png" width="250" />
+    <figcaption>Manual Entry</figcaption>
+</figure></p>
+</li>
+<li>
+<p>The final step is to add the code generated by the new entry in the application to the window on the RPG website. Enter the code there, without spaces, and click the <span style="color:var(--green);">Activate</span> button to activate your 2FA.
+<figure markdown="span">
+    <img alt="final activation" src="../images/2FA-final-activation.png" width="500" />
+    <figcaption>Final Activation</figcaption>
+</figure></p>
+</li>
+<li>
+<p><span style="color:red;">Deactivating 2FA</span> is also done from My Account, going to Security and clicking on the deactivation button.<br/>
+You will not be able to deactivate 2FA without access to the code generated by the application with which 2FA was initially activated.
+<figure markdown="span">
+    <img alt="2FA deactivation" src="../images/2FA-deactivate.png" width="800" />
+    <figcaption>2FA Deactivation</figcaption>
+</figure></p>
+</li>
+<li>
+<p>In the window that opens, you will need to enter the code generated by the application and click the green button. You will then receive a success message and see that 2FA is deactivated.
+<figure markdown="span">
+    <img alt="final deactivation" src="../images/2FA-final-deactivation.png" width="500" />
+    <figcaption>Final Deactivation</figcaption>
+</figure></p>
+</li>
+</ol>
+<p>At this point, 2FA on your account is completely deactivated, so the risk of compromise is higher. Remember that it is your responsibility to ensure the correct security of your account.</p>
+</details>
+<h3 id="multiple-accounts">Multiple Accounts<a class="headerlink" href="#multiple-accounts" title="Permanent link">&para;</a></h3>
+<p>You can own multiple accounts, but breaking some rules like: illegal businesses, stealing accounts, cheating, forbidden mods, bug abuse, advertising, scamming, language, toxicity, repeated rule breaking, other severe rule breaking can be punished on all accounts you own.</p>
+<h3 id="account-sharing">Account Sharing<a class="headerlink" href="#account-sharing" title="Permanent link">&para;</a></h3>
+<p>Sharing an account with another person is allowed but will be done <span style="color:red;">on your own accord.</span></p>
+<div class="admonition danger">
+<p class="admonition-title">Important</p>
+<p>For bans of at least 14 days we will punish secondary accounts with a higher level than the banned account when one of these conditions are met:</p>
+<ul>
+<li>when they share in at least 3 different days common IPs for the last week since the punishment was given.</li>
+<li>have the same email address and the account has been recently active in-game (past month).</li>
+<li>at the moment of the punishment share the same IP.</li>
+</ul>
+<p>In certain situations the staff can ban secondary accounts that do not apply in this rule with the approval of a level 6 admin.</p>
+</div>
+<p>It is strictly forbidden for members of the RPG team (leaders, helpers, admins) to share their accounts with other people without informing and discussing with the Supervisor or Manager beforehand. The consequence for breaking this rule is removing you from your position or even banning your account if needed.</p>
+<h3 id="server-activity">Server Activity<a class="headerlink" href="#server-activity" title="Permanent link">&para;</a></h3>
+<p>Any method of accumulating hours played, leaving the AFK state, automizing actions for you, etc. (autoclickers, blocking keys, route recording mods or other mods, riding accounts in/on cars, abusing the poker system, etc.). This also means controlling secondary accounts in any way, usually by using mods.</p>
+<p>Admins will interract with you directly or indirectly, where it is necessary, in order to ensure that you are actually moving the character in game, and if they determine you broke the rule you will get <span style="color:red;">punished with ban 1 day, or more</span> with the approval of a higher level admin for multiple offenses, as well as deleting certain prizes you might have received.</p>
+<div class="admonition danger">
+<p class="admonition-title">Important</p>
+<p>In case of advanced mods (that answer automatically, that send warnings when an admin checks, that auto moves the character, that automates actions in your place, etc.) will receive <span style="color:red;">a higher punishment</span> because the verification process is more complicated. The punishment will be etablished by the admins, depending on the case.</p>
+</div>
+<p>We will no longer accept mocking responses to admins who try to determine if you are active on the account. Our purpose is to make sure that you play fair and respect the systems we offer, so don't complicate things.</p>
+<p>We also offer players to check and report other players if they catch them using such methods.</p>
+<p>As long as you play normally, you move the account, one at a time and don't use methods to explicitly grow your activity abusively, you shouldn't have any fear and the rules above don't apply to you. They are intended for players that try to explicitly abuse, not players who play normally.</p>
+<h3 id="inactivity">Inactivity<a class="headerlink" href="#inactivity" title="Permanent link">&para;</a></h3>
+<p>Players that do not have at least 20 REAL hours played in the last 2 months risk losing their house or shares to all owned businesses (no vehicles).</p>
+<p>Players with houses bought from the shop need at least 10 REAL hours in the last 2 months not to lose them.</p>
+<p>If you cannot play we suggest selling your properties so you don't lose them. You cannot recover properties lost due to inactivity.
+Attempts of trying to hide properties from inactive accounts will not stop you from losing them.</p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>The last 2 months of gameplay are always considered the last 2 months before the current month.</p>
+<p>So if it is currently April, we will consider the last 2 months of gameplay to be: March + February.</p>
+<p>If we move to May, the last 2 months of gameplay will be: April + March. If we move to June, the last 2 months of gameplay will be: May + April, and so on.</p>
+</div>
+<h2 id="2-samp-client-cheats-mods-bugs-and-advertising">2. SA:MP Client, Cheats, Mods, Bugs and Advertising<a class="headerlink" href="#2-samp-client-cheats-mods-bugs-and-advertising" title="Permanent link">&para;</a></h2>
+<h3 id="the-samp-client">The SA:MP Client<a class="headerlink" href="#the-samp-client" title="Permanent link">&para;</a></h3>
+<p>We recommend using the official SA:MP client for desktop available for download on <a href="https://b-zone.ro/samp">b-zone.ro/samp.</a></p>
+<p>Using third party unofficial clients is allowed on your own accord, but we are not responsible for the possible punishments you may receive because of certain bugs/options these may have.</p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>The Android client has such bugs/options. As long as you don't use them you can also play using it.</p>
+</div>
+<h3 id="cheats">Cheats<a class="headerlink" href="#cheats" title="Permanent link">&para;</a></h3>
+<p>Using cheats or connecting with them on our servers is strictly forbidden (<span style="color:red">punishment: ban 30 days</span>).</p>
+<p>The second offence will be punished with <span style="color:red">permanent ban.</span></p>
+<p>Accounts up to level 5 included will directly receive <span style="color:red">permanent ban.</span> We will give <span style="color:red">ban IP</span> on accounts banned for trollhack and to players that create multiple accounts for cheating or ruining the game of others.</p>
+<p>Cheat examples:</p>
+<ul>
+<li>cheats that modify the way a player shoots with a weapon, aims, does damage to others, loads the weapon faster etc. (aimbot, norecoil/nospread, rapidfire, damage hack and others).</li>
+<li>cheats that allow seeing players or their names for a larger distance than normal or through objects (wallhack and others).</li>
+<li>cheats that modify the maximum speed of vehicles, the acceleration, dimension, resistence, color, components (tuning), integrity (repair) etc. (speed hack, acceleration hack, drift mods, repair mods, tuning mods, airbrake and others).- cheats that allow players to teleport, run faster, jump higher, fly, climb on buildings, to use certain animations that are not in our server's script etc. (teleport hack, prototype, parkour, flying cheats, jump cheats and others).</li>
+<li>cheats that allow you to modify your life, armour, give yourself weapons etc. (health hack, armour hack and others).</li>
+<li>cheats that allow you to find certain hidden objects during special events.</li>
+<li>other cheats that give you abilities that are not integrated in the script or game.</li>
+</ul>
+<h3 id="mods">Mods<a class="headerlink" href="#mods" title="Permanent link">&para;</a></h3>
+<p>Using mods that bring you an unfair advantage towards the rest of the players or connecting with them on our servers is forbidden (<span style="color:red">punishment: ban 3 days</span>).</p>
+<p>If you ar not entirely sure a mod is allowed it is indicated to not use it.</p>
+<p>Examples of allowed mods:</p>
+<ul>
+<li>mods that modify your crosshair only for visual aspects.</li>
+<li>mods that modify skins only for visual aspects (without changing the size/hitbox of the skin).</li>
+<li>mods that modify vehicle skins only for visual aspects as long as they have the same dimensions and passenger slots as default.</li>
+<li>mods that correct the sensitivity in game of the mouse.</li>
+<li>mods that modify the colors of the game and make it seem more real (ENB, timecyc, others).</li>
+<li>mods that modify the sky, trees, buildings and other aspects of the game as long as they don't become transparent, you can't pass through them.</li>
+<li>mods that modify weather or time in game for visual aspects (always night/day and others).</li>
+<li>mods that modify animations as long as those animations aren't faster than the original (run faster, roll faster, jump higher and others).</li>
+<li>mods that modify the HUD for visual aspects.</li>
+<li>mods that allow you to connect on multiple servers in the same time.
+​- drift mods (as long as they are not used abusively in situations like cop chases or others)</li>
+<li>the CLEO library and Sampfuncs extension.</li>
+<li>fake escape.</li>
+<li>infinite run/stamina.</li>
+<li>other mods that bring modifications only for visual aspects that you see and cannot be use abusively as regards to our script.</li>
+</ul>
+<p>Examples of unallowed mods:</p>
+<ul>
+<li>mods that modify the sensitivity in such a way that the player fires as like using cheats.</li>
+<li>mods which can be cataloged as cheats.</li>
+<li>mods used for abusive purposes and against the server's script and original settings of the game.
+​- no fall mods.</li>
+<li>modes that allow increasing the zoom to hit players more easily (especially with a sniper, but also other weapons)</li>
+</ul>
+<h3 id="bug-abuse">Bug Abuse<a class="headerlink" href="#bug-abuse" title="Permanent link">&para;</a></h3>
+<p>Exploiting certain mistakes/errors of the game or server is forbidden (<span style="color:red";>punishment: warn</span>).</p>
+<p>Severe abuses like bugs for making money, stealing goods and so on will be punished with <span style="color:red;">ban 30 days.</span></p>
+<p>Abuse examples <span style="color:red;">punishable with warn from the first offence:</span></p>
+<ul>
+<li>fast c-bug or other abusive animation cancellations; informative clip: <a href="https://www.youtube.com/watch?v=2bUNdER47dA">click</a>.</li>
+<li>using certain animations that allow you not to lose HP when falling off a building.</li>
+<li>using certain texture bugs when you have wanted (or not) and hiding from the police or hitmen.</li>
+<li>bugs that allow you to get unfreeze/untie.</li>
+<li>bugs that allow you to kill other players.
+​- bugging war vehicles in textures.</li>
+</ul>
+<p>Other minor abuses not found in the list above will be punished with <span style="color:red;">kick at the first offence, then warn.</span></p>
+<h3 id="advertising">Advertising<a class="headerlink" href="#advertising" title="Permanent link">&para;</a></h3>
+<p>Intentional advertisement made to other servers that do not belong to the B-Zone community is forbidden (<span style="color:red;">punishment: ban 14 days</span>).</p>
+<p>The second offence will be punished with <span style="color:red;">permanent ban.</span></p>
+<p>Accounts up to level 5 included will directly get <span style="color:red;">permanent ban.</span></p>
+<h2 id="3-scamming">3. Scamming<a class="headerlink" href="#3-scamming" title="Permanent link">&para;</a></h2>
+<p>All server deals will be made using the /trade command. Deals made without using this command may lead to scams and you risk remaining without your goods.</p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>Admins will not intervene in scams that players do only in certain circumstances established by them. Thus level 4+ admins reserver their right to intervene in certain scams and even punish the player doing the scam if needed. </p>
+<p>Attention, admins have no oblgation to punish someone or to help you if you got scammed.</p>
+</div>
+<h2 id="4-language">4. Language<a class="headerlink" href="#4-language" title="Permanent link">&para;</a></h2>
+<p>We allow our players to express themselves freely, but without using vulgar or hard language towards other players, on global chats or faction chats.</p>
+<p>Examples of punishable language:</p>
+<ul>
+<li>suck my dick, fmm, cocksucker, fuck you etc.</li>
+<li>different inventions to modify cursing like: di_ck, fememe, fuc y0u etc.</li>
+<li>censored insults or censored vulgar language used in an exagerated manner.</li>
+</ul>
+<p>Examples of unpunishable language (<span style="color:red;">exception towards admins</span>):</p>
+<ul>
+<li>asshole, loser, jackass, idiot, or other forms of light offences.</li>
+<li>language that is sufficiently well censored: suck ****, eat ****, *** etc. (censored language will also be punished if the censorship is insufficient and the context can be well understood)</li>
+<li>obscene signs (_|_, _()_ etc.).</li>
+</ul>
+<p>Language on clan chats will be punished by clan owners, except when the language is done by the owner himself, is addressed to admins or faction colleagues.</p>
+<p>To ensure a pleasant and easy to administrate game, the only allowed languages on public chats are Romanian and English. Using any other language on public chats (/ad, /gov, /live, /news, /f, /r, /d, /sx, /tx) is forbidden (<span style="color:red;">punishment: warn</span>). On private chats (local, /sms, /call, /whisper, /carwhisper, /c, /ac) you are allowed to use other languages.</p>
+<h3 id="civilians">Civilians<a class="headerlink" href="#civilians" title="Permanent link">&para;</a></h3>
+<ul>
+<li>level 1-5: <span style="color:red;">kick at first, 30 Minutes Mute afterwards.</span></li>
+<li>level 6-9: <span style="color:red;">120 Minutes Mute.</span></li>
+<li>level 10+: <span style="color:red;">1 day Ban.</span></li>
+</ul>
+<p>The punishment <span style="color:red;">will grow with 2 extra days</span> at each other offence.</p>
+<h3 id="faction-members">Faction members<a class="headerlink" href="#faction-members" title="Permanent link">&para;</a></h3>
+<p>Will get punished in accordance with the faction rules.</p>
+<h3 id="offences-insults-or-vulgar-language-to-admins-or-the-server">Offences, insults or vulgar language to admins or the server<a class="headerlink" href="#offences-insults-or-vulgar-language-to-admins-or-the-server" title="Permanent link">&para;</a></h3>
+<ul>
+<li>offences: <span style="color:red;">120 Minutes Mute.</span></li>
+<li>vulgar language or heavy insults: <span style="color:red;">ban 3 days.</span></li>
+</ul>
+<p>The punishment will grow <span style="color:red;">with 3 extra days</span> for each extra offence.</p>
+<p>The punishment will only be given for language used in game or on the website.</p>
+<p>Admins can ask a Level 6 Admin permission to offer bigger punishments than these if necessary.</p>
+<h3 id="property-name">Property Name<a class="headerlink" href="#property-name" title="Permanent link">&para;</a></h3>
+<p>Players that use offensive, vulgar or deceiving texts on owned properties (cars, businesses, houses) will be punished with <span style="color:red;">warn.</span> </p>
+<p>In the case of vehicles, players on board who do not own them may also risk being sanctioned, depending on the situation. If they refuse to change the text they will get <span style="color:red;">banned 3 days</span> until they do so.</p>
+<h3 id="spamming">Spamming<a class="headerlink" href="#spamming" title="Permanent link">&para;</a></h3>
+<p>It is forbidden to repeat the same message 6 times or fill the chat for no reason (<span style="color:red;">punishment: mute 15 minutes</span>).</p>
+<p>We are excluding from this rule spam on /sms, which can be taken care of using /ignore. Even so, the use of mods that send massive spam via sms or other methods will be punished with ban for illegal mods.</p>
+<h2 id="5-non-rp-behavior">5. NON-RP Behavior<a class="headerlink" href="#5-non-rp-behavior" title="Permanent link">&para;</a></h2>
+<p>By non-rp behavior we understand an action or abuse of certain commands that ofer the given player an unfair advantage or other players a significant disadvantage in some situations.</p>
+<ul>
+<li>level 6-9: <span style="color:red;">30 Minutes Ajail.</span></li>
+<li>level 10+: <span style="color:red;">60 Minutes Ajail.</span></li>
+</ul>
+<p>Examples of non-rp behavior:</p>
+<ul>
+<li>throwing yourself intentionally in front of passing vehicles to give the drivers wanted.</li>
+<li>pushing job vehicles, faction vehicles or personal vehicles in an abusive way (for example to respawn them, move them from the owner/driver etc.).</li>
+<li>intentional drive-by with Monster Truck, Sandking or vehicles with no collison (those from jobs).</li>
+<li>staying AFK with wanted in air.</li>
+<li>/sleep when you are followed by a police officer/hitman.</li>
+<li>blocking access points using parked vehicles.</li>
+<li>diverse abusive actions of disconnecting or respawning in order to escape the punishments you need to receive from police officers.</li>
+<li>attacking other players, as a clan member, inside or near clan zones without being directly involved in the conquest/defense of that area; if members of other clans have already initiated a battle for that area, it is prohibited for other individuals who are not part of those clans to intervene (<span style="color:red;">punishment: kick for the first offense, ajail for subsequent offenses</span>).</li>
+</ul>
+<h2 id="6-global-chats">6. Global Chats<a class="headerlink" href="#6-global-chats" title="Permanent link">&para;</a></h2>
+<p>Global chats are those chats that can be seen by all the players of the server (/ad, /live, /e, /news, /gov etc.).</p>
+<p>Offenses on such chats are forbidden (<span style="color:red;">punishment: warn</span>) as well as heavy insults/vulgar language (<span style="color:red;">punishment: ban 3 days</span>).</p>
+<p>The punishment <span style="color:red;">will grow with 3 extra days</span> for each extra offence.</p>
+<p>It is not allowed to promote social media channels (youtube, tiktok, facebook, etc) on such chats (<span style="color:red;">punishment: kick</span>), except for channels belonging to the game staff or community YouTubers (ex: <a href="https://b-zone.ro/bobo">b-zone.ro/bobo</a>).</p>
+<h3 id="live-or-event-chat">Live or Event chat<a class="headerlink" href="#live-or-event-chat" title="Permanent link">&para;</a></h3>
+<p>It is forbidden to make bad jokes, mock, spam, use emoticons, use obscene signs (<span style="color:red;">punishment: kick/stopevent</span>).</p>
+<p>Admins can ask a Level 6 Admin permission to offer bigger punishments than these if necessary.</p>
+<h3 id="public-announcements">Public announcements<a class="headerlink" href="#public-announcements" title="Permanent link">&para;</a></h3>
+<p>Not allowed (<span style="color:red;">punishment: kick</span>):</p>
+<ul>
+<li>announcements in the name of others without their approval.</li>
+<li>organizing events.</li>
+<li>using emoticons, abbreviations or excess of punctuation signs.</li>
+<li>excessive caps lock.</li>
+<li>mock ads.</li>
+<li>to contact one ore more players.</li>
+<li>to promote channels with videos that do not belong to the community (be advised of advertising).</li>
+<li>to search for friends.</li>
+<li>obscene signs (_|_, _()_ etc.).</li>
+<li>begging.</li>
+</ul>
+<p>The second offence will be punished directly with <span style="color:red;">warn.</span></p>
+<h2 id="7-extra-rules">7. Extra Rules<a class="headerlink" href="#7-extra-rules" title="Permanent link">&para;</a></h2>
+<h3 id="nickname-playerclan-clan-crests">Nickname player/clan, clan crests<a class="headerlink" href="#nickname-playerclan-clan-crests" title="Permanent link">&para;</a></h3>
+<p>It is forbidden to use a mocking, indecent, very similar name with other players/admins, with an official clan tag (<span style="color:red;">punishment: rename</span>).</p>
+<p>It is forbidden to use an indecent, vulgar, very similar to others, etc. clan name/tag. (<span style="color:red;">punishment: rename of the clan</span>).</p>
+<p>If the rename is refused or it is not possible we will give <span style="color:red;">permanent ban.</span></p>
+<p>The use of an indecent, vulgar, or highly similar clan crest to another clan's crest is strictly prohibited (<span style="color:red;">punishment: removal of the crest, imposition of a significant cooldown, and possible sanctions for the owner, where applicable</span>).</p>
+<h3 id="the-report-function">The /report function<a class="headerlink" href="#the-report-function" title="Permanent link">&para;</a></h3>
+<p>It is used to signal rule breaking or for problems in a polite and calm manner. Anything else is forbidden (<span style="color:red;">punishment: mute 30 minutes</span>).</p>
+<h3 id="the-n-function">The /n function<a class="headerlink" href="#the-n-function" title="Permanent link">&para;</a></h3>
+<p>It is used to ask for informative help in a polite and calm manner. Anything else is forbidden (<span style="color:red;">punishment: mute 30 minutes</span>).</p>
+<p>Offences, heavy insults or vulgar language on this chat will be punished just like addressing them to admins.</p>
+<h3 id="unban-requests">Unban requests<a class="headerlink" href="#unban-requests" title="Permanent link">&para;</a></h3>
+<p>Any request made in mockery or that contains inappropriate language will be punished and ignored (<span style="color:red;">punishment: ban 14 days</span>).</p>
+<p>The second offence will be punished directly with <span style="color:red;">permanent ban.</span></p>
+<h3 id="disturbing-players-or-the-staff">Disturbing players or the staff<a class="headerlink" href="#disturbing-players-or-the-staff" title="Permanent link">&para;</a></h3>
+<p>It is forbidden to disturb players at jobs, at activity report, rob, auto exam, events or admins when they have work to do (<span style="color:red;">punishment: kick</span>).</p>
+<p>The second offence will be directy punished with <span style="color:red;">warn.</span></p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>In the case of department members, they can use summons and directly sanction the player with a wanted level depending on the situation (non-compliance, DB, DM, etc.).</p>
+</div>
+<h3 id="using-cheaters-in-clan-zones">Using cheaters in clan zones<a class="headerlink" href="#using-cheaters-in-clan-zones" title="Permanent link">&para;</a></h3>
+<p>We reserve our right to delete a clan where one or more players have been caught using cheats in order to help conquer clan zones. </p>
+<p>The clan owner is directly responsible with the players he invites in the clan, especially low level accounts who use cheats to conquer clan zones. </p>
+<p>The clan can be permanently deleted without returing the Gold spent on it to the clan owner.</p>
+<h3 id="abusive-clan-level-increase">Abusive clan level increase<a class="headerlink" href="#abusive-clan-level-increase" title="Permanent link">&para;</a></h3>
+<p>We reserve the right to modify the clan's XP or even delete the clan where it is determined that the clan level has been increased abusively.</p>
+<h3 id="function-abuse">Function abuse<a class="headerlink" href="#function-abuse" title="Permanent link">&para;</a></h3>
+<p>Severe function abuse which involves modifying several accounts will be severely punished (<span style="color:red;">punishment: permanent ban without the right to buy shop unban</span>).</p>
+<h3 id="distribution-of-personal-data">Distribution of personal data<a class="headerlink" href="#distribution-of-personal-data" title="Permanent link">&para;</a></h3>
+<p>It is forbidden to share personal information of other players without their consent (links with pictures, videos, phone numbers, personal IDs, personal emails, personal addresses, and so on) (<span style="color:red;">punishment: ban for 7 days OR another penalty with the approval of an admin level 6</span>).</p>
+<h3 id="blackmail">Blackmail<a class="headerlink" href="#blackmail" title="Permanent link">&para;</a></h3>
+<p>Blackmailing players to withdraw or not to create complaints and paying a player to withdraw or not to create complaints is not allowed (<span style="color:red;">punishment: warn</span>).</p>
+<div class="admonition example">
+<p class="admonition-title">Nota informativa</p>
+<p>The sanction for blackmail applies solely based on the evidence from the game.</p>
+<p>We recommend not engaging in discussions outside of the game with players whom you do not know and who are attempting to report you or have already done so.</p>
+</div>
+<h2 id="8-website">8. Website<a class="headerlink" href="#8-website" title="Permanent link">&para;</a></h2>
+<h3 id="proofs">Proofs<a class="headerlink" href="#proofs" title="Permanent link">&para;</a></h3>
+<p>Server proofs must include the server markings with the date, hours, name of the player and name of the server, except for rule breaking that consist of bans lasting 14 days or more (<span style="color:red;">complaint automatically rejected</span>).</p>
+<p>A proof is valid for 3 days at most and must be owned by the person opening the complaint, exception for admins, cheats, illegal business, forbidden mods or other severe rule breaking (<span style="color:red;">complaint automatically rejected</span>).</p>
+<p>Falsifying proofs is strictly forbidden (<span style="color:red;">punishment: ban permanent from first offence, no unban at second offence</span>). We will also ban the higher level accounts of the player.</p>
+<p>Evidence should preferably be presented without using page-up, in order to accurately interpret the situation. Depending on the case, these pieces of evidence may be taken into consideration, but there is also a risk of them being ignored if they are unclear.
+We accept concrete evidence outside the server, video preferred, for complaints regarding illegal businesses, account hacking, vulgar comments, staff complaints (leader, helper, admin) or other severe rule breaking.​</p>
+<p>For browser proofs we accept only videos where there is a minimum of one refresh to the page to prove that there is nothing falsified (<span style="color:red;">complaint automatically rejected</span>).</p>
+<h3 id="content">Content<a class="headerlink" href="#content" title="Permanent link">&para;</a></h3>
+<p>It is forbidden to open complaints or tickets for inproper reasons (<span style="color:red;">punishment: suspend website 3 days</span>).</p>
+<p>It is forbidden to offend others anywhere on the website (<span style="color:red;">punishment: suspend website 3 days</span>).</p>
+<p>It is forbidden to insult, publish vulgar content (messages, pictures, videos), or pornographic content anywhere on the website (<span style="color:red;">punishment: website suspension for 7 days OR another penalty with the approval of an admin level 6</span>).</p>
+<p>It is forbidden to post personal information of other players without their consent (pictures of them, phone numbers, personal IDs, personal emails, personal addresses, and so on) (<span style="color:red;">punishment: website suspension for 7 days and deletion/editing of content OR another penalty with the approval of an admin level 6</span>).</p>
+<p>It is forbidden to advertise (servers, websites, pages, channels, clips, etc.) (<span style="color:red;">punishment: website suspension for 3 days or ban for 14 days/permanently</span>).</p>
+<p>We reserve our right to web suspend players that abuse the ticketing system.</p>
+<div class="admonition example">
+<p class="admonition-title">Info note</p>
+<p>The rules above apply also to deleted comments, withdrawn complaints, added witnesses, proofs posted in complaints, external content (links to other sites) and so on.</p>
+</div>
+<details class="warning">
+<summary>Pointless complaining and posthunting</summary>
+<h4 id="posthunting"><span style="font-size: 25px !important; color: #ff5500 !important;">Posthunting</span><a class="headerlink" href="#posthunting" title="Permanent link">&para;</a></h4>
+<p>We define a posthunter as a person with ill intent who intentionally seeks even the smallest mistakes or puts another player in very difficult situations in order to report them to the staff, with the ultimate goal of sanctioning them.</p>
+<p>Considering the various situations that may arise through complaints, the server staff is the only authority capable of deciding when a player is attempting posthunting.</p>
+<p><span style="color:var(--pink);">Consequences of posthunting:</span></p>
+<ul>
+<li>complaints will be ignored and a warning will be issued if there are only a few complaints.</li>
+<li>if the player exaggerates or has already been warned, the complaints will be ignored and a minimum 3-day web suspension will be issued, with the sanction increasing depending on the number of offenses.</li>
+<li>complaints from secondary accounts will also be ignored.</li>
+<li>in the case of posthunting between faction colleagues, the member will be warned to cease the behavior, and the complaints will be ignored, with direct sanctions such as <span style="color:red;">Faction Warn or dismissal depending on the case for subsequent offenses.</span></li>
+</ul>
+<p><span style="color:var(--green);">What is not considered posthunting:</span></p>
+<ul>
+<li>reporting a player who gravely insults you or speaks vulgarly with evidence.</li>
+<li>reporting a player suspected of using cheats or illegal mods, with valid evidence and where the admins have not already made a decision.</li>
+<li>reporting a player who abuses bugs to gain an unfair advantage over you.</li>
+<li>reporting a player intentionally advertising another server to lure players there.</li>
+<li>reporting a player who has scammed you.</li>
+<li>reporting a player engaging in non-roleplay behavior to gain an advantage and abuse you.</li>
+<li>reporting a player who insults/swears on global chats (live, news, event, gov, ad, etc.).</li>
+<li>reporting a player who blackmails you.</li>
+<li>reporting a player who has falsified evidence against you.</li>
+<li>reporting an admin/leader who has sanctioned/dismissed you wrongly.</li>
+<li>reporting a leader who has unreasonably rejected you from a faction.</li>
+<li>reporting an admin/leader who has given a wrong answer to a complaint made by you.</li>
+<li>other similar situations.</li>
+</ul>
+<p><span style="color:red;">What is considered posthunting:</span></p>
+<ul>
+<li>reporting another player who does something that does not directly affect you and does not constitute a serious rule violation.</li>
+<li>exaggerated reporting of admins because you disagree with the decisions made even if multiple admins have given the same response.</li>
+<li>reporting a leader for unreasonably rejecting a player who applied to the faction.</li>
+<li>reporting a leader for not responding promptly to complaints without you having an active complaint in that faction.</li>
+<li>reporting a leader for not posting certain sanctions/evidence on the forum without you being part of the faction or being the one sanctioned/tested, etc.</li>
+<li>reporting a helper for giving a wrong response without you being the one they responded to (except for insulting/vulgar messages).</li>
+<li>when a player opens multiple complaints where the response is against them (player is unaware of the rules).</li>
+<li>reporting an admin/leader who has wrongly sanctioned someone else other than you.</li>
+<li>when it is observed that the player's intention from the beginning was to intentionally seek a rule violation to bring sanctions against the reported person.</li>
+<li>other similar situations.</li>
+</ul>
+</details>
+<h3 id="reporting-staff-members">Reporting staff members<a class="headerlink" href="#reporting-staff-members" title="Permanent link">&para;</a></h3>
+<p>Complaints to staff members (leader, helper, admin) can be made just by people involved directly (<span style="color:red;">complaint rejected automatically</span>).</p>
+<h2 id="9-exceptions">9. Exceptions<a class="headerlink" href="#9-exceptions" title="Permanent link">&para;</a></h2>
+<p>We reserve our right to have exceptions to these rules. In some cases the punishments may be different.</p>
+<p>Players that: have too many punishments, have too many trouble accounts, create accounts just to ruine the game, are considered to interfere too much with the game will get <span style="color:red;">banned permanently.</span></p>
+<p>These exceptions can be made only with the permission of a level 6 admin.</p>
+<div class="admonition danger">
+<p class="admonition-title">Important</p>
+<p>Registering an account within the server implies your obligation to adhere to the imposed regulations.</p>
+<p>The rules aim to maintain an enjoyable game for everyone and cannot encompass all situations in which someone might disrupt the game, which is why we reserve the right to make <strong>exceptions.</strong></p>
+<p>If you have questions about situations not explicitly addressed in the regulations, you can contact us by opening a <a href="https://www.rpg.b-zone.ro/ticket">ticket</a>. Arbitrary interpretation of the regulations to gain unfair advantages is not permitted.</p>
+</div>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 15, 2024</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Created">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 15, 2024</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2008-<script>document.write(new Date().getFullYear())</script> B-ZONE All Rights Reserved
+
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://discord.b-zone.ro" target="_blank" rel="noopener" title="discord.b-zone.ro" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.youtube.com/@BZoneCommunity" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.tiktok.com/@bzonero" target="_blank" rel="noopener" title="www.tiktok.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M448 209.91a210.06 210.06 0 0 1-122.77-39.25v178.72A162.55 162.55 0 1 1 185 188.31v89.89a74.62 74.62 0 1 0 52.23 71.18V0h88a121.18 121.18 0 0 0 1.86 22.17A122.18 122.18 0 0 0 381 102.39a121.43 121.43 0 0 0 67 20.14Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.facebook.com/bzonero" target="_blank" rel="noopener" title="www.facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+
+
+
+
+  
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences (like keeping your desired site theme).</p>
+<input class="md-toggle" type="checkbox" id="__settings" checked>
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+      <button type="reset" class="md-button md-button--primary">Reject</button>
+    
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["content.code.annotate", "content.code.copy", "content.tabs.link", "navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
