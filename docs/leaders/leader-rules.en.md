@@ -140,7 +140,7 @@ For the next promotion of the former subleader to rank 2-5, the counting will st
 
 !!! example "Examples of demoting subleaders"
     - in our example, the subleader has a seniority in the faction of 55 days in a department and needs to be demoted.
-    - the Leader will need to check the promotion regulations of the faction type they belong to, specifically chapter [Member Promotion and Faction Slots.](#7-promotion-of-members-and-faction-slots)
+    - the Leader will need to check the promotion regulations of the faction type they belong to, specifically chapter [Member Promotion and Faction Slots.](#7-member-promotion-and-faction-slots)
     - then they will need to add up the minimum waiting days for each rank as follows:
         - for rank 2: 14 days.
         - for rank 3: 21 days + the 14 days from rank 2, totaling 35 days.
@@ -1175,7 +1175,7 @@ If a Leader wants to organize an activity with mandatory attendance, they must h
 
 2. Leaders who knowingly accept individuals using cheats will be sanctioned with <span style="color:red;">Leader Warn or Dismissal</span>, depending on the case.
 
-3. Leaders and subleaders are obligated to attend wars. Subleaders can use their <span style="color:var(--pink);">2 weekly absences</span> for exemption, while Leaders must post in the specific Leader exemption topic, more details can be found [here](https://forum.b-zone.ro/topic/447772--) (sanction: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">dismissal</span> if it continues).
+3. Leaders and subleaders are obligated to attend wars. Subleaders can use their <span style="color:var(--pink);">2 weekly absences</span> for exemption, while Leaders must post in the specific Staff discord channel for an absence request (sanction: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">dismissal</span> if it continues).
 
 4. Members who are part of a gang and meanwhile receive an <span style="color:var(--pink);">interdiction</span> will always be dismissed with <span style="color:red;">FP 60/60</span>. Players who receive an interdiction will be able to be accepted into another gang after a minimum of one month from receiving the ban. Leaders who accept players with interdictions will be sanctioned with <span style="color:red;">Leader Warn</span>, even for the first offense.
 
