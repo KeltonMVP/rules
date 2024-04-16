@@ -214,6 +214,9 @@ Membrii cu conturi multiple (cei care detin mai multe conturi) nu li se permite 
 
 Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa deterinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune si vor fi demise ambele conturi.
 
+!!! danger "Important"
+    In cazul jucatorilor care joaca din aceeasi locatie si au IP comun, pentru a face parte amandoi din aceeasi factiune este necesara [deschiderea unui ticket pe website-ul RPG](https://www.rpg.b-zone.ro/ticket) pentru a efectua niste verificari si a va permite acest lucru.
+
 ### Joburi
 
 Se poate detine orice tip de job legal sau ilegal.
@@ -230,5 +233,5 @@ In cazul in care se organizeaza o activitate obligatorie in cadrul factiunii, si
 
 ### Exceptii
 
-Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.
+Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
 Aceste exceptii pot fi facute numai cu permisiunea unui Admin 6.
