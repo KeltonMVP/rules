@@ -1,4 +1,10 @@
-In addition to these rules, all members are obliged to respect the [Server Rules](/en).
+---
+icon: material/peace
+---
+
+# Peaceful Faction and Mixt General Rules
+
+Besides these rules, all members are obligated to respect both the [Server Rules](/en) as well as the specific Internal Rules of your faction outlined in the Internal Rules section below.
 
 ## 1. Behaviour and Language
 
@@ -9,7 +15,7 @@ Examples of language <span style="color:var(--pink);">towards colleagues punisha
 - obscene gestures (\_|\_, _\(\)\_ etc.).
 
 !!! example "Info note"
-    This language will only be penalized if the offended colleague files a complaint.<br/>
+    This language will only be punished if the offended colleague files a complaint.<br/>
     Complaints against colleagues are made by contacting the leader through a private message, not on the RPG website.
 
 Examples of language <span style="color:var(--pink);">towards colleagues or other players</span> punishable by <span style="color:red;">dismissal:</span>
@@ -20,7 +26,7 @@ Examples of language <span style="color:var(--pink);">towards colleagues or othe
 - censored insults or excessively censored vulgar language.
 
 !!! danger "Important"
-    Language of this kind in the faction chat will always be penalized regardless of who it is addressed to.
+    Language of this kind in the faction chat will always be punished regardless of who it is addressed to.
 
 In addition to <span style="color:var(--pink);">language towards colleagues</span>, the following are prohibited:
 
@@ -30,6 +36,11 @@ In addition to <span style="color:var(--pink);">language towards colleagues</spa
 !!! danger "Important"
     If the member does not cease even after receiving the second sanction, they will be dismissed.<br/>
     For the cases presented above, the language used is sanctioned regardless of the language used.
+
+- any conflict between colleagues will be resolved in the presence of faction leadership.
+- failure to cease conflict upon intervention by a higher-ranking member will be sanctioned with <span style="color:red;">Faction Warn.</span>
+- teasing or insulting faction leadership may be sanctioned with <span style="color:red;">Faction Warn</span> or <span style="color:red;">dismissal</span> depending on severity.
+- players accepted for testing must behave decently, otherwise, they will be rejected without the right to undergo faction entry tests.
 
 ## 2. Deathmatch (DM) and Drive-By (DB)
 
@@ -49,7 +60,7 @@ If you are attacked, gather evidence first, then you can defend yourself.
 - only members with Rank 4+, who have Tester status, can conduct tests with faction applicants.
 - only members with Rank 3+ can organize training sessions and activities.
 - members who do not listen to those of higher rank can be sanctioned (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
-- abusive use of the command [/fvr] (respawning vehicles just to disrupt a colleague, spamming it, etc.) will be penalized with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple offenses.
+- abusive use of the command [/fvr] (respawning vehicles just to disrupt a colleague, spamming it, etc.) will be punished with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple offenses.
 
 ## 4. Activity
 

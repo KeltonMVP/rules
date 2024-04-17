@@ -1,4 +1,10 @@
-Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Regulamentul Serverului](/).
+---
+icon: material/peace
+---
+
+# Regulament General Factiuni Pasnice si Mixte
+
+Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Regulamentul Serverului](/) cat si Regulamentul Intern specific factiunii voastre din sectiunea Internal Rules de mai jos.
 
 ## 1. Comportament si Limbaj
 
@@ -30,6 +36,11 @@ Pe langa <span style="color:var(--pink);">limbaj fata de colegi</span> se interz
 !!! danger "Important"
     Daca membrul nu inceteaza nici dupa primirea celei de-a doua sanctiuni, acesta va fi demis.<br/>
     Pentru cazurile prezentate mai sus se sanctioneaza limbajul folosit indiferent de limba folosita.
+
+- orice conflict intre colegi se va rezolva de fata cu conducerea factiunii.
+- neincetarea conflictului la interventia unui membru de rank mai mare se va sanctiona cu <span style="color:red;">Faction Warn.</span>
+- luatul la misto sau jignirea conducerii factiunii pot fi sanctionate cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">demitere</span> in functie de gravitate.
+- jucatorii acceptati pentru testare trebuie sa se comporte decent, in caz contrar acesta va fi respins fara a avea dreptul de a sustine testele de intrare in factiune.
 
 ## 2. Deathmatch (DM) si Drive-By (DB)
 
@@ -212,7 +223,7 @@ Membrii cu acest statut au obligatia de a respecta [Regulamentul Liderilor -> Te
 
 Membrii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
 
-Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa deterinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune si vor fi demise ambele conturi.
+Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune si vor fi demise ambele conturi.
 
 !!! danger "Important"
     In cazul jucatorilor care joaca din aceeasi locatie si au IP comun, pentru a face parte amandoi din aceeasi factiune este necesara [deschiderea unui ticket pe website-ul RPG](https://www.rpg.b-zone.ro/ticket) pentru a efectua niste verificari si a va permite acest lucru.

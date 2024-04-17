@@ -317,7 +317,7 @@ Sanctiunile pe care le oferiti membrilor trebuie postate pe forum in cel mult 48
 
 Jucatorii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
 
-Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa deterinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune.
+Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune.
 
 - intrebati-va membrii care au astfel de conturi si cu care cont doresc sa ramana in factiune; daca aflam ca aveti astfel de conturi atunci ambele conturi ale respectivului jucator vor fi demise iar voi veti fi sanctionati.
 

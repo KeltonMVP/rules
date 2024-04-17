@@ -17,6 +17,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.tracking
+    - navigation.expand
     - search.highlight
     - search.share
     - search.suggest
@@ -114,12 +115,31 @@ nav:
   - Leader Rules:
     - Leader Rules: leaders/leader-rules.md
   - Faction Rules:
-    - Peaceful Factions: 
-      - Peaceful Faction General Rules: factions/peaceful-faction-rules.md
-      - Paramedics Rules: factions/paramedics.md
-      - News Reporters Rules: factions/news-reporters.md
-      - Taxi Rules: factions/taxi.md
-      - School Instructors Rules: factions/school-instructors.md
-    - Gangs:
+    - General Rules: 
+      - Peaceful Faction and Mixt General Rules: factions/peaceful-and-mixt-faction-rules.md
       - Gang General Rules: factions/gang-rules.md
-      - Green Street Bloods Rules: factions/gsb.md
+      - Department General Rules: factions/department-rules.md
+    - Internal Rules:
+      - Peaceful Factions:
+        - Paramedics Rules: factions/peaceful/paramedics.md
+        - News Reporters Rules: factions/peaceful/news-reporters.md
+        - Tow Truck Rules: factions/peaceful/ttc.md
+        - Taxi Rules: factions/peaceful/taxi.md
+        - School Instructors Rules: factions/peaceful/school-instructors.md
+      - Gangs:
+        - Green Street Bloods Rules: factions/gangs/gsb.md
+        - Verdant Family Rules: factions/gangs/vdt.md
+        - Vietnamese Boys Rules: factions/gangs/vtb.md
+        - The Tsar Bratva Rules: factions/gangs/ttb.md
+        - Red Dragon Triad Rules: factions/gangs/rdt.md
+        - Southern Pimps Rules: factions/gangs/sp.md
+        - Avispa Rifa Rules: factions/gangs/rifa.md
+        - 69 Pier Mobs Rules: factions/gangs/69pm.md
+        - El Loco Cartel Rules: factions/gangs/elc.md
+      - Departments:
+        - PD Rules: factions/departments/pd.md
+        - FBI Rules: factions/departments/fbi.md
+        - NG Rules: factions/departments/ng.md
+      - Mixt Factions:
+        - Hitmen Rules: factions/mixt/hitmen.md
+        - Sons Of Anarchy Rules: factions/mixt/soa.md
