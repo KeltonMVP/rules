@@ -1103,7 +1103,7 @@ Membrii care acumuleaza vechimea de rank 2 si rank 3 trebuie sa primeasca la tim
 
 ### Reguli Generale
 
-1. Fiecare Lider are obligatia de a respecta [Regulamentul Serverului](/), Regulamentul Liderilor, Regulamentele Factiunii sale cat si sa aplice sanctiunile corecte pentru incalcarea acestora.
+1. Fiecare Lider are obligatia de a respecta [Regulamentul Serverului](..), Regulamentul Liderilor, Regulamentele Factiunii sale cat si sa aplice sanctiunile corecte pentru incalcarea acestora.
 
 2. Un Lider nu are voie sa faca reclamatie unui alt Lider, inclusiv de pe conturi cu care imparte IP comun (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
 	- in cazul in care exista motiv de reclamatie vor fi contactati managerii de factiuni (adminii 4+) pe discordul staffului (mesaj privat) cu motivul si dovezile necesare.

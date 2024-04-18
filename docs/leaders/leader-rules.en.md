@@ -1103,7 +1103,7 @@ Members who accumulate the seniority of ranks 2 and 3 must receive timely rank-u
 
 ### General Rules
 
-1. Each Leader is obligated to respect the [Server Rules](/en), Leader Regulations, their Faction's regulations, and to apply the appropriate sanctions for their violation.
+1. Each Leader is obligated to respect the [Server Rules](..), Leader Regulations, their Faction's regulations, and to apply the appropriate sanctions for their violation.
 
 2. A Leader is not allowed to make a complaint against another Leader, including from accounts sharing the same IP address (<span style="color:red;">sanction: Leader Warn</span> first offense, <span style="color:red;">Dismissal</span> if repeated).
 	- if there is a reason for a complaint, faction managers (admins 4+) will be contacted on the staff Discord (private message) with the necessary evidence and reasons.

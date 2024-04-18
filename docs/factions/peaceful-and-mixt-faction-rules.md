@@ -2,9 +2,9 @@
 icon: material/peace
 ---
 
-# Regulament General Factiuni Pasnice si Mixte
+# Regulament Factiuni Pasnice si Mixte
 
-Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Regulamentul Serverului](/) cat si Regulamentul Intern specific factiunii voastre din sectiunea Internal Rules de mai jos.
+Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Regulamentul Serverului](..) cat si Regulamentul Intern specific factiunii voastre din sectiunea Internal Rules de mai jos.
 
 ## 1. Comportament si Limbaj
 

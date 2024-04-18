@@ -2,9 +2,9 @@
 icon: material/peace
 ---
 
-# Peaceful Faction and Mixt General Rules
+# Peaceful Faction and Mixt Rules
 
-Besides these rules, all members are obligated to respect both the [Server Rules](/en) as well as the specific Internal Rules of your faction outlined in the Internal Rules section below.
+Besides these rules, all members are obligated to respect both the [Server Rules](..) as well as the specific Internal Rules of your faction outlined in the Internal Rules section below.
 
 ## 1. Behaviour and Language
 

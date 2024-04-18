@@ -4,7 +4,7 @@ icon: material/ammunition
 
 # Regulament Ganguri
 
-Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Regulamentul Serverului](/) cat si Regulamentul Intern specific factiunii voastre din sectiunea Internal Rules de mai jos.
+Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Regulamentul Serverului](..) cat si Regulamentul Intern specific factiunii voastre din sectiunea Internal Rules de mai jos.
 
 ## 1. Comportament si Limbaj
 
@@ -82,7 +82,7 @@ Toate cererile de inactivitate se fac numai pe website. Un membru are dreptul la
 ### Raport de Activitate
 
 In cazul gangurilor, raportul de activitate consta in prezenta la warurile obligatorii din timpul saptamanii (Luni-Vineri).<br/>
-Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](/factions/gang-rules/#10-regulament-waruri).
+Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](#10-regulament-waruri).
 
 !!! example "Nota informativa"
     Sunt scutiti de prezenta la waruri jucatorii cu cereri de inactivitate sau de absenta acceptate.
@@ -218,7 +218,7 @@ In cazuri speciale <span style="color:var(--pink);">se poate acorda Faction Puni
 - in absenta liderului, subliderii sunt obligati sa faca evidenta warurilor in decurs a 48 de ore daca nu au inactivitate, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
 !!! example "Nota informativa"
-    Numarul de secunde pentru prezenta la Waruri poate fi modificat de catre lider in functie de Regulamentul [Liderilor -> Secundele la Waruri](/leaders/leader-rules/#secundele-la-waruri).
+    Numarul de secunde pentru prezenta la Waruri poate fi modificat de catre lider in functie de Regulamentul [Liderilor -> Secundele la Waruri](../leaders/leader-rules.md#secundele-la-waruri).
 
 ### Reguli Waruri Obligatorii
 

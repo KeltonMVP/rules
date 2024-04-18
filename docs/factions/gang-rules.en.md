@@ -4,7 +4,7 @@ icon: material/ammunition
 
 # Gang Rules
 
-Besides these rules, all members are obligated to respect both the [Server Rules](/en) as well as the specific Internal Rules of your faction outlined in the Internal Rules section below.
+Besides these rules, all members are obligated to respect both the [Server Rules](..) as well as the specific Internal Rules of your faction outlined in the Internal Rules section below.
 
 ## 1. Behaviour and Language
 
@@ -79,10 +79,10 @@ All requests for inactivity are made only on the website. A member is entitled t
     Members with approved inactivity requests are allowed to connect to the server and play. They will be exempt from the activity report.<br/>
     <span style="color:var(--pink);">Inactivity requests cannot be made for the current reporting week, only for the following weeks.</span>
 
-### Raport de Activitate
+### Activity Report
 
 In the case of gangs, the activity report consists of attendance at mandatory wars during the week (Monday-Friday).<br/>
-For more details, visit the section on [War Rules](/en/factions/gang-rules/#10-war-rules).
+For more details, visit the section on [War Rules](#10-war-rules).
 
 !!! example "Information Note"
     Players with accepted requests for inactivity or absence are exempt from attending wars.
@@ -218,7 +218,7 @@ In special cases, <span style="color:var(--pink);">Faction Punish 60 may be gran
 - in the absence of the leader, sub-leaders are required to keep track of wars within 48 hours if they are not inactive; otherwise, you will be punished with <span style="color:red;">Faction Warn.</span>
 
 !!! example "Info note"
-    The number of seconds for attendance at Wars can be modified by the leader according to the [Leader Rules -> War Seconds](/en/leaders/leader-rules/#war-seconds) regulation.
+    The number of seconds for attendance at Wars can be modified by the leader according to the [Leader Rules -> War Seconds](../leaders/leader-rules.md#war-seconds) regulation.
 
 ### Mandatory Wars Rules
 
