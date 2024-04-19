@@ -408,6 +408,18 @@ Blackmailing players to withdraw or not to create complaints and paying a player
 
     We recommend not engaging in discussions outside of the game with players whom you do not know and who are attempting to report you or have already done so.
 
+### Toxicity
+Players who repeatedly violate the rules, and whose behavior or actions negatively impact the gaming atmosphere and experience of others, will be considered toxic and sanctioned with <span style="color:red;">7 days to permanent ban</span>, <span style="color:var(--pink);">with the prohibition of playing on the server.</span>
+
+??? example "Some examples"
+    <span style="color:var(--pink);">Verbal Abuse or Aggressive Behavior:</span> repeated use of foul language, repeated insults, repeated vulgar language, repeated threats, with the aim of creating an unpleasant environment for others.
+
+    <span style="color:var(--pink);">Harassment:</span> intentionally and persistently targeting another player or group of players with the aim of disrupting their gaming experience and making them not want to play anymore.
+
+    <span style="color:var(--pink);">Discrimination or Racism:</span> repeated use of discriminatory or racist words/sentences that create a toxic environment for players from different social groups or communities.
+
+    <span style="color:var(--pink);">Repeated Rule Violations:</span> intentionally and repeatedly violating the rules, with no intention of stopping or respecting them.
+
 ## 8. Website
 
 ### Proofs

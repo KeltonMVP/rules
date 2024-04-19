@@ -410,6 +410,18 @@ Este interzisa santajarea sau tentativa de a santaja un jucator sa nu-i faci rec
 
     Va recomandam sa nu acceptati discutii in afara jocului cu jucatori pe care nu-i cunoasteti si care incearca sa va raporteze sau au facut-o deja.
 
+### Toxicitate
+Jucatorii care fac incalcari repetate ale regulamentului, care prin comportamentul sau actiunile lor repetate afecteaza negativ atmosfera de joc si experienta celorlalti, vor fi considerati toxici si sanctionati cu <span style="color:red;">ban 7 zile pana la permanent</span>, <span style="color:var(--pink);">cu interdictia de a mai juca pe server.</span>
+
+??? example "Cateva exemple"
+    <span style="color:var(--pink);">Abuz Verbal sau Comportament Agresiv:</span> folosirea repetata a unui limbaj grosolan, jigniri repetate, limbaj vulgar repetat, amenintari repetate, cu scopul de a crea un mediu neplacut pentru ceilalti.
+
+    <span style="color:var(--pink);">Hartuire:</span> vizarea in mod intentionat si persistent a unui alt jucator sau grup de jucatori cu scopul de a le perturba experienta de joc si a-i face sa nu mai doreasca sa joace.
+
+    <span style="color:var(--pink);">Discriminarea sau Rasismul:</span> utilizarea repetata de cuvinte/propozitii discriminatorii sau rasiste care creeaza un mediu toxic pentru jucatorii din diferite grupuri sau comunitati sociale.
+
+    <span style="color:var(--pink);">Incalcari Repetate de Regulament:</span> incalcarea intentionata si repetata a regulilor, fara vreo intentie de incetare si respetare a acestora.
+
 ## 8. Website
 
 ### Dovezi
