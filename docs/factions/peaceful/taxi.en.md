@@ -8,15 +8,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 1. Faction Commands
 
-- <span style="color:var(--pink);">[/fare <pret>]</span> - become on duty.
-- <span style="color:var(--pink);">[/accept taxi <Nume/ID>]</span> - accept an order.
-- <span style="color:var(--pink);">[/cancel taxi <Nume/ID>]</span> - cancel an order. This command can only be used in special cases (taxi on fire, run out of gas, the client has already found another car, the client asks you to) and only with evidence.
+- <span style="color:var(--pink);">[/fare < price >]</span> - become on duty.
+- <span style="color:var(--pink);">[/accept taxi < Name/ID >]</span> - accept an order.
+- <span style="color:var(--pink);">[/cancel taxi < Name/ID >]</span> - cancel an order. This command can only be used in special cases (taxi on fire, run out of gas, the client has already found another car, the client asks you to) and only with evidence.
 - <span style="color:var(--pink);">[/servicecalls]</span> - see unclaimed orders.
-- <span style="color:var(--pink);">[/f <text>]</span> - talk on the company's chat.
-- <span style="color:var(--pink);">[/tx <text>]</span> - talk on the taxi companies' chat.
+- <span style="color:var(--pink);">[/f < text >]</span> - talk on the company's chat.
+- <span style="color:var(--pink);">[/tx < text >]</span> - talk on the taxi companies' chat.
 - <span style="color:var(--pink);">[/members]</span> - how all faction members connected / disconnected / afk etc.
 - <span style="color:var(--pink);">[/skins]</span> or <span style="color:var(--pink);">[/clothes]</span> - change your skin when you're in the clothing store or inside the HQ.
-- <span style="color:var(--pink);">[/ftalkpower <0-5>]</span> - this command is used by rank 5+ to block chat for certain ranks.
+- <span style="color:var(--pink);">[/ftalkpower < 0-5 >]</span> - this command is used by rank 5+ to block chat for certain ranks.
 - <span style="color:var(--pink);">[/tog]</span> - display faction chat - toggle Company chat (Company chat will no longer be displayed - tc). Announcement must be made before using this command.
     - activate faction chat - Toggle Company chat on/off. (Members can/cannot use Company chat). Used only in exceptional cases. (Accessible to leader/subleader)
 - <span style="color:var(--pink);">[/fvr]</span> - respawn faction vehicles from rank 5.

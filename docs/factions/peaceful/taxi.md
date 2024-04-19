@@ -8,33 +8,33 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 1. Comenzile Factiunii
 
-- <span style="color:var(--pink);">[/fare <pret>]</span> - devii on duty.
-- <span style="color:var(--pink);">[/accept taxi <Nume/ID>]</span> - accepti o comanda.
-- <span style="color:var(--pink);">[/cancel taxi <Nume/ID>]</span> - anulezi o comanda. Aceasta comanda poate fi folosita numai in cazuri speciale (taxi in flacari, ramai fara benzina, clientul a gasit deja o masina, iti cere clientul) si doar cu dovada.
+- <span style="color:var(--pink);">[/fare < pret >]</span> - devii on duty.
+- <span style="color:var(--pink);">[/accept taxi < Nume/ID >]</span> - accepti o comanda.
+- <span style="color:var(--pink);">[/cancel taxi < Nume/ID >]</span> - anulezi o comanda. Aceasta comanda poate fi folosita numai in cazuri speciale (taxi in flacari, ramai fara benzina, clientul a gasit deja o masina, iti cere clientul) si doar cu dovada.
 - <span style="color:var(--pink);">[/servicecalls]</span> - vezi comenzile nepreluate.
-- <span style="color:var(--pink);">[/f <text>]</span> - vorbesti pe chatul companiei.
-- <span style="color:var(--pink);">[/tx <text>]</span> - vorbesti pe chatul dintre companiile de taxi.
+- <span style="color:var(--pink);">[/f < text >]</span> - vorbesti pe chatul companiei.
+- <span style="color:var(--pink);">[/tx < text >]</span> - vorbesti pe chatul dintre companiile de taxi.
 - <span style="color:var(--pink);">[/members]</span> - arata toti membrii din factiune conectati / neconectati / afk etc.
 - <span style="color:var(--pink);">[/skins]</span> sau <span style="color:var(--pink);">[/clothes]</span> - iti schimbi skin-ul cand esti in magazinul de haine sau in interiorul HQ-ului.
-- <span style="color:var(--pink);">[/ftalkpower <0-5>]</span> - aceasta comanda este folosita de rank 5+ pentru a bloca chatul pentru anumite rank-uri.
+- <span style="color:var(--pink);">[/ftalkpower < 0-5 >]</span> - aceasta comanda este folosita de rank 5+ pentru a bloca chatul pentru anumite rank-uri.
 - <span style="color:var(--pink);">[/tog]</span> - afiseaza chat-ul factiunii - inchizi / deschizi chat-ul Companiei (Nu ti se va mai afisa chat-ul companiei - tc). Se anunta inainte de a se folosi aceasta comanda.
       - activeaza chat-ul factiunii - Blochezi / deblochezi chat-ul Comaniei. (Membrii pot / nu pot folosi chatul Companiei). Se foloseste numai in cazuri exceptionale. (Accesibila liderului / subliderului)
 - <span style="color:var(--pink);">[/fvr]</span> - respawnezi vehiculele factiunii de la rank 5.
 - <span style="color:var(--pink);">[/fvs]</span> - spawnezi un vehicul al factiunii.
 - <span style="color:var(--pink);">[/fmotd]</span> - vezi mesajul zilei.
       - pentru Lider/sublider: scrie / sterge mesajul zilei.
-- <span style="color:var(--pink);">[/fdeposit <suma>]</span> - depui o suma de bani in seiful factiunii.
-- <span style="color:var(--pink);">[/fputmaterials <cantitate>]</span> - depui o cantitate de materiale in seiful factiunii.
-- <span style="color:var(--pink);">[/getmaterials <cantitate>]</span> - extragi o cantitate de materiale din seiful factiunii de la rank 4.
-- <span style="color:var(--pink);">[/fputdrugs <cantitate>]</span> - depui o cantitate de droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetdrugs <cantitate>]</span> - extragi o cantitate de droguri din seiful factiunii de la rank 4.
-- <span style="color:var(--pink);">[/fwithdrawpower <1-6>]</span> - aceasta comanda permite membrilor de anumite rank-uri sa extraga bani din seiful factiunii.
-- <span style="color:var(--pink);">[/fwithdraw <money/drugs/materials <suma>]</span> - extragi o suma de bani din seiful factiunii ca Lider/sublider.
+- <span style="color:var(--pink);">[/fdeposit < suma >]</span> - depui o suma de bani in seiful factiunii.
+- <span style="color:var(--pink);">[/fputmaterials < cantitate >]</span> - depui o cantitate de materiale in seiful factiunii.
+- <span style="color:var(--pink);">[/getmaterials < cantitate >]</span> - extragi o cantitate de materiale din seiful factiunii de la rank 4.
+- <span style="color:var(--pink);">[/fputdrugs < cantitate >]</span> - depui o cantitate de droguri in seiful factiunii.
+- <span style="color:var(--pink);">[/fgetdrugs < cantitate >]</span> - extragi o cantitate de droguri din seiful factiunii de la rank 4.
+- <span style="color:var(--pink);">[/fwithdrawpower < 1-6 >]</span> - aceasta comanda permite membrilor de anumite rank-uri sa extraga bani din seiful factiunii.
+- <span style="color:var(--pink);">[/fwithdraw < money/drugs/materials > < suma >]</span> - extragi o suma de bani din seiful factiunii ca Lider/sublider.
 - <span style="color:var(--pink);">[/vehrank]</span> - setezi rank-ul vehiculelor factiunii. Se poate folosi numai in interiorul HQ-ului ca Lider/sublider.
 - <span style="color:var(--pink);">[/testers]</span> - vezi testerii online / la datorie ca Lider/sublider.
 - <span style="color:var(--pink);">[/tduty]</span> - devii la datorie ca tester de la rank 4.
 - <span style="color:var(--pink);">[/ft]</span> - vezi candidatii online / AFK pentru teste / porneste testul cu un candidat de la rank 4.
-- <span style="color:var(--pink);">[/togcomms <Nume/ID>]</span> - blochezi / deblochezi caile de comunicatie ale candidatului de la rank 4.
+- <span style="color:var(--pink);">[/togcomms < Nume/ID >]</span> - blochezi / deblochezi caile de comunicatie ale candidatului de la rank 4.
 - <span style="color:var(--pink);">[/open]</span> - aceasta comanda inchide / deschide sala de antrenament a factiunii de la rank 4.
 - <span style="color:var(--pink);">[/sleep]</span> - dormi in interiorul HQ-ului.
 - <span style="color:var(--pink);">[/myreport]</span> sau <span style="color:var(--pink);">[/raport]</span> - cu aceasta comanda puteti vizualiza activitatea din saptamana respectiva (punctele de recuperat / pentru raportul curent / pentru bonus, data pentru Rank-up etc).
