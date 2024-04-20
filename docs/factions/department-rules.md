@@ -387,7 +387,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">13.11</span> Daca un jucator calca un politist care se afla pe jos, iar acesta pierde din viata, jucatorul o sa primeasca wanted pentru atacare politist. In schimb, daca politistul se afla intr-un vehicul si jucatorul il loveste cu un vehicul de mai multe ori, o sa primeasca wanted pentru Drive-by (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.12</span> Pentru a acorda wanted 1 pentru "furt" unui jucator, acesta trebuie sa va fure masina personala, indiferent ca sunteti in misiune sau nu. Daca masina va este furata de catre suspectul vostru (pleaca cu e a), acesta o sa primeasca Wanted 6 runner fara alte somatii(<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">13.12</span> Pentru a acorda wanted 1 pentru "furt" unui jucator, acesta trebuie sa va fure masina personala, indiferent ca sunteti in misiune sau nu. Daca masina va este furata de catre suspectul vostru (pleaca cu ea), acesta o sa primeasca Wanted 6 runner fara alte somatii (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">13.13</span> Pentru a acorda wanted 3 „atacare politist”, jucatorul trebuie sa va atace cu pumnii/picioarele de minim 4 ori sau o data cu o arma. Asigurati-va ca aveti VIDEO sau POZE MULTIPLE, altfel riscati sa fiti sanctionati pentru dovezi insuficiente (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -462,7 +462,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - liderii trebuie sa fie de acord amandoi ca membrul sa fie transferat intre departamente.
 - daca transferul a fost acceptat, membrul trebuie sa isi puna demisia si sa aplice in departamentul unde doreste sa se transfere.
 - daca transferul este intre departamente de politie, nu se vor sustine teste si membrul primeste imediat Rank 1.
-- daca transferul este intre departament de politie si National Guard sau FBI, a tunci membrul va sustine un test ales de catre - liderul departamentului in care doreste sa se transfere.
+- daca transferul este intre departament de politie si National Guard sau FBI, atunci membrul va sustine un test ales de catre - liderul departamentului in care doreste sa se transfere.
 - daca membrul trece testul oferit de catre lider, acesta poate sa primeasca Rank 1 si transferul este finalizat.
 - daca membrul pica testul, acesta va deveni civil.
 - daca membrul are aplicatia copiata sau facuta in batjocura, acesta va fi respins.
