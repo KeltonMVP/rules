@@ -1723,7 +1723,7 @@
 <li><span style="color:var(--pink);">[/f &lt; text &gt;]</span> - talk on the company's chat.</li>
 <li><span style="color:var(--pink);">[/tx &lt; text &gt;]</span> - talk on the taxi companies' chat.</li>
 <li><span style="color:var(--pink);">[/members]</span> - how all faction members connected / disconnected / afk etc.</li>
-<li><span style="color:var(--pink);">[/skins]</span> or <span style="color:var(--pink);">[/clothes]</span> - change your skin when you're in the clothing store or inside the HQ.</li>
+<li><span style="color:var(--pink);">[/skins]</span> or <span style="color:var(--pink);">[/clothes]</span> - change your skin when you're in the clothing store, inside the HQ or the house.</li>
 <li><span style="color:var(--pink);">[/ftalkpower &lt; 0-5 &gt;]</span> - this command is used by rank 5+ to block chat for certain ranks.</li>
 <li><span style="color:var(--pink);">[/tog]</span> - display faction chat - toggle Company chat (Company chat will no longer be displayed - tc). Announcement must be made before using this command.<ul>
 <li>activate faction chat - Toggle Company chat on/off. (Members can/cannot use Company chat). Used only in exceptional cases. (Accessible to leader/subleader)</li>
@@ -1737,11 +1737,11 @@
 </li>
 <li><span style="color:var(--pink);">[/fdeposit &lt; amount &gt;]</span> - deposit an amount of money into the faction's safe.</li>
 <li><span style="color:var(--pink);">[/fputmaterials &lt; quantity &gt;]</span> - deposit a quantity of materials into the faction's safe.</li>
-<li><span style="color:var(--pink);">[/getmaterials &lt; quantity &gt;]</span> - extract a quantity of materials from the faction's safe from rank 4.</li>
+<li><span style="color:var(--pink);">[/fgetmaterials &lt; quantity &gt;]</span> - extract a quantity of materials from the faction's safe.</li>
 <li><span style="color:var(--pink);">[/fputdrugs &lt; quantity &gt;]</span> - deposit a quantity of drugs into the faction's safe.</li>
-<li><span style="color:var(--pink);">[/fgetdrugs &lt; quantity &gt;]</span> - extract a quantity of drugs from the faction's safe from rank 4.</li>
+<li><span style="color:var(--pink);">[/fgetdrugs &lt; quantity &gt;]</span> - extract a quantity of drugs from the faction's safe.</li>
 <li><span style="color:var(--pink);">[/fwithdrawpower &lt; 1-6 &gt;]</span> - this command allows members of certain ranks to withdraw money from the faction's safe.</li>
-<li><span style="color:var(--pink);">[/fwithdraw &lt; money/drugs/materials &gt; &lt; amount &gt;]</span> - withdraw a sum of money from the faction's safe as Leader/Subleader.</li>
+<li><span style="color:var(--pink);">[/fwithdraw &lt; amount &gt;]</span> - withdraw a sum of money from the faction's safe as Leader/Subleader.</li>
 <li><span style="color:var(--pink);">[/vehrank]</span> - set the rank of faction vehicles. Can only be used inside the HQ as Leader/Subleader.</li>
 <li><span style="color:var(--pink);">[/testers]</span> - see online testers/on duty as Leader/Subleader.</li>
 <li><span style="color:var(--pink);">[/tduty]</span> - become on duty as a tester from rank 4.</li>
@@ -1774,7 +1774,7 @@
 <p><span style="color:var(--pink);">3.3</span> Members of rank 5+ are allowed to close the chat for certain ranks [/ftalkpower] only with the consent of the leader or subleader (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">3.4</span> Direct command is used without consent when there is a heated argument that needs to be diffused, in case the leader or one of the sub-leaders is not online, but you will also need evidence (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">3.5</span> It is forbidden to transform [/tx] into [/f] (chitchat, stories, arguing place, greetings, etc.) between 08:00 - 22:00 (<span style="color:red;">sanction: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">3.6</span> You are allowed to use the chat [/tx] openly, like faction chat [/f], only between 22:00 - 08:00 (<span style="color:red;">sanction: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">3.6</span> You are allowed to use the chat [/tx] openly only between 22:00 - 08:00 (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <div class="admonition danger">
 <p class="admonition-title">Important</p>
 <p>Chat <span style="color:var(--pink);">[/tx]</span> was created with the purpose of helping each other. Use it effectively between 08:00 - 22:00, continue the discussion on <span style="color:var(--pink);">[/sms]</span> with the colleague who will respond (help when someone doesn't know a location, repair/refill, robbery partners, radar locations, help for bunker/quest/events, or other server activities where we can assist each other if needed).</p>
@@ -1840,11 +1840,11 @@
 <p><span style="color:var(--pink);">6.14</span> Do not accept to fulfill a request from the client to take them 1 km, drive them around, or perform a round trip order (example: "Take me 1 km to help me with a report; Take me to the PNS-back to CNN LS'' or similar cases). When faced with such a situation, explain to the client that the taxi is not for joyriding, then ask if they really need to be taken to an exact location (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Dismissal</span> for the next one).</p>
 <p><span style="color:var(--pink);">6.15</span> If, upon reaching the destination, before the client exits, another potential client gets into the taxi, you are obliged to ask them to exit and re-enter the taxi, after the previous client has exited the taxi (the message appears indicating that they have exited and paid a sum of money) (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">6.16</span> When you are transporting multiple clients in the taxi (when there are several friends), and the second or third person to get in after the first person does not want to get off at the same location as the first person, you are obliged to ask them to get out of the taxi and get back in. If you leave them in the taxi without asking them to get back in, you will transport them for $0, which violates the rules.</p>
-<p><span style="color:var(--pink);">6.17</span> You are not allowed to report, be on /duty with fare while having a wanted level with surrender rights or without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">6.17</span> You are not allowed to report, be on [<span style="color:var(--pink);">/duty</span>] with fare while having a wanted level with surrender rights or without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">6.18</span> Anyone who does not know all the important locations on the server will be sanctioned with a <span style="color:red;">Faction Warn</span>.</p>
 <h2 id="7-complaints">7. Complaints<a class="headerlink" href="#7-complaints" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">7.1</span> You can find the main rules in the <a href="../../peaceful-and-mixt-faction-rules/#5-website-complaints">Peaceful and Mixed Faction Rules</a>.</p>
-<p><span style="color:var(--pink);">7.2</span> Evidence in complaints must be uploaded to <a href="http://imgur.com/">www.imgur.com</a>, <a href="https://photos.google.com/">google photos</a>, <a href="https://postimages.org/">postimages.org</a>, <a href="https://streamable.com/">streamable.com</a>, or <a href="https://youtube.com/upload">Youtube</a>. If the evidence is not uploaded to these platforms, the leader will not access it. The leader does not risk their PC data.</p>
+<p><span style="color:var(--pink);">7.2</span> Evidence in complaints must be uploaded to <a href="http://imgur.com/">imgur.com</a>, <a href="https://photos.google.com/">google photos</a>, <a href="https://postimages.org/">postimages.org</a>, <a href="https://streamable.com/">streamable.com</a>, or <a href="https://youtube.com/upload">Youtube</a>. If the evidence is not uploaded to these platforms, the leader will not access it. The leader does not risk their PC data.</p>
 <p><span style="color:var(--pink);">7.3</span> It is strictly forbidden to randomly complain (open PMs) to a faction colleague or from another taxi company with the aim of causing trouble, hindering them, the situation not directly affecting you beforehand (violation of this rule is punishable according to the severity of the situation, <span style="color:red;">sanction: Verbal Warning</span> <span style="color:var(--pink);">and ignoring PMs</span> for the first offense, or <span style="color:red;">Faction Warn</span> or <span style="color:red;">Dismissal</span> if repeated).</p>
 <h2 id="8-faction-vehicles">8. Faction Vehicles<a class="headerlink" href="#8-faction-vehicles" title="Permanent link">&para;</a></h2>
 <figure>
@@ -1889,7 +1889,7 @@
 <h2 id="10-meetings-and-activities">10. Meetings and Activities<a class="headerlink" href="#10-meetings-and-activities" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">10.1</span> Mandatory activities can only be organized by the Leader with a well-founded reason and the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to be absent, except for players who have submitted an inactivity request for the respective week. A mandatory activity is valid as long as it is announced at least one week in advance.</p>
 <p><span style="color:var(--pink);">10.2</span> Optional activities can still be conducted by a rank 4+ member only after the Leader has given consent. These must be announced <span style="color:var(--pink);">at least 48 hours in advance</span>, and their frequency should not exceed once per week.</p>
-<p><span style="color:var(--pink);">10.3</span> Abuse of animations that disrupt the organization of the activity or meeting is strictly prohibited. Use the /gro or /chairsit command and remain calm (<span style="color:red;">sanction: Verbal Warning</span>).</p>
+<p><span style="color:var(--pink);">10.3</span> Abuse of animations that disrupt the organization of the activity or meeting is strictly prohibited. Use the [<span style="color:var(--pink);">/gro</span>] or [<span style="color:var(--pink);">/chairsit</span>] command and remain calm (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">10.4</span> Do not attend activities/meetings with a wanted level (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">10.5</span> For subleaders, attendance at activities is optional.</p>
 <p><span style="color:var(--pink);">10.6</span> If a mandatory attendance activity is scheduled during wars, faction level 1-3 admins reserve the right to be absent, unsanctioned, with the obligation to fulfill their duties in catching the wanted criminals during wars.</p>
@@ -1941,7 +1941,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 19, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 21, 2024</span>
   </span>
 
     
