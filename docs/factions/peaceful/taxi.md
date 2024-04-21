@@ -15,22 +15,22 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/f < text >]</span> - vorbesti pe chatul companiei.
 - <span style="color:var(--pink);">[/tx < text >]</span> - vorbesti pe chatul dintre companiile de taxi.
 - <span style="color:var(--pink);">[/members]</span> - arata toti membrii din factiune conectati / neconectati / afk etc.
-- <span style="color:var(--pink);">[/skins]</span> sau <span style="color:var(--pink);">[/clothes]</span> - iti schimbi skin-ul cand esti in magazinul de haine sau in interiorul HQ-ului.
+- <span style="color:var(--pink);">[/skins]</span> sau <span style="color:var(--pink);">[/clothes]</span> - iti schimbi skin-ul cand esti in magazinul de haine, interiorul HQ-ului sau in casa.
 - <span style="color:var(--pink);">[/ftalkpower < 0-5 >]</span> - aceasta comanda este folosita de rank 5+ pentru a bloca chatul pentru anumite rank-uri.
-- <span style="color:var(--pink);">[/tog]</span> - afiseaza chat-ul factiunii - inchizi / deschizi chat-ul Companiei (Nu ti se va mai afisa chat-ul companiei - tc). Se anunta inainte de a se folosi aceasta comanda.
-      - activeaza chat-ul factiunii - Blochezi / deblochezi chat-ul Comaniei. (Membrii pot / nu pot folosi chatul Companiei). Se foloseste numai in cazuri exceptionale. (Accesibila liderului / subliderului)
+- <span style="color:var(--pink);">[/tog]</span> - afiseaza chatul factiunii - inchizi / deschizi chatul Companiei (Nu ti se va mai afisa chatul companiei - tc). Se anunta inainte de a se folosi aceasta comanda.
+      - activeaza chatul factiunii - Blochezi / deblochezi chatul Comaniei. (Membrii pot / nu pot folosi chatul Companiei). Se foloseste numai in cazuri exceptionale. (Accesibila liderului / subliderului)
 - <span style="color:var(--pink);">[/fvr]</span> - respawnezi vehiculele factiunii de la rank 5.
 - <span style="color:var(--pink);">[/fvs]</span> - spawnezi un vehicul al factiunii.
 - <span style="color:var(--pink);">[/fmotd]</span> - vezi mesajul zilei.
       - pentru Lider/sublider: scrie / sterge mesajul zilei.
 - <span style="color:var(--pink);">[/fdeposit < suma >]</span> - depui o suma de bani in seiful factiunii.
 - <span style="color:var(--pink);">[/fputmaterials < cantitate >]</span> - depui o cantitate de materiale in seiful factiunii.
-- <span style="color:var(--pink);">[/getmaterials < cantitate >]</span> - extragi o cantitate de materiale din seiful factiunii de la rank 4.
+- <span style="color:var(--pink);">[/fgetmaterials < cantitate >]</span> - extragi o cantitate de materiale din seiful factiunii.
 - <span style="color:var(--pink);">[/fputdrugs < cantitate >]</span> - depui o cantitate de droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetdrugs < cantitate >]</span> - extragi o cantitate de droguri din seiful factiunii de la rank 4.
+- <span style="color:var(--pink);">[/fgetdrugs < cantitate >]</span> - extragi o cantitate de droguri din seiful factiunii.
 - <span style="color:var(--pink);">[/fwithdrawpower < 1-6 >]</span> - aceasta comanda permite membrilor de anumite rank-uri sa extraga bani din seiful factiunii.
-- <span style="color:var(--pink);">[/fwithdraw < money/drugs/materials > < suma >]</span> - extragi o suma de bani din seiful factiunii ca Lider/sublider.
-- <span style="color:var(--pink);">[/vehrank]</span> - setezi rank-ul vehiculelor factiunii. Se poate folosi numai in interiorul HQ-ului ca Lider/sublider.
+- <span style="color:var(--pink);">[/fwithdraw < suma >]</span> - extragi o suma de bani din seiful factiunii ca Lider/sublider.
+- <span style="color:var(--pink);">[/vehrank]</span> - setezi rankul vehiculelor factiunii. Se poate folosi numai in interiorul HQ-ului ca Lider/sublider.
 - <span style="color:var(--pink);">[/testers]</span> - vezi testerii online / la datorie ca Lider/sublider.
 - <span style="color:var(--pink);">[/tduty]</span> - devii la datorie ca tester de la rank 4.
 - <span style="color:var(--pink);">[/ft]</span> - vezi candidatii online / AFK pentru teste / porneste testul cu un candidat de la rank 4.
@@ -66,13 +66,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.2</span> Este interzis sa dati [/tog] si sa dezactivati chatul factiunii fara acord special din partea liderului (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">3.3</span> Membrii de rank 5+ au voie sa inchida chat-ul pentru anumite rank-uri [/ftalkpower] doar cu acordul liderului / subliderului (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">3.3</span> Membrii de rank 5+ au voie sa inchida chatul pentru anumite rank-uri [/ftalkpower] doar cu acordul liderului / subliderului (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">3.4</span> Se foloseste direct comanda fara acord, atunci cand este o cearta aprinsa si trebuie atenuata, in cazul in care liderul sau unul dintre sublideri nu este online, insa veti avea nevoie si de dovezi (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">3.5</span> Este interzis sa transformati [/tx] in [/f] (taclale, povesti, loc de cearta, saluturi etc.) intre orele 08:00 - 22:00 (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.6</span> Va este permis sa utilizati chatul [/tx] intr-o maniera deschisa, gen chat [/f] doar intre orele 22:00 - 08:00 (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">3.6</span> Va este permis sa utilizati chatul [/tx] intr-o maniera deschisa doar intre orele 22:00 - 08:00 (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 !!! danger "Important"
     Chat <span style="color:var(--pink);">[/tx]</span> a fost facut cu scopul de a ne ajuta reciproc. Folositi-l eficient in intervalul 08:00 - 22:00, continuati discutia pe <span style="color:var(--pink);">[/sms]</span> cu colegul care va raspunde (ajutor cand cineva nu cunoaste o locatie, repair/refill, parteneri de rob, locatii unde se afla radare, ajutor pentru bunker / quest / evenimente sau alte activitati de pe server in care ne putem ajuta daca avem nevoie).
@@ -122,7 +122,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - atunci cand clientul cere aceasta fie prin /sms fie cand ajungeti la el (necesita SS).
 - atunci cand clientul este in apa sau pe apa cu barca (necesita SS).
 - atunci cand clientul este pe o cladire sau in aer cu un vehicul zburator (necesita SS).
-- atunci cand checkpoint-ul se tot schimba dintr-un oras in altul (necesita SS, Video).
+- atunci cand checkpointul se tot schimba dintr-un oras in altul (necesita SS, Video).
 - atunci cand clientul te insulta, jigneste, ameninta pe /sms sau /call (necesita dovezi).
 - acesta este AFK atunci cand ajungeti la el. 
 
@@ -130,7 +130,7 @@ Lipsa dovezilor in cazul reclamatiilor pentru [<span style="color:var(--pink);">
 
 <span style="color:var(--pink);">6.8</span> Membrii LV Taxi isi rezerva dreptul de a opri la un Pay'n'Spray (PNS), care se afla in drum spre destinatia dorita de client, numai pe baza unei dovezi clare, in care se vede ca taxiul condus scoate fum. Nu aveti﻿ voie sa ocoliti pentru a ajunge la un Pay'n'Spray sau sa faceti asta fara o dovada concreta (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.9</span> Membrii LV Taxi sunt obligati sa nu porneasca de pe loc pana cand clientul nu a urcat in masina si pana cand acesta nu zice o locatie finala sau un punct de reper (daca taximetristul a parcat ilegal taxi-ul, acesta poate parca regulamentar in cel mai apropiat loc posibil, asta numai dupa ce clientul a urcat) (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">6.9</span> Membrii LV Taxi sunt obligati sa nu porneasca de pe loc pana cand clientul nu a urcat in masina si pana cand acesta nu zice o locatie finala sau un punct de reper (daca taximetristul a parcat ilegal taxiul, acesta poate parca regulamentar in cel mai apropiat loc posibil, asta numai dupa ce clientul a urcat) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.10</span> Aveti dreptul sa refuzati o comanda daca locatia ceruta de client nu este trecuta la locatii importante pe forum, nu se afla pe [<span style="color:var(--pink);">/gps</span>], clientul nu va spune un punct de reper sau ID de casa/biz (de exemplu daca va spune ca vrea la Verdant Meadows nu sunteti obligati sa il duceti, dar daca va spune ca vrea pe aeroport parasit lv la biz rent plane trebuie sa il duceti) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -162,7 +162,7 @@ La toate regulile de mai sus trebuie sa aveti dovezi (SS) pentru a dovedi ca nu 
 
 <span style="color:var(--pink);">6.16</span> Atunci cand duceti mai multi clienti in taxi (cand sunt mai multi prieteni) si cel de-al doilea sau al treilea urcat dupa primul urcat in taxi, nu doreste sa coboare la aceeasi locatie cu primul, aveti obligatia sa il rugati sa urce iar in taxi, deoarece daca il lasati in taxi fara sa urce iar in taxi, o sa-l duceti cu plata 0$, ceea ce duce la incalcarea regulamentului.
 
-<span style="color:var(--pink);">6.17</span> Nu aveti voie sa faceti raport, sa fiti /duty cu fare avand wanted cu drept de predare sau fara drept (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">6.17</span> Nu aveti voie sa faceti raport, sa fiti [<span style="color:var(--pink);">/duty</span>] cu fare avand wanted cu drept de predare sau fara drept (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.18</span> Cine nu cunoaste toate locatiile importante de pe server va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
 
@@ -170,9 +170,9 @@ La toate regulile de mai sus trebuie sa aveti dovezi (SS) pentru a dovedi ca nu 
 
 <span style="color:var(--pink);">7.1</span> Principalele reguli le gasiti in [Regulamentul Factiunilor Pasnice si Mixte](../peaceful-and-mixt-faction-rules.md#5-reclamatii-website).
 
-<span style="color:var(--pink);">7.2</span> Dovezile din reclamatie trebuie sa fie incarcate pe [www.imgur.com](http://imgur.com/), [google photos](https://photos.google.com/), [postimages.org](https://postimages.org/), [streamable.com](https://streamable.com/) sau pe [Youtube](https://youtube.com/upload). Daca dovezile nu sunt incarcate pe aceste platforme, liderul nu le va accesa. Liderul nu isi pericliteaza datele PC-ului.
+<span style="color:var(--pink);">7.2</span> Dovezile din reclamatie trebuie sa fie incarcate pe [imgur.com](http://imgur.com/), [google photos](https://photos.google.com/), [postimages.org](https://postimages.org/), [streamable.com](https://streamable.com/) sau pe [Youtube](https://youtube.com/upload). Daca dovezile nu sunt incarcate pe aceste platforme, liderul nu le va accesa. Liderul nu isi pericliteaza datele PC-ului.
 
-<span style="color:var(--pink);">7.3</span> Este strict interzis sa reclamati aiurea (sa deschideti PM-uri) unui coleg de factiune sau din alta companie de taxi cu scopul de a-l incurca , de a-i baga bete in roate, situatia in prealabil neafectandu-va in mod direct (nerespectarea acestei reguli este sanctionabila in functie de gravitatea situatiei, <span style="color:red;">sanctiune: Avertisment Verbal</span> <span style="color:var(--pink);">si ignorarea PM-urilor</span> la prima abatere, ori <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, daca se repeta).
+<span style="color:var(--pink);">7.3</span> Este strict interzis sa reclamati aiurea (sa deschideti PM-uri) unui coleg de factiune sau din alta companie de taxi cu scopul de a-l incurca, de a-i baga bete in roate, situatia in prealabil neafectandu-va in mod direct (nerespectarea acestei reguli este sanctionabila in functie de gravitatea situatiei, <span style="color:red;">sanctiune: Avertisment Verbal</span> <span style="color:var(--pink);">si ignorarea PM-urilor</span> la prima abatere, ori <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, daca se repeta).
 
 ## 8. Vehiculele Factiunii
 
@@ -242,7 +242,7 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 <span style="color:var(--pink);">10.2</span> Activitatile optionale pot fi inca realizate de catre un rank 4+ doar dupa ce liderul si-a exprimat acordul. Acestea trebuie anuntate cu <span style="color:var(--pink);">cel putin 48 de ore inainte</span>, iar frecventa lor sa nu fie mai mare de 1 pe saptamana.
 
-<span style="color:var(--pink);">10.3</span> Abuzul de anim-uri care deranjeaza organizarea activitatii sau a sedintei este strict interzis. Folositi comanda /gro sau /chairsit si stati linistiti (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">10.3</span> Abuzul de animuri care deranjeaza organizarea activitatii sau a sedintei este strict interzis. Folositi comanda [<span style="color:var(--pink);">/gro</span>] sau [<span style="color:var(--pink);">/chairsit</span>] si stati linistiti (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">10.4</span> Nu veniti cu wanted la activitate/sedinta (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
@@ -260,11 +260,11 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 <span style="color:var(--pink);">11.3</span> Testerilor factiunii le este strict interzis sa treaca playerii acceptati ca "Trecuti la teste" dupa ce trec testele, adica nu au voie sa dea invite (de la rank 0 la rank 1) (<span style="color:red;">sanctiune: Faction Warn + inlaturarea statutului de Tester</span>).
 
-<span style="color:var(--pink);">11.4</span> Tester-ul trebuie sa ii dea candidatului Respins la teste in cazul in care candidatul a picat una din probele sustinute la testul de intrare.
+<span style="color:var(--pink);">11.4</span> Testerul trebuie sa ii dea candidatului Respins la teste in cazul in care candidatul a picat una din probele sustinute la testul de intrare.
 
 <span style="color:var(--pink);">11.5</span> Candidatilor (rank 0) le este strict interzis sa foloseasca vehiculele factiunii sau vehiculele din celelalte companii de taxi pana nu primesc rank 1. Exceptie fiind in timpul testului de intrare (<span style="color:red;">sanctiune: picarea testului de intrare</span>).
 
-<span style="color:var(--pink);">11.6</span> Candidatilor (rank 0) le este strict interzis sa foloseasca chat-ul companiilor de taxi [/tx] (<span style="color:red;">sanctiune: picarea testului de intrare</span>).
+<span style="color:var(--pink);">11.6</span> Candidatilor (rank 0) le este strict interzis sa foloseasca chatul companiilor de taxi [/tx] (<span style="color:red;">sanctiune: picarea testului de intrare</span>).
 
 <span style="color:var(--pink);">11.7</span> Daca candidatul a trecut probele de intrare, folositi comanda [/togcomms].
 

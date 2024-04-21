@@ -14,7 +14,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/accept <medic> <ID>]</span> - to accept a call. A red checkpoint will appear on your map, indicating the patient's location.
 - <span style="color:var(--pink);">[/cancel <medic> <ID>]</span> - to cancel a call. The set checkpoint will disappear. Note: Use this command with a valid reason and always provide evidence (screenshots or video).
 - <span style="color:var(--pink);">[/duty]</span> - to start taking orders (you cannot take orders if you are off-duty).
-- <span style="color:var(--pink);">[/clothes]</span> - to change your skin (at Binco).
+- <span style="color:var(--pink);">[/clothes]</span> - to change your skin inside the clothes store, HQ or house.
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/timestamp]</span> - displays the time in chat. This command should always be active.
 - <span style="color:var(--pink);">[/fdeposit]</span> - adds a sum of money to the faction's safe.
@@ -42,7 +42,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">2.7</span> Parking personal vehicles in the HQ courtyard is not permitted (<span style="color:orange;">sanction: fine according to the Fines section</span>).
 
-<span style="color:var(--pink);">2.8</span> You are allowed to have colleagues from the faction or one person with you in the vehicle (or on it), but there must be at least one free space for patients (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">2.8</span> You are allowed to have colleagues from the faction or one person with you in the vehicle (or on it), but there must be at least one free space for patients (except Romero) (<span style="color:red;">sanction: Verbal Warning</span>).
 
 <span style="color:var(--pink);">2.9</span> Paramedics on duty are obligated to accept the orders received if they are in an Ambulance/Raindance/Ranger and to go after all corpses if they are in a Romero-type vehicle. If you have a valid reason for not being able to accept the order or go after a corpse, you must provide clear explanations and evidence (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -87,15 +87,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.3</span> All members are required to use /duty when driving faction vehicles (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.4</span> When taking a vehicle from the faction, announce it in the chat (/r Ambulance/Raindance/Ranger/Romero to me) (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">4.4</span> When taking a vehicle from the faction, announce it in the chat [/r Ambulance/Raindance/Ranger/Romero to me] (<span style="color:red;">sanction: Verbal Warning</span>).
 
 <span style="color:var(--pink);">4.5</span> You are required to destroy the service vehicle after you have finished using it (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.6</span> When destroying the faction vehicle, announce it in chat (/r Ambulance/Raindace/Ranger/Romero rr) (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">4.6</span> When destroying the faction vehicle, announce it in chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanction: Verbal Warning</span>).
 
 <span style="color:var(--pink);">4.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.8</span> The siren is only to be used if you have an accepted command (/accept medic) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.8</span> The siren is only to be used if you have an accepted command [/accept medic] (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.9</span> You are allowed to go AFK off-duty in the faction vehicle, but not for more than 120 seconds (2 minutes) (<span style="color:red;">sanction: Faction Warn</span>).
 

@@ -14,13 +14,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/accept < medic > < ID >]</span> - pentru a accepta un apel. Va va aparea un checkpoint rosu pe harta, acolo se afla pacientul.
 - <span style="color:var(--pink);">[/cancel < medic > < ID >]</span> - pentru a anula un apel. Checkpointul setat va disparea. Atentie: Se foloseste cu un motiv intemeiat si mereu insotita de dovezi (SS ori video)
 - <span style="color:var(--pink);">[/duty]</span> - pentru a putea lua comenzi (daca esti off-duty nu poti lua comenzi).
-- <span style="color:var(--pink);">[/clothes]</span> - pentru a schimba skinul (in Binco).
+- <span style="color:var(--pink);">[/clothes]</span> - pentru a schimba skinul in magazinele de haine, in HQ sau in casa.
 - <span style="color:var(--pink);">[/fvs]</span> - pentru a spawna un vehicul al factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
 - <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
 - <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
-- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii. 
+- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii. 
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii online, iar cei on-duty sunt evidentiati cu verde (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre medici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/corpses]</span> - afiseaza o lista cu toate cadavrele ce pot fi ridicate.
@@ -42,7 +42,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">2.7</span> Nu este permisa parcarea vehiculelor personale in curtea HQ-ului (<span style="color:orange;">sanctiune: amenda conform rubricii Amenzi</span>).
 
-<span style="color:var(--pink);">2.8</span> Aveti voie sa tineti cu voi in vehicul (sau pe el) doar colegii din factiune sau o persoana, dar sa ramana cel putin un loc liber pentru pacienti (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">2.8</span> Aveti voie sa tineti cu voi in vehicul (sau pe el) doar colegii din factiune sau o persoana, dar sa ramana cel putin un loc liber pentru pacienti (exceptie Romero) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">2.9</span> Membrii Paramedics la datorie sunt obligati sa accepte comenzile primite daca se afla pe Ambulanta/Raindance/Ranger si sa mearga dupa toate cadavrele aparute daca se afla pe un vehicul de tip Romero. Daca aveti un motiv intemeiat pentru care nu puteti accepta comanda sau nu puteti merge dupa un cadavru trebuie sa veniti cu explicatii clare si dovezi (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -87,15 +87,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.3</span> Toti membrii sunt obligati sa foloseasca /duty atunci cand conduc masinile factiunii (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">4.4</span> Atunci cand luati un vehicul de la factiune se anunta pe chat (/r Ambulance/Raindance/Ranger/Romero la mine) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">4.4</span> Atunci cand luati un vehicul de la factiune se anunta pe chat [/r Ambulance/Raindance/Ranger/Romero la mine] (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">4.5</span> Sunteti obligati sa distrugeti masina de serviciu dupa ce v-ati terminat treaba cu ea (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">4.6</span> Cand distrugeti masina factiunii anuntati pe chat (/r Ambulance/Raindace/Ranger/Romero rr) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">4.6</span> Cand distrugeti masina factiunii anuntati pe chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">4.7</span> Este interzisa echiparea masinilor factiunii cu NOS sau sisteme hidraulice (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.8</span> Sirena este folosita doar in cazul in care aveti o comanda acceptata (/accept medic) (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.8</span> Sirena este folosita doar in cazul in care aveti o comanda acceptata[/accept medic] (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.9</span> Aveti voie sa stati AFK off-duty in masina de factiune, dar nu mai mult de 120 secunde (2 minute) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -252,9 +252,9 @@ Motivele pentru care se va acorda o amenda sunt urmatoarele:
 
 ## 10. Chatul Factiunii
 
-<span style="color:var(--pink);">10.1</span> Nu aveti voie sa divulgati subiectele discutate in interiorul factiunii (ce e pe (/r), ramane pe (/r)) (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.1</span> Nu aveti voie sa divulgati subiectele discutate in interiorul factiunii (ce e pe [/r], ramane pe [/r]) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.2</span> Afacerile facute pe chat-ul factiunii sau anunturile care au legatura cu vinderea sau cumpararea unui bun pe chat-ul factiunii sunt interzise (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">10.2</span> Afacerile facute pe chatul factiunii sau anunturile care au legatura cu vinderea sau cumpararea unui bun pe chatul factiunii sunt interzise (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">10.3</span> Aveti obligatia de a informa membrii atunci cand folositi comanda /fvr (minim 5 secunde) (<span style="color:red;">sanctiune: Avertisment Verbal + Amenda</span>).
 
@@ -264,4 +264,4 @@ Motivele pentru care se va acorda o amenda sunt urmatoarele:
 
 <span style="color:var(--pink);">10.6</span> Membrilor le este permis sa ceara pe /r, /sms sa fie promovati (Rank Up), cu conditia sa nu fiti insistenti si sa spamati liderul (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.7</span> Nu aveti voie sa dati tog la chat-ul factiunii fara acordul unui rank 6 sau a liderului (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">Rank Down</span> la urmatoarea).
+<span style="color:var(--pink);">10.7</span> Nu aveti voie sa dati tog la chatul factiunii fara acordul unui rank 6 sau a liderului (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">Rank Down</span> la urmatoarea).
