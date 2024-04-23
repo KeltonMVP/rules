@@ -29,7 +29,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 2. Faction Chat
 
-<span style="color:var(--pink);">2.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $30,000</span>).
+<span style="color:var(--pink);">2.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $30,000</span>, <span style="color:red;">Faction Warn</span> second offense).
 
 <span style="color:var(--pink);">2.2</span> Rank-up requests are allowed, but not in an abusive manner by spamming the leader (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -70,39 +70,37 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3</span> The [<span style="color:var(--pink);">/startlesson</span>] command allows the player to drive a vehicle without holding a license, and this command is to be used before the start of the license test (<span style="color:red">misusing the command leads to dismissal</span>).
 
-<span style="color:var(--pink);">5.4</span> You are not allowed to issue a <span style="color:var(--pink);">Flying</span> or <span style="color:var(--pink);">Sailing</span> license if the HP at the end of the test is less than <span style="color:var(--pink);">950.</span> To check the HP, use the command [<span style="color:var(--pink);">/dl</span>] (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.4</span> It is strictly forbidden to offer licenses to anyone <span style="color:var(--pink);">without completing the tests</span> (or to offer licenses with incorrectly given tests) or <span style="color:var(--pink);">without payment</span>, or for <span style="color:var(--pink);">a higher or lower amount</span>, regardless of offers or persons (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
-<span style="color:var(--pink);">5.5</span> It is strictly forbidden to offer licenses to anyone <span style="color:var(--pink);">without completing the tests</span> (or to offer licenses with incorrectly given tests) or <span style="color:var(--pink);">without payment</span>, or for <span style="color:var(--pink);">a higher or lower amount</span>, regardless of offers or persons (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
+<span style="color:var(--pink);">5.4.1</span> If you have taken a client and they do not have enough money to pay for the license, you are not allowed to give them money. Take them to the ATM, and if they don't have money, you can leave. You are also not allowed to refund the money to clients after the test is completed (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.5.1</span> If you have taken a client and they do not have enough money to pay for the license, you are not allowed to give them money. Take them to the ATM, and if they don't have money, you can leave. You are also not allowed to refund the money to clients after the test is completed (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.5</span> It is strictly forbidden to use [<span style="color:var(--pink);">/q</span>] after starting a lesson with the client. First, finish the lesson with them, and then if you cannot continue, hand the client over to another colleague (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
-<span style="color:var(--pink);">5.6</span> It is strictly forbidden to use [<span style="color:var(--pink);">/q</span>] after starting a lesson with the client. First, finish the lesson with them, and then if you cannot continue, hand the client over to another colleague (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">5.6</span> You are not allowed to use the command [<span style="color:var(--pink);">/repair</span>] during tests, especially during Flying and Sailing license tests (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.7</span> You are not allowed to use the command [<span style="color:var(--pink);">/repair</span>] during tests, especially during Flying and Sailing license tests (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.7</span> You are not allowed to administer two or more tests at the same time (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
-<span style="color:var(--pink);">5.8</span> You are not allowed to administer two or more tests at the same time (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
+<span style="color:var(--pink);">5.8</span> If you are on duty [<span style="color:var(--pink);">/duty</span>] and there are available commands [<span style="color:var(--pink);">/servicecalls</span>] or [<span style="color:var(--pink);">/needlicenses</span>], you are OBLIGATED to accept them if you don't have a client (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
-<span style="color:var(--pink);">5.9</span> If you are on duty [<span style="color:var(--pink);">/duty</span>] and there are available commands [<span style="color:var(--pink);">/servicecalls</span>] or [<span style="color:var(--pink);">/needlicenses</span>], you are OBLIGATED to accept them if you don't have a client (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
-
-<span style="color:var(--pink);">5.10</span> Rank 2+ members who are on duty are obligated not to refuse clients requesting licenses (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.9</span> Rank 2+ members who are on duty are obligated not to refuse clients requesting licenses (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! danger "Important"
     You will be sanctioned if you intentionally leave the server when a player requests licenses and you are on duty.<br/>
     You have the right to refuse the client if you are not [<span style="color:var(--pink);">/duty</span>].
 
-<span style="color:var(--pink);">5.11</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">5.10</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">5.12</span> When a member takes a client who has not issued [<span style="color:var(--pink);">/needlicense</span>], the member must ask on [<span style="color:var(--pink);">/sx</span>] if the player has been accepted by someone else. If no one responds within 5 seconds, take a screenshot and continue giving tests to that client (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.11</span> When a member takes a client who has not issued [<span style="color:var(--pink);">/needlicense</span>], the member must ask on [<span style="color:var(--pink);">/sx</span>] if the player has been accepted by someone else. If no one responds within 5 seconds, take a screenshot and continue giving tests to that client (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! example "Info note"
     Example: "Has anyone accepted Nume (ID)?"<br/>
     This rule will reduce the issue of client theft and spam reduction on [<span style="color:var(--pink);">/sx</span>].
 
-<span style="color:var(--pink);">5.13</span> Only those of rank 2+ can grant licenses to those of level 50+ (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.12</span> Only those of rank 2+ can grant licenses to those of level 50+ (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.14</span> You are not allowed to grant licenses on more than 2 accounts of a player (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
+<span style="color:var(--pink);">5.13</span> You are not allowed to grant licenses on more than 2 accounts of a player (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
-<span style="color:var(--pink);">5.15</span> It is strictly forbidden to offer licenses to your secondary accounts. If you need licenses on these accounts, contact a colleague (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">5.14</span> It is strictly forbidden to offer licenses to your secondary accounts. If you need licenses on these accounts, contact a colleague (<span style="color:red;">sanction: dismissal</span>).
 
 ## 6. Clients
 

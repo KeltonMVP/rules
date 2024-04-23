@@ -29,7 +29,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 2. Chatul Factiunii
 
-<span style="color:var(--pink);">2.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 30.000$</span>).
+<span style="color:var(--pink);">2.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 30.000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 <span style="color:var(--pink);">2.2</span> Cererile de Rank-up sunt permise, insa nu intr-un mod abuziv, spamand liderul (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -70,39 +70,37 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3</span> Comanda [<span style="color:var(--pink);">/startlesson</span>] ii permite jucatorului sa conduca un vehicul fara ca acesta sa detina licenta, iar aceasta comanda se va folosi inainte de inceperea testului pentru licente (<span style="color:red">abuzarea comenzii duce la demitere</span>).
 
-<span style="color:var(--pink);">5.4</span> Nu aveti voie sa atribuiti o licenta de <span style="color:var(--pink);">Flying</span> sau <span style="color:var(--pink);">Sailing</span> daca la sfarsitul testului HP-ul este mai mic de <span style="color:var(--pink);">950.</span> Pentru a verifica HP-ul folositi comanda [<span style="color:var(--pink);">/dl</span>] (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.4</span> Este strict interzis sa oferiti licente cuiva <span style="color:var(--pink);">fara testele complete</span> (sau sa oferiti licente cu teste date incorect) sau <span style="color:var(--pink);">fara bani</span>, sau pentru <span style="color:var(--pink);">o suma mai mare sau mai mica</span>, indiferent de oferte sau persoane (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
-<span style="color:var(--pink);">5.5</span> Este strict interzis sa oferiti licente cuiva <span style="color:var(--pink);">fara testele complete</span> (sau sa oferiti licente cu teste date incorect) sau <span style="color:var(--pink);">fara bani</span>, sau pentru <span style="color:var(--pink);">o suma mai mare sau mai mica</span>, indiferent de oferte sau persoane (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+<span style="color:var(--pink);">5.4.1</span> In cazul in care ati luat un client si acesta nu are suficienti bani pentru a plati licenta, nu aveti voie sa ii dati bani. Il duceti la ATM, iar daca nu are bani puteti pleca. Nu aveti voie nici sa inapoiati banii clientiilor dupa terminarea testului (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.5.1</span> In cazul in care ati luat un client si acesta nu are suficienti bani pentru a plati licenta, nu aveti voie sa ii dati bani. Il duceti la ATM, iar daca nu are bani puteti pleca. Nu aveti voie nici sa inapoiati banii clientiilor dupa terminarea testului (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.5</span> Este strict interzis sa dati [<span style="color:var(--pink);">/q</span>] dupa ce ati inceput o lectie cu clientul. Intai terminati lectia inceputa cu el, iar apoi daca nu mai puteti continua predati clientul altui coleg (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
-<span style="color:var(--pink);">5.6</span> Este strict interzis sa dati [<span style="color:var(--pink);">/q</span>] dupa ce ati inceput o lectie cu clientul. Intai terminati lectia inceputa cu el, iar apoi daca nu mai puteti continua predati clientul altui coleg (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">5.6</span> Nu aveti voie sa folositi comanda [<span style="color:var(--pink);">/repair</span>] in timpul testelor, mai ales in timpul testelor pentru licentele Flying si Sailing (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.7</span> Nu aveti voie sa folositi comanda [<span style="color:var(--pink);">/repair</span>] in timpul testelor, mai ales in timpul testelor pentru licentele Flying si Sailing (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.7</span> Nu aveti voie sa dati doua sau mai multe teste in acelasi timp (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
-<span style="color:var(--pink);">5.8</span> Nu aveti voie sa dati doua sau mai multe teste in acelasi timp (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+<span style="color:var(--pink);">5.8</span> In cazul in care sunteti la datorie [<span style="color:var(--pink);">/duty</span>] si sunt comenzi disponibile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] sunteti OBLIGATIi sa le acceptati in cazul in care nu aveti client (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
-<span style="color:var(--pink);">5.9</span> In cazul in care sunteti la datorie [<span style="color:var(--pink);">/duty</span>] si sunt comenzi disponibile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] sunteti OBLIGATIi sa le acceptati in cazul in care nu aveti client (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
-
-<span style="color:var(--pink);">5.10</span> Membrii de rank 2+ care sunt la datorie au obligatia de a nu refuza clientii care le solicita acordarea de licente (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.9</span> Membrii de rank 2+ care sunt la datorie au obligatia de a nu refuza clientii care le solicita acordarea de licente (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 !!! danger "Important"
     Veti fi sanctionati daca parasiti intentionat serverul cand un jucator va cere licente si sunteti la datorie.<br/> 
     Aveti dreptul de a refuza clientul daca nu sunteti [<span style="color:var(--pink);">/duty</span>].
 
-<span style="color:var(--pink);">5.11</span> Aveti obligatia de a face dovezi la toate testele pentru licentele pe care le acordati. Lipsa dovezilor la cererea liderului sau adminilor se sanctioneaza (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">5.10</span> Aveti obligatia de a face dovezi la toate testele pentru licentele pe care le acordati. Lipsa dovezilor la cererea liderului sau adminilor se sanctioneaza (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">5.12</span> Cand un membru ia un client care nu a dat [<span style="color:var(--pink);">/needlicense</span>], membrul trebuie sa intrebe pe [<span style="color:var(--pink);">/sx</span>] daca playerul a fost acceptat de altcineva. Daca nu raspunde nimeni in 5 secunde, faceti o poza si continuati sa dati testele cu clientul respectiv (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.11</span> Cand un membru ia un client care nu a dat [<span style="color:var(--pink);">/needlicense</span>], membrul trebuie sa intrebe pe [<span style="color:var(--pink);">/sx</span>] daca playerul a fost acceptat de altcineva. Daca nu raspunde nimeni in 5 secunde, faceti o poza si continuati sa dati testele cu clientul respectiv (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 !!! example "Nota informativa"
     Exemplu: "L-a acceptat cineva pe Nume (ID)?"<br/>
     Această regulă va reduce problema furtului clienților și reducerea spamului pe [<span style="color:var(--pink);">/sx</span>].
 
-<span style="color:var(--pink);">5.13</span> Doar cei de rank 2+ le pot acorda licente celor de level 50+ (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.12</span> Doar cei de rank 2+ le pot acorda licente celor de level 50+ (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.14</span> Nu va este permis sa acordati licente pe mai mult de 2 conturi ale unui jucator (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+<span style="color:var(--pink);">5.13</span> Nu va este permis sa acordati licente pe mai mult de 2 conturi ale unui jucator (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
-<span style="color:var(--pink);">5.15</span> Este strict interzis sa oferiti licente conturilor voastre secundare. Daca aveti nevoie de licente pe acestea, luati legatura cu un coleg (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">5.14</span> Este strict interzis sa oferiti licente conturilor voastre secundare. Daca aveti nevoie de licente pe acestea, luati legatura cu un coleg (<span style="color:red;">sanctiune: demitere</span>).
 
 ## 6. Clientii
 
