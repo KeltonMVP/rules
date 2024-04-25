@@ -385,7 +385,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.4</span> News Reporters members who are on the legends list and return to the faction can wear the Leader skin.
 
-!!! example "Nota informativa"
+!!! example "Info note"
     With the Leader's permission, other skins can be worn outside the above rules.
 
 ## 7. Faction Vehicles
