@@ -10,13 +10,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - <span style="color:var(--pink);">[/r]</span> - you speak in the faction chat.
 - <span style="color:var(--pink);">[/d]</span> - you speak in the common chat between departments.
+- <span style="color:var(--pink);">[/duty]</span> - you put yourself on duty.
 - <span style="color:var(--pink);">[/mdc < id >]</span> - you check a player's crimes.
 - <span style="color:var(--pink);">[/tazer]</span> - you mount the stun gun on the Deagle and immobilize the player you shoot for 8 seconds.
 - <span style="color:var(--pink);">[/su < id >]</span> - you grant wanted status to a player from a predefined list.
 - <span style="color:var(--pink);">[/nearwanted]</span> - you open a list of nearby players with wanted status.
+- <span style="color:var(--pink);">[/wanted]</span> - shows all the suspects that have wanted.
 - <span style="color:var(--pink);">[/m < text >]</span> - from inside a police vehicle, you use the megaphone to broadcast a message over a larger area.
 - <span style="color:var(--pink);">[/ms]</span> - you send an automatic message (warning) to the player you are aiming at.
-- <span style="color:var(--pink);">[/cuff < id >]</span> - as a driver, you handcuff a player.
+- <span style="color:var(--pink);">[/cuff < id >]</span> - you handcuff a player.
 - <span style="color:var(--pink);">[/clear < id >]</span> - you clear the wanted status of a player (in case you mistakenly granted it).
 - <span style="color:var(--pink);">[/punish < id >]</span> - you lock a player from Jail for a few seconds.
 - <span style="color:var(--pink);">[/ram]</span> - you force entry into a locked house.
@@ -24,14 +26,14 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/frisk < id >]</span> - you frisk a player to see if they have illegal items on them.
 - <span style="color:var(--pink);">[/confiscate < object > < id >]</span> - you confiscate a player's items (materials/drugs).
 - <span style="color:var(--pink);">[/lawyer < id > < price >]</span> - you sell release warrants (you need 15 points for a warrant).
-- <span style="color:var(--pink);">[/acceptpoints]</span> - you find out how many points you need to sell warrants.
+- <span style="color:var(--pink);">[/acceptpoints]</span> - you find out how many points you have for selling warrants.
 - <span style="color:var(--pink);">[/gov < text >]</span> - governmental global chat used only for important announcements.
 
 ## 2. The Jail
 
 ### General Jail Rules
 
-<span style="color:var(--pink);">2.1</span> The guard team is formed by National Guard members of Rank 1, as well as those of rank 2, the latter having field access (rank 1 has limited access).
+<span style="color:var(--pink);">2.1</span> The guard team is formed by National Guard members of Rank 1 and 2, both having field access (rank 1 has limited access).
 
 <span style="color:var(--pink);">2.2</span> Only Department members and prisoners are allowed in the cell area.
 
@@ -64,7 +66,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">2.15</span> Those who have the lawyer job will advertise themselves on [<span style="color:var(--pink);">/ad</span>] or [<span style="color:var(--pink);">/news</span>], they are not allowed to come to Jail to advertise themselves.
 
-<span style="color:var(--pink);">2.16</span> The cell opening schedule is within the interval of 8:00 - 2:00, every Payday (0:00), and every half-hour (:30), automatically opening from the script.
+<span style="color:var(--pink);">2.16</span> The cell opening schedule is within the interval of 8:00 - 2:00, every Payday (:00), and every half-hour (:30), automatically opening from the script.
 
 <span style="color:var(--pink);">2.17</span> A maximum of 4 guards can enter the Jail courtyard.
 
@@ -72,7 +74,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">2.19</span> If the player or players manage to escape from Jail, they will receive a temporary Wanted level 6, during which National Guard members (Rank 2+) or any other member of the Police Departments can go after them and kill them.
 
-<span style="color:var(--pink);">2.20</span> There is a one-minute limit until the Departments are alerted that someone has escaped, during which the suspects remain with the Jail skin and do not receive a wanted level. If the suspects are killed, they enter Jail with the maximum sentence. You are not allowed to kill them before receiving the wanted level for escape.
+<span style="color:var(--pink);">2.20</span> There is a one-minute limit until the Departments are alerted that someone has escaped, during which the suspects remain with the Jail skin and do not receive a wanted level. You are not allowed to kill them before receiving the wanted level for escape. If the suspects are killed, they enter Jail with the maximum sentence.
 
 <span style="color:var(--pink);">2.21</span> Giving [<span style="color:var(--pink);">/punish</span>] without reason is not allowed. Any [<span style="color:var(--pink);">/punish</span>] must have a well-founded reason and should only be given after pictures/videos have been taken showing a rule violation (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -137,7 +139,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.1</span> National Guard members are required to have a valid forum account set on their website profile. New members have 48 hours from the invite to set up a valid forum profile ([example](https://imgur.com/JUBFwW4)) (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">3.2</span> Those who possess materials or drugs have <span style="color:var(--pink);">24 hours from entering the faction</span> to get rid of them. If you are caught with them after the 24 hours, they will be confiscated. To get rid of them, ask someone outside the Departments to hold them for you, or contact a Rank 5+ to confiscate them (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.2</span> Those who possess materials or drugs have <span style="color:var(--pink);">24 hours from entering the faction</span> to get rid of them. To get rid of them use the [<span style="color:var(--pink);">/throw</span>] command (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">3.3</span> National Guard members <span style="color:var(--pink);">DO NOT have the right under any circumstances</span> to confiscate any type of <span style="color:var(--pink);">license.</span>
 
@@ -209,9 +211,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">7.6</span> FBI / National Guard members will be able to pursue suspects in civilian vehicles. If they are pursuing surrendering suspects, they must respect traffic rules, but if the pursued suspects do not surrender, they can violate those rules (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">7.7</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they shall be fined regardless of the offense committed, and if they do not pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
-
-<span style="color:var(--pink);">7.8</span> If you wish to use a vehicle from another department, you must announce it on [<span style="color:var(--pink);">/d</span>] (as Rank 5+ currently does). During an activity, faction members can refuse to lend vehicles (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">7.7</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they should be fined directly in-game by a PD member or if reported on the website, fined by the Leader. If they fail to pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
 
 ## 8. Faction Skins
 
