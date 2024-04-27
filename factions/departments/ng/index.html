@@ -1766,13 +1766,15 @@
 <ul>
 <li><span style="color:var(--pink);">[/r]</span> - vorbesti pe chatul factiunii.</li>
 <li><span style="color:var(--pink);">[/d]</span> - vorbesti pe chatul comun intre departamente.</li>
+<li><span style="color:var(--pink);">[/duty]</span> - te pui la datorie.</li>
 <li><span style="color:var(--pink);">[/mdc &lt; id &gt;]</span> - verifici infractiunile unui jucator.</li>
 <li><span style="color:var(--pink);">[/tazer]</span> - montezi electrosocul pe Deagle si imobilizezi jucatorul in care tragi timp de 8 secunde.</li>
 <li><span style="color:var(--pink);">[/su &lt; id &gt;]</span> - acorzi wanted unui jucator dintr-o lista predefinita.</li>
 <li><span style="color:var(--pink);">[/nearwanted]</span> - deschizi o lista a jucatorilor cu wanted din apropierea ta.</li>
+<li><span style="color:var(--pink);">[/wanted]</span> - arata toti suspectii care au wanted.</li>
 <li><span style="color:var(--pink);">[/m &lt; text &gt;]</span> - din interiorul unui vehicul de politie, folosesti megafonul pentru a transmite un mesaj pe o raza mai mare.</li>
 <li><span style="color:var(--pink);">[/ms]</span> - trimiti un mesaj (somatie) automat jucatorului pe care ai find.</li>
-<li><span style="color:var(--pink);">[/cuff &lt; id &gt;]</span> - ca sofer, incatusezi un jucator.</li>
+<li><span style="color:var(--pink);">[/cuff &lt; id &gt;]</span> - incatusezi un jucator.</li>
 <li><span style="color:var(--pink);">[/clear &lt; id &gt;]</span> - stergi wantedul unui jucator (in caz ca l-ai acordat gresit).</li>
 <li><span style="color:var(--pink);">[/punish &lt; id &gt;]</span> - blochezi un jucator din Jail pentru cateva secunde.</li>
 <li><span style="color:var(--pink);">[/ram]</span> - fortezi intrarea intr-o casa incuiata.</li>
@@ -1780,12 +1782,12 @@
 <li><span style="color:var(--pink);">[/frisk &lt; id &gt;]</span> - perchezitionezi un jucator pentru a vedea daca are obiecte ilegale asupra lui.</li>
 <li><span style="color:var(--pink);">[/confiscate &lt; obiect &gt; &lt; id &gt;]</span> - confisti obiectele (materiale / droguri) ale unui jucator.</li>
 <li><span style="color:var(--pink);">[/lawyer &lt; id &gt; &lt; pret &gt;]</span> - vinzi mandate de eliberare (ai nevoie de 15 puncte pentru un mandat).</li>
-<li><span style="color:var(--pink);">[/acceptpoints]</span> - afli cate puncte pentru a vinde mandate detii.</li>
+<li><span style="color:var(--pink);">[/acceptpoints]</span> - afli cate puncte detii pentru a vinde mandate.</li>
 <li><span style="color:var(--pink);">[/gov &lt; text &gt;]</span> - chatul global guvernamental folosit doar pentru anunturi importante.</li>
 </ul>
 <h2 id="2-jailul">2. Jailul<a class="headerlink" href="#2-jailul" title="Permanent link">&para;</a></h2>
 <h3 id="reguli-generale-jail">Reguli Generale Jail<a class="headerlink" href="#reguli-generale-jail" title="Permanent link">&para;</a></h3>
-<p><span style="color:var(--pink);">2.1</span> Echipa de paznici este formata din membrii National Guard de Rank 1, cat si cei de rank 2, acestea 2 avand si acces pe teren (rank 1 acces limitat).</p>
+<p><span style="color:var(--pink);">2.1</span> Echipa de paznici este formata din membrii National Guard de Rank 1 si 2, acestea doua avand si acces pe teren (rank 1 acces limitat).</p>
 <p><span style="color:var(--pink);">2.2</span> In zona cu celulele au voie numai membrii Departamentelor si prizonierii.</p>
 <p><span style="color:var(--pink);">2.3</span> Nu se vor lasa civilii fara wanted sa mearga in zona celulelor.</p>
 <p><span style="color:var(--pink);">2.4</span> Se considera Teren Guvernamental partea dintre Gate 1 si Gate 2, persoanele aflate in aceasta zona <span style="color:var(--pink);">vor fi somate de 3 ori si se va astepta 1 minut de la ultima somatie.</span> Persoanele ce trec de Gate 2 vor primi wanted 2 "<span style="color:var(--pink);">Teren Guvernamental</span>" fara somatie fiind considerate detinuti (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
@@ -1804,11 +1806,11 @@
 <li>transfer in alta celula (doar daca membrul National Guard, considera ca este necesar).</li>
 </ul>
 <p><span style="color:var(--pink);">2.15</span> Cei care au jobul de lawyer isi vor face reclama pe [<span style="color:var(--pink);">/ad</span>] sau [<span style="color:var(--pink);">/news</span>], nu au voie sa vina la Jail sa-si faca reclama.</p>
-<p><span style="color:var(--pink);">2.16</span> Programul de deschidere a celulelor este cuprins in intervalul 8:00 - 2:00, la fiecare Payday (0:00) si la fiecare jumatate de ora (:30), deschizandu-se automat din script.</p>
+<p><span style="color:var(--pink);">2.16</span> Programul de deschidere a celulelor este cuprins in intervalul 8:00 - 2:00, la fiecare Payday (:00) si la fiecare jumatate de ora (:30), deschizandu-se automat din script.</p>
 <p><span style="color:var(--pink);">2.17</span> In curtea Jailului pot intra maxim 4 gardieni.</p>
-<p><span style="color:var(--pink);">2.18</span> Pentru a prinde jucatorii evadand, membrul National Guard trebuie sa fie in apropierea persoanei sau persoanelor care vor sa scape. Daca e suficient de aproape de acesta sau acestia ei vor intra automat in Jail cu sentinta maxima, iar membrul National Guard va primi un mesaj pe ecran cu acest lucru.</p>
+<p><span style="color:var(--pink);">2.18</span> Pentru a prinde jucatorii evadand, membrul National Guard trebuie sa fie in apropierea persoanei sau persoanelor care vor sa scape. Daca e suficient de aproape de acesta sau acestia, ei vor intra automat in Jail cu sentinta maxima, iar membrul National Guard va primi un mesaj pe ecran cu acest lucru.</p>
 <p><span style="color:var(--pink);">2.19</span> Daca jucatorul sau jucatorii reusesc sa scape din Jail, acestia vor primi Wanted 6 temporar, timp in care membrii National Guard (Rank 2+) sau orice alt membru din Departamentele de politie se pot duce dupa ei si sa-i omoare.</p>
-<p><span style="color:var(--pink);">2.20</span> Exista o limita de un minut pana cand Departamentele sunt alertate ca cineva a evadat, timp in care suspectii raman cu skinul de Jail si nu primesc wanted. Daca suspectii sunt omorati, acestia intra in Jail cu sentinta maxima. Nu aveti voie sa-i omorati inainte de a primi wantedul pentru evadare.</p>
+<p><span style="color:var(--pink);">2.20</span> Exista o limita de un minut pana cand Departamentele sunt alertate ca cineva a evadat, timp in care suspectii raman cu skinul de Jail si nu primesc wanted. Nu aveti voie sa-i omorati inainte de a primi wantedul pentru evadare. Daca suspectii sunt omorati, acestia intra in Jail cu sentinta maxima.</p>
 <p><span style="color:var(--pink);">2.21</span> Nu este permisa acordarea [<span style="color:var(--pink);">/punish</span>]-ului aiurea. Orice [<span style="color:var(--pink);">/punish</span>] trebuie sa aiba un motiv bine intemeiat si sa fie dat numai dupa ce s-au facut poze / video ca a incalcat o regula (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">2.22</span> Daca cineva da [<span style="color:var(--pink);">/punish</span>] intentionat celor care incearca sa evadeze special pentru a-i opri din asta (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">2.23</span> Singurul mod in care poti opri jucatorii din a evada este sa te afli in apropierea acestora cand incearca sa evadeze.</p>
@@ -1843,20 +1845,20 @@
 <li>yard: <a href="https://imgur.com/Pskdjtd">click</a></li>
 </ul>
 <h2 id="3-reguli-generale">3. Reguli Generale<a class="headerlink" href="#3-reguli-generale" title="Permanent link">&para;</a></h2>
-<p><span style="color:var(--pink);">3.1</span> Membri National Guard sunt obligati sa aibe setat un cont de forum valid pe profilul de pe website. Membrii noi intrati au 48h la dispozitie de la invite sa-si seteze un profil valid de forum (<a href="https://imgur.com/JUBFwW4">exemplu</a>) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).</p>
-<p><span style="color:var(--pink);">3.2</span> Cei care detin materiale sau droguri au la dispozitie <span style="color:var(--pink);">24 de ore de la intrarea in factiune</span> sa scape de ele. Daca veti fi prinsi cu ele dupa cele 24 de ore, le veti avea confiscate. Ca sa scapati de ele rugati pe cineva din afara Departamentelor sa vi le tina, sau contactati un Rank 5+ sa vi le confiste (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">3.1</span> Membrii National Guard sunt obligati sa aiba setat un cont de forum valid pe profilul de pe website. Membrii noi intrati au 48h la dispozitie de la invite sa-si seteze un profil valid de forum (<a href="https://imgur.com/JUBFwW4">exemplu</a>) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).</p>
+<p><span style="color:var(--pink);">3.2</span> Cei care detin materiale sau droguri au la dispozitie <span style="color:var(--pink);">24 de ore de la intrarea in factiune</span> sa scape de ele. Folositi comanda [<span style="color:var(--pink);">/throw</span>] pentru a scapa de ele (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">3.3</span> Membrii National Guard <span style="color:var(--pink);">NU au dreptul sub nicio circumstanta</span> de a confisca vreun tip de <span style="color:var(--pink);">licenta.</span></p>
 <h2 id="4-wanted-si-arrest">4. Wanted si Arrest<a class="headerlink" href="#4-wanted-si-arrest" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">4.1</span> In cazul in care un membru de Departament acorda wanted unui civil, acesta are dreptul de a-l aresta, indiferent de wanted level.</p>
-<p><span style="color:var(--pink);">4.2</span> Prioritatea de urmarire si arestare a suspectilor de catre National Guard va fi doar <span style="color:var(--pink);">Wanted 5-6 si cei fara drept de predare</span>, iar daca in Wanted List nu exista decat Wanted 1-4 se va face poza prin care sa se demonstreze acest lucru, iar dupa accea se poate pleca in urmarirea suspectilor cu Wanted level mai mic de 5. Rank 4+ poate merge dupa orice suspect, cu orice Wanted (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">4.2</span> Prioritatea de urmarire si arestare a suspectilor de catre National Guard va fi doar <span style="color:var(--pink);">Wanted 5-6 si cei fara drept de predare</span>, iar daca in Wanted List nu exista decat Wanted 1-4 se va face poza prin care sa se demonstreze acest lucru, iar dupa aceea se poate pleca in urmarirea suspectilor cu Wanted level mai mic de 5. Rank 4+ poate merge dupa orice suspect, cu orice Wanted (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">4.3</span> Membrii National Guard cu rank mai mic decat 4 au obligatia ca atunci cand un suspect cu wanted 1-4 vine si i se preda, sa-l incatuseze [<span style="color:var(--pink);">/cuff</span>], dupa care sa anunte pe [<span style="color:var(--pink);">/d</span>] ID-ul suspectului, wanted-ul si locatia aproximativa unde se afla. Suspectul va fi predat celui care va solicita asta pe [<span style="color:var(--pink);">/d</span>]. Puteti aresta suspectul doar cu acordul celor responsabili de el. In cazul in care nimeni nu raspunde pe chatul departamentelor dupa ce ati intrebat de 3 ori, aveti dreptul de a aresta suspectul (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">4.4</span> Membrii National Guard de RANK 1 au voie pe teren sa aresteze wanted 5-6 in afara jailului, acestia <span style="color:var(--pink);">NU au voie&gt;</span> sa aresteze wanted 1-4 / suspecti fara drept de predare. </p>
+<p><span style="color:var(--pink);">4.4</span> Membrii National Guard de RANK 1 au voie pe teren sa aresteze wanted 5-6 in afara jailului, acestia <span style="color:var(--pink);">NU au voie</span> sa aresteze wanted 1-4 / suspecti fara drept de predare. </p>
 <div class="admonition example">
 <p class="admonition-title">Nota informativa</p>
 <p>Ei pot aresta suspecti de wanted mai mic, daca wantedul este acordat de acestia sau se pot apara daca sunt atacati.</p>
 </div>
-<p><span style="color:var(--pink);">4.5</span> Nu aveti permisiunea de a intra in business-uri in care au loc un eveniment, doar daca in acel interior se afla un suspect fara drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">4.6</span> Daca un jucator se afla pe G la un suspect fara drept de predare, iar acesta NU face nimic, nu aveti nici un drept de a sanctionat jucatorul (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">4.5</span> Nu aveti permisiunea de a intra in business-uri in care are loc un eveniment, doar daca in acel interior se afla un suspect fara drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">4.6</span> Daca un jucator se afla pe G la un suspect fara drept de predare, iar acesta NU face nimic, nu aveti niciun drept de a sanctiona jucatorul (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <h2 id="5-cop-attackkill">5. Cop Attack/Kill<a class="headerlink" href="#5-cop-attackkill" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">5.1</span> Pentru a-i acorda Wanted 3 cu motivul "<span style="color:var(--pink);">Cop Attack</span>" unui jucator, trebuie sa aveti dovezi foto sau video (de preferat dovezile sa fie video sau multiple poze evidente) ca jucatorul a avut intentia sa va atace, sa fie clar ca n-a fost din greseala. Mesajul informativ care arata cat damage ati primit nu este suficient pentru a acorda Wanted 3 pentru Cop Attack (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">5.2</span> Pentru a pierde dreptul de predare un jucator trebuie sa va atace cu pumnii de minim 4 ori sau sa traga cu arma in voi (valabil si in jail) (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
@@ -1889,9 +1891,8 @@
 <p><span style="color:var(--pink);">7.3</span> Doar membrii de Rank 3+ pot urmari / aresta suspecti cu drept de predare si cu masinile personale ca sofer, exceptie in cazul suspectilor cu nodrept, in cazul lor orice rank 2+ pot folosi masini personale (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">7.4</span> Sunteti obligati sa porniti girofarul atunci cand plecati intr-o misiune de urmarire (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).</p>
 <p><span style="color:var(--pink);">7.5</span> Aveti voie sa incalcati regulile de circulatie cand conduceti o masina de politie cu girofarul pornit (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">7.6</span> Membrii FBI / National Guard vor putea urmarii suspecti si in masini de civil. In cazul in care merg dupa suspecti ce au drept de predare trebuie sa respecte regulile de circulatie, iar in cazul in care suspecti urmariti nu au drept de predare pot incalca acele reguli (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">7.7</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda indiferent de fapta comisa, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span></p>
-<p><span style="color:var(--pink);">7.8</span> Daca doriti sa folositi un vehicul de la un departament trebuie sa anuntati pe [<span style="color:var(--pink);">/d</span>] (cum procedeaza rank 5+ in momentul de fata). In cadrul unei activitati, membrii factiunilor pot sa refuze ca vehiculele sa fie luate (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).</p>
+<p><span style="color:var(--pink);">7.6</span> Membrii FBI / National Guard vor putea urmari suspectii si in masini de civil. In cazul in care merg dupa suspecti ce au drept de predare, trebuie sa respecte regulile de circulatie, iar in cazul in care suspecti urmariti nu au drept de predare, pot incalca acele reguli (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">7.7</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span></p>
 <h2 id="8-skinurile-factiunii">8. Skinurile Factiunii<a class="headerlink" href="#8-skinurile-factiunii" title="Permanent link">&para;</a></h2>
 <figure>
     <img alt="skinuri National Guard" src="../../../images/ng-skins.png" width="800" />
@@ -1938,7 +1939,7 @@
     <span class="md-icon" title="Ultima actualizare">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">26 aprilie 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">27 aprilie 2024</span>
   </span>
 
     

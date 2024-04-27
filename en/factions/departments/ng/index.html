@@ -1766,13 +1766,15 @@
 <ul>
 <li><span style="color:var(--pink);">[/r]</span> - you speak in the faction chat.</li>
 <li><span style="color:var(--pink);">[/d]</span> - you speak in the common chat between departments.</li>
+<li><span style="color:var(--pink);">[/duty]</span> - you put yourself on duty.</li>
 <li><span style="color:var(--pink);">[/mdc &lt; id &gt;]</span> - you check a player's crimes.</li>
 <li><span style="color:var(--pink);">[/tazer]</span> - you mount the stun gun on the Deagle and immobilize the player you shoot for 8 seconds.</li>
 <li><span style="color:var(--pink);">[/su &lt; id &gt;]</span> - you grant wanted status to a player from a predefined list.</li>
 <li><span style="color:var(--pink);">[/nearwanted]</span> - you open a list of nearby players with wanted status.</li>
+<li><span style="color:var(--pink);">[/wanted]</span> - shows all the suspects that have wanted.</li>
 <li><span style="color:var(--pink);">[/m &lt; text &gt;]</span> - from inside a police vehicle, you use the megaphone to broadcast a message over a larger area.</li>
 <li><span style="color:var(--pink);">[/ms]</span> - you send an automatic message (warning) to the player you are aiming at.</li>
-<li><span style="color:var(--pink);">[/cuff &lt; id &gt;]</span> - as a driver, you handcuff a player.</li>
+<li><span style="color:var(--pink);">[/cuff &lt; id &gt;]</span> - you handcuff a player.</li>
 <li><span style="color:var(--pink);">[/clear &lt; id &gt;]</span> - you clear the wanted status of a player (in case you mistakenly granted it).</li>
 <li><span style="color:var(--pink);">[/punish &lt; id &gt;]</span> - you lock a player from Jail for a few seconds.</li>
 <li><span style="color:var(--pink);">[/ram]</span> - you force entry into a locked house.</li>
@@ -1780,12 +1782,12 @@
 <li><span style="color:var(--pink);">[/frisk &lt; id &gt;]</span> - you frisk a player to see if they have illegal items on them.</li>
 <li><span style="color:var(--pink);">[/confiscate &lt; object &gt; &lt; id &gt;]</span> - you confiscate a player's items (materials/drugs).</li>
 <li><span style="color:var(--pink);">[/lawyer &lt; id &gt; &lt; price &gt;]</span> - you sell release warrants (you need 15 points for a warrant).</li>
-<li><span style="color:var(--pink);">[/acceptpoints]</span> - you find out how many points you need to sell warrants.</li>
+<li><span style="color:var(--pink);">[/acceptpoints]</span> - you find out how many points you have for selling warrants.</li>
 <li><span style="color:var(--pink);">[/gov &lt; text &gt;]</span> - governmental global chat used only for important announcements.</li>
 </ul>
 <h2 id="2-the-jail">2. The Jail<a class="headerlink" href="#2-the-jail" title="Permanent link">&para;</a></h2>
 <h3 id="general-jail-rules">General Jail Rules<a class="headerlink" href="#general-jail-rules" title="Permanent link">&para;</a></h3>
-<p><span style="color:var(--pink);">2.1</span> The guard team is formed by National Guard members of Rank 1, as well as those of rank 2, the latter having field access (rank 1 has limited access).</p>
+<p><span style="color:var(--pink);">2.1</span> The guard team is formed by National Guard members of Rank 1 and 2, both having field access (rank 1 has limited access).</p>
 <p><span style="color:var(--pink);">2.2</span> Only Department members and prisoners are allowed in the cell area.</p>
 <p><span style="color:var(--pink);">2.3</span> Civilians without wanted status are not allowed to go to the cell area.</p>
 <p><span style="color:var(--pink);">2.4</span> The Governmental Area is considered the part between Gate 1 and Gate 2, individuals in this area <span style="color:var(--pink);">will be warned three times, and one minute will be waited from the last warning.</span> Individuals crossing Gate 2 will receive a wanted level 2 "<span style="color:var(--pink);">Governmental Area</span>" without warning, being considered detainees (<span style="color:red;">sanction: Faction Warn</span>).</p>
@@ -1804,11 +1806,11 @@
 <li>transfer to another cell (only if the National Guard member deems it necessary).</li>
 </ul>
 <p><span style="color:var(--pink);">2.15</span> Those who have the lawyer job will advertise themselves on [<span style="color:var(--pink);">/ad</span>] or [<span style="color:var(--pink);">/news</span>], they are not allowed to come to Jail to advertise themselves.</p>
-<p><span style="color:var(--pink);">2.16</span> The cell opening schedule is within the interval of 8:00 - 2:00, every Payday (0:00), and every half-hour (:30), automatically opening from the script.</p>
+<p><span style="color:var(--pink);">2.16</span> The cell opening schedule is within the interval of 8:00 - 2:00, every Payday (:00), and every half-hour (:30), automatically opening from the script.</p>
 <p><span style="color:var(--pink);">2.17</span> A maximum of 4 guards can enter the Jail courtyard.</p>
 <p><span style="color:var(--pink);">2.18</span> To catch players escaping, the National Guard member must be near the person or persons trying to escape. If they are close enough to them, they will automatically enter Jail with the maximum sentence, and the National Guard member will receive a message on the screen about this.</p>
 <p><span style="color:var(--pink);">2.19</span> If the player or players manage to escape from Jail, they will receive a temporary Wanted level 6, during which National Guard members (Rank 2+) or any other member of the Police Departments can go after them and kill them.</p>
-<p><span style="color:var(--pink);">2.20</span> There is a one-minute limit until the Departments are alerted that someone has escaped, during which the suspects remain with the Jail skin and do not receive a wanted level. If the suspects are killed, they enter Jail with the maximum sentence. You are not allowed to kill them before receiving the wanted level for escape.</p>
+<p><span style="color:var(--pink);">2.20</span> There is a one-minute limit until the Departments are alerted that someone has escaped, during which the suspects remain with the Jail skin and do not receive a wanted level. You are not allowed to kill them before receiving the wanted level for escape. If the suspects are killed, they enter Jail with the maximum sentence.</p>
 <p><span style="color:var(--pink);">2.21</span> Giving [<span style="color:var(--pink);">/punish</span>] without reason is not allowed. Any [<span style="color:var(--pink);">/punish</span>] must have a well-founded reason and should only be given after pictures/videos have been taken showing a rule violation (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">2.22</span> If someone intentionally gives [<span style="color:var(--pink);">/punish</span>] to those attempting to escape specifically to stop them from doing so (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">2.23</span> The only way to stop players from escaping is to be near them when they attempt to escape.</p>
@@ -1844,7 +1846,7 @@
 </ul>
 <h2 id="3-general-rules">3. General Rules<a class="headerlink" href="#3-general-rules" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">3.1</span> National Guard members are required to have a valid forum account set on their website profile. New members have 48 hours from the invite to set up a valid forum profile (<a href="https://imgur.com/JUBFwW4">example</a>) (<span style="color:red;">sanction: Verbal Warning</span>).</p>
-<p><span style="color:var(--pink);">3.2</span> Those who possess materials or drugs have <span style="color:var(--pink);">24 hours from entering the faction</span> to get rid of them. If you are caught with them after the 24 hours, they will be confiscated. To get rid of them, ask someone outside the Departments to hold them for you, or contact a Rank 5+ to confiscate them (<span style="color:red;">sanction: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">3.2</span> Those who possess materials or drugs have <span style="color:var(--pink);">24 hours from entering the faction</span> to get rid of them. To get rid of them use the [<span style="color:var(--pink);">/throw</span>] command (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">3.3</span> National Guard members <span style="color:var(--pink);">DO NOT have the right under any circumstances</span> to confiscate any type of <span style="color:var(--pink);">license.</span></p>
 <h2 id="4-wanted-and-arrest">4. Wanted and Arrest<a class="headerlink" href="#4-wanted-and-arrest" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">4.1</span> If a Department member gives wanted to a civilian, they have the right to arrest them, regardless of the wanted level.</p>
@@ -1890,8 +1892,7 @@
 <p><span style="color:var(--pink);">7.4</span> You are required to turn on the siren when you go on a pursuit mission (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).</p>
 <p><span style="color:var(--pink);">7.5</span> You are allowed to violate traffic rules when driving a police car with the siren on (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">7.6</span> FBI / National Guard members will be able to pursue suspects in civilian vehicles. If they are pursuing surrendering suspects, they must respect traffic rules, but if the pursued suspects do not surrender, they can violate those rules (<span style="color:red;">sanction: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">7.7</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they shall be fined regardless of the offense committed, and if they do not pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.</p>
-<p><span style="color:var(--pink);">7.8</span> If you wish to use a vehicle from another department, you must announce it on [<span style="color:var(--pink);">/d</span>] (as Rank 5+ currently does). During an activity, faction members can refuse to lend vehicles (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).</p>
+<p><span style="color:var(--pink);">7.7</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they should be fined directly in-game by a PD member or if reported on the website, fined by the Leader. If they fail to pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.</p>
 <h2 id="8-faction-skins">8. Faction Skins<a class="headerlink" href="#8-faction-skins" title="Permanent link">&para;</a></h2>
 <figure>
     <img alt="National Guard skins" src="../../../../images/ng-skins.png" width="800" />
@@ -1938,7 +1939,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 26, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 27, 2024</span>
   </span>
 
     
