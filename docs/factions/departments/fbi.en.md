@@ -76,70 +76,40 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">2.19</span> Department members are not allowed to drive abusively and intentionally disturb other traffic participants (examples: intentionally crashing into other drivers multiple times, blocking the road, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">2.20</span> To issue a wanted level 3 for <span style="color:var(--pink);">drug possession/use</span>, the drugs must be found through [<span style="color:var(--pink);">/frisk</span>], [<span style="color:var(--pink);">/trade</span>] or at the moment they are used. You are obligated to have evidence in this regard: Screenshots of [<span style="color:var(--pink);">/frisk</span>] / [<span style="color:var(--pink);">/trade</span>] or at the moment they are used (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">2.20</span> If the suspect without the right to surrender jumps on tall buildings using a bicycle (using the high jump bug), making it difficult to catch and kill them, you have the right to open fire with Hunter or Hydra to kill them. If the suspect comes down from the building, you are not allowed to open fire anymore, but you continue the ground pursuit. Make sure you always have clear evidence before opening fire! Failure to comply with this rule will result in a <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues.
 
-<span style="color:var(--pink);">2.21</span> Items from white weapons / sex shop stores will not be confiscated. Instead, smoke grenades from 24/7 stores will only be confiscated in situations where they are used to abuse them / to create chaos (e.g., Protests in front of LS City Hall, and following an announcement on /gov requesting the cessation of their use if they are still used, then they can be confiscated).
+## 3. Faction
 
-<span style="color:var(--pink);">2.22</span> FBI members are prohibited from contacting players via [<span style="color:var(--pink);">/sms</span>] or [<span style="color:var(--pink);">/call</span>] for the purpose of sanctioning them (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.1</span> Phones will be turned off during an FBI activity without being warned by an organizer (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
-<span style="color:var(--pink);">2.23</span> If you are pursuing a suspect for arrest using any type of motorcycle, and the suspect claims they cannot get on, you are obligated to unlock the vehicle to give them a chance to board as a passenger. If the suspect used this excuse to steal your motorcycle, you have the right to issue them Wanted 6 Fugitive without any additional warnings (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.2</span> Using weapons in the FBI Armory during training/meetings of any kind is strictly prohibited (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">2.24</span> If the suspect without the right to surrender jumps on tall buildings using a bicycle (using the high jump bug), making it difficult to catch and kill them, you have the right to open fire with Hunter or Hydra to kill them. If the suspect comes down from the building, you are not allowed to open fire anymore, but you continue the ground pursuit. Make sure you always have clear evidence before opening fire! Failure to comply with this rule will result in a <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues.
+<span style="color:var(--pink);">3.3</span> To join the FBI, you must have a Detective skill level of 5.
 
-## 3. Giving Wantedului [/su]
+<span style="color:var(--pink);">3.4</span> When a police officer violates traffic rules (driving against traffic, using nos, etc.), they are to be fined directly in-game by a PD member or if reported on the website, fined by the Leader, and if not paid within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
 
-<span style="color:var(--pink);">3.1</span> To issue a wanted (e.g., Runner), the suspect must be warned at least 3 times (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.5</span> Every FBI member is obligated to have a shortcut to their forum profile on the website. You have 48 hours from joining the faction to do this. Failure to have this shortcut to the forum profile after the 48 hours will result in a <span style="color:red;">Verbal Warning</span>, and if not remedied within 24 hours, a <span style="color:red;">Faction Warn</span> will be issued.
 
-<span style="color:var(--pink);">3.2</span> If a player refuses to exit the vehicle for a routine check after being properly warned at least 3 times, they will receive <span style="color:var(--pink);">Wanted 2 for failure to comply with orders</span>. Furthermore, if the suspect exits when ordered to surrender, and after issuing [<span style="color:var(--pink);">/frisk</span>] you notice they are in possession of drugs, you have the right to issue Wanted 3 for drug possession (totaling Wanted 5). If they have been [<span style="color:var(--pink);">/cuff</span>] and you need to confiscate drugs, you can use [<span style="color:var(--pink);">/eject</span>] and then [<span style="color:var(--pink);">/confiscate</span>] in the department's garage.
+<span style="color:var(--pink);">3.6</span> You are not allowed to practice (use [/work] or other related job start commands, including farming) any other job besides Detective or Mechanic (strictly for vehicle maintenance during pursuits) while on duty (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
-<span style="color:var(--pink);">3.3</span> Department members can issue wanted in the clan zone "Clan Zone" only when a suspect possesses drugs or when the member is attacked (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.7</span> Candidates who pass the entrance tests are not allowed to go [<span style="color:var(--pink);">/duty</span>] on or use the [<span style="color:var(--pink);">/d</span>] chat (<span style="color:red;">sanction: failing the tests</span>).
 
-<span style="color:var(--pink);">3.4</span> To issue wanted 1 for "<span style="color:var(--pink);">theft</span>" to a player, they must steal your personal vehicle, regardless of whether you are on a mission or not. If your vehicle is stolen by your suspect (they drive away with it), they will receive "<span style="color:var(--pink);">Runner</span>" without further warnings (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.8</span> Those who possess materials or drugs have <span style="color:var(--pink);">24 hours from joining the faction</span> to get rid of them. Use the command [<span style="color:var(--pink);">/throw</span>] to dispose of them (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.5</span> Any wanted must be issued within 5 minutes from the moment the suspect commits a punishable offense with wanted. (Note: It is permissible to issue a wanted to a player if you were duty off at that time, after you go duty on) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.9</span> Any player accepted to conduct tests must behave decently. If they insult or behave inappropriately towards a faction member, they are automatically rejected without the right to conduct entrance tests for the faction anymore.
 
-<span style="color:var(--pink);">3.6</span> Players who have a suspect with <span style="color:var(--pink);">no surrender right</span> on G will be warned <span style="color:var(--pink);">only once</span> [<span style="color:var(--pink);">/ms</span>] or [<span style="color:var(--pink);">/m</span>] to use [<span style="color:var(--pink);">/eject</span>] on the suspect without rights. If they do not comply within 15 seconds, they will be penalized with "<span style="color:var(--pink);">Accomplice</span>" (<span style="color:red;">sanction: Faction Warn</span>).
+## 4. Activities
 
-<span style="color:var(--pink);">3.7</span> It is prohibited to issue [<span style="color:var(--pink);">/su</span>] or [<span style="color:var(--pink);">/frisk</span>] to any player when inside an arena: Paintball Arena, GunGame Arena, War Arena, Racing Arena, Last Car Standing Arena (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.8</span> You are not allowed to stay at gang HQs (the courtyards of the HQs) without a specific purpose (DM in HQ, Runner in HQ with accomplices, etc.) and confiscate items or use [<span style="color:var(--pink);">/frisk</span>] (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.9</span> If a player with no wanted runs on foot after receiving 3 warnings, they receive a "<span style="color:var(--pink);">Failure to Comply</span>" Wanted.
-
-## 4. Faction
-
-<span style="color:var(--pink);">4.1</span> Phones will be turned off during an FBI activity without being warned by an organizer (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
-
-<span style="color:var(--pink);">4.2</span> Using weapons in the FBI Armory during training/meetings of any kind is strictly prohibited (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">4.3</span> To join the FBI, you must have a Detective skill level of 5.
-
-<span style="color:var(--pink);">4.4</span> When a police officer violates traffic rules (driving against traffic, using nos, etc.), they are to be fined directly in-game by a PD member or if reported on the website, fined by the Leader, and if not paid within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
-
-<span style="color:var(--pink);">4.5</span> Every FBI member is obligated to have a shortcut to their forum profile on the website. You have 48 hours from joining the faction to do this. Failure to have this shortcut to the forum profile after the 48 hours will result in a <span style="color:red;">Verbal Warning</span>, and if not remedied within 24 hours, a <span style="color:red;">Faction Warn</span> will be issued.
-
-<span style="color:var(--pink);">4.6</span> You are not allowed to practice (use [/work] or other related job start commands, including farming) any other job besides Detective or Mechanic (strictly for vehicle maintenance during pursuits) while on duty (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
-
-<span style="color:var(--pink);">4.7</span> Candidates who pass the entrance tests are not allowed to go [<span style="color:var(--pink);">/duty</span>] on or use the [<span style="color:var(--pink);">/d</span>] chat (<span style="color:red;">sanction: failing the tests</span>).
-
-<span style="color:var(--pink);">4.8</span> Those who possess materials or drugs have <span style="color:var(--pink);">24 hours from joining the faction</span> to get rid of them. Use the command [<span style="color:var(--pink);">/throw</span>] to dispose of them (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">4.9</span> Any player accepted to conduct tests must behave decently. If they insult or behave inappropriately towards a faction member, they are automatically rejected without the right to conduct entrance tests for the faction anymore.
-
-## 5. Activities
-
-<span style="color:var(--pink);">5.1</span> Mandatory activities can be organized by the Leader with a well-founded reason and with the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to leave, except for players who have submitted an inactivity request for that particular week. A mandatory activity is valid as long as it is announced at least one week in advance (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.1</span> Mandatory activities can be organized by the Leader with a well-founded reason and with the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to leave, except for players who have submitted an inactivity request for that particular week. A mandatory activity is valid as long as it is announced at least one week in advance (<span style="color:red;">sanction: Faction Warn</span>).
 
 - for level 1-3 admins, if the mandatory activity takes place during wars, they will be automatically excused, provided they fulfill their admin duties regarding catching wanted players.
 - for subleaders, the leader will decide whether to sanction their absence from mandatory activities when they do not have an inactivity request for that particular week.
 
-<span style="color:var(--pink);">5.2</span> Meetings will be held when the Leader deems it necessary. Attendance at meetings is always mandatory.
+<span style="color:var(--pink);">4.2</span> Meetings will be held when the Leader deems it necessary. Attendance at meetings is always mandatory.
 
-<span style="color:var(--pink);">5.3</span> If you fail to attend an optional activity / search warrant but are online in the game (sleep does not count), you will be sanctioned with a <span style="color:red;">Faction Warn</span>.
+<span style="color:var(--pink);">4.3</span> An optional activity will last a minimum of 20 minutes and a maximum of 50 minutes (the activity itself does not count + <span style="color:red;">Verbal Warning from the trainer</span>).
 
-<span style="color:var(--pink);">5.4</span> An optional activity will last a minimum of 20 minutes and a maximum of 50 minutes (the activity itself does not count + <span style="color:red;">Verbal Warning from the trainer</span>).
-
-## 6. Faction Vehicles
+## 5. Faction Vehicles
 
 <figure markdown="span">
     ![FBI vehicles](../../images/fbi-vehicles.png){ width=1000" }
@@ -152,112 +122,109 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - 3 SWAT - Rank 4.
 - 1 Police Maverick - Rank 4.
 
-<span style="color:var(--pink);">6.1</span> You are not allowed to use "<span style="color:var(--pink);">SWAT</span>" vehicles to spray players or to keep them on the ground. Anyone who violates this rule is sanctioned with a <span style="color:red;">Verbal Warning</span> or a <span style="color:red;">Faction Warn</span>, depending on the case. In the case of protests or players disrupting traffic, you are allowed to use water to calm them down.
+<span style="color:var(--pink);">5.1</span> You are not allowed to use "<span style="color:var(--pink);">SWAT</span>" vehicles to spray players or to keep them on the ground. Anyone who violates this rule is sanctioned with a <span style="color:red;">Verbal Warning</span> or a <span style="color:red;">Faction Warn</span>, depending on the case. In the case of protests or players disrupting traffic, you are allowed to use water to calm them down.
 
-<span style="color:var(--pink);">6.2</span> Make sure not to park your car over the spot where an FBI vehicle respawns or where suspects are arrested (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">5.2</span> Make sure not to park your car over the spot where an FBI vehicle respawns or where suspects are arrested (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
-<span style="color:var(--pink);">6.3</span> When you find a department vehicle: Infernus, Turismo, Bullet, NRG-500, Maverick, announce that you're taking it, for example: "[<span style="color:var(--pink);">/d</span>] Found a Bullet in the Fort Carson area, taking it." (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.3</span> When you find a department vehicle: Infernus, Turismo, Bullet, NRG-500, Maverick, announce that you're taking it, for example: "[<span style="color:var(--pink);">/d</span>] Found a Bullet in the Fort Carson area, taking it." (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.4</span> Bullets and NRGs can be used by members with Rank 3+. They are required to announce it on /r.
+<span style="color:var(--pink);">5.4</span> Bullets and NRGs can be used by members with Rank 3+. They are required to announce it on /r.
 
-<span style="color:var(--pink);">6.5</span> The water tank can be used by Rank 4 members.
+<span style="color:var(--pink);">5.5</span> The water tank can be used by Rank 4 members.
 
-<span style="color:var(--pink);">6.6</span> The helicopter can only be used by Rank 4+ members, NOT for joyrides. Those below rank 4 must request approval.
+<span style="color:var(--pink);">5.6</span> The helicopter can only be used by Rank 4+ members, NOT for joyrides. Those below rank 4 must request approval.
 
-## 7. Faction Skins
+## 6. Faction Skins
 
 <figure markdown="span">
     ![FBI skins](../../images/fbi-skins.png){ width="800" }
 </figure>
 
-<span style="color:var(--pink);">7.1</span> You are allowed to wear skins of lower ranks than yours (e.g., if you are rank 5, you can wear skins from ranks 1-4).
+<span style="color:var(--pink);">6.1</span> You are allowed to wear skins of lower ranks than yours (e.g., if you are rank 5, you can wear skins from ranks 1-4).
 
-<span style="color:var(--pink);">7.2</span> Wearing a skin of a higher rank is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">6.2</span> Wearing a skin of a higher rank is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! example "Info note"
     With the Leader's permission, other skins can be worn contrary to the above rules.
 
-## 8. Faction Chat
+## 7. Faction Chat
 
-<span style="color:var(--pink);">8.1</span> During activities, nobody speaks unless given permission by the leader or trainer. Anyone who violates this rule will receive a <span style="color:red;">Verbal Warning</span> for the first offense, and will be sanctioned with a <span style="color:red;">Faction Warn</span> if the same behavior continues during the same activity.
+<span style="color:var(--pink);">7.1</span> During activities, nobody speaks unless given permission by the leader or trainer. Anyone who violates this rule will receive a <span style="color:red;">Verbal Warning</span> for the first offense, and will be sanctioned with a <span style="color:red;">Faction Warn</span> if the same behavior continues during the same activity.
 
-<span style="color:var(--pink);">8.2</span> The use of Caps Lock, spamming, and swearing (both censored and uncensored) on [<span style="color:var(--pink);">/r</span>] is prohibited. Violators will receive a <span style="color:red;">Verbal Warning</span>, <span style="color:red;">Faction Warn</span>, or <span style="color:red;">Dismissal</span>, depending on the severity of the offense.
+<span style="color:var(--pink);">7.2</span> The use of Caps Lock, spamming, and swearing (both censored and uncensored) on [<span style="color:var(--pink);">/r</span>] is prohibited. Violators will receive a <span style="color:red;">Verbal Warning</span>, <span style="color:red;">Faction Warn</span>, or <span style="color:red;">Dismissal</span>, depending on the severity of the offense.
 
-## 9. Namecover
+## 8. Namecover
 
-<span style="color:var(--pink);">9.1</span> The format for requesting a namecover is: ID | New Name | I don't have weapons, armor, and spray | Reason
+<span style="color:var(--pink);">8.1</span> The format for requesting a namecover is: ID | New Name | I don't have weapons, armor, and spray | Reason
 
 !!! danger "Important"
     Namecover is a special command that can only be used by FBI department members. It is primarily used for extreme operations and to detect various crimes without arousing suspicion. Only agents with Rank 5+ have access to this command, and they can apply it to other members.
 
-<span style="color:var(--pink);">9.2</span> It is forbidden for an FBI agent to reveal their identity in front of a civilian. Therefore, an agent undercover is not allowed to carry weapons. We will keep the command, as well as undercover operations, a secret (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">8.2</span> It is forbidden for an FBI agent to reveal their identity in front of a civilian. Therefore, an agent undercover is not allowed to carry weapons. We will keep the command, as well as undercover operations, a secret (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">9.3</span> The given names must not be Non-RP names and must not imitate the names of various players / admins / leaders.
+<span style="color:var(--pink);">8.3</span> It is strictly prohibited for the undercover agent to abuse their identity. Abuse can be defined as: senseless Death-Match, inappropriate language, etc. For various abuses of this kind, the respective member will be sanctioned with a <span style="color:red;">Faction Warn</span> or will be <span style="color:red;">dismissed</span> depending on the case.
 
-<span style="color:var(--pink);">9.4</span> It is strictly prohibited for the undercover agent to abuse their identity. Abuse can be defined as: senseless Death-Match, inappropriate language, etc. For various abuses of this kind, the respective member will be sanctioned with a <span style="color:red;">Faction Warn</span> or will be <span style="color:red;">dismissed</span> depending on the case.
-
-<span style="color:var(--pink);">9.5</span> For evidence to be valid in the activity report, it must be shown that you are undercover. Take a screenshot at [<span style="color:var(--pink);">/frisk</span>] and another at [<span style="color:var(--pink);">/su</span>]. Screenshots using page-up are not considered valid.
+<span style="color:var(--pink);">8.4</span> For evidence to be valid in the activity report, it must be shown that you are undercover. Take a screenshot at [<span style="color:var(--pink);">/frisk</span>] and another at [<span style="color:var(--pink);">/su</span>]. Screenshots using page-up are not considered valid.
 
 !!! example "Example"
     A correct action: a screenshot when you receive the namecover (the request + the message when you received the namecover), a screenshot at [<span style="color:var(--pink);">/frisk</span>], a screenshot at [<span style="color:var(--pink);">/su</span>], a screenshot when you remove the namecover in a safe location.
 
-<span style="color:var(--pink);">9.6</span> It is allowed for an undercover agent to buy drugs and even use them. This can lead to gaining trust from the trafficker. Additionally, the member with namecover can use NOS and Hydraulics, but not in an abusive manner.
+<span style="color:var(--pink);">8.5</span> It is allowed for an undercover agent to buy drugs and even use them. This can lead to gaining trust from the trafficker. Additionally, the member with namecover can use NOS and Hydraulics, but not in an abusive manner.
 
-<span style="color:var(--pink);">9.7</span> Undercover can also be used to issue wanted to civilians who break the law. This rule is especially for those of Rank 1 and addresses the following offenses:
+<span style="color:var(--pink);">8.6</span> Undercover can also be used to issue wanted to civilians who break the law. This rule is especially for those of Rank 1 and addresses the following offenses:
 
 - attacking a civilian (the civilian in question can even be you undercover).
 - kidnapping a civilian (the civilian in question can even be you undercover).
 - drive-by (shooting or running over).
-- killing a civilian (the civilian in question can even be you undercover).
 
-<span style="color:var(--pink);">9.8</span> Namecover can also be used to detect those who intend to pickpocket you.
+<span style="color:var(--pink);">8.7</span> Namecover can also be used to detect those who intend to pickpocket you.
 
-<span style="color:var(--pink);">9.9</span> FBI agents of Rank 5+ must take screenshots after each [<span style="color:var(--pink);">/namecover</span>] granted, and keep a record of the names granted (screenshots), in case it is needed (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">8.8</span> FBI agents of Rank 5+ must take screenshots after each [<span style="color:var(--pink);">/namecover</span>] granted, and keep a record of the names granted (screenshots), in case it is needed (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">9.10</span> Rank 5 members are required to announce through a message on the department chat [<span style="color:var(--pink);">/r</span>] when they use the [<span style="color:var(--pink);">/namecover</span>] command for each member (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">8.9</span> Rank 5 members are required to announce through a message on the department chat [<span style="color:var(--pink);">/r</span>] when they use the [<span style="color:var(--pink);">/namecover</span>] command for each member (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">9.11</span> As an FBI member, you are allowed to possess a maximum of 50 grams of drugs at all times. However, drugs are only intended for use when you are on a namecover mission, as a civilian (example: to gain the trust of the suspect) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">8.10</span> As an FBI member, you are allowed to possess a maximum of 50 grams of drugs at all times. However, drugs are only intended for use when you are on a namecover mission, as a civilian (example: to gain the trust of the suspect) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">9.12</span> In a namecover mission, it is strictly forbidden to use any skin mod (cskin, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">8.11</span> In a namecover mission, it is strictly forbidden to use any skin mod (cskin, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">9.13</span> Post the namecover report for the current week only after the statistics for the previous week have been released (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">8.12</span> Post the namecover report for the current week only after the statistics for the previous week have been released (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
-<span style="color:var(--pink);">9.14</span> You are allowed to use any name for namecover (Using a name for fun, indecent, very similar to other players/admins, or with an official clan tag is prohibited).
+<span style="color:var(--pink);">8.13</span> You are allowed to use any name for namecover (Using a name for fun, indecent, very similar to other players/admins, or with an official clan tag is prohibited).
 
-<span style="color:var(--pink);">9.15</span> You are not allowed to use [<span style="color:var(--pink);">/accept</span>], [<span style="color:var(--pink);">/admins</span>], [<span style="color:var(--pink);">/helpers</span>], or similar commands that clutter your chat when you are namecovered. If any of these commands or others appear in your screenshots, your namecover report will not be considered.
+<span style="color:var(--pink);">8.14</span> You are not allowed to use [<span style="color:var(--pink);">/accept</span>], [<span style="color:var(--pink);">/admins</span>], [<span style="color:var(--pink);">/helpers</span>], or similar commands that clutter your chat when you are namecovered. If any of these commands or others appear in your screenshots, your namecover report will not be considered.
 
-<span style="color:var(--pink);">9.16</span> Request namecover only in an interior (HQ or HOUSE). Use [<span style="color:var(--pink);">/undercover off</span>] only in an interior (HQ or HOUSE). Failure to comply with the rule will result in the cancellation of your namecover report and you will receive a <span style="color:red;">Faction Warn</span>.
+<span style="color:var(--pink);">8.15</span> Request namecover only in an interior (HQ or HOUSE). Use [<span style="color:var(--pink);">/undercover off</span>] only in an interior (HQ or HOUSE). Failure to comply with the rule will result in the cancellation of your namecover report and you will receive a <span style="color:red;">Faction Warn</span>.
 
-<span style="color:var(--pink);">9.17</span> If the suspect with drugs logs out of the game or crashes, you need a video of a few seconds showing the message "the player is not connected."
+<span style="color:var(--pink);">8.16</span> If the suspect with drugs logs out of the game or crashes, you need a video of a few seconds showing the message "the player is not connected."
 
-<span style="color:var(--pink);">9.18</span> If the suspect you just sanctioned with wanted for "possession of drugs" no longer has the drugs on them, take a screenshot at [<span style="color:var(--pink);">/frisk</span>].
+<span style="color:var(--pink);">8.17</span> If the suspect you just sanctioned with wanted for "possession of drugs" no longer has the drugs on them, take a screenshot at [<span style="color:var(--pink);">/frisk</span>].
 
-<span style="color:var(--pink);">9.19</span> You are not allowed to perform the namecover report on clan colleagues.
+<span style="color:var(--pink);">8.18</span> You are not allowed to perform the namecover report on clan colleagues.
 
-<span style="color:var(--pink);">9.20</span> If you have been promoted to Rank 2 Monday - Wednesday, you are required to compile the namecover report, and if you have been promoted Thursday - Sunday, you are exempt from posting the namecover report.
+<span style="color:var(--pink);">8.19</span> If you have been promoted to Rank 2 Monday - Wednesday, you are required to compile the namecover report, and if you have been promoted Thursday - Sunday, you are exempt from posting the namecover report.
 
-<span style="color:var(--pink);">9.20.1</span> If you have been promoted to Rank 4 Monday - Wednesday, you are exempt from posting the namecover report, and if you have been promoted Thursday - Sunday, you are required to compile the namecover report.
+<span style="color:var(--pink);">8.19.1</span> If you have been promoted to Rank 4 Monday - Wednesday, you are exempt from posting the namecover report, and if you have been promoted Thursday - Sunday, you are required to compile the namecover report.
 
-<span style="color:var(--pink);">9.21</span> When a member sets/receives an optional report. In that week, the member is exempt from the namecover report.
+<span style="color:var(--pink);">8.20</span> When a member sets/receives an optional report, in that week, the member is exempt from the namecover report.
 
-## 10. Forum Activity
+## 9. Forum Activity
 
 <span style="color:var(--pink);">9.1</span> Forum activity is specific to those who reach Rank 5 and will be assigned to a specific topic together with other colleagues, taking turns.
 
 <span style="color:var(--pink);">9.2</span> The individuals assigned for the respective week can be found in the topic "[Forum Activity](https://forum.b-zone.ro/topic/459201--)" and must post the statistics from that topic for the previous week.
 
-<span style="color:var(--pink);">9.3</span> Individuals highlighted in green are required to post in their respective topic, with the current week specified at the top, and statistics must be posted for the previous week. Those highlighted in red must wait for their turn.
+<span style="color:var(--pink);">9.3</span> Individuals highlighted in green are required to post in their respective topic. With the current week specified at the top, and statistics must be posted for the previous week. Those highlighted in red must wait for their turn.
 
 <span style="color:var(--pink);">9.4</span> The activity report log, activity requests, and attendance log are always posted on Sundays at the end of the week or at the latest on Wednesdays. The weekly mission and namecover report are always posted on Mondays at the beginning of the week.
 
 <span style="color:var(--pink);">9.5</span> The sanction for not posting on time is a <span style="color:red;">Faction Warn</span>.
 
-## 11. Testers
+## 10. Testers
 
-<span style="color:var(--pink);">11.1</span> Members ranked between 4 and 6 (inclusive) are strictly prohibited from modifying the candidate's status to rejected/accepted without the leader's consent. Changing the player's status without the leader's approval is considered favoritism and is punishable by a <span style="color:red;">Faction Warn</span> for the first offense, and a <span style="color:red;">Rank Down</span> if it continues.
+<span style="color:var(--pink);">10.1</span> Members ranked between 4 and 6 (inclusive) are strictly prohibited from modifying the candidate's status to rejected/accepted without the leader's consent. Changing the player's status without the leader's approval is considered favoritism and is punishable by a <span style="color:red;">Faction Warn</span> for the first offense, and a <span style="color:red;">Rank Down</span> if it continues.
 
-<span style="color:var(--pink);">11.2</span> Before starting a test, make sure the applicant's communications are closed. Once you use [<span style="color:var(--pink);">/ft</span>] on a player, their communications are usually automatically closed. The command [<span style="color:var(--pink);">/togcomms</span>] toggles communications open or closed.
+<span style="color:var(--pink);">10.2</span> Before starting a test, make sure the applicant's communications are closed. Once you use [<span style="color:var(--pink);">/ft</span>] on a player, their communications are usually automatically closed. The command [<span style="color:var(--pink);">/togcomms</span>] toggles communications open or closed.
 
-<span style="color:var(--pink);">11.3</span> In recruitment cases where the candidate can be tested by any tester, a tester is not allowed to conduct tests with a player from the same clan/alliance (<span style="color:red;">sanction: RANK DOWN + Faction Warn</span>). The exception applies to the leader and subleaders, along with any special situations established by the leadership, in which this may be tolerated, applied immediately depending on the circumstances.
+<span style="color:var(--pink);">10.3</span> In recruitment cases where the candidate can be tested by any tester, a tester is not allowed to conduct tests with a player from the same clan/alliance (<span style="color:red;">sanction: RANK DOWN + Faction Warn</span>). The exception applies to the leader and subleaders, along with any special situations established by the leadership, in which this may be tolerated, applied immediately depending on the circumstances.
 
-<span style="color:var(--pink);">11.4</span> In recruitment cases where each candidate is assigned one or more testers, testers are not allowed to test anyone other than the candidates they have been assigned to. The exception applies to Rank 6, who can test any candidate at any time (<span style="color:red;">sanction: RANK DOWN + removal from the testing position</span>).
+<span style="color:var(--pink);">10.4</span> In recruitment cases where each candidate is assigned one or more testers, testers are not allowed to test anyone other than the candidates they have been assigned to. The exception applies to Rank 6, who can test any candidate at any time (<span style="color:red;">sanction: RANK DOWN + removal from the testing position</span>).
