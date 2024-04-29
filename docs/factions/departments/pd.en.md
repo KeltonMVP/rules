@@ -106,13 +106,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.16.1</span> Those ranked below 4 are prohibited from pursuing and arresting suspects with a wanted level higher than 2. They are required to focus on suspects with wanted levels 1-2, and if there are no wanted levels 1 and 2 in the Wanted List, a screenshot must be taken to prove this, and only then can pursuit of suspects with wanted levels 3 and 4, and then 5 and 6, be pursued (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.17</span> A SWAT team member can gather evidence of a player violating traffic rules and send the evidence to a road team colleague.
+<span style="color:var(--pink);">4.17</span> Any evidence from a department member will be considered valid; evidence from civilians is invalid.
 
-<span style="color:var(--pink);">4.18</span> Any evidence from a department member will be considered valid; evidence from civilians is invalid.
+<span style="color:var(--pink);">4.18</span> Faction members ranked 5+ operate in both teams.
 
-<span style="color:var(--pink);">4.19</span> Faction members ranked 5+ operate in both teams.
-
-<span style="color:var(--pink);">4.20</span> SWAT members ranked 2-3 can pursue players with wanted levels granted by them, regardless of the wanted level, as long as they have the right to surrender.
+<span style="color:var(--pink);">4.19</span> SWAT members ranked 2-3 can pursue players with wanted levels granted by them, regardless of the wanted level, as long as they have the right to surrender.
 
 ## 5. Tickets
 
@@ -126,21 +124,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.5</span> You are not allowed to give money to a player who does not have money to pay the fine (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.5.1</span> If you catch a civilian with a level between 1 and 3, you cannot fine them or confiscate their driver's license (if applicable).
+<span style="color:var(--pink);">5.5.1</span> If a player is level 7 but their actual level is higher than 7 (they have RP for level 8+), they will not be allowed to choose between the fine and license confiscation but will be sanctioned by a fine and license confiscation.
 
-<span style="color:var(--pink);">5.5.2</span> Players with a level between 4 and 7 who need their license suspended will have the right to choose between suspending their driver's license and receiving the specific fine.
+<span style="color:var(--pink);">5.6</span> Any officer caught violating traffic rules will pay the corresponding fine.
 
-<span style="color:var(--pink);">5.5.3</span> If a player with a level between 4 and 7 has chosen the fine, paid it, and then repeated the offense, you cannot fine them again, so their license will be suspended according to the general department regulations.
+<span style="color:var(--pink);">5.6.1</span> Any officer reported for violating traffic rules will pay a fine specified on the forum, in the Fines topic, where you can find this issue detailed. If they do not pay it within 48 hours, they receive a <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">5.5.4</span> If a player is level 7 but their actual level is higher than 7 (they have RP for level 8+), they will not be allowed to choose between the fine and license confiscation but will be sanctioned by a fine and license confiscation.
-
-<span style="color:var(--pink);">5.6</span> Players level 8+ who need their license suspended will not have a choice, as both administrative sanctions will be applied (driver's license suspension and fine).
-
-<span style="color:var(--pink);">5.7</span> Any officer caught violating traffic rules will pay the corresponding fine.
-
-<span style="color:var(--pink);">5.7.1</span> Any officer reported for violating traffic rules will pay a fine specified on the forum, in the Fines topic, where you can find this issue detailed. If they do not pay it within 48 hours, they receive a <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">5.7.2</span> Department members are not allowed to drive recklessly and intentionally disturb other traffic participants (examples: intentionally hitting other drivers multiple times, blocking the road, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.6.2</span> Department members are not allowed to drive recklessly and intentionally disturb other traffic participants (examples: intentionally hitting other drivers multiple times, blocking the road, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
 ## 6. Driving
 
@@ -212,9 +202,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.2</span> You are not allowed to kill a civilian if they request it or for you to ask to be killed by a civilian. You can only request this from a colleague in departments or commit suicide (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3</span> Players who have a non-surrendering player as a passenger will be prompted once to use the [<span style="color:var(--pink);">/eject</span>] command on the non-surrendering player. If they do not comply within 15 seconds, they will be sanctioned with Wanted 6 "<span style="color:var(--pink);">Accomplice</span>".
-
-<span style="color:var(--pink);">10.4</span> If a player remains motionless and unresponsive (AFK without an hourglass) when prompted to exit the vehicle, accept the license presentation request [<span style="color:var(--pink);">/requestlicenses</span>], pay a fine, or surrender, you must wait 30 seconds from the last prompt before proceeding with the appropriate sanction.
+<span style="color:var(--pink);">10.3</span> If a player remains motionless and unresponsive (AFK without an hourglass) when prompted to exit the vehicle, accept the license presentation request [<span style="color:var(--pink);">/requestlicenses</span>], pay a fine, or surrender, you must wait 30 seconds from the last prompt before proceeding with the appropriate sanction (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! example "Exceptions"
     If a player is in a vehicle parked correctly, not violating any rules, and is not moving (AFK without an hourglass), the officer does NOT have the right to prompt them to exit until the player moves again.<br/>
@@ -222,11 +210,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
     For both exceptions, if the officer has evidence that the player has recently moved or written in the chat and intentionally went AFK to avoid sanctioning, they can proceed normally while adhering to the main rule above.
 
-<span style="color:var(--pink);">10.5</span> Routine traffic checks (involving stopping players driving vehicles) are only conducted using department vehicles. If the officer is on foot at the time of conducting the check, implicitly at the time of issuing warnings, how the officer arrived there is irrelevant (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.4</span> Routine traffic checks (involving stopping players driving vehicles) are only conducted using department vehicles. If the officer is on foot at the time of conducting the check, implicitly at the time of issuing warnings, how the officer arrived there is irrelevant (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.6</span> Before conducting a routine check on players in a vehicle and prompting them to exit or before requesting licenses from a player carrying materials, you must ensure that the player is present at the computer (moving or chatting) and have evidence to this effect (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.7</span> If a player refuses to exit the vehicle for a routine check after being prompted at least 3 times, they will receive Wanted 2 for "<span style="color:var(--pink);">Disobeying Orders</span>". Furthermore, if the suspect exits when prompted to surrender, and after using [<span style="color:var(--pink);">/frisk</span>] you notice they are in possession of drugs, you have the right to give them Wanted 3 for drug possession (totaling Wanted 5). If they are handcuffed and you need to confiscate the drugs, you can use [<span style="color:var(--pink);">/eject</span>] and then [<span style="color:var(--pink);">/confiscate</span>] at the department garage.
+<span style="color:var(--pink);">10.5</span> If a player refuses to exit the vehicle for a routine check after being prompted at least 3 times, they will receive Wanted 2 for "<span style="color:var(--pink);">Disobeying Orders</span>". Furthermore, if the suspect exits when prompted to surrender, and after using [<span style="color:var(--pink);">/frisk</span>] you notice they are in possession of drugs, you have the right to give them Wanted 3 for drug possession (totaling Wanted 5). If they are handcuffed and you need to confiscate the drugs, you can use [<span style="color:var(--pink);">/eject</span>] and then [<span style="color:var(--pink);">/confiscate</span>] at the department garage.
 
 ## 11. Wanted Suspects
 
@@ -315,11 +301,9 @@ Observations:
 
 <span style="color:var(--pink);">15.2</span> When you find a department vehicle, you are obligated to announce that you are taking it, for example: [<span style="color:var(--pink);">/d</span>] I found a bullet in the Bank SF area, I'm taking it.
 
-<span style="color:var(--pink);">15.3</span> Members of Rank 5+ do not need to request approval, but they must provide a reason on [<span style="color:var(--pink);">/d</span>] before using them (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">15.3</span> Respawn department vehicles after you have finished using them.
 
-<span style="color:var(--pink);">15.4</span> Respawn department vehicles after you have finished using them.
-
-<span style="color:var(--pink);">15.5</span> In the case where a suspect without surrender jumps on tall buildings using a bicycle (exploiting the high jump bug), making it difficult to catch and kill, you have the right to open fire with Hunter or Hydra to kill them. If the suspect comes down from the building, you are not allowed to open fire anymore, but you continue the ground pursuit. Make sure you always have clear evidence before opening fire! Failure to comply with this rule will result in <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues.
+<span style="color:var(--pink);">15.4</span> In the case where a suspect without surrender jumps on tall buildings using a bicycle (exploiting the high jump bug), making it difficult to catch and kill, you have the right to open fire with Hunter or Hydra to kill them. If the suspect comes down from the building, you are not allowed to open fire anymore, but you continue the ground pursuit. Make sure you always have clear evidence before opening fire! Failure to comply with this rule will result in <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues.
 
 ## 16. Faction Skins
 
@@ -372,7 +356,6 @@ Observations:
 - Exceeding legal speed between 50-100 km/h - pay fine to the police officer in-game
 - Exceeding legal speed over 100 km/h - pay fine to the police officer in-game
 - Headlights off - <span style="color:var(--green);">30,000$</span>
-- Walking on the roadway - <span style="color:var(--green);">45,000$</span>
 - Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated
 - Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
 - Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">75,000$</span>

@@ -4,7 +4,7 @@
 
 ### Obtinerea Gradului de Lider
 
-Adminii cu rol de Manager de Factiune (adminii 4+) vor intocmi o lista de candidati care ar merita o sansa la o astfel de functie, in functie de o lista de prioritati si anumite criterii de baza pe care dorim sa le vedem de la un candidat.
+<span style="color:var(--pink);">1.1</span> Adminii cu rol de Manager de Factiune (adminii 4+) vor intocmi o lista de candidati care ar merita o sansa la o astfel de functie, in functie de o lista de prioritati si anumite criterii de baza pe care dorim sa le vedem de la un candidat.
 
 <span style="color:var(--green);">Prioritatea pe lista:</span>
 
@@ -30,17 +30,17 @@ Adminii cu rol de Manager de Factiune (adminii 4+) vor intocmi o lista de candid
 
     Nimic nu este batut in cuie si totul se decide in functie de situatia aparuta la momentul respectiv. Stafful mereu va comunica si se va decide care ar fi cei mai buni candidati de la momentul respectiv.
 
-De indata ce lista este finalizata si exista suficienti candidati, vor exista doua sondaje. Un prim sondaj in care vor vota toti adminii.
+<span style="color:var(--pink);">1.1.1</span> De indata ce lista este finalizata si exista suficienti candidati, vor exista doua sondaje. Un prim sondaj in care vor vota toti adminii.
 
-In functie de rezultat, primii 3 cei mai votati candidati vor ajunge la un sondaj secundar care va fi facut pentru membrii factiunii la care se cauta Lider. 
+<span style="color:var(--pink);">1.1.2</span> In functie de rezultat, primii 3 cei mai votati candidati vor ajunge la un sondaj secundar care va fi facut pentru membrii factiunii la care se cauta Lider. 
 
-Daca doar 2 candidati obtin majoritatea voturilor, sondajul va fi efectuat doar cu 2 candidati. Daca 4 candidati au un numar de vot apropiat, vom adauga pe cat posibil 4 candidati.
+<span style="color:var(--pink);">1.1.3</span> Daca doar 2 candidati obtin majoritatea voturilor, sondajul va fi efectuat doar cu 2 candidati. Daca 4 candidati au un numar de vot apropiat, vom adauga pe cat posibil 4 candidati.
 
 ### Durata Functiei
 
-Perioada minima pe care trebuie sa o aveti ca Lider pentru a nu primi <span style="color:red;">FP 300</span> este de <span style="color:var(--pink);">4 luni de zile.</span>
+<span style="color:var(--pink);">1.2</span> Perioada minima pe care trebuie sa o aveti ca Lider pentru a nu primi <span style="color:red;">FP 300</span> este de <span style="color:var(--pink);">4 luni de zile.</span>
 
-Perioada este stabilita astfel deoarece dorim ca persoanele care-si asuma o astfel de functie sa inteleaga si importanta acesteia inca de dinainte sa o accepte. Nu va obliga nimeni sa acceptati functia de Lider, o faceti din propria voastra vointa, insa trebuie sa fiti constienti ca trebuie sa va implicati din momentul in care ati acceptat-o.
+<span style="color:var(--pink);">1.2.1</span> Perioada este stabilita astfel deoarece dorim ca persoanele care-si asuma o astfel de functie sa inteleaga si importanta acesteia inca de dinainte sa o accepte. Nu va obliga nimeni sa acceptati functia de Lider, o faceti din propria voastra vointa, insa trebuie sa fiti constienti ca trebuie sa va implicati din momentul in care ati acceptat-o.
 
 !!! danger "Important"
     Functia de Lider este un privilegiu pe care vi-l oferim, nu un drept absolut. Noi decidem cine merita o sansa si tot noi decidem cine nu isi face treaba corespunzator si nu mai merita sa detina aceasta functie.
@@ -59,28 +59,37 @@ Perioada este stabilita astfel deoarece dorim ca persoanele care-si asuma o astf
 
 ### Activitatea de Lider
 
-- Liderii sunt obligati sa aiba un minim de 25 de ore reale jucate pe luna (ore fara sleep) (<span style="color:red;">sanctiune: Leader Warn la prima abatere, Demitere daca se repeta</span>).
-- Liderii care nu s-au conectat pe joc de cel putin 3 zile fara a avea o cerere de inactivitate sau a anunta stafful despre situatie vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere iar daca se repeta cu <span style="color:red;">3/3 Leader Warnuri.</span>
-- Liderii care nu au minim o saptamana vechime nu pot face cereri de inactivitate.
-- cererile de inactivitate se vor face in canalul dedicat de pe discordul staffului.
-- Liderii care nu au minim o luna vechime nu vor putea face cereri de inactivitate mai mari de 5 zile.
-- Liderii au dreptul la cel mult 14 zile de inactivitate o data la 60 de zile.
-- dupa expirarea unei inactivitati Liderul are la dispozitie 24 de ore sa se conecteze pe server sau <span style="color:red;">va fi demis cu 3/3 Leader Warnuri.</span>
+<span style="color:var(--pink);">1.3</span> Liderii sunt obligati sa aiba un minim de 25 de ore reale jucate pe luna (ore fara sleep) (<span style="color:red;">sanctiune: Leader Warn la prima abatere, Demitere daca se repeta</span>).
+
+<span style="color:var(--pink);">1.4</span> Liderii care nu s-au conectat pe joc de cel putin 3 zile fara a avea o cerere de inactivitate sau a anunta stafful despre situatie vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere iar daca se repeta cu <span style="color:red;">3/3 Leader Warnuri.</span>
+
+<span style="color:var(--pink);">1.5</span> Liderii care nu au minim o saptamana vechime nu pot face cereri de inactivitate.
+
+<span style="color:var(--pink);">1.6</span> Cererile de inactivitate se vor face in canalul dedicat de pe discordul staffului.
+
+<span style="color:var(--pink);">1.7</span> Liderii care nu au minim o luna vechime nu vor putea face cereri de inactivitate mai 
+mari de 5 zile.
+
+<span style="color:var(--pink);">1.8</span> Liderii au dreptul la cel mult 14 zile de inactivitate o data la 60 de zile.
+
+<span style="color:var(--pink);">1.9</span> Dupa expirarea unei inactivitati Liderul are la dispozitie 24 de ore sa se conecteze pe server sau <span style="color:red;">va fi demis cu 3/3 Leader Warnuri.</span>
 
 !!! example "Nota informativa"
     Pot exista anumite exceptii de la regulile de mai sus cu aprobarea unui Admin 6.
 
 ### Securitatea Contului
 
-In cazul in care o alta persoana dobandeste acces la contul de Lider, veti fi inlaturat din functie cu <span style="color:red;">3/3 Leader Warnuri + Faction Punish (in functie de vechime).</span>
+<span style="color:var(--pink);">1.10</span> In cazul in care o alta persoana dobandeste acces la contul de Lider, veti fi inlaturat din functie cu <span style="color:red;">3/3 Leader Warnuri + Faction Punish (in functie de vechime).</span>
 
-Daca se produc abuzuri de pe cont, indiferent ca au fost produse de o alta persoana sau de proprietarul contului, se va acorda <span style="color:red;">ban 30 de zile + Faction Punish 300.</span>
+<span style="color:var(--pink);">1.10.1</span> Daca se produc abuzuri de pe cont, indiferent ca au fost produse de o alta persoana sau de proprietarul contului, se va acorda <span style="color:red;">ban 30 de zile + Faction Punish 300.</span>
 
 ### Comportamentul de Lider
 
-- un Lider are obligatia de a avea un comportament si un limbaj decent oriunde poate intra in contact cu alti jucatori sau colegi (joc, forum, website sau in afara jocului).
-- jignirile, batjocura, semnele obscene fata de alti jucatori sau comportamentul arogant, mistocar fata de admini va fi <span style="color:red;">sanctionat cu Leader Warn.</span>
-- limbajul vulgar, chiar si cenzurat, va fi sanctionat cu <span style="color:red;">3/3 Leader Warnuri.</span>
+<span style="color:var(--pink);">1.11</span> Un Lider are obligatia de a avea un comportament si un limbaj decent oriunde poate intra in contact cu alti jucatori sau colegi (joc, forum, website sau in afara jocului).
+
+<span style="color:var(--pink);">1.11.1</span> Jignirile, batjocura, semnele obscene fata de alti jucatori sau comportamentul arogant, mistocar fata de admini va fi <span style="color:red;">sanctionat cu Leader Warn.</span>
+
+<span style="color:var(--pink);">1.11.2</span> Limbajul vulgar, chiar si cenzurat, va fi sanctionat cu <span style="color:red;">3/3 Leader Warnuri.</span>
 
 !!! example "Nota informativa"
     In cazul reclamatiilor de comporament in afara jocului, stafful va decide in functie de situatie si cine a inceput daca Liderul trebuie sau nu sanctionat.
@@ -91,9 +100,9 @@ Daca se produc abuzuri de pe cont, indiferent ca au fost produse de o alta perso
 
 ### Renuntarea la Functie
 
-Renuntarea la functie se face prin crearea unei demisii in canalul dedicat de pe discordul staffului cu un <span style="color:var(--pink);">minim de 3 zile</span> inainte de a renunta permanent la orice activitate ce tine de functia de Lider.
+<span style="color:var(--pink);">1.12</span> Renuntarea la functie se face prin crearea unei demisii in canalul dedicat de pe discordul staffului cu un <span style="color:var(--pink);">minim de 3 zile</span> inainte de a renunta permanent la orice activitate ce tine de functia de Lider.
 
-In cererea de demisie puteti propune membri din factiune pe care ii considerati ca merita sa fie luati in considerare ca si candidati pentru Lider.
+<span style="color:var(--pink);">1.12.1</span> In cererea de demisie puteti propune membri din factiune pe care ii considerati ca merita sa fie luati in considerare ca si candidati pentru Lider.
 
 !!! danger "Important"
     Gradul va fi inlaturat dupa 3 zile de la depunerea demisiei, timp in care trebuie sa va ocupati in continuare de factiune.
@@ -106,37 +115,37 @@ In cererea de demisie puteti propune membri din factiune pe care ii considerati 
 
 ### Alegerea Subliderilor
 
-O factiune poate avea simultan cel mult 2 sublideri (<span style="color:red;">sanctiune: Leader Warn</span>).
+<span style="color:var(--pink);">2.1</span> O factiune poate avea simultan cel mult 2 sublideri (<span style="color:red;">sanctiune: Leader Warn</span>).
 
-Puteti alege cel mult 3 sublideri in decurs de-o luna (<span style="color:red;">sanctiune: Leader Warn</span>).
+<span style="color:var(--pink);">2.2</span> Puteti alege cel mult 3 sublideri in decurs de-o luna (<span style="color:red;">sanctiune: Leader Warn</span>).
 
 !!! example "Nota informativa"
     Luna de zile se calculeaza de la data din care ati promovat primul sublider.
 
     De exemplu, ai promovat un sublider pe 01.10, unul in data de 04.10 si unul in data de 08.10. Urmatoarea data cand poti acorda un alt sublider este 01.11, al doilea pe 04.11 si al treilea pe 08.11.
 
-Reguli alegere sublideri pentru <span style="color:orange;">factiuni pasnice, departamente, hitmen:</span>
+<span style="color:var(--pink);">2.3</span> Reguli alegere sublideri pentru <span style="color:orange;">factiuni pasnice, departamente, hitmen:</span>
 
 - aveti maxim o saptamana de cand ati primit functia sa promovati <span style="color:var(--pink);">un singur sublider</span> din afara factiunii sau dintre membrii de rank 1-2.
 - subliderii adusi din afara factiunii trebuie sa aiba un rank 3 anterior intr-o factiune in ultimii 2 ani de zile.
 - urmatorii sublideri vor fi promovati numai din interiorul factiunii dintre membrii de minim rank 3.
 
-Reguli alegere sublideri pentru <span style="color:orange;">ganguri:</span>
+<span style="color:var(--pink);">2.4</span> Reguli alegere sublideri pentru <span style="color:orange;">ganguri:</span>
 
 - pentru a oferi sublider unui membru acesta trebuie sa detina minim un rank 3 anterior in orice factiune sau minim 35 de zile intr-un gang, in ultimii 2 ani de zile.
 - un Lider nou promovat are la dispozitie o saptamana sa-si aleaga subliderii fara a fi obligat sa respecte regula anterioara.
 
-Nerespectarea regulilor de alegere a unui sublider se sanctioneaza cu <span style="color:red;">Leader Warn + rank down jucatorului promovat.</span>
+<span style="color:var(--pink);">2.5</span> Nerespectarea regulilor de alegere a unui sublider se sanctioneaza cu <span style="color:red;">Leader Warn + rank down jucatorului promovat.</span>
 
-Subliderul nu trebuie sa sustina test de intrare in factiune daca e adus din afara si nici sa fie trecut in topicul Evidenta Teste din moment ce nu sustine vreun test.
+<span style="color:var(--pink);">2.6</span> Subliderul nu trebuie sa sustina test de intrare in factiune daca e adus din afara si nici sa fie trecut in topicul Evidenta Teste din moment ce nu sustine vreun test.
 
-Daca subliderul a primit rank down acesta va putea obtine din nou gradul de sublider dupa minim o luna de zile de la degradare (<span style="color:red;">sanctiune: Leader Warn + rank down jucatorului promovat</span>).
+<span style="color:var(--pink);">2.7</span> Daca subliderul a primit rank down acesta va putea obtine din nou gradul de sublider dupa minim o luna de zile de la degradare (<span style="color:red;">sanctiune: Leader Warn + rank down jucatorului promovat</span>).
 
 ### Inlocuirea Subliderilor
 
-Un Lider poate inlatura gradul subliderului atunci cand considera ca nu mai are nevoie de serviciile sale si-l va degrada acordandu-i rankul in functie de vechimea sa in factiune si de regulile cu privire la acordarea rankului unui membru.
+<span style="color:var(--pink);">2.8</span> Un Lider poate inlatura gradul subliderului atunci cand considera ca nu mai are nevoie de serviciile sale si-l va degrada acordandu-i rankul in functie de vechimea sa in factiune si de regulile cu privire la acordarea rankului unui membru.
 
-Pentru urmatoarea promovare a fostului sublider la rank 2-5 va incepe numaratoarea de la ultima promovare inainte de-a primi sublider (asadar nu se reseteaza vechimea pentru rankul anterior detinut).
+<span style="color:var(--pink);">2.9</span> Pentru urmatoarea promovare a fostului sublider la rank 2-5 va incepe numaratoarea de la ultima promovare inainte de-a primi sublider (asadar nu se reseteaza vechimea pentru rankul anterior detinut).
 
 !!! example "Exemple de degradare a subliderului"
     - in exemplul nostru subliderul are o vechime in factiune de 55 de zile intr-un departament si trebuie degradat.
@@ -150,22 +159,29 @@ Pentru urmatoarea promovare a fostului sublider la rank 2-5 va incepe numaratoar
 
 ## 3. Subforumul Factiunii
 
-- modificarea topicurilor din cadrul factiunii la care sunteti Lider se face numai prin aprobare de la un Admin 4+ (<span style="color:red;">sanctiune: Leader Warn</span>).
-- topicurile nu se sterg, ele se pun pe hidden daca nu mai aveti nevoie de ele.
-- topicurile importante ale factiunilor precum: Anunturi, Evidente si asa mai departe trebuie sa fie permanent puse ca Pinned.
-- asigurati-va ca toate topicurile din cadrul factiunii sunt actualizate la zi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> daca continua).
-- cand faceti o modificare sau anuntati ceva, aveti obligatia de a anunta acest lucru cu cel putin 48 de ore inainte de a intra in vigoare (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> daca continua).
-- nu permiteti membrilor sa faca spam in topicurile factiunii, in special in cel de Discutii intre Membri.
-    - eventual inchideti topicul daca se face prea mult spam si raportati postarile respective.
-- Liderii trebuie sa posteze sanctiunile oferite impreuna cu dovezile in cel mult 48 de ore (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+<span style="color:var(--pink);">3.1</span> Modificarea topicurilor din cadrul factiunii la care sunteti Lider se face numai prin aprobare de la un Admin 4+ (<span style="color:red;">sanctiune: Leader Warn</span>).
+
+<span style="color:var(--pink);">3.2</span> Topicurile nu se sterg, ele se pun pe hidden daca nu mai aveti nevoie de ele.
+
+<span style="color:var(--pink);">3.3</span> Topicurile importante ale factiunilor precum: Anunturi, Evidente si asa mai departe trebuie sa fie permanent puse ca Pinned.
+
+<span style="color:var(--pink);">3.4</span> Asigurati-va ca toate topicurile din cadrul factiunii sunt actualizate la zi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> daca continua).
+
+<span style="color:var(--pink);">3.5</span> Cand faceti o modificare sau anuntati ceva, aveti obligatia de a anunta acest lucru cu cel putin 48 de ore inainte de a intra in vigoare (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> daca continua).
+
+<span style="color:var(--pink);">3.6</span> Nu permiteti membrilor sa faca spam in topicurile factiunii, in special in cel de Discutii intre Membri. Eventual inchideti topicul daca se face prea mult spam si raportati postarile respective.
+
+<span style="color:var(--pink);">3.7</span> Liderii trebuie sa posteze sanctiunile oferite impreuna cu dovezile in cel mult 48 de ore (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
 ## 4. Recrutarea Membrilor
 
 ### Deschiderea Aplicatiilor
 
-- aplicatiile pot fi deschise atunci cand exista cel putin un loc liber in factiune sau urmeaza sa se elibereze un loc.
-- Liderii au obligatia de a deschide aplicatiile si de a recruta minim 2 jucatori atunci cand au cel mult 5 locuri libere.
-- daca Liderul nu are cerere de inactivitate si nu recruteaza timp de 5 zile cand are cel mult 5 locuri libere va fi sanctionat.
+<span style="color:var(--pink);">4.1</span> Aplicatiile pot fi deschise atunci cand exista cel putin un loc liber in factiune sau urmeaza sa se elibereze un loc.
+
+<span style="color:var(--pink);">4.2</span> Liderii au obligatia de a deschide aplicatiile si de a recruta minim 2 jucatori atunci cand au cel mult 5 locuri libere.
+
+<span style="color:var(--pink);">4.3</span> Daca Liderul nu are cerere de inactivitate si nu recruteaza timp de 5 zile cand are cel mult 5 locuri libere va fi sanctionat.
 
 Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
 
@@ -176,9 +192,11 @@ Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Av
 
 Aplicatiile pot fi inchise cand este indeplinita cel putin una din urmatoarele conditii:
 
-- cand au aplicat minim 2 jucatori pentru fiecare loc disponibil.
-- dupa cel putin 2 ore de la deschiderea lor (regula nu se aplica atunci cand Liderul stabileste inchiderea aplicatiilor la un numar prestabilit de aplicatii).
-- cand au fost deschise strict pentru a recruta un sublider.
+<span style="color:var(--pink);">4.4</span> Cand au aplicat minim 2 jucatori pentru fiecare loc disponibil.
+
+<span style="color:var(--pink);">4.5</span> Dupa cel putin 2 ore de la deschiderea lor (regula nu se aplica atunci cand Liderul stabileste inchiderea aplicatiilor la un numar prestabilit de aplicatii).
+
+<span style="color:var(--pink);">4.6</span> Cand au fost deschise strict pentru a recruta un sublider.
 
 Inchiderea incorecta a aplicatiilor va fi sanctionata cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
 
@@ -199,11 +217,11 @@ Inchiderea incorecta a aplicatiilor va fi sanctionata cu <span style="color:red;
 
 #### <span style="color:#3baad5;">Testele Competitive</span>
 
-Daca aplica <span style="color:var(--green);">MAI MULTI</span> jucatori decat locuri libere iar acei jucatori merita acceptati, in ciuda faptului ca aveti mai putine locuri, atunci se vor sustine teste competitive (adica jucatorii cu punctajele cele mai mari la teste vor ramane in factiune).
+<span style="color:var(--pink);">4.7</span> Daca aplica <span style="color:var(--green);">MAI MULTI</span> jucatori decat locuri libere iar acei jucatori merita acceptati, in ciuda faptului ca aveti mai putine locuri, atunci se vor sustine teste competitive (adica jucatorii cu punctajele cele mai mari la teste vor ramane in factiune).
 
-Daca aplica <span style="color:orange;">MAI PUTINI</span> jucatori decat locurile libere, nu sunt necesare testele competitive.
+<span style="color:var(--pink);">4.8</span> Daca aplica <span style="color:orange;">MAI PUTINI</span> jucatori decat locurile libere, nu sunt necesare testele competitive.
 
-Jucatorii acceptati care urmeaza sa fie promovati direct ca Sublider nu vor sustine teste competitive.
+<span style="color:var(--pink);">4.9</span> Jucatorii acceptati care urmeaza sa fie promovati direct ca Sublider nu vor sustine teste competitive.
 
 !!! example "Exemplu"
     Caz 1: o factiune are <span style="color:var(--pink);">6 locuri libere</span>, se deschid aplicatiile pentru o ora si se acumuleaza 20 de aplicatii. Dupa analizarea aplicatiilor, se constata ca <span style="color:var(--green);">pot fi acceptati 10 jucatori.</span> Deoarece sunt doar 6 locuri libere, toti 10 jucatorii vor sustine testul de intrare, iar primii 6 cu cel mai bun rezultat se vor alatura factiunii.
@@ -229,12 +247,12 @@ Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Av
 
 ### Testarea Candidatilor
 
-Doar membrii de minim rank 4 si statut de Tester pot sustine teste cu candidatii.<br/>
-Liderul are dreptul de a decide cui ofera statutul de Tester dintre membrii de minim rank 4.
+<span style="color:var(--pink);">4.10</span> Doar membrii de minim rank 4 si statut de Tester pot sustine teste cu candidatii.<br/>
+<span style="color:var(--pink);">4.10.1</span> Liderul are dreptul de a decide cui ofera statutul de Tester dintre membrii de minim rank 4.
 
 #### <span style="color:#3baad5;">Reguli Testare Candidati</span>
 
-Cei acceptati pentru teste vor sustine un test de cunoastere a regulamentului general si a regulamentului intern.
+<span style="color:var(--pink);">4.11</span> Cei acceptati pentru teste vor sustine un test de cunoastere a regulamentului general si a regulamentului intern.
 
 - testerii au obligatia de a tine o evidenta cu dovezi foto sau video pe parcursul testelor teoretice <span style="color:var(--pink);">timp de 7 zile.</span> 
     - aceasta evidenta trebuie sa contina dovezi cu toate persoanele testate, a intrebarilor adresate acestora si a raspunsurilor oferite de ele. 
@@ -251,27 +269,27 @@ Cei acceptati pentru teste vor sustine un test de cunoastere a regulamentului ge
 
 #### <span style="color:#3baad5;">Testul Teoretic</span>
 
-Testul contine 15 intrebari de complexitate medie din regulamentele generale si interne ale factiunii.
+<span style="color:var(--pink);">4.12</span> Testul contine 15 intrebari de complexitate medie din regulamentele generale si interne ale factiunii.
 
-Candidatii au dreptul la cel mult 3/3 puncte gresite, astfel:
+<span style="color:var(--pink);">4.13</span> Candidatii au dreptul la cel mult 3/3 puncte gresite, astfel:
 
 - vor primi 1/3 puncte pentru raspuns gresit sau lipsa unui raspuns in timpul cerut.
 - vor primi 0.5/3 puncte pentru raspunsuri partial corecte.
 - la 3/3 candidatul va pica testul teoretic.
 
-Candidatii care incearca sa fraudeze testele vor fi sanctionati (<span style="color:red;">sanctiune: test picat + blacklist 3 luni + 2 x AV pe blacklist</span>). Motivul pentru blacklist: "Fraudare test - data expirare".
+<span style="color:var(--pink);">4.14</span> Candidatii care incearca sa fraudeze testele vor fi sanctionati (<span style="color:red;">sanctiune: test picat + blacklist 3 luni + 2 x AV pe blacklist</span>). Motivul pentru blacklist: "Fraudare test - data expirare".
 
-Testerii care incearca sa fraudeze testele sau nu le sustin dar declara ca le-au sustinut vor fi sanctionati (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.15</span> Testerii care incearca sa fraudeze testele sau nu le sustin dar declara ca le-au sustinut vor fi sanctionati (<span style="color:red;">sanctiune: demitere</span>).
 
 #### <span style="color:#3baad5;">Testul Practic</span>
 
-Se va sustine si test practic in cazul in care se considera necesar, aici nefiind nevoie de o evidenta din partea testerului. In cazul in care jucatorul doreste sa raporteze proba practica trebuie sa aiba el singur dovezi.
+<span style="color:var(--pink);">4.16</span> Se va sustine si test practic in cazul in care se considera necesar, aici nefiind nevoie de o evidenta din partea testerului. In cazul in care jucatorul doreste sa raporteze proba practica trebuie sa aiba el singur dovezi.
 
-Decizia de a sustine sau nu testele practice poate fi facuta doar de catre Lider, trebuind sa fie justificata unui manager de factiuni. Mai mult, trebuie sa fie aplicata in mod egal tuturor candidatilor din respectiva sesiune de recrutare. De exemplu daca Liderul decide sa nu se sustina test practic cu un candidat dintr-o sesiune, atunci toti candidatii acceptati in respectiva sesiune trebuie sa beneficieze si ei de acelasi tratament.
+<span style="color:var(--pink);">4.17</span> Decizia de a sustine sau nu testele practice poate fi facuta doar de catre Lider, trebuind sa fie justificata unui manager de factiuni. Mai mult, trebuie sa fie aplicata in mod egal tuturor candidatilor din respectiva sesiune de recrutare. De exemplu daca Liderul decide sa nu se sustina test practic cu un candidat dintr-o sesiune, atunci toti candidatii acceptati in respectiva sesiune trebuie sa beneficieze si ei de acelasi tratament.
 
 ### Reaplicarea in Aceeasi Factiune
 
-Un membru demis din factiune, voluntar sau nu, nu are voie sa fie invitat cu acelasi cont in aceeasi factiune din care a fost demis timp de minim 2 saptamani (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+<span style="color:var(--pink);">4.18</span> Un membru demis din factiune, voluntar sau nu, nu are voie sa fie invitat cu acelasi cont in aceeasi factiune din care a fost demis timp de minim 2 saptamani (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
 !!! example "Nota informatia"
     Jucatorul acceptat incorect va fi demis din factiune fara Faction Punish.
@@ -280,7 +298,7 @@ Un membru demis din factiune, voluntar sau nu, nu are voie sa fie invitat cu ace
 
 ### Logurile Membrilor
 
-Motivele tuturor logurilor de factiune create pe website trebuie sa fie concrete.
+<span style="color:var(--pink);">5.1</span> Motivele tuturor logurilor de factiune create pe website trebuie sa fie concrete.
 
 Exemple:
 
@@ -294,9 +312,9 @@ Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sancti
 
 ### Sanctionarea Membrilor
 
-Toate sanctiunile pe care le poate aplica un Lider se gasesc in regulamentul general cat si cel intern al factiunii.
+<span style="color:var(--pink);">5.2</span> Toate sanctiunile pe care le poate aplica un Lider se gasesc in regulamentul general cat si cel intern al factiunii.
 
-Un Lider are obligatia de a-si sanctiona membrii in mod corect atunci cand acestia incalca regulile serverului sau ale factiunii.
+<span style="color:var(--pink);">5.3</span> Un Lider are obligatia de a-si sanctiona membrii in mod corect atunci cand acestia incalca regulile serverului sau ale factiunii.
 
 - favorizarea sau discriminarea anumitor membri in cadrul factiunii se va sanctiona.
 - se interzice stergerea sanctiunilor unui membru care are reclamatie activa sau care trebuie sa primeasca o noua sanctiune.
@@ -306,18 +324,18 @@ Un Lider are obligatia de a-si sanctiona membrii in mod corect atunci cand acest
 - membrii care primesc ban 3 zile sau mai mult de la admini trebuiesc demisi din factiune, in caz contrar veti fi sanctionati.
     - trebuie sa tineti respectivii membri in factiune timp de 48 de ore pana cand fac cerere de unban si primesc un raspuns. Vor ramane in factiune doar daca primesc unban de la admini, nu daca isi cumpara unban.
 
-DM-ul se va sanctiona doar atunci cand exista dovezi clare (de preferat video / mai multe poze) care sa ateste ca jucatorul respectiv a facut DM. Mesajul informativ de daune nu este suficient pentru sanctionarea DM-ului (nici cel care specifica cine te-a omorat si de la ce distanta a facut asta).
+<span style="color:var(--pink);">5.4</span> DM-ul se va sanctiona doar atunci cand exista dovezi clare (de preferat video / mai multe poze) care sa ateste ca jucatorul respectiv a facut DM. Mesajul informativ de daune nu este suficient pentru sanctionarea DM-ului (nici cel care specifica cine te-a omorat si de la ce distanta a facut asta).
 
 !!! example "Nota informativa"
     Inainte de a sanctiona cel mai bine este sa va consultati cu un admin de nivel 4+ daca nu sunteti siguri.
 
-Sanctiunile pe care le oferiti membrilor trebuie postate pe forum in cel mult 48 de ore de cand ati sanctionat membrul.
+<span style="color:var(--pink);">5.5</span> Sanctiunile pe care le oferiti membrilor trebuie postate pe forum in cel mult 48 de ore de cand ati sanctionat membrul.
 
 - daca Liderul are cerere de inactivitate trebuie sa posteze sanctiunile pe forum in cel mult 24 de ore dupa ce-i expira cererea.
 
-Jucatorii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
+<span style="color:var(--pink);">5.6</span> Jucatorii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
 
-Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune.
+<span style="color:var(--pink);">5.7</span> Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune.
 
 - intrebati-va membrii care au astfel de conturi si cu care cont doresc sa ramana in factiune; daca aflam ca aveti astfel de conturi atunci ambele conturi ale respectivului jucator vor fi demise iar voi veti fi sanctionati.
 
@@ -330,38 +348,45 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 
 ### Reclamatii Website
 
-- Liderii au obligatia de a raspunde tuturor reclamatiilor adresate membrilor sai la cel mult 48 de ore de la deschiderea acestora.
-- daca Liderul are cerere de inactivitate va avea la dispozitie 24 de ore de la expirarea cererii sa raspunda reclamatiilor.
-- in situatia in care Liderul are nelamuriri legate de reclamatie si apeleaza la ajutorul adminilor fara a primi un raspuns din partea acestora in acele 48 de ore atunci respectiva durata nu se mai aplica.
-- reclamatia membrului cu cerere de inactivitate va ramane deschisa pana la 24 de ore de la expirarea cererii.
-    - in tot acest timp Liderul nu are voie sa promoveze membrul sau sa-i accepte cererea de demisie.
-- dovezile din reclamatii trebuie sa fie valide, asta inseamna: sa apartina persoanei care face reclamatia, sa nu fie mai vechi de 3 zile, sa aiba pe ele numele reclamantului, serverul cat si data si ora.
-    - reclamatiile care nu au dovezi valide vor fi anulate.
-    - reclamatiile fara dovezi vor fi anulate.
-    - reclamatiile pot fi refacute cu dovezi valide.
-- reclamatiile in care reclamantul foloseste un limbaj vulgar vor fi anulate iar acesta va fi sanctionat de admini.
+<span style="color:var(--pink);">6.1</span> Liderii au obligatia de a raspunde tuturor reclamatiilor adresate membrilor sai la cel mult 48 de ore de la deschiderea acestora.
+
+<span style="color:var(--pink);">6.2</span> Daca Liderul are cerere de inactivitate va avea la dispozitie 24 de ore de la expirarea cererii sa raspunda reclamatiilor.
+
+<span style="color:var(--pink);">6.3</span> In situatia in care Liderul are nelamuriri legate de reclamatie si apeleaza la ajutorul adminilor fara a primi un raspuns din partea acestora in acele 48 de ore atunci respectiva durata nu se mai aplica.
+
+<span style="color:var(--pink);">6.4</span> Reclamatia membrului cu cerere de inactivitate va ramane deschisa pana la 24 de ore de la expirarea cererii.
+  
+- in tot acest timp Liderul nu are voie sa promoveze membrul sau sa-i accepte cererea de demisie.
+
+<span style="color:var(--pink);">6.5</span> Dovezile din reclamatii trebuie sa fie valide, asta inseamna: sa apartina persoanei care face reclamatia, sa nu fie mai vechi de 3 zile, sa aiba pe ele numele reclamantului, serverul cat si data si ora.
+
+- reclamatiile care nu au dovezi valide vor fi anulate.
+- reclamatiile fara dovezi vor fi anulate.
+- reclamatiile pot fi refacute cu dovezi valide.
+
+<span style="color:var(--pink);">6.6</span> Reclamatiile in care reclamantul foloseste un limbaj vulgar vor fi anulate iar acesta va fi sanctionat de admini.
 
 Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
 ### Raportul de Activitate
 
-Liderul este cel care stabileste punctajele minime pentru rapoartele de activitate cat si pe ce criterii se acorda punctele.
+<span style="color:var(--pink);">6.7</span> Liderul este cel care stabileste punctajele minime pentru rapoartele de activitate cat si pe ce criterii se acorda punctele.
 
-Punctele de raport sunt corectate in mod automat de catre server, astfel ca Liderul nu trebuie sa intervina la corectat, la acordat de sanctiuni pentru raport si asa mai departe.
+<span style="color:var(--pink);">6.8</span> Punctele de raport sunt corectate in mod automat de catre server, astfel ca Liderul nu trebuie sa intervina la corectat, la acordat de sanctiuni pentru raport si asa mai departe.
 
-<span style="color:var(--pink);">In cazul gangurilor revine responsabilitatea Liderului</span> sa faca evidenta prezentei la waruri si sa sanctioneze membrii (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+<span style="color:var(--pink);">6.9</span> <span style="color:var(--pink);">In cazul gangurilor revine responsabilitatea Liderului</span> sa faca evidenta prezentei la waruri si sa sanctioneze membrii (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
-Liderul isi poate rezerva dreptul de a demite din factiune membrii care nu aduc suficiente contributii pentru respectiva factiune (nu sunt destul de activi, fac mereu raport minim, o tin in inactivitati, etc.).
+<span style="color:var(--pink);">6.10</span> Liderul isi poate rezerva dreptul de a demite din factiune membrii care nu aduc suficiente contributii pentru respectiva factiune (nu sunt destul de activi, fac mereu raport minim, o tin in inactivitati, etc.).
 
 ## 7. Promovare Membri si Locuri Factiuni
 
-Duratele de mai jos sunt duratele minime care trebuiesc asteptate. Liderul decide cand un membru merita sa fie promovat.
+<span style="color:var(--pink);">7.1</span> Duratele de mai jos sunt duratele minime care trebuiesc asteptate. Liderul decide cand un membru merita sa fie promovat.
 
-Adminii vor face promovari doar atunci cand Liderul factiunii le cere asta.
+<span style="color:var(--pink);">7.2</span> Adminii vor face promovari doar atunci cand Liderul factiunii le cere asta.
 
-Numarul de zile de promovare reprezinta numarul de zile pe care trebuie sa-l astepte un membru de la ultima promovare pentru a dobandi noul rank.
+<span style="color:var(--pink);">7.3</span> Numarul de zile de promovare reprezinta numarul de zile pe care trebuie sa-l astepte un membru de la ultima promovare pentru a dobandi noul rank.
 
-Membrii care acumuleaza vechimea de rank 2 si rank 3 trebuie sa primeasca la timp rank up daca Liderul acestora nu are dovezi in care comportamentul lor nu ar fi fost unul tocmai corespunzator sau acestia nu au fost destul de activi (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> la urmatoarea).
+<span style="color:var(--pink);">7.4</span> Membrii care acumuleaza vechimea de rank 2 si rank 3 trebuie sa primeasca la timp rank up daca Liderul acestora nu are dovezi in care comportamentul lor nu ar fi fost unul tocmai corespunzator sau acestia nu au fost destul de activi (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> la urmatoarea).
 
 <table>
 	<tbody>
@@ -1103,30 +1128,30 @@ Membrii care acumuleaza vechimea de rank 2 si rank 3 trebuie sa primeasca la tim
 
 ### Reguli Generale
 
-1. Fiecare Lider are obligatia de a respecta [Regulamentul Serverului](..), Regulamentul Liderilor, Regulamentele Factiunii sale cat si sa aplice sanctiunile corecte pentru incalcarea acestora.
+<span style="color:var(--pink);">8.1</span> Fiecare Lider are obligatia de a respecta [Regulamentul Serverului](..), Regulamentul Liderilor, Regulamentele Factiunii sale cat si sa aplice sanctiunile corecte pentru incalcarea acestora.
 
-2. Un Lider nu are voie sa faca reclamatie unui alt Lider, inclusiv de pe conturi cu care imparte IP comun (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
+<span style="color:var(--pink);">8.2</span> Un Lider nu are voie sa faca reclamatie unui alt Lider, inclusiv de pe conturi cu care imparte IP comun (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
 	- in cazul in care exista motiv de reclamatie vor fi contactati managerii de factiuni (adminii 4+) pe discordul staffului (mesaj privat) cu motivul si dovezile necesare.
 
-3. Nu este permis sa se dea Wipe la membri fara un motiv extrem de serios si ca o ultima solutie (<span style="color:red;">sanctiune: Demitere FP 300</span>).
+<span style="color:var(--pink);">8.3</span> Nu este permis sa se dea Wipe la membri fara un motiv extrem de serios si ca o ultima solutie (<span style="color:red;">sanctiune: Demitere FP 300</span>).
 	- se acorda Wipe numai prin aprobarea unui manager de factiuni (admin 4+).
 
-4. Liderilor le este permis sa joace pe alte conturi pe acelasi server cu aprobare de la managerii de factiuni (adminii 4+).
+<span style="color:var(--pink);">8.4</span> Liderilor le este permis sa joace pe alte conturi pe acelasi server cu aprobare de la managerii de factiuni (adminii 4+).
 
-5. Un avertisment la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte avertismente intre timp.
+<span style="color:var(--pink);">8.5</span> Un avertisment la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte avertismente intre timp.
 	- aceste avertismente se vor inlatura numai la cererea Liderului si numai cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie sters avertismentul.
 
-6. Este strict interzis unui Lider sa ceara diverse compensatii pentru a accepta un jucator in factiune, a-l trece testul, a-l scuti de sanctiuni, a-l promova, etc (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
+<span style="color:var(--pink);">8.6</span> Este strict interzis unui Lider sa ceara diverse compensatii pentru a accepta un jucator in factiune, a-l trece testul, a-l scuti de sanctiuni, a-l promova, etc (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
 
-7. Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
+<span style="color:var(--pink);">8.7</span> Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
 
-8. Liderii de Ganguri au obligatia de a se prezenta la 3 din 5 zile de waruri pe saptamana (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere, <span style="color:red;">Demitere</span> daca continua).
+<span style="color:var(--pink);">8.8</span> Liderii de Ganguri au obligatia de a se prezenta la 3 din 5 zile de waruri pe saptamana (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere, <span style="color:red;">Demitere</span> daca continua).
 
-9. Liderii de gang au obligatia de a avea minim 3 attack-uri in fiecare saptamana in care se desfasoara wars (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere).
+<span style="color:var(--pink);">8.9</span> Liderii de gang au obligatia de a avea minim 3 attack-uri in fiecare saptamana in care se desfasoara wars (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere).
 
 ### Activitatea Membrilor
 
-La inceputul fiecarei luni trebuie sa va ocupati voi de verificarea activitatii membrilor pe luna anterioara si sanctionarea lor. Acest lucru poate fi facut pe website in Leader Panel, tabul Member Activity.
+<span style="color:var(--pink);">8.10</span> La inceputul fiecarei luni trebuie sa va ocupati voi de verificarea activitatii membrilor pe luna anterioara si sanctionarea lor. Acest lucru poate fi facut pe website in Leader Panel, tabul Member Activity.
 
 Membrii vor fi sanctionati in urmatorul fel:
 
@@ -1138,24 +1163,24 @@ Membrii vor fi sanctionati in urmatorul fel:
 !!! danger "Important"
 	Sanctiunile pentru activitate vor fi acordate doar membrilor care au cel putin 30 de zile in factiune.
 
-Liderii care nu-si sanctioneaza membrii pana la finalul celei de-a doua zi din luna si incep sanctionarea lor din ziua urmatoare (de exemplu: 03.03.2021 sau mai tarziu) vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la functie fiind la prima abatere, urmand sa primeasca <span style="color:red;">Leader Warn</span> de la a doua abatere.
+<span style="color:var(--pink);">8.11</span> Liderii care nu-si sanctioneaza membrii pana la finalul celei de-a doua zi din luna si incep sanctionarea lor din ziua urmatoare (de exemplu: 03.03.2021 sau mai tarziu) vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la functie fiind la prima abatere, urmand sa primeasca <span style="color:red;">Leader Warn</span> de la a doua abatere.
 
-Liderii vor fi nevoiti sa posteze evidenta lunara a orelor pe forum in topicul specific de ore lunare creat la fiecare factiune in parte. In acel topic se va posta un tabel cu orele reale ale membrilor vostri.
+<span style="color:var(--pink);">8.12</span> Liderii vor fi nevoiti sa posteze evidenta lunara a orelor pe forum in topicul specific de ore lunare creat la fiecare factiune in parte. In acel topic se va posta un tabel cu orele reale ale membrilor vostri.
 
-Cel tarziu pana la finalul celei de-a doua zi a lunii va trebui postata evidenta (nu mai tarziu). Cine intarzie cu evidenta va fi sanctionat exact ca mai sus.
+<span style="color:var(--pink);">8.13</span> Cel tarziu pana la finalul celei de-a doua zi a lunii va trebui postata evidenta (nu mai tarziu). Cine intarzie cu evidenta va fi sanctionat exact ca mai sus.
 
-Pentru a nu se ajunge la situatii in care un membru a avut prima abatere in 2020 si a doua abatere in 2022, rezultand in rank down, <span style="color:var(--pink);">abaterile se reseteaza mereu la 6 luni de la ultima sanctiune acordata</span> pentru lipsa orelor.
+<span style="color:var(--pink);">8.14</span> Pentru a nu se ajunge la situatii in care un membru a avut prima abatere in 2020 si a doua abatere in 2022, rezultand in rank down, <span style="color:var(--pink);">abaterile se reseteaza mereu la 6 luni de la ultima sanctiune acordata</span> pentru lipsa orelor.
 
 !!! example "Exemplu"
 	Daca un membru a primit prima sanctiune pentru ore jucate in 1 Ianuarie 2023, adica un FW fiind prima abatere, si pana in luna August nu mai are nicio abatere iar atunci va trebui sa primeasca inca o sanctiune ca nu are 15 ore reale, acesta va primi din nou un FW fiind prima abatere deoarece s-au resetat, 6 luni de la 1 ianuarie considerandu-se 1 iulie 2023.
 
 ### Activitatile Organizate
 
-Micile greseli ce pot aparea in momentul in care un membru dintr-o factiune face o invoire (numarul invoirii, rank-ul detinut etc.) nu o sa se sanctioneze din prima cu respingerea invoirii. 
+<span style="color:var(--pink);">8.15</span> Micile greseli ce pot aparea in momentul in care un membru dintr-o factiune face o invoire (numarul invoirii, rank-ul detinut etc.) nu o sa se sanctioneze din prima cu respingerea invoirii. 
 
-La prima abatere membru va fi <span style="color:var(--pink);">mustrat</span> (adica ii aduceti la cunostinta greseala, fara sanctiune), la a doua abatere sanctionat cu <span style="color:red;">Avertisment Verbal</span> si de la a treia abatere sanctionat cu <span style="color:red;">Faction Warn</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
+<span style="color:var(--pink);">8.16</span> La prima abatere membru va fi <span style="color:var(--pink);">mustrat</span> (adica ii aduceti la cunostinta greseala, fara sanctiune), la a doua abatere sanctionat cu <span style="color:red;">Avertisment Verbal</span> si de la a treia abatere sanctionat cu <span style="color:red;">Faction Warn</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
 
-Sanctiunile pentru intarziere sunt urmatoarele pentru toate factiunile:
+<span style="color:var(--pink);">8.17</span> Sanctiunile pentru intarziere sunt urmatoarele pentru toate factiunile:
 
 - intarziere de pana la 10 minute: <span style="color:var(--green);">nimic.</span>
 - intarziere intre 10 si 20 de minute: <span style="color:red;">Avertisment Verbal.</span>
@@ -1167,43 +1192,43 @@ Sanctiunile pentru intarziere sunt urmatoarele pentru toate factiunile:
 
 	Activitatile cu prezenta obligatorie trebuie sa fie anuntate cu minim o saptamana inainte (anunt pe forum, FMOTD) si singura modalitate ca membrii sa fie invoiti este printr-o invoire deschisa pe website din timp.
 
-Daca un Lider doreste sa organizeze o activitate cu prezenta obligatorie, trebuie sa aiba un motiv bine intemeiat (ex: sedinta dupa ce un Lider nou a fost promovat, dupa schimbari majore de regulament, etc.) si sa ceara acordul unui manager de factiuni (admin 4+).
+<span style="color:var(--pink);">8.18</span> Daca un Lider doreste sa organizeze o activitate cu prezenta obligatorie, trebuie sa aiba un motiv bine intemeiat (ex: sedinta dupa ce un Lider nou a fost promovat, dupa schimbari majore de regulament, etc.) si sa ceara acordul unui manager de factiuni (admin 4+).
 
 ### Reguli Ganguri
 
-1. Daca o cerere de interdictie se inchide in 3 zile fara sa existe un vot majoritar din partea voastra, veti fi sanctionati incepand cu <span style="color:var(--pink);">mustrare verbala</span>, urmand <span style="color:red;">Avertisment Verbal</span>, <span style="color:red;">Leader Warn</span> si <span style="color:red;">Demitere.</span>
+<span style="color:var(--pink);">8.19</span> Daca o cerere de interdictie se inchide in 3 zile fara sa existe un vot majoritar din partea voastra, veti fi sanctionati incepand cu <span style="color:var(--pink);">mustrare verbala</span>, urmand <span style="color:red;">Avertisment Verbal</span>, <span style="color:red;">Leader Warn</span> si <span style="color:red;">Demitere.</span>
 
-2. Liderii care accepta in mod constient persoane care folosesc coduri o sa fie sanctionati cu <span style="color:red;">Leader Warn sau Demitere</span>, in functie de caz.
+<span style="color:var(--pink);">8.20</span> Liderii care accepta in mod constient persoane care folosesc coduri o sa fie sanctionati cu <span style="color:red;">Leader Warn sau Demitere</span>, in functie de caz.
 
-3. Liderii si subliderii au obligatia de a se prezenta la waruri. Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
+<span style="color:var(--pink);">8.21</span> Liderii si subliderii au obligatia de a se prezenta la waruri. Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
 
-4. Membrii care fac parte dintr-un gang si intre timp primesc <span style="color:var(--pink);">interdictie</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60</span>. Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. Liderii care vor accepta jucatori cu interdictie vor fi sanctionati cu <span style="color:red;">Leader Warn</span>, chiar si de la prima abatere.
+<span style="color:var(--pink);">8.22</span> Membrii care fac parte dintr-un gang si intre timp primesc <span style="color:var(--pink);">interdictie</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60</span>. Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. Liderii care vor accepta jucatori cu interdictie vor fi sanctionati cu <span style="color:red;">Leader Warn</span>, chiar si de la prima abatere.
 
-5. In cazul in care exista reclamatii pentru <span style="color:var(--pink);">fast c-bug</span> facut de catre membri la waruri (atat obligatorii cat si optionale), unde sanctiunea este Faction Warn, se va aplica sanctiunea o singura data daca dovezile pe care este reclamat (din reclamatii diferite) sunt facute intr-un <span style="color:var(--pink);">interval de 10 minute</span> la acel moment. Daca diferenta dintre dovezi este mai mare de 10 minute, acesta va fi sanctionat pentru fiecare dovada.
+<span style="color:var(--pink);">8.23</span> In cazul in care exista reclamatii pentru <span style="color:var(--pink);">fast c-bug</span> facut de catre membri la waruri (atat obligatorii cat si optionale), unde sanctiunea este Faction Warn, se va aplica sanctiunea o singura data daca dovezile pe care este reclamat (din reclamatii diferite) sunt facute intr-un <span style="color:var(--pink);">interval de 10 minute</span> la acel moment. Daca diferenta dintre dovezi este mai mare de 10 minute, acesta va fi sanctionat pentru fiecare dovada.
 
-6.  In cazul in care subliderul primeste ban pentru coduri (<span style="color:var(--pink);">Aimbot/Norecoil</span>) o sa fiti sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
+<span style="color:var(--pink);">8.24</span>  In cazul in care subliderul primeste ban pentru coduri (<span style="color:var(--pink);">Aimbot/Norecoil</span>) o sa fiti sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
 
-7. La fiecare vot pe care-l aduceti jucatorului caruia i s-a facut cererea de interdictie sunteti obligati sa aduceti si un argument pentru votul respectiv.
+<span style="color:var(--pink);">8.25</span> La fiecare vot pe care-l aduceti jucatorului caruia i s-a facut cererea de interdictie sunteti obligati sa aduceti si un argument pentru votul respectiv.
 
-8. Liderii NU au voie sa sanctioneze membrii la war pe motive precum "cine moare fara kill are FW" - "cine moare are FW". Va puteti sanctiona membrii pentru neascultare rank superior doar daca oferiti suficient timp sa ajunga la o pozitie de backup, iar acei membrii continua sa va ignore si sa nu vina la pozitia ceruta de voi (<span style="color:red;">sanctiune: Leader Warn</span>).
+<span style="color:var(--pink);">8.26</span> Liderii NU au voie sa sanctioneze membrii la war pe motive precum "cine moare fara kill are FW" - "cine moare are FW". Va puteti sanctiona membrii pentru neascultare rank superior doar daca oferiti suficient timp sa ajunga la o pozitie de backup, iar acei membrii continua sa va ignore si sa nu vina la pozitia ceruta de voi (<span style="color:red;">sanctiune: Leader Warn</span>).
 
 #### <span style="color:#3baad5;">Invoirile</span>
 
-1. Toate invoirile se fac pe website.
+<span style="color:var(--pink);">8.27</span> Toate invoirile se fac pe website.
 
-2. Puteti accepta <span style="color:var(--pink);">maxim 5 invoiri</span> intr-o zi de war. (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
+<span style="color:var(--pink);">8.28</span> Puteti accepta <span style="color:var(--pink);">maxim 5 invoiri</span> intr-o zi de war. (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
 
-	- daca sunt 5 sau mai putine invoiri acestea vor fi acceptate automat.
-	- daca sunt mai mult de 5 invoiri primele 5 au prioritate. In cazul in care un membru care are invoire a fost prezent la toate warurile din ziua respectiva, invoirea lui va fi respinsa.
+- daca sunt 5 sau mai putine invoiri acestea vor fi acceptate automat.
+- daca sunt mai mult de 5 invoiri primele 5 au prioritate. In cazul in care un membru care are invoire a fost prezent la toate warurile din ziua respectiva, invoirea lui va fi respinsa.
 
 #### <span style="color:#3baad5;">Secundele la Waruri</span>
 
-1. Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula: 
+<span style="color:var(--pink);">8.29</span> Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula: 
 
-	- pentru warurile din orasul gangului limita poate fi impusa intre <span style="color:var(--green);">500 - 800 secunde.</span>
-	- pentru warurile din celelalte orase limita poate fi impusa intre <span style="color:var(--green);">300 - 600 secunde.</span>
+- pentru warurile din orasul gangului limita poate fi impusa intre <span style="color:var(--green);">500 - 800 secunde.</span>
+- pentru warurile din celelalte orase limita poate fi impusa intre <span style="color:var(--green);">300 - 600 secunde.</span>
 
-2. Liderul poate decide sa nu tina cont de secunde pentru o anumita zi de war, fiind necesare <span style="color:var(--pink);">30 de secunde pe turf pentru prezenta.</span>
+<span style="color:var(--pink);">8.30</span> Liderul poate decide sa nu tina cont de secunde pentru o anumita zi de war, fiind necesare <span style="color:var(--pink);">30 de secunde pe turf pentru prezenta.</span>
 
 !!! danger "Important"
 	In cazul in care exista abuzuri ce tin de aceasta regula se va acorda direct <span style="color:red;">Leader Warn.</span> Managerii de factiuni (adminii 4+) pot solicita dovezi Liderului prin care sa demonstreaza ca a anuntat numarul de secunde.
