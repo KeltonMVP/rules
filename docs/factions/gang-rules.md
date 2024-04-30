@@ -93,35 +93,33 @@ Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](#10-regulament
 
 ### Ore Jucate
 
-<span style="color:var(--pink);">4.3</span> Toti membrii factiunii au obligatia de a avea un minim de ore reale jucate in decursul unei luni de zile. Numarul de ore si sanctiunile pentru lipsa acestora pot fi regasite in [Regulamentul Liderilor > Activitatea Membrilor](../leaders/leader-rules.md/#activitatea-membrilor).
+<span style="color:var(--pink);">4.3.1</span> Toti membrii factiunii au obligatia de a avea un minim de ore reale jucate in decursul unei luni de zile. Numarul de ore si sanctiunile pentru lipsa acestora pot fi regasite in [Regulamentul Liderilor > Activitatea Membrilor](../leaders/leader-rules.md/#activitatea-membrilor).
 
-<span style="color:var(--pink);">4.4</span> Jucatorii cu o vechime minima de un an de zile in factiune, care au dat dovada de seriozitate si implicare, beneficiaza la cererea lor <span style="color:var(--green);">de a fi exclusi</span> de la cerinta de acumulare a orelor reale jucate dintr-o anumita luna.
+<span style="color:var(--pink);">4.3.2</span> Jucatorii cu o vechime minima de un an de zile in factiune, care au dat dovada de seriozitate si implicare, beneficiaza la cererea lor <span style="color:var(--green);">de a fi exclusi</span> de la cerinta de acumulare a orelor reale jucate dintr-o anumita luna.
 
-<span style="color:var(--pink);">4.5</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> si va va scuti doar de necesitatea orelor jucate, nu si efectuarea rapoartelor de activitate din respectiva luna. Acestea trebuie sa le faceti in continuare sau sa optati pentru o cerere de inactivitate pentru perioada permisa si sa folositi rapoarte optionale daca aveti pentru perioada ramasa.
+<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> si va va scuti doar de necesitatea orelor jucate, nu si efectuarea rapoartelor de activitate din respectiva luna. Acestea trebuie sa le faceti in continuare sau sa optati pentru o cerere de inactivitate pentru perioada permisa si sa folositi rapoarte optionale daca aveti pentru perioada ramasa.
 
 ## 5. Reclamatii Website
 
 ### Raportarea Colegilor/Liderului
 
-<span style="color:var(--pink);">5.1</span> Este interzisa raportarea colegilor sau a liderului direct pe website chiar si de pe conturi secundare, exceptie pentru afaceri ilegale, spargeri de conturi, coduri, moduri interzise, bug abuse, reclama, inselatorii (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
+<span style="color:var(--pink);">5.1.1</span> Este interzisa raportarea colegilor sau a liderului direct pe website chiar si de pe conturi secundare, exceptie pentru afaceri ilegale, spargeri de conturi, coduri, moduri interzise, bug abuse, reclama, inselatorii (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
 
-<span style="color:var(--pink);">5.2</span> Colegii pot fi raportati liderului printr-un mesaj privat pe forum. Liderul poate fi raportat adminilor [deschizand un ticket pe website](https://www.rpg.b-zone.ro/ticket).
-
-<span style="color:var(--pink);">5.3</span> Se considera colegi inclusiv membrii factiunilor de acelasi tip pentru taxi, instructori si departamente.
+<span style="color:var(--pink);">5.1.2</span> Colegii pot fi raportati liderului printr-un mesaj privat pe forum. Liderul poate fi raportat adminilor [deschizand un ticket pe website](https://www.rpg.b-zone.ro/ticket).
 
 ### Dovezi
 
-<span style="color:var(--pink);">5.4</span> Toate dovezile de pe server trebuie sa includa marcajele serverului cu data, ora, numele jucatorului si al serverului (<span style="color:var(--pink);">dovezi invalide</span>).
+<span style="color:var(--pink);">5.2.1</span> Toate dovezile de pe server trebuie sa includa marcajele serverului cu data, ora, numele jucatorului si al serverului (<span style="color:var(--pink);">dovezi invalide</span>).
 
-<span style="color:var(--pink);">5.5</span> O dovada este valabila cel mult 3 zile (<span style="color:var(--pink);">dovezi invalide</span>). Aveti la dispozitie 24 de ore sa aduceti dovezi in apararea voastra, exceptie atunci cand aveti cerere de inactivitate. In acest caz aveti la dispozitie 24 de ore dupa expirarea inactivitatii sa prezentati dovezile.
+<span style="color:var(--pink);">5.2.2</span> O dovada este valabila cel mult 3 zile (<span style="color:var(--pink);">dovezi invalide</span>). Aveti la dispozitie 24 de ore sa aduceti dovezi in apararea voastra, exceptie atunci cand aveti cerere de inactivitate. In acest caz aveti la dispozitie 24 de ore dupa expirarea inactivitatii sa prezentati dovezile.
 
-<span style="color:var(--pink);">5.6</span> In cazul dovezilor de pe browser se accepta numai videouri in care sa se dea minim un refresh la pagina sa se vada ca dovada nu e falsificata (<span style="color:var(--pink);">dovezi invalide</span>).
+<span style="color:var(--pink);">5.2.3</span> In cazul dovezilor de pe browser se accepta numai videouri in care sa se dea minim un refresh la pagina sa se vada ca dovada nu e falsificata (<span style="color:var(--pink);">dovezi invalide</span>).
 
 ### Limbajul si Martorii
 
-<span style="color:var(--pink);">5.7</span> Este interzis sa insulti grav, sa vorbesti vulgar in reclamatii (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">5.3.1</span> Este interzis sa insulti grav, sa vorbesti vulgar in reclamatii (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">5.8</span> Comentariile aiurea in reclamatie, diverse ofense prin intermediul dovezilor, instigarea la cearta, fara a aduce dovezi valide pentru problema reclamata si fara a fi implicati in actiunile care au dus la problema reclamata, va fi sanctionata astfel:
+<span style="color:var(--pink);">5.3.2</span> Comentariile aiurea in reclamatie, diverse ofense prin intermediul dovezilor, instigarea la cearta, fara a aduce dovezi valide pentru problema reclamata si fara a fi implicati in actiunile care au dus la problema reclamata, va fi sanctionata astfel:
 
 - pentru martorii adaugati de <span style="color:var(--pink);">RECLAMANT</span> cat si pentru acesta (cel care deschide reclamatia): reclamatia va fi ignorata, fara dreptul de-a mai reface reclamatia.
 - pentru martorii adaugati de <span style="color:var(--green);">RECLAMAT</span> cat si pentru acesta (membrul factiunii care este reclamat): va fi sanctionat cu <span style="color:red;">Avertisment Verbal</span> pentru lucruri minore sau <span style="color:red;">Faction Warn</span> pentru lucruri mai serioase, pe langa sanctiunea pe care trebuie s-o primeasca pentru reclamatie daca a fost vinovat cu ceva.
@@ -185,13 +183,13 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 ## 9. Blacklist
 
-<span style="color:var(--pink);">9.1</span> Se vor putea adauga pe blacklist jucatori de <span style="color:var(--pink);">minim level 7</span>, indiferent ca fac parte dintr-o factiune sau sunt civili.
+<span style="color:var(--pink);">9.1.1</span> Se vor putea adauga pe blacklist jucatori de <span style="color:var(--pink);">minim level 7</span>, indiferent ca fac parte dintr-o factiune sau sunt civili.
 
-<span style="color:var(--pink);">9.2</span> Adaugarea unui jucator pe blacklist se va face de catre membrii de rank 4+ si numai pe baza unei dovezi clare care va fi postata pe forum in topicul cu evidenta dovezilor pentru blacklist (<span style="color:red;">sanctiuni: Faction Warn prima</span> abatere, <span style="color:red;">Rank Down</span> daca continua).
+<span style="color:var(--pink);">9.1.2</span> Adaugarea unui jucator pe blacklist se va face de catre membrii de rank 4+ si numai pe baza unei dovezi clare care va fi postata pe forum in topicul cu evidenta dovezilor pentru blacklist (<span style="color:red;">sanctiuni: Faction Warn prima</span> abatere, <span style="color:red;">Rank Down</span> daca continua).
 
-<span style="color:var(--pink);">9.3</span> Inlaturarea unui jucator de pe blacklist se va face de catre membrii de rank 4+ in cazul in care un jucator a fost adaugat gresit, inlaturarea jucatorilor fara motiv fiind sanctionata (<span style="color:red;">sanctiuni: Faction Warn prima</span> abatere, <span style="color:red;">Rank Down</span> daca continua).
+<span style="color:var(--pink);">9.1.3</span> Inlaturarea unui jucator de pe blacklist se va face de catre membrii de rank 4+ in cazul in care un jucator a fost adaugat gresit, inlaturarea jucatorilor fara motiv fiind sanctionata (<span style="color:red;">sanctiuni: Faction Warn prima</span> abatere, <span style="color:red;">Rank Down</span> daca continua).
 
-<span style="color:var(--pink);">9.4</span> Jucatorii aflati pe blacklist pot fi omorati constant [exceptie la departamente] pana cand platesc blacklistul, exceptand in Safe Zone si la activitati importante precum evenimente, targuri, joburi legale, licitatii etc.
+<span style="color:var(--pink);">9.1.4</span> Jucatorii aflati pe blacklist pot fi omorati constant [exceptie la departamente] pana cand platesc blacklistul, exceptand in Safe Zone si la activitati importante precum evenimente, targuri, joburi legale, licitatii etc.
 
 ### Avertismente Blacklist
 
@@ -204,37 +202,37 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 ### Platirea Blacklistului
 
-<span style="color:var(--pink);">9.5</span> Jucatorii cu factiune aflati pe blacklist au la dispozitie 72 de ore daca nu au cerere de inactivitate sa plateasca blacklistul, in caz contrar vor fi sanctionati initial cu <span style="color:red;">Avertisment Verbal</span>, iar daca plata blacklistului nu e facuta nici in urmatoarele 24 de ore membrul va fi <span style="color:red;">demis.</span>
+<span style="color:var(--pink);">9.2.1</span> Jucatorii cu factiune aflati pe blacklist au la dispozitie 72 de ore daca nu au cerere de inactivitate sa plateasca blacklistul, in caz contrar vor fi sanctionati initial cu <span style="color:red;">Avertisment Verbal</span>, iar daca plata blacklistului nu e facuta nici in urmatoarele 24 de ore membrul va fi <span style="color:red;">demis.</span>
 
-<span style="color:var(--pink);">9.6</span> Plata blacklistului se face pe website sau direct in joc prin comenzile specifice, fara a acorda respectivii bani unui membru din acea factiune.
+<span style="color:var(--pink);">9.2.2</span> Plata blacklistului se face pe website sau direct in joc prin comenzile specifice, fara a acorda respectivii bani unui membru din acea factiune.
 
-<span style="color:var(--pink);">9.7</span> Odata ce plata a fost efectuat, jucatorul va fi inlaturat automat de pe blacklist.
+<span style="color:var(--pink);">9.2.3</span> Odata ce plata a fost efectuat, jucatorul va fi inlaturat automat de pe blacklist.
 
-<span style="color:var(--pink);">9.8</span> Este interzis pentru membrii de factiune sa ceara sau sa accepte bani pentru blacklist in loc sa informeze jucatorul sa foloseasca comenzile aferente (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">9.2.4</span> Este interzis pentru membrii de factiune sa ceara sau sa accepte bani pentru blacklist in loc sa informeze jucatorul sa foloseasca comenzile aferente (<span style="color:red;">sanctiune: demitere</span>).
 
 ## 10. Regulament Waruri
 
 ### Informatii Waruri
 
-<span style="color:var(--pink);">10.1</span> Programul warurilor obligatorii in perioada de toamna-iarna-primavara este de Luni pana Vineri intre orele 20:00 - 22:00.
+<span style="color:var(--pink);">10.1.1</span> Programul warurilor obligatorii in perioada de toamna-iarna-primavara este de Luni pana Vineri intre orele 20:00 - 22:00.
 
-<span style="color:var(--pink);">10.2</span> Programul warurilor obligatorii in perioada de vara este de Luni pana Vineri intre un interval stabilit prin vot anual.
+<span style="color:var(--pink);">10.1.2</span> Programul warurilor obligatorii in perioada de vara este de Luni pana Vineri intre un interval stabilit prin vot anual.
 
-<span style="color:var(--pink);">10.3</span> Programul warurilor optionale este Sambata de la ora 20:00 si Duminica de la ora 21:00.
+<span style="color:var(--pink);">10.1.3</span> Programul warurilor optionale este Sambata de la ora 20:00 si Duminica de la ora 21:00.
 
-<span style="color:var(--pink);">10.4</span> Atacurile se dau pe website-ul RPG in sectiunea [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs), de catre un rank 4+, intre incepand cu 5 minute dupa finalizarea programului de waruri si pana la cel mult o ora dupa finalizarea acestuia (ex: 22:05 - 22:59)
+<span style="color:var(--pink);">10.1.4</span> Atacurile se dau pe website-ul RPG in sectiunea [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs), de catre un rank 4+, intre incepand cu 5 minute dupa finalizarea programului de waruri si pana la cel mult o ora dupa finalizarea acestuia (ex: 22:05 - 22:59)
 
-<span style="color:var(--pink);">10.5</span> Sunt permise tratatele de pace, nu si aliantele. Incalcarea tratatului de pace se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.5</span> Sunt permise tratatele de pace, nu si aliantele. Incalcarea tratatului de pace se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.6</span> In timpul warului sunteti obligati sa aveti <span style="color:var(--pink);">jobul de Arms Dealer.</span>
+<span style="color:var(--pink);">10.1.6</span> In timpul warului sunteti obligati sa aveti <span style="color:var(--pink);">jobul de Arms Dealer.</span>
 
-<span style="color:var(--pink);">10.7</span> Cand cereti o arma in timpul warului trebuie sa spuneti ID-ul vostru, neprecizarea acestuia inseamna ca nu sunt obligati colegii sa va dea arme.
+<span style="color:var(--pink);">10.1.7</span> Cand cereti o arma in timpul warului trebuie sa spuneti ID-ul vostru, neprecizarea acestuia inseamna ca nu sunt obligati colegii sa va dea arme.
 
-<span style="color:var(--pink);">10.8</span> Neacordarea unei arme unui coleg care o cere in mod corect se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.8</span> Neacordarea unei arme unui coleg care o cere in mod corect se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.9</span> Pe durata warurilor trebuie sa aveti <span style="color:var(--pink);">minim $10,000 cash</span>, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.9</span> Pe durata warurilor trebuie sa aveti <span style="color:var(--pink);">minim $10,000 cash</span>, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.10</span> In absenta liderului, subliderii sunt obligati sa faca evidenta warurilor in decurs a 48 de ore daca nu au inactivitate, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.10</span> In absenta liderului, subliderii sunt obligati sa faca evidenta warurilor in decurs a 48 de ore daca nu au inactivitate, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
 !!! example "Nota informativa"
     Numarul de secunde pentru prezenta la Waruri poate fi modificat de catre lider in functie de Regulamentul [Liderilor -> Secundele la Waruri](../leaders/leader-rules.md#secundele-la-waruri).
@@ -246,23 +244,23 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
     Este interzisa <span style="color:var(--pink);">conectarea pe contul de gang cu VPN in intervalul de waruri</span> atunci cand gangul are un war activ. Daca jucatorul este surprins cu adrese care sunt asociate VPN-ului, acesta va fi <span style="color:red;">demis cu FP 60/60.</span>
 
-<span style="color:var(--pink);">10.11</span> Tentativa de corupere a unui adversar de a ajuta la cucerirea unui teritoriu este interzisa (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">10.2.1</span> Tentativa de corupere a unui adversar de a ajuta la cucerirea unui teritoriu este interzisa (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">10.12</span> Vanzarea de arme unui adversar in timpul warului este interzisa (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.2</span> Vanzarea de arme unui adversar in timpul warului este interzisa (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.13</span> Este interzis abuzul de droguri cand se trage asupra voastra pentru a nu fi omorati (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.3</span> Este interzis abuzul de droguri cand se trage asupra voastra pentru a nu fi omorati (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.14</span> Sinuciderea atunci cand un adversar va urmareste si v-ar putea scadea din viata este interzisa (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.4</span> Sinuciderea atunci cand un adversar va urmareste si v-ar putea scadea din viata este interzisa (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.15</span> Jucatorii care primesc <span style="color:var(--pink);">3 kickuri pe motiv desync</span> nu mai au voie sa participe la warurile din ziua respectiva (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
+<span style="color:var(--pink);">10.2.5</span> Jucatorii care primesc <span style="color:var(--pink);">3 kickuri pe motiv desync</span> nu mai au voie sa participe la warurile din ziua respectiva (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
 
-<span style="color:var(--pink);">10.16</span> Fast c-bugul atat la warurile obligatorii cat si la cele optionale va fi sanctionat de catre lider (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.6</span> Fast c-bugul atat la warurile obligatorii cat si la cele optionale va fi sanctionat de catre lider (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.17</span> Este interzis sa dai <span style="color:var(--pink);">/eject sau /tog - surfing unui coleg(i)</span> in cadrul war-urilor (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">10.2.7</span> Este interzis sa dai <span style="color:var(--pink);">/eject sau /tog - surfing unui coleg(i)</span> in cadrul war-urilor (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">10.18</span> In perioada 1-20 a lunii este interzis sa ceri adversarilor sa iti permita sa-ti faci secundele pe turf (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.8</span> In perioada 1-20 a lunii este interzis sa ceri adversarilor sa iti permita sa-ti faci secundele pe turf (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.19</span> Este interzis sa stati in apa la distante unde nu puteti fi nimeriti de adversari pentru a castiga la influenta. Membrii care se afla in apa <span style="color:var(--pink);">mai mult de 60 de secunde</span> une nu pot incasa damage vor fi sanctionati cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.2.9</span> Este interzis sa stati in apa la distante unde nu puteti fi nimeriti de adversari pentru a castiga la influenta. Membrii care se afla in apa <span style="color:var(--pink);">mai mult de 60 de secunde</span> une nu pot incasa damage vor fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
 ### Absenta Waruri Obligatorii
 
@@ -288,21 +286,21 @@ Cand gangul are <span style="color:var(--green);">1 war:</span>
 
 - absent la 1/1 - <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.20</span> Amenzile se platesc direct in joc de catre jucatori prin comanda [<span style="color:var(--pink);">/fines</span>]. Amenzile neplatite in 48 de ore duc la sanctionarea cu un <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.3.1</span> Amenzile se platesc direct in joc de catre jucatori prin comanda [<span style="color:var(--pink);">/fines</span>]. Amenzile neplatite in 48 de ore duc la sanctionarea cu un <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.21</span> Amenzile pot fi platite numai de catre jucatorul care le-a primit din proprii sai bani. Daca jucatorul nu a platit amenda la timp aceasta va figura ca neplatita pe [<span style="color:var(--pink);">/fines</span>].
+<span style="color:var(--pink);">10.3.2</span> Amenzile pot fi platite numai de catre jucatorul care le-a primit din proprii sai bani. Daca jucatorul nu a platit amenda la timp aceasta va figura ca neplatita pe [<span style="color:var(--pink);">/fines</span>].
 
 ### Amenzi Worst (optionale)
 
-<span style="color:var(--pink);">10.22</span> Liderul decide daca acorda aceste sanctiuni <span style="color:var(--pink);">pentru warurile pierdute.</span> Sanctiunile vor fi acordate tuturor membrilor sau niciunuia in functie de decizia liderului.
+<span style="color:var(--pink);">10.4.1</span> Liderul decide daca acorda aceste sanctiuni <span style="color:var(--pink);">pentru warurile pierdute.</span> Sanctiunile vor fi acordate tuturor membrilor sau niciunuia in functie de decizia liderului.
 
 - scor de -5 la war: <span style="color:orange;">25.000$.</span>
 - scor de -10 la war: <span style="color:orange;">30.000$.</span>
 - scor mai mic de -15 la war: se va sanctiona direct cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.23</span> Amenzile se platesc direct in joc de catre jucatori prin comanda [<span style="color:var(--pink);">/fines</span>]. Amenzile neplatite in 48 de ore duc la sanctionarea cu un <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.4.2</span> Amenzile se platesc direct in joc de catre jucatori prin comanda [<span style="color:var(--pink);">/fines</span>]. Amenzile neplatite in 48 de ore duc la sanctionarea cu un <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.24</span> Amenzile pot fi platite numai de catre jucatorul care le-a primit din proprii sai bani. Daca jucatorul nu a platit amenda la timp aceasta va figura ca neplatita pe [<span style="color:var(--pink);">/fines</span>].
+<span style="color:var(--pink);">10.4.3</span> Amenzile pot fi platite numai de catre jucatorul care le-a primit din proprii sai bani. Daca jucatorul nu a platit amenda la timp aceasta va figura ca neplatita pe [<span style="color:var(--pink);">/fines</span>].
 
 ### Invoirile
 
@@ -322,36 +320,43 @@ Cand gangul are <span style="color:var(--green);">1 war:</span>
 
 ### Conturi Multiple si IP-uri Comune
 
-<span style="color:var(--pink);">11.2</span> Membrii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in ganguri (chiar si ganguri diferite).
+<span style="color:var(--pink);">11.2.1</span> Membrii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in ganguri (chiar si ganguri diferite).
 
-<span style="color:var(--pink);">11.3</span> Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri de ganguri isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple si vor fi demise ambele conturi.
+<span style="color:var(--pink);">11.2.2</span> Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri de ganguri isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple si vor fi demise ambele conturi.
 
 !!! danger "Important"
     In cazul jucatorilor care joaca din aceeasi locatie si au IP comun, pentru a face parte amandoi din aceeasi factiune este necesara [deschiderea unui ticket pe website-ul RPG](https://www.rpg.b-zone.ro/ticket) pentru a efectua niste verificari si a va permite acest lucru.
 
 ### Joburi
 
-<span style="color:var(--pink);">11.4</span> Se poate detine orice tip de job legal sau ilegal in afara Warurilor.
+<span style="color:var(--pink);">11.3.1</span> Se poate detine orice tip de job legal sau ilegal in afara Warurilor.
 
-<span style="color:var(--pink);">11.5</span> Liderul are dreptul de a forta membrii sa foloseasca un anumit job pentru o durata determinata de timp in scopul realizarii muncii din factiune (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">11.3.2</span> Liderul are dreptul de a forta membrii sa foloseasca un anumit job pentru o durata determinata de timp in scopul realizarii muncii din factiune (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ### Rapire (/tie)
 
-<span style="color:var(--pink);">11.6</span> Este interzisa rapirea unui jucator <span style="color:var(--pink);">sub level 10</span> cat si sa-i dati eject din vehicul cand l-ati rapit (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">11.4.1</span> Este interzisa rapirea unui jucator <span style="color:var(--pink);">sub level 10</span> cat si sa-i dati eject din vehicul cand l-ati rapit (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">11.7</span> Este interzisa cererea unei sume mai mari de $15,000 pentru a dezlega jucatorul legat, iar daca acesta plateste sunteti obligati sa-l dezlegati.
+<span style="color:var(--pink);">11.4.2</span> Este interzisa cererea unei sume mai mari de $15,000 pentru a dezlega jucatorul legat, iar daca acesta plateste sunteti obligati sa-l dezlegati.
 
-<span style="color:var(--pink);">11.8</span> Puteti folosi comanda /tie <span style="color:green;">in intervalul 10:00 - 22:00</span>, iar in afara acestui interval aveti obligatia de a-i dezlega.
+<span style="color:var(--pink);">11.4.3</span> Puteti folosi comanda /tie <span style="color:green;">in intervalul 10:00 - 22:00</span>, iar in afara acestui interval aveti obligatia de a-i dezlega.
 
-<span style="color:var(--pink);">11.9</span> Un jucator legat are dreptul de a cere ajutor de la alte ganguri sau departamente.
+<span style="color:var(--pink);">11.4.4</span> Un jucator legat are dreptul de a cere ajutor de la alte ganguri sau departamente.
 
-<span style="color:var(--pink);">11.10</span> Singurul caz in care un gangster poate ajunge pe blacklistul unui gang este atunci cand scriptul il adauga automat pentru /q on tie.
+<span style="color:var(--pink);">11.4.5</span> Singurul caz in care un gangster poate ajunge pe blacklistul unui gang este atunci cand scriptul il adauga automat pentru /q on tie.
 
 Incalcarea regulilor de mai sus se pedepseste cu <span style="color:red;">Faction Warn.</span>
 
 ### Skinuri
 
-<span style="color:var(--pink);">11.11</span> Purtarea unui alt skin in afara de cel corespunzator rankului/jobului vostru fara aprobarea liderului se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
+<span style="color:var(--pink);">11.5.1</span> Aveti voie sa purtati skinurile de rank inferior rankului vostru (ex: aveti rank 5, puteti purta skinurile de la rank 1-4).
+
+<span style="color:var(--pink);">11.5.2</span> Skinurile cumparate din bizurile Clothes de tip Platinum, Diamond sau Onyx pot fi purtate daca regulamentul Intern nu specifica altfel.
+
+<span style="color:var(--pink);">11.5.3</span> Nu este permisa purtarea unui skin de rank superior (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
+
+!!! example "Nota informativa"
+    Cu permisiunea Liderului se pot purta alte skinuri fata de regulile de mai sus.
 
 ### Amenzi
 
@@ -365,23 +370,23 @@ Incalcarea regulilor de mai sus se pedepseste cu <span style="color:red;">Factio
 - suferinte la war (inclusiv jignirea adversarilor): <span style="color:orange;">$100,000</span>
 
 Amenzile se platesc direct in joc prin comanda /fines.<br/>
-<span style="color:var(--pink);">11.12</span> <span style="color:var(--pink);">Amenzile neplatite in 48 de ore</span> se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">11.6</span> <span style="color:var(--pink);">Amenzile neplatite in 48 de ore</span> se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
 
 ### Banuri si Interdictii
 
-<span style="color:var(--pink);">11.13</span> Jucatorii banati pe motiv <span style="color:var(--pink);">cheats aimbot/norecoil</span> nu vor putea fi acceptati timp de o luna de zile de la momentul banului in niciun gang, primind interdictie.
+<span style="color:var(--pink);">11.7.1</span> Jucatorii banati pe motiv <span style="color:var(--pink);">cheats aimbot/norecoil</span> nu vor putea fi acceptati timp de o luna de zile de la momentul banului in niciun gang, primind interdictie.
 
-<span style="color:var(--pink);">11.14</span> Interdictia se aplica chiar daca jucatorul cumpara unban cu gold.
+<span style="color:var(--pink);">11.7.2</span> Interdictia se aplica chiar daca jucatorul cumpara unban cu gold.
 
-<span style="color:var(--pink);">11.15</span> Interdictia se aplica inclusiv pe conturile secundare ale jucatorilor banati, transferand astfel interdictia si pe conturile care impart IP comun.
+<span style="color:var(--pink);">11.7.3</span> Interdictia se aplica inclusiv pe conturile secundare ale jucatorilor banati, transferand astfel interdictia si pe conturile care impart IP comun.
 
-<span style="color:var(--pink);">11.16</span> <span style="color:var(--pink);">Un singur log comun este necesar</span> pentru <span style="color:red;">a demite</span> un cont dintr-un gang in cazul in care este accesat de cineva cu interdictie activa.
+<span style="color:var(--pink);">11.7.4</span> <span style="color:var(--pink);">Un singur log comun este necesar</span> pentru <span style="color:red;">a demite</span> un cont dintr-un gang in cazul in care este accesat de cineva cu interdictie activa.
 
-<span style="color:var(--pink);">11.17</span> Pe langa interdictia de aplicare intr-un gang, se va aplica si o <span style="color:var(--pink);">interdictie de 60 de zile pentru a primi rank 6 intr-un gang.</span>
+<span style="color:var(--pink);">11.7.5</span> Pe langa interdictia de aplicare intr-un gang, se va aplica si o <span style="color:var(--pink);">interdictie de 60 de zile pentru a primi rank 6 intr-un gang.</span>
 
-<span style="color:var(--pink);">11.18</span> Jucatorii care primesc <span style="color:var(--pink);">interdictie prin sistemul de interdictii de pe website</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60.</span> Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. 
+<span style="color:var(--pink);">11.7.6</span> Jucatorii care primesc <span style="color:var(--pink);">interdictie prin sistemul de interdictii de pe website</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60.</span> Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. 
 
 ### Exceptii
 
-<span style="color:var(--pink);">11.19</span> Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
+<span style="color:var(--pink);">11.8</span> Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
 Aceste exceptii pot fi facute numai cu permisiunea unui Admin 6.

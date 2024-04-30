@@ -85,11 +85,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ### Activity Report
 
-<span style="color:var(--pink);">4.1</span> Each member of rank 1-5 (excluding Subleaders) is obligated to fulfill an activity report.
+<span style="color:var(--pink);">4.2.1</span> Each member of rank 1-5 (excluding Subleaders) is obligated to fulfill an activity report.
 
-<span style="color:var(--pink);">4.2</span> Admins and Helpers will have a reduced activity report compared to other members.
+<span style="color:var(--pink);">4.2.2</span> Admins and Helpers will have a reduced activity report compared to other members.
 
-<span style="color:var(--pink);">4.3</span> Cheating or assisting a colleague to cheat the activity report is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.2.3</span> Cheating or assisting a colleague to cheat the activity report is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
 
 !!! example "Info note"
     Members with inactivity requests or newly joined members are exempt from fulfilling the report (except for those who join at the beginning of the week).
@@ -106,35 +106,35 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ### Hours Played
 
-<span style="color:var(--pink);">4.5</span> All faction members are required to have a minimum of real hours played within a month. The number of hours and sanctions for their absence can be found in [Leader Rules -> Member Activity](../leaders/leader-rules.md/#member-activity).
+<span style="color:var(--pink);">4.3.1</span> All faction members are required to have a minimum of real hours played within a month. The number of hours and sanctions for their absence can be found in [Leader Rules -> Member Activity](../leaders/leader-rules.md/#member-activity).
 
-<span style="color:var(--pink);">4.6</span> Players with a minimum seniority of one year in the faction, who have shown seriousness and involvement, are eligible, upon their request, <span style="color:var(--green);">to be exempted</span> from the requirement to accumulate real hours played in a specific month.
+<span style="color:var(--pink);">4.3.2</span> Players with a minimum seniority of one year in the faction, who have shown seriousness and involvement, are eligible, upon their request, <span style="color:var(--green);">to be exempted</span> from the requirement to accumulate real hours played in a specific month.
 
-<span style="color:var(--pink);">4.7</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
+<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
 
 ## 5. Website Complaints
 
 ### Reporting Colleagues/Your Leader
 
-<span style="color:var(--pink);">5.1</span> Reporting colleagues or the leader directly on the website, even from secondary accounts, is prohibited, except for illegal businesses, account hacking, codes, prohibited mods, bug abuse, advertising, scams (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
+<span style="color:var(--pink);">5.1.1</span> Reporting colleagues or the leader directly on the website, even from secondary accounts, is prohibited, except for illegal businesses, account hacking, codes, prohibited mods, bug abuse, advertising, scams (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
 
-<span style="color:var(--pink);">5.2</span> Colleagues can be reported to the leader via a private message on the forum. The leader can be reported to the admins [by opening a ticket on the website](https://www.rpg.b-zone.ro/ticket).
+<span style="color:var(--pink);">5.1.2</span> Colleagues can be reported to the leader via a private message on the forum. The leader can be reported to the admins [by opening a ticket on the website](https://www.rpg.b-zone.ro/ticket).
 
-<span style="color:var(--pink);">5.3</span> Colleagues also include members of the same type of factions for taxi, instructors, and departments.
+<span style="color:var(--pink);">5.1.3</span> Colleagues also include members of the same type of factions for taxi, instructors, and departments.
 
 ### Proofs
 
-<span style="color:var(--pink);">5.4</span> All proofs from the server must include server markings with the date, time, player's name, and server name (<span style="color:var(--pink);">invalid proofs</span>).
+<span style="color:var(--pink);">5.2.1</span> All proofs from the server must include server markings with the date, time, player's name, and server name (<span style="color:var(--pink);">invalid proofs</span>).
 
-<span style="color:var(--pink);">5.5</span> A proof is valid for a maximum of 3 days (<span style="color:var(--pink);">invalid proofs</span>). You have 24 hours to provide evidence in your defense, except when you have an inactivity request. In this case, you have 24 hours after the expiration of inactivity to present the evidence.
+<span style="color:var(--pink);">5.2.2</span> A proof is valid for a maximum of 3 days (<span style="color:var(--pink);">invalid proofs</span>). You have 24 hours to provide evidence in your defense, except when you have an inactivity request. In this case, you have 24 hours after the expiration of inactivity to present the evidence.
 
-<span style="color:var(--pink);">5.6</span> For browser-based proofs, only videos are accepted where at least one page refresh is given to demonstrate that the proof is not falsified (<span style="color:var(--pink);">invalid proofs</span>).
+<span style="color:var(--pink);">5.2.3</span> For browser-based proofs, only videos are accepted where at least one page refresh is given to demonstrate that the proof is not falsified (<span style="color:var(--pink);">invalid proofs</span>).
 
 ### Language and Witnesses
 
-<span style="color:var(--pink);">5.7</span> It is forbidden to severely insult or speak vulgarly in complaints (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">5.3.1</span> It is forbidden to severely insult or speak vulgarly in complaints (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">5.8</span> Inappropriate comments in complaints, various offenses through evidence, inciting arguments without providing valid evidence for the reported issue and without being involved in the actions that led to the reported problem will be sanctioned as follows:
+<span style="color:var(--pink);">5.3.2</span> Inappropriate comments in complaints, various offenses through evidence, inciting arguments without providing valid evidence for the reported issue and without being involved in the actions that led to the reported problem will be sanctioned as follows:
 
 - for witnesses added by the <span style="color:var(--pink);">COMPLAINANT</span> as well as for the complainant (the one who opens the complaint): the complaint will be ignored, with no right to refile the complaint.
 - for witnesses added by the <span style="color:var(--green);">ACCUSED</span> as well as for the accused (the faction member who is reported): they will be sanctioned with <span style="color:red;">Verbal Warning</span> for minor things or <span style="color:red;">Faction Warn</span> for more serious matters, in addition to the sanction they should receive for the complaint if they were guilty of something.
@@ -158,6 +158,8 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">7.2</span> The minimum durations for rank promotion can be viewed in [Leader Rules -> Member Promotion and Faction Slots](../leaders/leader-rules.md/#7-member-promotion-and-faction-slots).
 
 <span style="color:var(--pink);">7.3</span> The Subleader rank is assigned by the leader when they deem it appropriate, respecting [Leader Rules -> Choosing Subleaders](../leaders/leader-rules.md/#choosing-subleaders).
+
+<span style="color:var(--pink);">7.4</span> The request for promotion (rank up) is allowed, provided you are not insistent and do not spam the leader (<span style="color:red;">penalty: Faction Warn</span>).
 
 !!! example "Info note"
     If you are demoted from Subleader, you will receive a rank based on your total seniority in the faction. For the next promotion, counting will start from the moment you lost the Subleader position.
@@ -196,13 +198,13 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ## 9. Blacklist
 
-<span style="color:var(--pink);">9.1</span> Players of <span style="color:var(--pink);">at least level 7</span> can be added to the blacklist, whether they are part of a faction or civilians.
+<span style="color:var(--pink);">9.1.1</span> Players of <span style="color:var(--pink);">at least level 7</span> can be added to the blacklist, whether they are part of a faction or civilians.
 
-<span style="color:var(--pink);">9.2</span> Adding a player to the blacklist will be done by members of rank 4+ and only based on clear evidence that will be posted on the forum in the evidence topic for the blacklist (<span style="color:red;">sanctions: Faction Warn for the first offense</span>, <span style="color:red;">Rank Down</span> if it continues).
+<span style="color:var(--pink);">9.1.2</span> Adding a player to the blacklist will be done by members of rank 4+ and only based on clear evidence that will be posted on the forum in the evidence topic for the blacklist (<span style="color:red;">sanctions: Faction Warn for the first offense</span>, <span style="color:red;">Rank Down</span> if it continues).
 
-<span style="color:var(--pink);">9.3</span> Removing a player from the blacklist will be done by members of rank 4+ in case a player was added mistakenly, removing players without reason being sanctioned (<span style="color:red;">sanctions: Faction Warn for the first offense</span>, <span style="color:red;">Rank Down</span> if it continues).
+<span style="color:var(--pink);">9.1.3</span> Removing a player from the blacklist will be done by members of rank 4+ in case a player was added mistakenly, removing players without reason being sanctioned (<span style="color:red;">sanctions: Faction Warn for the first offense</span>, <span style="color:red;">Rank Down</span> if it continues).
 
-<span style="color:var(--pink);">9.4</span> Players on the blacklist can be constantly killed [exception for departments] until they pay the blacklist fee, except in Safe Zones and during important activities such as events, markets, legal jobs, auctions, etc.
+<span style="color:var(--pink);">9.1.4</span> Players on the blacklist can be constantly killed [exception for departments] until they pay the blacklist fee, except in Safe Zones and during important activities such as events, markets, legal jobs, auctions, etc.
 
 ### Blacklist Warnings
 
@@ -215,44 +217,65 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ### Paying the Blacklist
 
-<span style="color:var(--pink);">9.5</span> Faction players on the blacklist have 72 hours, if they do not have an inactivity request, to pay the blacklist fee. Otherwise, they will be initially sanctioned with <span style="color:red;">Verbal Warning</span>, and if the blacklist fee is not paid within the next 24 hours, the member will be <span style="color:red;">dismissed.</span>
+<span style="color:var(--pink);">9.2.1</span> Faction players on the blacklist have 72 hours, if they do not have an inactivity request, to pay the blacklist fee. Otherwise, they will be initially sanctioned with <span style="color:red;">Verbal Warning</span>, and if the blacklist fee is not paid within the next 24 hours, the member will be <span style="color:red;">dismissed.</span>
 
-<span style="color:var(--pink);">9.6</span> The blacklist fee is paid on the website or directly in-game through specific commands, without giving the money to a member of that faction.
+<span style="color:var(--pink);">9.2.2</span> The blacklist fee is paid on the website or directly in-game through specific commands, without giving the money to a member of that faction.
 
-<span style="color:var(--pink);">9.7</span> Once the payment has been made, the player will be automatically removed from the blacklist.
+<span style="color:var(--pink);">9.2.3</span> Once the payment has been made, the player will be automatically removed from the blacklist.
 
-<span style="color:var(--pink);">9.8</span> It is forbidden for faction members to ask or accept money for the blacklist instead of informing the player to use the appropriate commands (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">9.2.4</span> It is forbidden for faction members to ask or accept money for the blacklist instead of informing the player to use the appropriate commands (<span style="color:red;">sanction: dismissal</span>).
 
 ## 10. Others
 
 ### Tester Status
 
-<span style="color:var(--pink);">10.1</span> This status is assigned by the leader to members of at least rank 4 when they deem it appropriate.
+<span style="color:var(--pink);">10.1.1</span> This status is assigned by the leader to members of at least rank 4 when they deem it appropriate.
 
-<span style="color:var(--pink);">10.1.1</span> Members with this status are obligated to respect [Leader Rules -> Testing Candidates](../leaders/leader-rules.md/#testing-candidates), and will be sanctioned accordingly for any violations.
+<span style="color:var(--pink);">10.1.2</span> Members with this status are obligated to respect [Leader Rules -> Testing Candidates](../leaders/leader-rules.md/#testing-candidates), and will be sanctioned accordingly for any violations.
 
 ### Multiple Accounts and Shared IP
 
-<span style="color:var(--pink);">10.2</span> Members with multiple accounts (those who own more than one account) are not allowed to have more than one account in the same faction.
+<span style="color:var(--pink);">10.2.1</span> Members with multiple accounts (those who own more than one account) are not allowed to have more than one account in the same faction.
 
-<span style="color:var(--pink);">10.3</span> Three different days (IN THE LAST 7 DAYS) of logs (SA:MP Login) are sufficient to determine that 2 members from the same faction frequently share their account. In this situation, we will consider them players with multiple accounts in the same faction and both accounts will be dismissed.
+<span style="color:var(--pink);">10.2.2</span> Three different days (IN THE LAST 7 DAYS) of logs (SA:MP Login) are sufficient to determine that 2 members from the same faction frequently share their account. In this situation, we will consider them players with multiple accounts in the same faction and both accounts will be dismissed.
 
 !!! danger "Important"
     For players who play from the same location and share a common IP, in order for both to be part of the same faction, it is necessary to [open a ticket on the RPG website](https://www.rpg.b-zone.ro/ticket) to perform some checks and allow this to happen.
 
 ### Jobs
 
-<span style="color:var(--pink);">10.4</span> You can hold any type of legal or illegal job.
+<span style="color:var(--pink);">10.3.1</span> You can hold any type of legal or illegal job.
 
-<span style="color:var(--pink);">10.5</span> The leader has the right to force members to use a certain job for a specific period of time in order to carry out faction work (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.3.2</span> The leader has the right to force members to use a certain job for a specific period of time in order to carry out faction work (<span style="color:red;">sanction: Faction Warn</span>).
 
 ### Skins
 
-<span style="color:var(--pink);">10.6</span> Wearing a skin other than the one corresponding to your rank/job without the leader's approval is sanctioned (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it persists).
+<span style="color:var(--pink);">10.4.1</span> You are allowed to wear skins of lower rank than your own rank (e.g., if you are rank 5, you can wear skins from ranks 1-4).
+
+<span style="color:var(--pink);">10.4.2</span> Skins purchased from Platinum, Diamond, or Onyx type businesses in Clothes can be worn unless the Internal regulations specify otherwise.
+
+<span style="color:var(--pink);">10.4.3</span> Wearing a skin of a higher rank is not permitted (<span style="color:red;">penalty: Verbal Warning</span> for first offense, <span style="color:red;">Faction Warn</span> if it continues).
+
+!!! example "Info note"
+    With Leader's permission, other skins can be worn apart from the rules mentioned above.
+
+### Meetings and Activities
+
+<span style="color:var(--pink);">10.5.1</span> Mandatory activities can be organized by the leader with a well-founded reason and the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to leave, except for players who have submitted an inactivity request for that week. A mandatory activity is valid as long as it is announced at least one week in advance (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">10.5.2</span> Helpers are required to participate in mandatory activities since they already benefit from halved reports.
+
+<span style="color:var(--pink);">10.5.3</span> For rank 6 members, leaders will decide whether to sanction their absence from mandatory activities when they do not have an inactive or leave request submitted.
+
+<span style="color:var(--pink);">10.5.4</span> For level 1-3 admins, if the mandatory activity takes place during wars, they will be automatically excused, provided they fulfill their admin duties regarding catching coders.
 
 ### Absences
 
-<span style="color:var(--pink);">10.7</span> If a mandatory activity is organized within the faction, the only place where you can request absence is on the RPG website through an absence request.
+<span style="color:var(--pink);">10.6</span> If a mandatory activity is organized within the faction, the only place where you can request absence is on the RPG website through an absence request.
+
+### Fines
+
+<span style="color:var(--pink);">10.7</span> If you have an unpaid fine, you have 48 hours to make the payment directly in-game using the command [<span style="color:var(--pink);">/fines</span>]. Otherwise, you will be sanctioned with a <span style="color:red;">Faction Warn</span>. Fines are to be paid only from your own funds by the member in question.
 
 ### Exceptions
 

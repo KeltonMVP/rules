@@ -29,46 +29,64 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     - <span style="color:var(--pink);">[Undercover]</span> - iti asigura identitatea secreta pentru realizarea unui contract.
     - <span style="color:var(--pink);">[Logout]</span> - te deconectezi de la laptopul agentiei.
 
-## 2. Efectuarea Contractelor
+## 2. Skinurile Factiunii
 
-<span style="color:var(--pink);">2.1</span> Fiecare contract trebuie efectuat in mod Silent (silentios).
+<figure markdown="span">
+    ![skinuri Hitmen Agency](../../images/ha-skins.png){ width="800" }
+</figure>
 
-<span style="color:var(--pink);">2.1.1</span> Modul Silent (silentios) reprezinta efectuarea unui contract de la mare distanta, dintr-un loc in care nu poti fi vazut de nimeni, cu Sniper.
+## 3. Vehiculele Factiunii
 
-<span style="color:var(--pink);">2.2</span> Armele cu care puteti efectua un contract sunt: <span style="color:var(--pink);">Sniper, SD Pistol si Knife (cutit).</span>
+<figure markdown="span">
+    ![vehicule Hitmen Agency](../../images/ha-vehicles.png){ width=1000" }
+</figure>
 
-<span style="color:var(--pink);">2.3</span> Puteti efectua un contract folosind Knife sau SD Pistol doar atunci cand tinta se afla in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie. Nu aveti voie sa faceti contracte in <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
+- 37 Sparrow - Rank 1.
+- 3 Buffalo - Rank 1.
+- 3 FCR-900 - Rank 4.
+- 1 Sultan - Rank 4.
+- 2 Maverick - Rank 4.
 
-<span style="color:var(--pink);">2.3.1</span> Finalizarea contractelor cu alte arme decat cele mentionate mai sus, ori folosirea armelor SD Pistol si Knife cand tinta nu este in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie va duce la <span style="color:red;">demiterea voastra cu 60 FP.</span>
+## 4. Efectuarea Contractelor
 
-<span style="color:var(--pink);">2.4</span> In cazul in care tinta dumneavoastra se afla intr-o casa cu spatele la perete sau este in miscare, neputand finaliza contractul cu Knife, aveti permisiunea de a folosi SD PISTOL. Cine este prins ca abuzeaza de aceasta arma o sa fie sanctionat cu <span style="color:red;">Faction Warn</span> la prima abatere si <span style="color:red;">demitere cu 60 FP</span> daca se repeta.
+<span style="color:var(--pink);">4.1</span> Fiecare contract trebuie efectuat in mod Silent (silentios).
 
-<span style="color:var(--pink);">2.5</span> Atunci cand casa in care se afla tinta este incuiata, puteti folosi comanda [<span style="color:var(--pink);">/ram</span>] pentru a intra prin efractie.
+<span style="color:var(--pink);">4.1.1</span> Modul Silent (silentios) reprezinta efectuarea unui contract de la mare distanta, dintr-un loc in care nu poti fi vazut de nimeni, cu Sniper.
 
-<span style="color:var(--pink);">2.6</span> In cazul tintelor aflate in HQ / Training Room, aveti posibilitatea de a efectua contractul in felul urmator: dati [<span style="color:var(--pink);">/ram</span>] daca tinta voastra se afla in HQ sau [<span style="color:var(--pink);">/enter</span>] daca tinta se afla in Training Room si efectuati contractul. In cazul in care este <span style="color:var(--pink);">sedinta / antrenament</span>, parasiti zona complet, asigurati-va ca nu va vede nimeni si dati [<span style="color:var(--pink);">/leavehit</span>].
+<span style="color:var(--pink);">4.2</span> Armele cu care puteti efectua un contract sunt: <span style="color:var(--pink);">Sniper, SD Pistol si Knife (cutit).</span>
 
-<span style="color:var(--pink);">2.7</span> In cazul tintelor aflate in Bunker, aveti posibilitatea de a efectua contractul in doua moduri:
+<span style="color:var(--pink);">4.3</span> Puteti efectua un contract folosind Knife sau SD Pistol doar atunci cand tinta se afla in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie. Nu aveti voie sa faceti contracte in <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
+
+<span style="color:var(--pink);">4.4.1</span> Finalizarea contractelor cu alte arme decat cele mentionate mai sus, ori folosirea armelor SD Pistol si Knife cand tinta nu este in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie va duce la <span style="color:red;">demiterea voastra cu 60 FP.</span>
+
+<span style="color:var(--pink);">4.4</span> In cazul in care tinta dumneavoastra se afla intr-o casa cu spatele la perete sau este in miscare, neputand finaliza contractul cu Knife, aveti permisiunea de a folosi SD PISTOL. Cine este prins ca abuzeaza de aceasta arma o sa fie sanctionat cu <span style="color:red;">Faction Warn</span> la prima abatere si <span style="color:red;">demitere cu 60 FP</span> daca se repeta.
+
+<span style="color:var(--pink);">4.5</span> Atunci cand casa in care se afla tinta este incuiata, puteti folosi comanda [<span style="color:var(--pink);">/ram</span>] pentru a intra prin efractie.
+
+<span style="color:var(--pink);">4.6</span> In cazul tintelor aflate in HQ / Training Room, aveti posibilitatea de a efectua contractul in felul urmator: dati [<span style="color:var(--pink);">/ram</span>] daca tinta voastra se afla in HQ sau [<span style="color:var(--pink);">/enter</span>] daca tinta se afla in Training Room si efectuati contractul. In cazul in care este <span style="color:var(--pink);">sedinta / antrenament</span>, parasiti zona complet, asigurati-va ca nu va vede nimeni si dati [<span style="color:var(--pink);">/leavehit</span>].
+
+<span style="color:var(--pink);">4.7</span> In cazul tintelor aflate in Bunker, aveti posibilitatea de a efectua contractul in doua moduri:
 
 - asteptati pana cand tinta iese din Bunker si efectuati contractul.
 - se poate folosi comanda [<span style="color:var(--pink);">/leavehit</span>] si sa luati alt contract.
 
-<span style="color:var(--pink);">2.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">2.9</span> Nu se pot efectua contracte pe tintele care sunt pe [<span style="color:var(--pink);">/sleep</span>]. 
+<span style="color:var(--pink);">4.9</span> Nu se pot efectua contracte pe tintele care sunt pe [<span style="color:var(--pink);">/sleep</span>]. 
 
-<span style="color:var(--pink);">2.10</span> Efectuarea contractelor la evenimente importante organizate de admini este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.10</span> Efectuarea contractelor la evenimente importante organizate de admini este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">2.11</span> Atunci cand aveti un contract nu aveti voie sa fiti insotiti de persoane care nu fac parte din Agentie.                         
+<span style="color:var(--pink);">4.11</span> Atunci cand aveti un contract nu aveti voie sa fiti insotiti de persoane care nu fac parte din Agentie.                         
 
-<span style="color:var(--pink);">2.12</span> Contractele efecutate cu Sniper de la o distanta mai mica de 150 metri vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">4.12</span> Contractele efecutate cu Sniper de la o distanta mai mica de 150 metri vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">2.13</span> Este strict interzisa interactionarea de orice fel cu tinta (mesaje / telefoane / comunicare) sau sa divulgati date despre contract victimei sau oricarei alte persoane (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.13</span> Este strict interzisa interactionarea de orice fel cu tinta (mesaje / telefoane / comunicare) sau sa divulgati date despre contract victimei sau oricarei alte persoane (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">2.14</span> Este strict interzisa interactionarea cu orice alt jucator in timpul unui contract (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.14</span> Este strict interzisa interactionarea cu orice alt jucator in timpul unui contract (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">2.15</span> Fraudarea sau ajutarea unui coleg sa fraudeze raportul de activitate este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.15</span> Fraudarea sau ajutarea unui coleg sa fraudeze raportul de activitate este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">2.16</span> Un agent nu are voie sa-si dezvaluie identitatea cat timp are <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.16</span> Un agent nu are voie sa-si dezvaluie identitatea cat timp are <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ### Dezvaluire Identitate + Sanctiune
 
@@ -86,11 +104,11 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - folosirea comenzii [<span style="color:var(--pink);">/eject</span>] cand un jucator se urca neinvitat in vehiculul factiunii cu care efectuati contractul.   
 
-## 3. Leavehit si Gethit
+## 5. Leavehit si Gethit
 
-<span style="color:var(--pink);">3.1</span> Fiecare agent isi poate procura un contract folosind comanda [<span style="color:var(--pink);">/portable</span>] - <span style="color:var(--pink);">gethit.</span>
+<span style="color:var(--pink);">5.1</span> Fiecare agent isi poate procura un contract folosind comanda [<span style="color:var(--pink);">/portable</span>] - <span style="color:var(--pink);">gethit.</span>
 
-<span style="color:var(--pink);">3.2</span> Dupa efectuarea unui contract trebuie sa asteptati o perioada de timp (aceasta perioada depinde de distanta si de modul cum a fost efectuat contractul) pana puteti lua alt contract. Aceste perioade si moduri de efectuare sunt:
+<span style="color:var(--pink);">5.2</span> Dupa efectuarea unui contract trebuie sa asteptati o perioada de timp (aceasta perioada depinde de distanta si de modul cum a fost efectuat contractul) pana puteti lua alt contract. Aceste perioade si moduri de efectuare sunt:
 
 - pentru contractul efectuat intre <span style="color:var(--pink);">150.0m si 199.9m,</span> timpul de asteptare este de 15 minute.
 - pentru contractul efectuat intre <span style="color:var(--pink);">200.0m si 249.9m,</span> timpul de asteptare este de 10 minute.
@@ -106,13 +124,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - un agent are posibilitatea sa foloseasca comanda [<span style="color:var(--pink);">/gethit</span>] cand doreste sa-si faca raportul, nicidecum ca sa profite de undercover.
 
-## 4. Undercover
+## 6. Undercover
 
-<span style="color:var(--pink);">4.1</span> Cand un agent are contract, el are obligatia sa se asigure ca este sub acoperire (UNDERCOVER ON).
+<span style="color:var(--pink);">6.1</span> Cand un agent are contract, el are obligatia sa se asigure ca este sub acoperire (UNDERCOVER ON).
 
-<span style="color:var(--pink);">4.2</span> Undercoverul dispare la un minut dupa efectuarea unui contract.
+<span style="color:var(--pink);">6.2</span> Undercoverul dispare la un minut dupa efectuarea unui contract.
 
-<span style="color:var(--pink);">4.3</span> Agentii nu au voie sa abuzeze de Undercover (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+<span style="color:var(--pink);">6.3</span> Agentii nu au voie sa abuzeze de Undercover (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
 !!! danger "Important"
     Comanda <span style="color:var(--pink);">"undercover"</span>, in urma preluarii unui contract cu [<span style="color:var(--pink);">/gethit</span>], se va tasta doar cand sunteti siguri ca nu exista alti jucatori care nu fac parte din agentie in apropierea voastra care sa va vada. Desigur, in urma efectuarii contractului, de asemenea, nu trebuie ca cineva sa fie in preajma cand undercoverul devine OFF (<span style="color:red;">sanctiune: Faction Warn</span>).
@@ -128,40 +146,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - atunci cand un politist iti spune sa scoti Undercoverul, si alegi sa nu o faci, fugind si riscand wanted.
 - atunci cand folosesti un vehicul cu roti pentru efectuarea contractului si treci prin radar iar politistul te someaza sa iti dea amenda si nu il bagi in seama.
 
-## 5. Conflicte
+## 7. Conflicte
 
-<span style="color:var(--pink);">5.1</span> Orice conflict cu orice membru ramane in interiorul factiunii si va fi rezolvat de catre Lider sau Sublider.
+<span style="color:var(--pink);">7.1</span> Orice conflict cu orice membru ramane in interiorul factiunii si va fi rezolvat de catre Lider sau Sublider.
 
-<span style="color:var(--pink);">5.2</span> Pentru o rezolvare corecta sunteti obligati sa faceti poze care sa cuprinda toata situatia.
+<span style="color:var(--pink);">7.2</span> Pentru o rezolvare corecta sunteti obligati sa faceti poze care sa cuprinda toata situatia.
 
-<span style="color:var(--pink);">5.3</span> Daca un membru comenteaza Liderului sau Subliderului, acesta va fi <span style="color:red;">sanctionat cu Faction Warn.</span>
-
-## 6. Skinurile Factiunii
-
-<figure markdown="span">
-    ![skinuri Hitmen Agency](../../images/ha-skins.png){ width="800" }
-</figure>
-
-<span style="color:var(--pink);">6.1</span> Aveti voie sa purtati skinurile de rank inferior rankului vostru (ex: aveti rank 5, puteti purta skinurile de la rank 1-4).
-
-<span style="color:var(--pink);">6.2</span> Skinurile cumparate din bizurile Clothes de tip Platinum, Diamond sau Onyx pot fi purtate.
-
-<span style="color:var(--pink);">6.3</span> Nu este permisa purtarea unui skin de rank superior (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-!!! example "Nota informativa"
-    Cu permisiunea Liderului se pot purta alte skinuri fata de regulile de mai sus.
-
-## 7. Vehiculele Factiunii
-
-<figure markdown="span">
-    ![vehicule Hitmen Agency](../../images/ha-vehicles.png){ width=1000" }
-</figure>
-
-- 37 Sparrow - Rank 1.
-- 3 Buffalo - Rank 1.
-- 3 FCR-900 - Rank 2.
-- 1 Sultan - Rank 3.
-- 2 Maverick - Rank 4.
+<span style="color:var(--pink);">7.3</span> Daca un membru comenteaza Liderului sau Subliderului, acesta va fi <span style="color:red;">sanctionat cu Faction Warn.</span>
 
 ## 8. Amenzi
 
@@ -180,25 +171,19 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 9. Altele
 
-<span style="color:var(--pink);">9.1</span> Activitatile obligatorii pot sa fie organizate de catre Lider cu un motiv bine intemeiat si cu aprobarea unui Admin Senior. Avand in vedere ca o sa fie destul de rare, toti membrii trebuie sa se prezinte si nu au dreptul la invoire, cu exceptia jucatorilor care au cerere de inactivitate pentru saptamana respectiva.
+<span style="color:var(--pink);">9.1</span> Atunci cand un agent are Wanted 6 (fara drept de predare), aceste are obligatia de a nu sta in HQ deoarece exista posibilitatea de a fi si alte victime.
 
-<span style="color:var(--pink);">9.2</span> Va este permis sa folositi orice job doriti.
+<span style="color:var(--pink);">9.2</span> Este recomandat ca agentii sa faca poza la fiecare contract indeplinit pentru a nu se crea conflicte, sau in cazul in care vor fi reclamati.
 
-<span style="color:var(--pink);">9.3</span> Atunci cand un agent are Wanted 6 (fara drept de predare), aceste are obligatia de a nu sta in HQ deoarece exista posibilitatea de a fi si alte victime.
+<span style="color:var(--pink);">9.3</span> Folosirea armelor silent, Sniper si Knife pentru auto-aparare (pe COPS) va fi sanctionata cu <span style="color:red;">demitere cu FP.</span>
 
-<span style="color:var(--pink);">9.4</span> Este recomandat ca agentii sa faca poza la fiecare contract indeplinit pentru a nu se crea conflicte, sau in cazul in care vor fi reclamati.
-
-<span style="color:var(--pink);">9.5</span> Folosirea armelor silent, Sniper si Knife pentru auto-aparare (pe COPS) va fi sanctionata cu <span style="color:red;">demitere cu FP.</span>
-
-<span style="color:var(--pink);">9.6</span> Cererile de rank-up sunt permise, insa nu intr-un mod abuziv, spamand liderul (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">9.7</span> Absentarea de la activitati sau sedinta fara invoire va fi sanctionata cu <span style="color:red;">Faction Warn.</span> Intarzierea la activitati sau sedinte se sanctioneaza in felul urmator:
+<span style="color:var(--pink);">9.4</span> Absentarea de la activitati sau sedinta fara invoire va fi sanctionata cu <span style="color:red;">Faction Warn.</span> Intarzierea la activitati sau sedinte se sanctioneaza in felul urmator:
 
 - intarziere sub 10 minute - <span style="color:var(--green);">nimic</span>
 - intarziere de 10-20 de minute - <span style="color:orange;">Avertisment verbal (AV)</span>
 - intarziere de 20-30 minute - <span style="color:orange;">Avertisment verbal (AV)</span> + <span style="color:var(--green);">50.000$ amenda</span>
 - intarziere de 30+ minute - <span style="color:red;">Faction Warn (FW)</span>
 
-<span style="color:var(--pink);">9.8</span> Deathmatch-ul fara a avea contract va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">9.5</span> Deathmatch-ul fara a avea contract va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">9.9</span> Contractele facute intentionat cu [<span style="color:var(--pink);">/turn on</span>] sau altceva, pentru a fi efectuat de la distante pentru poze, gen 69.0m vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">9.6</span> Contractele facute intentionat cu [<span style="color:var(--pink);">/turn on</span>] sau altceva, pentru a fi efectuat de la distante pentru poze, gen 69.0m vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>

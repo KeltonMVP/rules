@@ -31,121 +31,116 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/undercover < ON/OFF >]</span> - iti schimba skinul si devii civil.
 - <span style="color:var(--pink);">[/namecover < ID > < NEW NAME >]</span> - schimbi numele si skinul unui membru FBI, facandu-l totodata civil.
 
-## 2. Suspectii
+## 2. Skinurile Factiunii
 
-<span style="color:var(--pink);">2.1</span> Membrii FBI au prioritate in capturarea si arestarea suspectilor cu <span style="color:var(--pink);">wanted 3 si 4 si a celor fara drept de predare</span> (exceptie de la aceasta regula au membrii rank 4+ care pot merge dupa orice wanted). In cazul in care in lista /wanted nu mai sunt jucatori cu wanted 3 si 4, membrii FBI se pot angaja sa captureze / aresteze jucatorii cu wanted 1 si 2, iar apoi 5 si 6. In cazul in care un suspect de wanted 1/2, respectiv 5/6, se preda ( se urca in masina fara sa fie somat ), ii dati [/cuff], il transportati pana la cel mai apropiat HQ de departament si intrebati un PD, respectiv NG, daca il aresteaza ei sau voi (<span style="color:red;">sanctiune: Faction Warn</span>).
+<figure markdown="span">
+    ![skinuri FBI](../../images/fbi-skins.png){ width="800" }
+</figure>
 
-!!! danger "Important"
-    In cazul in care nu sunt suspecti prioritari departamentului din care faceti parte, faceti un ss la [<span style="color:var(--pink);">/wanted</span>] si porniti in capturarea unui jucator care nu va este prioritar la nivelul de wanted, aveti la dispozitie 5 minute sa capturati orice jucator respectand regula de baza. Daca cele 5 minute au trecut, dar totusi ati apucat sa ii acordati suspectului o somatie/doua va puteti continua urmarirea, daca nu, verificati din nou [<span style="color:var(--pink);">/wanted</span>] si in functie de ce suspecti sunt va continuati activitatea.
+<span style="color:var(--pink);">2.1</span> Aveti voie sa purtati skinurile de rank inferior rankului vostru (ex: aveti rank 5, puteti purta skinurile de la rank 1-4).
 
-<span style="color:var(--pink);">2.2</span> In cazul in care un membru de departament acorda wanted unui jucator, acesta are dreptul de a-l aresta, indiferent de wanted level. Daca, inainte de a-l aresta, membrul respectiv iese din joc, suspectul ii revine departamentului ce are prioritate pe wantedul sau.
-
-<span style="color:var(--pink);">2.3</span> Este interzisa favorizarea jucatorilor. Un Agent FBI trebuie sa dea dovada de CORECTITUDINE (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.4</span> Cand aveti un suspect la voi, sunteti obligat sa-i acordati [/cuff] pentru ca ceilalti membri din departamente sa vada ca este la voi. Nu aveti voie sa ii dati [/uncuff] pana cand suspectul nu ajunge in jail (exceptie: cand suspectul detine droguri si trebuie sa coboare din masina in garaj) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
-
-<span style="color:var(--pink);">2.5</span> Este strict interzisa folosirea avantajelor de politist (sub orice forma) cand situatia nu o cere (<span style="color:red;">sanctiune: Faction Warn sau demitere</span>).
-
-<span style="color:var(--pink);">2.6</span> Daca un gangster se afla in incinta HQ-ului (incinta include curtea HQ-ului cu parcarea acestuia) nu aveti voie sa ii confiscati armele. Regula nu se aplica daca gangsterul respectiv va ataca pe voi sau pe orice alt jucator care nu apartine gangului respectiv (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.7</span> In cazul in care suspectati un jucator cu wanted ca detine droguri sunteti obligati sa il somati pe NUME, sa specificati numele departamentului si sa ii explicati motivul in somatie, cu comanda [<span style="color:var(--pink);">/m</span>]. Ex: "<span style="color:var(--pink);">Stop aici ! F.B.I. MaxyMusSs trage pe dreapta, control! risti wanted 2!</span>"
-
-<span style="color:var(--pink);">2.8</span> Controalele de rutina efectuate in trafic (presupune sa opresti jucatori care circula cu vehicule) se fac doar cu vehiculele departamentelor. Daca agentul se afla pe jos la momentul efectuarii controlului, implicit in momentul acordarii somatiilor, e irelevant modul in care agentul a ajuns acolo (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.8.1</span> Inainte de a efectua un control de rutina pe jucatorii aflati intr-un vehicul si de a-i soma sa coboare, trebuie sa va asigurati ca acestia sunt prezenti la PC (sa se miste sau sa scrie in chat) si sa aveti dovezi in acest sens (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.9</span> Un agent FBI care este inconjurat/atacat de mai multi detinuti in jail si nu are alta cale de scapare poate folosi comanda [<span style="color:var(--pink);">/punish</span>] pentru a scapa.
-
-<span style="color:var(--pink);">2.10</span> Pentru orice actiune, trebuie sa aveti dovezi in cazul unei reclamatii.
-
-<span style="color:var(--pink);">2.11</span> Este permis sa le confiscati armele jucatorilor aflati intr-un Clan Zone, cu conditia ca unul dintre membrii clanului care este pe turf sa aiba wanted (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.12</span> Orice membru Rank 3 + are voie sa mearga cu masina personala dupa wanted cu drept de predare (arrest). Orice membru Rank 1+ are voie sa mearga cu masina personala dupa wanted fara drept de predare.
-
-<span style="color:var(--pink);">2.13</span> Toti membrii departamentelor de politie au obligatia de a avea comanda [<span style="color:var(--pink);">/timestamp</span>] activata (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
-
-<span style="color:var(--pink);">2.14</span> Un politist are voie sa acorde wanted atunci cand un suspect ataca un alt membru al departamentelor in anumite situatii, exemplu: Atunci cand se trage de pe restaurant LS iar cei de jos nu pot vedea suspectul, atunci cand se trage asupra lui de la distante mari iar un coleg vede tot de aproape, alte cazuri (intrebati liderul).
-
-<span style="color:var(--pink);">2.15</span> Cand confiscati armele unui jucator, sunteti obligati sa-i spuneti si motivul. Un simplu text cu "<span style="color:var(--pink);">armele la vedere</span>" este suficient (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
-
-<span style="color:var(--pink);">2.16</span> Nu aveti voie sa confiscati armele unui suspect, daca acesta nu are drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.17</span> Este interzis sa acordati [<span style="color:var(--pink);">/frisk</span>], respectiv [<span style="color:var(--pink);">/su</span>] oricarui jucator atunci cand acesta este intr-un meci de poker (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.18</span> Pentru a confisca arme/droguri aveti nevoie de Rank 2+. Membrii FBI nu au dreptul sub nicio circumstanta de a confisca vreun tip de licenta (<span style="color:red;">sanctiune: Faction Warn</span> sau <span style="color:red;">demitere</span> in cazul unui abuz major).
-
-<span style="color:var(--pink);">2.19</span> Membrii de departament nu au voie sa conduca abuziv si sa deranjeze cu intentie ceilalti participanti al traficului (exemple: intratul intentionat de multiple ori in alti soferi, blocarea drumului, etc.) (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.20</span> In cazul in care suspectul fara drept de predare sare pe cladiri inalte folosind o bicicleta (folosindu-se de bugul high jump), fiind greu de prins si omorat, aveti dreptul de a deschide focul cu Hunter sau Hydra pentru a-i omori. Daca suspectul coboara de pe cladire, nu mai aveti voie sa deschideti focul, ci continuati urmarirea terestra. Asigurati-va ca aveti intotdeauna dovezi clare inainte de a deschide focul! Nerespectarea acestei reguli se va sanctiona cu <span style="color:red;">Faction Warn</span> la prima abatere, <span style="color:red;">Rank Down</span> la a doua abatere si <span style="color:red;">Demitere</span> daca va continua.
-
-## 3. Factiune
-
-<span style="color:var(--pink);">3.1</span> Telefoanele vor fi inchise in timpul unei activitati FBI, fara sa fiti avertizati de un organizator (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
-
-<span style="color:var(--pink);">3.2</span> Folosirea armei in Armory FBI in timpul sedintelor/antrenamentelor/intalnirilor de orice fel, este strict interzisa (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.3</span> Pentru a intra in FBI trebuie sa aveti skill 5 detective.
-
-<span style="color:var(--pink);">3.4</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">3.5</span> Orice membru FBI are obligatia de a avea pe Website scurtatura cate profilul sau de forum. Aveti la dispozitie 48h din momentul intrarii in factiune sa faceti asta. Cine nu are aceasta scurtatura catre profilul de forum dupa cele 48h o sa fie sanctionat cu <span style="color:red;">Avertisment Verbal</span>, iar dupa 24h daca situatia nu va fi remediata se va acorda <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">3.6</span> Nu aveti voie sa practicati (sa folositi [/work] sau alte comenzi aferente pornirii job-ului, inclusiv farmer) alt job in afara de cel de Detectiv sau Mecanic (strict pentru intretinerea masinilor in urmarire) atunci cand sunteti on duty (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
-
-<span style="color:var(--pink);">3.7</span> Candidatii care trec testele de intrare nu au voie sa fie [<span style="color:var(--pink);">/duty</span>] on sau sa foloseasca chat-ul [<span style="color:var(--pink);">/d</span>] (<span style="color:red;">sanctiune: picarea testelor</span>).
-
-<span style="color:var(--pink);">3.8</span> Cei care detin materiale sau droguri au la dispozitie <span style="color:var(--pink);">24 de ore de la intrarea in factiune</span> sa scape de ele. Folositi comanda [<span style="color:var(--pink);">/throw</span>] pentru a scapa de ele (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.9</span> Orice jucator care a fost acceptat pentru a sustine testele trebuie sa se comporte decent. Daca acesta jigneste sau are un comportament neadecvat fata de un membrul al factiunii, acesta este automat respins fara a mai avea dreptul de a sustine testele de intrare in factiune.
-
-## 4. Activitati
-
-<span style="color:var(--pink);">4.1</span> Activitatile obligatorii pot sa fie organizate de catre Lider cu un motiv bine intemeiat si cu aprobarea unui Admin Senior. Avand in vedere ca o sa fie destul de rare, toti membrii trebuie sa se prezinte si nu au dreptul la invoire, cu exceptia jucatorilor care au cerere de inactivitate pentru saptamana respectiva. O activitate obligatorie este valida cat timp este anuntata cu minim o saptamana inainte (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-- in cazul adminilor de nivel 1-3, daca activitatea obligatorie are loc pe parcursul desfasurarii warurilor, acestia vor fi automat invoiti, cu conditia ca ei sa-si indeplineasca atributiile de admin in ce priveste prinderea codatilor.
-- in cazul subliderilor, liderul va decide daca doreste sa sanctioneze sau nu absenta acestora de la activitatile obligatorii cand acestia nu au cerere de inactivitate pentru saptamana respectiva.
-
-<span style="color:var(--pink);">4.2</span> Sedinta va avea loc cand considera liderul ca este nevoie. Sedinta va fi intotdeauna obligatorie.
-
-<span style="color:var(--pink);">4.3</span> O activitate optionala o sa dureze minim 20 de minute si maxim 50 de minute (activitatea nu se ia in calcul + <span style="color:red;">Avertisment Verbal antrenorului</span>)
-
-## 5. Vehiculele Factiunii
+## 3. Vehiculele Factiunii
 
 <figure markdown="span">
     ![vehicule FBI](../../images/fbi-vehicles.png){ width=1000" }
 </figure>
 
 - 26 FBI Rancher - Rank 1.
-- 5 FBI Truck - Rank 2.
+- 5 FBI Truck - Rank 4.
 - 3 NRG - Rank 3.
 - 7 Bullet - Rank 3.
 - 3 SWAT - Rank 4.
 - 1 Police Maverick - Rank 4.
 
-<span style="color:var(--pink);">5.1</span> Nu aveti voie sa folositi vehiculele de tip "<span style="color:var(--pink);">SWAT</span>" pentru a stropi jucatorii, pentru a ii tine la pamant. Cine nu respecta regula este sanctionat cu <span style="color:red;">Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span>, in functie de caz. In cazul protestelor sau jucatori care incurca traficul, aveti voie sa folositi apa pentru a ii calma.
+<span style="color:var(--pink);">3.1</span> Nu aveti voie sa folositi vehiculele de tip "<span style="color:var(--pink);">SWAT</span>" pentru a stropi jucatorii, pentru a ii tine la pamant. Cine nu respecta regula este sanctionat cu <span style="color:red;">Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span>, in functie de caz. In cazul protestelor sau jucatori care incurca traficul, aveti voie sa folositi apa pentru a ii calma.
 
-<span style="color:var(--pink);">5.2</span> Sa va asigurati ca nu parcati masina peste locul unde se respawneaza un vehicul FBI sau unde sunt arestati suspectii (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">3.2</span> Sa va asigurati ca nu parcati masina peste locul unde se respawneaza un vehicul FBI sau unde sunt arestati suspectii (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
-<span style="color:var(--pink);">5.3</span> Atunci cand gasiti o masina dintr-un departament: Infernus, Turismo, Bullet, NRG-500, Maverick sa anuntati ca o luati, exemplu: "[<span style="color:var(--pink);">/d</span>] Am gasit un Bullet in zona Fort Carson, il iau." (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">3.3</span> Atunci cand gasiti o masina dintr-un departament: Infernus, Turismo, Bullet, NRG-500, Maverick sa anuntati ca o luati, exemplu: "[<span style="color:var(--pink);">/d</span>] Am gasit un Bullet in zona Fort Carson, il iau." (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.4</span> Bullet-urile si Nrg-urile pot fi folosite de catre membrii cu Rank 3+, acestia sunt obligati sa anunte pe /r.
+<span style="color:var(--pink);">3.4</span> Bullet-urile si Nrg-urile pot fi folosite de catre membrii cu Rank 3+, acestia sunt obligati sa anunte pe /r.
 
-<span style="color:var(--pink);">5.5</span> Tancul cu apa poate fi folosit de membrii de Rank 4.
+<span style="color:var(--pink);">3.5</span> Tancul cu apa poate fi folosit de membrii de Rank 4.
 
-<span style="color:var(--pink);">5.6</span> Elicopterul poate fi folosit doar de membrii de Rank 4+, NU pentru plimbari. Cei cu rank sub 4, trebuie sa ceara aprobare.
+<span style="color:var(--pink);">3.6</span> Elicopterul poate fi folosit doar de membrii de Rank 4+, NU pentru plimbari. Cei cu rank sub 4, trebuie sa ceara aprobare.
 
-## 6. Skinurile Factiunii
+## 4. Suspectii
 
-<figure markdown="span">
-    ![skinuri FBI](../../images/fbi-skins.png){ width="800" }
-</figure>
+<span style="color:var(--pink);">4.1</span> Membrii FBI au prioritate in capturarea si arestarea suspectilor cu <span style="color:var(--pink);">wanted 3 si 4 si a celor fara drept de predare</span> (exceptie de la aceasta regula au membrii rank 4+ care pot merge dupa orice wanted). In cazul in care in lista /wanted nu mai sunt jucatori cu wanted 3 si 4, membrii FBI se pot angaja sa captureze / aresteze jucatorii cu wanted 1 si 2, iar apoi 5 si 6. In cazul in care un suspect de wanted 1/2, respectiv 5/6, se preda ( se urca in masina fara sa fie somat ), ii dati [/cuff], il transportati pana la cel mai apropiat HQ de departament si intrebati un PD, respectiv NG, daca il aresteaza ei sau voi (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.1</span> Aveti voie sa purtati skinurile de rank inferior rankului vostru (ex: aveti rank 5, puteti purta skinurile de la rank 1-4).
+!!! danger "Important"
+    In cazul in care nu sunt suspecti prioritari departamentului din care faceti parte, faceti un ss la [<span style="color:var(--pink);">/wanted</span>] si porniti in capturarea unui jucator care nu va este prioritar la nivelul de wanted, aveti la dispozitie 5 minute sa capturati orice jucator respectand regula de baza. Daca cele 5 minute au trecut, dar totusi ati apucat sa ii acordati suspectului o somatie/doua va puteti continua urmarirea, daca nu, verificati din nou [<span style="color:var(--pink);">/wanted</span>] si in functie de ce suspecti sunt va continuati activitatea.
 
-<span style="color:var(--pink);">6.2</span> Nu este permisa purtarea unui skin de rank superior (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.2</span> In cazul in care un membru de departament acorda wanted unui jucator, acesta are dreptul de a-l aresta, indiferent de wanted level. Daca, inainte de a-l aresta, membrul respectiv iese din joc, suspectul ii revine departamentului ce are prioritate pe wantedul sau.
 
-!!! example "Nota informativa"
-    Cu permisiunea Liderului se pot purta alte skinuri fata de regulile de mai sus.
+<span style="color:var(--pink);">4.3</span> Este interzisa favorizarea jucatorilor. Un Agent FBI trebuie sa dea dovada de CORECTITUDINE (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.4</span> Cand aveti un suspect la voi, sunteti obligat sa-i acordati [/cuff] pentru ca ceilalti membri din departamente sa vada ca este la voi. Nu aveti voie sa ii dati [/uncuff] pana cand suspectul nu ajunge in jail (exceptie: cand suspectul detine droguri si trebuie sa coboare din masina in garaj) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+
+<span style="color:var(--pink);">4.5</span> Este strict interzisa folosirea avantajelor de politist (sub orice forma) cand situatia nu o cere (<span style="color:red;">sanctiune: Faction Warn sau demitere</span>).
+
+<span style="color:var(--pink);">4.6</span> Daca un gangster se afla in incinta HQ-ului (incinta include curtea HQ-ului cu parcarea acestuia) nu aveti voie sa ii confiscati armele. Regula nu se aplica daca gangsterul respectiv va ataca pe voi sau pe orice alt jucator care nu apartine gangului respectiv (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.7</span> In cazul in care suspectati un jucator cu wanted ca detine droguri sunteti obligati sa il somati pe NUME, sa specificati numele departamentului si sa ii explicati motivul in somatie, cu comanda [<span style="color:var(--pink);">/m</span>]. Ex: "<span style="color:var(--pink);">Stop aici ! F.B.I. MaxyMusSs trage pe dreapta, control! risti wanted 2!</span>"
+
+<span style="color:var(--pink);">4.8</span> Controalele de rutina efectuate in trafic (presupune sa opresti jucatori care circula cu vehicule) se fac doar cu vehiculele departamentelor. Daca agentul se afla pe jos la momentul efectuarii controlului, implicit in momentul acordarii somatiilor, e irelevant modul in care agentul a ajuns acolo (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.8.1</span> Inainte de a efectua un control de rutina pe jucatorii aflati intr-un vehicul si de a-i soma sa coboare, trebuie sa va asigurati ca acestia sunt prezenti la PC (sa se miste sau sa scrie in chat) si sa aveti dovezi in acest sens (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.9</span> Un agent FBI care este inconjurat/atacat de mai multi detinuti in jail si nu are alta cale de scapare poate folosi comanda [<span style="color:var(--pink);">/punish</span>] pentru a scapa.
+
+<span style="color:var(--pink);">4.10</span> Pentru orice actiune, trebuie sa aveti dovezi in cazul unei reclamatii.
+
+<span style="color:var(--pink);">4.11</span> Este permis sa le confiscati armele jucatorilor aflati intr-un Clan Zone, cu conditia ca unul dintre membrii clanului care este pe turf sa aiba wanted (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.12</span> Orice membru Rank 3 + are voie sa mearga cu masina personala dupa wanted cu drept de predare (arrest). Orice membru Rank 1+ are voie sa mearga cu masina personala dupa wanted fara drept de predare.
+
+<span style="color:var(--pink);">4.13</span> Toti membrii departamentelor de politie au obligatia de a avea comanda [<span style="color:var(--pink);">/timestamp</span>] activata (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+
+<span style="color:var(--pink);">4.14</span> Un politist are voie sa acorde wanted atunci cand un suspect ataca un alt membru al departamentelor in anumite situatii, exemplu: Atunci cand se trage de pe restaurant LS iar cei de jos nu pot vedea suspectul, atunci cand se trage asupra lui de la distante mari iar un coleg vede tot de aproape, alte cazuri (intrebati liderul).
+
+<span style="color:var(--pink);">4.15</span> Cand confiscati armele unui jucator, sunteti obligati sa-i spuneti si motivul. Un simplu text cu "<span style="color:var(--pink);">armele la vedere</span>" este suficient (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+
+<span style="color:var(--pink);">4.16</span> Nu aveti voie sa confiscati armele unui suspect, daca acesta nu are drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.17</span> Este interzis sa acordati [<span style="color:var(--pink);">/frisk</span>], respectiv [<span style="color:var(--pink);">/su</span>] oricarui jucator atunci cand acesta este intr-un meci de poker (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.18</span> Pentru a confisca arme/droguri aveti nevoie de Rank 2+. Membrii FBI nu au dreptul sub nicio circumstanta de a confisca vreun tip de licenta (<span style="color:red;">sanctiune: Faction Warn</span> sau <span style="color:red;">demitere</span> in cazul unui abuz major).
+
+<span style="color:var(--pink);">4.19</span> Membrii de departament nu au voie sa conduca abuziv si sa deranjeze cu intentie ceilalti participanti al traficului (exemple: intratul intentionat de multiple ori in alti soferi, blocarea drumului, etc.) (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.20</span> In cazul in care suspectul fara drept de predare sare pe cladiri inalte folosind o bicicleta (folosindu-se de bugul high jump), fiind greu de prins si omorat, aveti dreptul de a deschide focul cu Hunter sau Hydra pentru a-i omori. Daca suspectul coboara de pe cladire, nu mai aveti voie sa deschideti focul, ci continuati urmarirea terestra. Asigurati-va ca aveti intotdeauna dovezi clare inainte de a deschide focul! Nerespectarea acestei reguli se va sanctiona cu <span style="color:red;">Faction Warn</span> la prima abatere, <span style="color:red;">Rank Down</span> la a doua abatere si <span style="color:red;">Demitere</span> daca va continua.
+
+## 5. Factiune
+
+<span style="color:var(--pink);">5.1</span> Telefoanele vor fi inchise in timpul unei activitati FBI, fara sa fiti avertizati de un organizator (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+
+<span style="color:var(--pink);">5.2</span> Folosirea armei in Armory FBI in timpul sedintelor/antrenamentelor/intalnirilor de orice fel, este strict interzisa (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.3</span> Pentru a intra in FBI trebuie sa aveti skill 5 detective.
+
+<span style="color:var(--pink);">5.4</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span>
+
+<span style="color:var(--pink);">5.5</span> Orice membru FBI are obligatia de a avea pe Website scurtatura cate profilul sau de forum. Aveti la dispozitie 48h din momentul intrarii in factiune sa faceti asta. Cine nu are aceasta scurtatura catre profilul de forum dupa cele 48h o sa fie sanctionat cu <span style="color:red;">Avertisment Verbal</span>, iar dupa 24h daca situatia nu va fi remediata se va acorda <span style="color:red;">Faction Warn.</span>
+
+<span style="color:var(--pink);">5.6</span> Nu aveti voie sa practicati (sa folositi [/work] sau alte comenzi aferente pornirii job-ului, inclusiv farmer) alt job in afara de cel de Detectiv sau Mecanic (strict pentru intretinerea masinilor in urmarire) atunci cand sunteti on duty (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+
+<span style="color:var(--pink);">5.7</span> Candidatii care trec testele de intrare nu au voie sa fie [<span style="color:var(--pink);">/duty</span>] on sau sa foloseasca chat-ul [<span style="color:var(--pink);">/d</span>] (<span style="color:red;">sanctiune: picarea testelor</span>).
+
+<span style="color:var(--pink);">5.8</span> Cei care detin materiale sau droguri au la dispozitie <span style="color:var(--pink);">24 de ore de la intrarea in factiune</span> sa scape de ele. Folositi comanda [<span style="color:var(--pink);">/throw</span>] pentru a scapa de ele (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.9</span> Orice jucator care a fost acceptat pentru a sustine testele trebuie sa se comporte decent. Daca acesta jigneste sau are un comportament neadecvat fata de un membrul al factiunii, acesta este automat respins fara a mai avea dreptul de a sustine testele de intrare in factiune.
+
+## 6. Activitati
+
+<span style="color:var(--pink);">6.1</span> Activitatile obligatorii pot sa fie organizate de catre Lider cu un motiv bine intemeiat si cu aprobarea unui Admin Senior. Avand in vedere ca o sa fie destul de rare, toti membrii trebuie sa se prezinte si nu au dreptul la invoire, cu exceptia jucatorilor care au cerere de inactivitate pentru saptamana respectiva. O activitate obligatorie este valida cat timp este anuntata cu minim o saptamana inainte (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+- in cazul adminilor de nivel 1-3, daca activitatea obligatorie are loc pe parcursul desfasurarii warurilor, acestia vor fi automat invoiti, cu conditia ca ei sa-si indeplineasca atributiile de admin in ce priveste prinderea codatilor.
+- in cazul subliderilor, liderul va decide daca doreste sa sanctioneze sau nu absenta acestora de la activitatile obligatorii cand acestia nu au cerere de inactivitate pentru saptamana respectiva.
+
+<span style="color:var(--pink);">6.2</span> Sedinta va avea loc cand considera liderul ca este nevoie. Sedinta va fi intotdeauna obligatorie.
+
+<span style="color:var(--pink);">6.3</span> O activitate optionala o sa dureze minim 20 de minute si maxim 50 de minute (activitatea nu se ia in calcul + <span style="color:red;">Avertisment Verbal antrenorului</span>)
 
 ## 7. Chatul Factiunii
 

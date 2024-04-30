@@ -38,15 +38,6 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     ![skinuri red dragon triad](../../images/rdt-skins.png){ width="800" }
 </figure>
 
-<span style="color:var(--pink);">2.1</span> Aveti voie sa purtati skinurile de rank inferior rankului vostru (ex: aveti rank 5, puteti purta skinurile de la rank 1-4).
-
-<span style="color:var(--pink);">2.2</span> Skinurile cumparate din bizurile Clothes de tip Platinum, Diamond sau Onyx pot fi purtate.
-
-<span style="color:var(--pink);">2.3</span> Nu este permisa purtarea unui skin de rank superior (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-!!! example "Nota informativa"
-    Cu permisiunea Liderului se pot purta alte skinuri fata de regulile de mai sus.
-
 ## 3. Vehiculele Factiunii
 
 <figure markdown="span">

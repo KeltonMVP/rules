@@ -29,46 +29,64 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     - <span style="color:var(--pink);">[Undercover]</span> - ensures your secret identity for contract execution.
     - <span style="color:var(--pink);">[Logout]</span> - logs you out from the agency's laptop.
 
-## 2. Completing Contracts
+## 2. Faction Skins
 
-<span style="color:var(--pink);">2.1</span> Each contract must be performed silently.
+<figure markdown="span">
+    ![Hitmen Agency skins](../../images/ha-skins.png){ width="800" }
+</figure>
 
-<span style="color:var(--pink);">2.1.1</span> Silent mode represents carrying out a contract from a long distance, from a location where you cannot be seen by anyone, using a sniper rifle.
+## 3. Faction Vehicles
 
-<span style="color:var(--pink);">2.2</span> The weapons you can use to carry out a contract are: <span style="color:var(--pink);">Sniper, SD Pistol, and Knife.</span>
+<figure markdown="span">
+    ![Hitmen Agency vehicles](../../images/ha-vehicles.png){ width=1000" }
+</figure>
 
-<span style="color:var(--pink);">2.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage or City Hall. You are not allowed to perform contracts in <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
+- 37 Sparrow - Rank 1.
+- 3 Buffalo - Rank 1.
+- 3 FCR-900 - Rank 4.
+- 1 Sultan - Rank 4.
+- 2 Maverick - Rank 4.
 
-<span style="color:var(--pink);">2.3.1</span> Completing contracts with weapons other than those mentioned above, or using SD Pistol and Knife when the target is not inside a house / faction HQ / clan HQ / business / PD Garage or City Hall will result in <span style="color:red;">your dismissal with 60 FP.</span>
+## 4. Completing Contracts
 
-<span style="color:var(--pink);">2.4</span> If your target is in a house with their back against the wall or is moving, making it impossible to complete the contract with a Knife, you are permitted to use the SD PISTOL. Anyone caught abusing this weapon will be sanctioned with a <span style="color:red;">Faction Warn</span> on the first offense and <span style="color:red;">dismissal with 60 FP</span> if repeated.
+<span style="color:var(--pink);">4.1</span> Each contract must be performed silently.
 
-<span style="color:var(--pink);">2.5</span> When the target's house is locked, you can use the command [<span style="color:var(--pink);">/ram</span>] to break in.
+<span style="color:var(--pink);">4.1.1</span> Silent mode represents carrying out a contract from a long distance, from a location where you cannot be seen by anyone, using a sniper rifle.
 
-<span style="color:var(--pink);">2.6</span> In the case of targets located in HQ / Training Room, you have the option to carry out the contract as follows: use [<span style="color:var(--pink);">/ram</span>] if your target is in the HQ or [<span style="color:var(--pink);">/enter</span>] if the target is in the Training Room and execute the contract. If there is a <span style="color:var(--pink);">meeting / training session</span>, leave the area entirely, make sure nobody sees you, and use [<span style="color:var(--pink);">/leavehit</span>].
+<span style="color:var(--pink);">4.2</span> The weapons you can use to carry out a contract are: <span style="color:var(--pink);">Sniper, SD Pistol, and Knife.</span>
 
-<span style="color:var(--pink);">2.7</span> In the case of targets located in the Bunker, you have two options to carry out the contract:
+<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage or City Hall. You are not allowed to perform contracts in <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
+
+<span style="color:var(--pink);">4.4.1</span> Completing contracts with weapons other than those mentioned above, or using SD Pistol and Knife when the target is not inside a house / faction HQ / clan HQ / business / PD Garage or City Hall will result in <span style="color:red;">your dismissal with 60 FP.</span>
+
+<span style="color:var(--pink);">4.4</span> If your target is in a house with their back against the wall or is moving, making it impossible to complete the contract with a Knife, you are permitted to use the SD PISTOL. Anyone caught abusing this weapon will be sanctioned with a <span style="color:red;">Faction Warn</span> on the first offense and <span style="color:red;">dismissal with 60 FP</span> if repeated.
+
+<span style="color:var(--pink);">4.5</span> When the target's house is locked, you can use the command [<span style="color:var(--pink);">/ram</span>] to break in.
+
+<span style="color:var(--pink);">4.6</span> In the case of targets located in HQ / Training Room, you have the option to carry out the contract as follows: use [<span style="color:var(--pink);">/ram</span>] if your target is in the HQ or [<span style="color:var(--pink);">/enter</span>] if the target is in the Training Room and execute the contract. If there is a <span style="color:var(--pink);">meeting / training session</span>, leave the area entirely, make sure nobody sees you, and use [<span style="color:var(--pink);">/leavehit</span>].
+
+<span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you have two options to carry out the contract:
 
 - wait until the target leaves the Bunker and then execute the contract.
 - you can use the command [<span style="color:var(--pink);">/leavehit</span>] and take another contract.
 
-<span style="color:var(--pink);">2.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">2.9</span> Contracts cannot be executed on targets who are using [<span style="color:var(--pink);">/sleep</span>].
+<span style="color:var(--pink);">4.9</span> Contracts cannot be executed on targets who are using [<span style="color:var(--pink);">/sleep</span>].
 
-<span style="color:var(--pink);">2.10</span> Executing contracts at important events organized by admins is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.10</span> Executing contracts at important events organized by admins is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">2.11</span> When you have a contract, you are not allowed to be accompanied by individuals who are not part of the Agency.
+<span style="color:var(--pink);">4.11</span> When you have a contract, you are not allowed to be accompanied by individuals who are not part of the Agency.
 
-<span style="color:var(--pink);">2.12</span> Contracts executed with a Sniper from a distance less than 150 meters will be sanctioned with a <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">4.12</span> Contracts executed with a Sniper from a distance less than 150 meters will be sanctioned with a <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">2.13</span> Any form of interaction with the target (messages / calls / communication) or disclosing contract details to the victim or any other individuals is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.13</span> Any form of interaction with the target (messages / calls / communication) or disclosing contract details to the victim or any other individuals is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">2.14</span> Interacting with any other player during a contract is strictly prohibited (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.14</span> Interacting with any other player during a contract is strictly prohibited (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">2.15</span> Cheating or assisting a colleague in cheating the activity report is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.15</span> Cheating or assisting a colleague in cheating the activity report is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">2.16</span> An agent is not allowed to reveal their identity while <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.16</span> An agent is not allowed to reveal their identity while <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanction: Faction Warn</span>).
 
 ### Identity Disclosure + Sanction
 
@@ -86,11 +104,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - using the command [<span style="color:var(--pink);">/eject</span>] when a player uninvitedly enters the faction vehicle you are executing the contract with.
 
-## 3. Leavehit and Gethit
+## 5. Leavehit and Gethit
 
-<span style="color:var(--pink);">3.1</span> Each agent can obtain a contract using the command [<span style="color:var(--pink);">/portable</span>] - <span style="color:var(--pink);">gethit.</span>
+<span style="color:var(--pink);">5.1</span> Each agent can obtain a contract using the command [<span style="color:var(--pink);">/portable</span>] - <span style="color:var(--pink);">gethit.</span>
 
-<span style="color:var(--pink);">3.2</span> After completing a contract, you must wait for a certain period of time (this period depends on the distance and how the contract was executed) before you can take another contract. These waiting periods and execution methods are as follows:
+<span style="color:var(--pink);">5.2</span> After completing a contract, you must wait for a certain period of time (this period depends on the distance and how the contract was executed) before you can take another contract. These waiting periods and execution methods are as follows:
 
 - for contracts executed between <span style="color:var(--pink);">150.0m and 199.9m,</span> the waiting time is 15 minutes.
 - for contracts executed between <span style="color:var(--pink);">200.0m and 249.9m,</span> the waiting time is 10 minutes.
@@ -106,13 +124,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - an agent has the option to use the command [<span style="color:var(--pink);">/gethit</span>] when they want to file their report, not to take advantage of undercover.
 
-## 4. Undercover
+## 6. Undercover
 
-<span style="color:var(--pink);">4.1</span> When an agent has a contract, they are obligated to ensure they are undercover (UNDERCOVER ON).
+<span style="color:var(--pink);">6.1</span> When an agent has a contract, they are obligated to ensure they are undercover (UNDERCOVER ON).
 
-<span style="color:var(--pink);">4.2</span> Undercover mode disappears one minute after completing a contract.
+<span style="color:var(--pink);">6.2</span> Undercover mode disappears one minute after completing a contract.
 
-<span style="color:var(--pink);">4.3</span> Agents are not allowed to abuse Undercover (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for subsequent offenses).
+<span style="color:var(--pink);">6.3</span> Agents are not allowed to abuse Undercover (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for subsequent offenses).
 
 !!! danger "Important"
     The command <span style="color:var(--pink);">"undercover"</span>, following the acquisition of a contract with [<span style="color:var(--pink);">/gethit</span>], should only be typed when you are sure that there are no other players around you who are not part of the agency and could see you. Of course, after completing the contract, nobody should be around when undercover mode turns OFF (<span style="color:red;">sanction: Faction Warn</span>).
@@ -128,40 +146,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - when a police officer tells you to disable Undercover, and you choose not to do so, fleeing and risking a wanted level.
 - when you use a wheeled vehicle to execute a contract and pass through a radar, and the police officer warns you to pull over for a fine, but you ignore them.
 
-## 5. Conflicts
+## 7. Conflicts
 
-<span style="color:var(--pink);">5.1</span> Any conflict with any member remains within the faction and will be resolved by the Leader or Subleader.
+<span style="color:var(--pink);">7.1</span> Any conflict with any member remains within the faction and will be resolved by the Leader or Subleader.
 
-<span style="color:var(--pink);">5.2</span> For a proper resolution, you are obligated to take pictures that encompass the entire situation.
+<span style="color:var(--pink);">7.2</span> For a proper resolution, you are obligated to take pictures that encompass the entire situation.
 
-<span style="color:var(--pink);">5.3</span> If a member comments on the Leader or Subleader, they will be <span style="color:red;">sanctioned with a Faction Warn.</span>
-
-## 6. Faction Skins
-
-<figure markdown="span">
-    ![Hitmen Agency skins](../../images/ha-skins.png){ width="800" }
-</figure>
-
-<span style="color:var(--pink);">6.1</span> You are allowed to wear skins of lower ranks than yours (e.g., if you are rank 5, you can wear skins from ranks 1-4).
-
-<span style="color:var(--pink);">6.2</span> Skins purchased from Platinum, Diamond, or Onyx type businesses in Clothes can be worn.
-
-<span style="color:var(--pink);">6.3</span> Wearing a skin of a higher rank is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
-
-!!! example "Info note"
-    With the Leader's permission, other skins can be worn outside the above rules.
-
-## 7. Faction Vehicles
-
-<figure markdown="span">
-    ![Hitmen Agency vehicles](../../images/ha-vehicles.png){ width=1000" }
-</figure>
-
-- 37 Sparrow - Rank 1.
-- 3 Buffalo - Rank 1.
-- 3 FCR-900 - Rank 2.
-- 1 Sultan - Rank 3.
-- 2 Maverick - Rank 4.
+<span style="color:var(--pink);">7.3</span> If a member comments on the Leader or Subleader, they will be <span style="color:red;">sanctioned with a Faction Warn.</span>
 
 ## 8. Fines
 
@@ -180,25 +171,19 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 9. Others
 
-<span style="color:var(--pink);">9.1</span> Mandatory activities may be organized by the Leader with a well-founded reason and with the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to leave, except for players who have requested inactivity for that particular week.
+<span style="color:var(--pink);">9.1</span> When an agent has Wanted 6 (no surrender rights), they are obligated not to stay at the HQ because there is a possibility of other victims.
 
-<span style="color:var(--pink);">9.2</span> You are allowed to use any job you desire.
+<span style="color:var(--pink);">9.2</span> It is recommended that agents take a picture after each completed contract to avoid conflicts, or in case they are reported.
 
-<span style="color:var(--pink);">9.3</span> When an agent has Wanted 6 (no surrender rights), they are obligated not to stay at the HQ because there is a possibility of other victims.
+<span style="color:var(--pink);">9.3</span> The use of silent weapons, Sniper and Knife for self-defense (against COPS) will be punished with <span style="color:red;">dismissal with FP.</span>
 
-<span style="color:var(--pink);">9.4</span> It is recommended that agents take a picture after each completed contract to avoid conflicts, or in case they are reported.
-
-<span style="color:var(--pink);">9.5</span> The use of silent weapons, Sniper and Knife for self-defense (against COPS) will be punished with <span style="color:red;">dismissal with FP.</span>
-
-<span style="color:var(--pink);">9.6</span> Rank-up requests are allowed, but not in an abusive manner, spamming the leader (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">9.7</span> Absence from activities or meetings without permission will be sanctioned with <span style="color:red;">Faction Warn.</span> being late to activities or meetings is sanctioned as follows:
+<span style="color:var(--pink);">9.4</span> Absence from activities or meetings without permission will be sanctioned with <span style="color:red;">Faction Warn.</span> being late to activities or meetings is sanctioned as follows:
 
 - being late under 10 minutes - <span style="color:var(--green);">nothing</span>
 - being late for 10-20 minutes - <span style="color:orange;">Verbal Warning (VW)</span>
 - being late for 20-30 minutes - <span style="color:orange;">Verbal Warning (VW)</span> + <span style="color:var(--green);">$50,000 fine</span>
 - being late for 30+ minutes - <span style="color:red;">Faction Warn (FW)</span>
 
-<span style="color:var(--pink);">9.8</span> Deathmatching without having a contract will be sanctioned with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">9.5</span> Deathmatching without having a contract will be sanctioned with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">9.9</span> Contracts deliberately made with [<span style="color:var(--pink);">/turn on</span>] or other means to be carried out from distances for pictures, like 69.0m, will be sanctioned with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">9.6</span> Contracts deliberately made with [<span style="color:var(--pink);">/turn on</span>] or other means to be carried out from distances for pictures, like 69.0m, will be sanctioned with <span style="color:red;">Faction Warn.</span>

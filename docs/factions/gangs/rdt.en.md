@@ -38,15 +38,6 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     ![red dragon triad skins](../../images/rdt-skins.png){ width="800" }
 </figure>
 
-<span style="color:var(--pink);">2.1</span> You are allowed to wear skins of lower ranks than your own rank (e.g., if you have rank 5, you can wear skins from ranks 1-4).
-
-<span style="color:var(--pink);">2.2</span> Skins purchased from Platinum, Diamond, or Onyx type businesses can be worn.
-
-<span style="color:var(--pink);">2.3</span> Wearing a skin of a higher rank is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
-
-!!! example "Info note"
-    With the Leader's permission, other skins can be worn besides the rules mentioned above.
-
 ## 3. Faction Vehicles
 
 <figure markdown="span">

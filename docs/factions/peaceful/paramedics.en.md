@@ -26,51 +26,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.
 - <span style="color:var(--pink);">[/corpse]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.
 
-## 2. General Rules
-
-<span style="color:var(--pink);">2.1</span> Faction members can only be sanctioned by members of ranks 5, 6, and the leader (<span style="color:red;">sanction: Verbal Warning</span>).
-
-<span style="color:var(--pink);">2.2</span> In faction-related issues, you are obligated to listen to members of higher ranks (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.3</span> It is permitted to possess drugs only when you have a specific active task (<span style="color:orange;">sanction: fine of $50,000</span>).
-
-<span style="color:var(--pink);">2.4</span> Paramedic members are allowed to have any job (legal or illegal) at any time. You are obligated to change the job you have only if a rank 5+ tells you to do so (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.5</span> Paramedic members can use the command [<span style="color:var(--pink);">/service medic</span>] only if they are OFF-Duty when necessary (<span style="color:red;">sanction: Verbal Warning</span>).
-
-<span style="color:var(--pink);">2.6</span> You are not allowed to go AFK at the entrance of the HQ (inside or outside) (<span style="color:orange;">sanction: fine according to the Fines section</span>).
-
-<span style="color:var(--pink);">2.7</span> Parking personal vehicles in the HQ courtyard is not permitted (<span style="color:orange;">sanction: fine according to the Fines section</span>).
-
-<span style="color:var(--pink);">2.8</span> You are allowed to have colleagues from the faction or one person with you in the vehicle (or on it), but there must be at least one free space for patients (except Romero) (<span style="color:red;">sanction: Verbal Warning</span>).
-
-<span style="color:var(--pink);">2.9</span> Paramedics on duty are obligated to accept the orders received if they are in an Ambulance/Raindance/Ranger and to go after all corpses if they are in a Romero-type vehicle. If you have a valid reason for not being able to accept the order or go after a corpse, you must provide clear explanations and evidence (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">2.10</span> If an order is more than 2,500 meters away from you (average distance between cities or from CNN LS to Basin Bunker), you are obligated to ask if another colleague on duty is closer to it, and that colleague must accept it if they are closer (within 2500 meters) (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
-
-<span style="color:var(--pink);">2.11</span> Members are not allowed to spam or abuse the [/fvs] and [/fvr] commands (<span style="color:red;">sanction: Faction Warn</span> or <span style="color:red;">Rank Down</span> for multiple offenses or abuses).
-
-!!! danger "Important"
-    Verbal Warnings are issued if members below rank 5 post in the sanctions topic.<br/>
-    All sanctions will be posted in the specific topic within a maximum of 5 hours from their issuance.<br/>
-    Higher-ranked members are not allowed to compel lower-ranked members to do things unrelated to the faction.
-
-## 3. Faction Skins
+## 2. Faction Skins
 
 <figure markdown="span">
     ![paramedics skins](../../images/paramedic-skins.png){ width="800" }
 </figure>
 
-<span style="color:var(--pink);">2.1</span> You are allowed to wear skins of lower ranks than yours (e.g., if you are rank 5, you can wear skins from ranks 1-4).
-
-<span style="color:var(--pink);">2.2</span> Skins purchased from Platinum, Diamond, or Onyx Clothes businesses can be worn.
-
-<span style="color:var(--pink);">2.3</span> Wearing a skin of a higher rank is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
-
-!!! example "Info note"
-    With the Leader's permission, other skins can be worn outside the above rules.
-
-## 4. Faction Vehicles
+## 3. Faction Vehicles
 
 <figure markdown="span">
     ![paramedics vehicles](../../images/paramedic-vehicles.png){ width=1000" }
@@ -79,62 +41,68 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - 15 Ambulances - Rank 0.
 - 16 Romero - Rank 1.
 - 2 Raindance - Rank 3.
-- 5 Ranger - Rank 4.
+- 5 Ranger - Rank 3.
 
-<span style="color:var(--pink);">4.1</span> It is forbidden to use ambulances and Romero vehicles for personal purposes (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.1</span> It is forbidden to use ambulances and Romero vehicles for personal purposes (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.2</span> Rank 3+ members can use Raindance and Ranger vehicles for personal purposes provided they announce it in the faction chat. Failure to announce will result in them being treated as on-duty members, which may attract sanctions depending on the situation.
+<span style="color:var(--pink);">3.2</span> Rank 3+ members can use Raindance and Ranger vehicles for personal purposes provided they announce it in the faction chat. Failure to announce will result in them being treated as on-duty members, which may attract sanctions depending on the situation.
 
-<span style="color:var(--pink);">4.3</span> All members are required to use /duty when driving faction vehicles (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">3.3</span> All members are required to use [<span style="color:var(--pink);">/duty</span>] when driving faction vehicles (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.4</span> When taking a vehicle from the faction, announce it in the chat [/r Ambulance/Raindance/Ranger/Romero to me] (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">3.4</span> When taking a vehicle from the faction, announce it in the chat [/r Ambulance/Raindance/Ranger/Romero to me] (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.5</span> You are required to destroy the service vehicle after you have finished using it (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">3.5</span> You are required to destroy the service vehicle after you have finished using it (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.6</span> When destroying the faction vehicle, announce it in chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">3.6</span> When destroying the faction vehicle, announce it in chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.8</span> The siren is only to be used if you have an accepted command [/accept medic] (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.8</span> The siren is only to be used if you have an accepted command [<span style="color:var(--pink);">/accept medic</span>] (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.9</span> You are allowed to go AFK off-duty in the faction vehicle, but not for more than 120 seconds (2 minutes) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.9</span> You are allowed to go AFK off-duty in the faction vehicle, but not for more than 120 seconds (2 minutes) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.10</span> You are allowed to go AFK on-duty in the faction vehicle, but not for more than 60 seconds (1 minute) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.10</span> You are allowed to go AFK on-duty in the faction vehicle, but not for more than 60 seconds (1 minute) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.11</span> If you are not AFK and not on duty in the faction vehicle, you have 30 seconds to go on duty to avoid receiving a sanction (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">3.11</span> If you are not AFK and not on duty in the faction vehicle, you have 30 seconds to go on duty to avoid receiving a sanction (<span style="color:red;">sanction: Verbal Warning</span>).
 
-## 5. Meetings and Activities
+## 4. General Rules
 
-<span style="color:var(--pink);">5.1</span> Mandatory activities can be organized by the leader with a well-founded reason and the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to leave, except for players who have submitted an inactivity request for that week. A mandatory activity is valid as long as it is announced at least one week in advance (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.1</span> Faction members can only be sanctioned by members of ranks 5, 6, and the leader (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">5.2</span> You are not allowed to attend meetings with a wanted level or engage in activities that may disrupt the smooth running of the meeting (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
+<span style="color:var(--pink);">4.2</span> It is permitted to possess drugs only when you have a specific active task (<span style="color:orange;">sanction: fine of $50,000</span>).
 
-<span style="color:var(--pink);">5.3</span> You are not allowed to go AFK during a meeting or activity (<span style="color:orange;">sanction: fine according to the Fines section</span>).
+<span style="color:var(--pink);">4.3</span> Paramedic members can use the command [<span style="color:var(--pink);">/service medic</span>] only if they are OFF-Duty when necessary (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">5.4</span> Participants are obligated to listen to the organizer/supervisor of the activity (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Verbal Warning</span> for subsequent offenses).
+<span style="color:var(--pink);">4.4</span> You are not allowed to go AFK at the entrance of the HQ (inside or outside) (<span style="color:orange;">sanction: fine according to the Fines section</span>).
 
-<span style="color:var(--pink);">5.5</span> Faction helpers are required to participate in mandatory activities since they already benefit from halved reports.
+<span style="color:var(--pink);">4.5</span> Parking personal vehicles in the HQ courtyard is not permitted (<span style="color:orange;">sanction: fine according to the Fines section</span>).
 
-<span style="color:var(--pink);">5.6</span> For rank 6 members, leaders will decide whether to sanction their absence from mandatory activities when they do not have an inactive or leave request submitted.
+<span style="color:var(--pink);">4.6</span> You are allowed to have colleagues from the faction or one person with you in the vehicle (or on it), but there must be at least one free space for patients (except Romero) (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">5.7</span> For level 1-3 admins, if the mandatory activity takes place during wars, they will be automatically excused, provided they fulfill their admin duties regarding catching coders.
+<span style="color:var(--pink);">4.7</span> Paramedics on duty are obligated to accept the orders received if they are in an Ambulance/Raindance/Ranger and to go after all corpses if they are in a Romero-type vehicle. If you have a valid reason for not being able to accept the order or go after a corpse, you must provide clear explanations and evidence (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.8</span> If the organizer of an optional/mandatory activity fails to attend the announced activity, they will receive a fine double the value of the announced activity prize they missed! (Example: If the announced activity has a prize of $50,000, the organizer who didn't show up at the activity, without prior notice or finding a replacement, will pay a fine of $100,000)
+<span style="color:var(--pink);">4.8</span> If an order is more than 2,500 meters away from you (average distance between cities or from CNN LS to Basin Bunker), you are obligated to ask if another colleague on duty is closer to it, and that colleague must accept it if they are closer (within 2500 meters) (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-!!! example "Info note"
-    Organizers who announce at least 3 hours before the actual activity that the activity will not take place or who find a replacement for organizing the activity will be exempt from the mentioned fine!
+<span style="color:var(--pink);">4.9</span> Members are not allowed to spam or abuse the [<span style="color:var(--pink);">/fvs</span>] and [<span style="color:var(--pink);">/fvr</span>] commands (<span style="color:red;">sanction: Faction Warn</span> or <span style="color:red;">Rank Down</span> for multiple offenses or abuses).
 
-<span style="color:var(--pink);">5.9</span> Delays to mandatory meetings will be sanctioned as follows:
+!!! danger "Important"
+    <span style="color:red;">Verbal Warnings</span> are issued if members below rank 5 post in the sanctions topic.<br/>
+    All sanctions will be posted in the specific topic within a maximum of 5 hours from their issuance.<br/>
+    Higher-ranked members are not allowed to compel lower-ranked members to do things unrelated to the faction.
 
-- being late up to 10 minutes - <span style="color:var(--green);">will not be sanctioned.</span>
-- being late between 10-20 minutes - will be sanctioned with a <span style="color:orange;">Verbal Warning.</span>
-- being late between 20-30 minutes - will be sanctioned with a <span style="color:orange;">Verbal Warning</span> + <span style="color:var(--green);">Fine of $50,000.</span>
-- being late more than 30 minutes - will be sanctioned with a <span style="color:red;">Faction Warn.</span>
+## 5. Faction Chat
 
-!!! example "Info note"
-    Meetings and activities will be posted in the [Paramedics - Sedinte si Activitati / Meetings and activities](https://forum.b-zone.ro/topic/257970--) topic.<br/>
-    Mandatory meetings and activities will be announced at least one week before their occurrence.<br/>
-    Activities will only take place on weekends (Saturday or Sunday) between 18:00 - 21:00.
+<span style="color:var(--pink);">5.1</span> You are not allowed to disclose topics discussed within the faction (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.2</span> Business conducted on the faction chat or announcements related to buying or selling goods on the faction chat are prohibited (<span style="color:red;">sanction: Verbal Warning</span>).
+
+<span style="color:var(--pink);">5.3</span> You are obliged to inform members when using the [<span style="color:var(--pink);">/fvr</span>] command (minimum 5 seconds) (<span style="color:red;">sanction: Verbal Warning + Fine</span>).
+
+<span style="color:var(--pink);">5.4</span> You are not allowed to spam or write with Caps Lock ON (you are allowed with caps for only 2 characters, example: "YES") (<span style="color:orange;">sanction: Fine</span>).
+
+<span style="color:var(--pink);">5.5</span> The [<span style="color:var(--pink);">/ftalkpower</span>] command will only be used with a well-founded reason (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Dismissal</span> for subsequent offenses).
+
+<span style="color:var(--pink);">5.6</span> You are not allowed to toggle chat power on the faction chat without the consent of a rank 6 or the leader (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for subsequent offenses).
 
 ## 6. Activity Report
 
@@ -142,15 +110,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.2</span> Members of rank 1-3 have priority in taking orders (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">6.3</span> Members of rank 4+ can designate someone who is on duty (<span style="color:var(--pink);">/duty</span>) to take an active order. Refusal is considered insubordination (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">6.3</span> Members of rank 4+ can designate someone who is on [<span style="color:var(--pink);">/duty</span>] to take an active order. Refusal is considered insubordination (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4</span> Members of rank 4+ are not exempt from taking orders (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.5</span> If a patient fails to specify the desired service after being asked 3 times, the Paramedic has the right to use the <span style="color:var(--pink);">/eject</span> command on that player. Evidence is required (<span style="color:orange;">sanction: fine $25,000</span>).
+<span style="color:var(--pink);">6.5</span> If a patient fails to specify the desired service after being asked 3 times, the Paramedic has the right to use the [<span style="color:var(--pink);">/eject</span>] command on that player. Evidence is required (<span style="color:orange;">sanction: fine $25,000</span>).
 
 <span style="color:var(--pink);">6.6</span> It is prohibited to spam informative messages about Paramedics services (maximum of 3 times) (<span style="color:red;">sanction: Verbal Warning + Fine</span>).
 
-<span style="color:var(--pink);">6.7</span> You are not allowed to park the ambulance near the "i" of businesses, blocking or obstructing traffic / entry / use of the services of that business, example provided at CNN LS, [click](https://imgur.com/a/r0xeeFy) (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">6.7</span> You are not allowed to park the ambulance near the "<span style="color:var(--pink);">i</span>" of businesses, blocking or obstructing traffic / entry / use of the services of that business, example provided at CNN LS, [click](https://imgur.com/a/r0xeeFy) (<span style="color:red;">sanction: Verbal Warning</span>).
 
 <span style="color:var(--pink);">6.8</span> Canceling an order is permitted if the individual is in an inaccessible area (evidence required) (<span style="color:red;">sanction: Verbal Warning</span>).
 
@@ -193,13 +161,69 @@ For <span style="color:var(--pink);">/rehab:</span>
 
 - if the Paramedic dies during transportation, it will result in the loss of the corpse.
 
-## 7. Alliances
+## 7. Meetings and Activities
 
-<span style="color:var(--pink);">7.1</span> Members of allied factions will receive services at the normal price, but the money spent on Paramedics services will be refunded to them (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
+<span style="color:var(--pink);">7.1</span> You are not allowed to attend meetings with a wanted level or engage in activities that may disrupt the smooth running of the meeting (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
-<span style="color:var(--pink);">7.2</span> You are not allowed to file complaints on the website against members with whom we have an alliance (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">7.2</span> You are not allowed to go AFK during a meeting or activity (<span style="color:orange;">sanction: fine according to the Fines section</span>).
 
-<span style="color:var(--pink);">7.3</span> Members of allied factions can only file complaints via PM (private message) to the leader of their respective faction, including the Paramedics leader (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">7.3</span> Participants are obligated to listen to the organizer/supervisor of the activity (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Verbal Warning</span> for subsequent offenses).
+
+<span style="color:var(--pink);">7.4</span> If the organizer of an optional/mandatory activity fails to attend the announced activity, they will receive a fine double the value of the announced activity prize they missed! (Example: If the announced activity has a prize of $50,000, the organizer who didn't show up at the activity, without prior notice or finding a replacement, will pay a fine of $100,000)
+
+!!! example "Info note"
+    Organizers who announce at least 3 hours before the actual activity that the activity will not take place or who find a replacement for organizing the activity will be exempt from the mentioned fine!
+
+<span style="color:var(--pink);">7.5</span> Delays to mandatory meetings will be sanctioned as follows:
+
+- being late up to 10 minutes - <span style="color:var(--green);">will not be sanctioned.</span>
+- being late between 10-20 minutes - will be sanctioned with a <span style="color:orange;">Verbal Warning.</span>
+- being late between 20-30 minutes - will be sanctioned with a <span style="color:orange;">Verbal Warning</span> + <span style="color:var(--green);">Fine of $50,000.</span>
+- being late more than 30 minutes - will be sanctioned with a <span style="color:red;">Faction Warn.</span>
+
+!!! example "Info note"
+    Meetings and activities will be posted in the [Paramedics - Sedinte si Activitati / Meetings and activities](https://forum.b-zone.ro/topic/257970--) topic.<br/>
+    Mandatory meetings and activities will be announced at least one week before their occurrence.<br/>
+    Activities will only take place on weekends (Saturday or Sunday) between 18:00 - 21:00.
+
+## 8. Fines
+
+The reasons for which a fine will be issued are as follows:
+
+- AFK at HQ or Training Room (interior/exterior) in "<span style="color:var(--pink);">i</span>" if blocking player access - <span style="color:var(--green);">$25,000</span>
+- spamming on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$35,000</span>
+- writing in all caps on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$30,000</span>
+- being late at announced meeting / Training / Activity - <span style="color:var(--green);">$30,000</span>
+- speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span>
+- being AFK during an activity - <span style="color:var(--green);">$35,000</span>
+- parking vehicles in HQ courtyard in a way that obstructs faction vehicle traffic - <span style="color:var(--green);">$50,000</span> for the first offense, <span style="color:orange;">Verbal Warning + Fine $50,000</span> for subsequent offenses
+- unannounced FVR - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity
+- providing services without player request - <span style="color:var(--green);">$100,000</span> + <span style="color:red;">Verbal Warning</span>
+- taking calls during a practical test - <span style="color:var(--green);">$50,000</span>
+- unannounced FVR when another colleague rank 5+ announced - <span style="color:var(--green);">$50,000</span>
+
+!!! danger "Important"
+    Fines can be given by a rank 6+ member.
+
+## 9. Candidates (rank 0)
+
+<span style="color:var(--pink);">9.1</span> Members with rank 0 (Candidates) are not allowed to use faction commands and vehicles outside of the practical test, which they undertake with a tester alongside them (<span style="color:red;">sanction: Failing Tests</span>).
+
+<span style="color:var(--pink);">9.2</span> Members with rank 0 are allowed to use the [<span style="color:var(--pink);">/r</span>] command during the practical test only for testing purposes (you are not allowed to communicate with colleagues) or after passing the entrance test (<span style="color:red;">sanction: Failing Tests</span>).
+
+<span style="color:var(--pink);">9.3</span> Taking a call during a practical test is prohibited, except when the tester announces that they no longer need calls (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Verbal Warning</span> for subsequent offenses).
+
+<span style="color:var(--pink);">9.4</span> A tester is required to announce the start and end of a practical test (<span style="color:red;">sanction: Verbal Warning</span>).
+
+<span style="color:var(--pink);">9.5</span> Any player who has been accepted to take the tests must behave decently. If they insult or behave inappropriately towards a faction member, they are automatically rejected without the right to take the entrance tests to the faction again.
+
+## 10. Alliances
+
+<span style="color:var(--pink);">10.1</span> Members of allied factions will receive services at the normal price, but the money spent on Paramedics services will be refunded to them (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
+
+<span style="color:var(--pink);">10.2</span> You are not allowed to file complaints on the website against members with whom we have an alliance (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">10.3</span> Members of allied factions can only file complaints via PM (private message) to the leader of their respective faction, including the Paramedics leader (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! danger "Important"
     The Paramedics faction is allied with the San Fierro School Instructors.<br/>
@@ -216,52 +240,3 @@ For <span style="color:var(--pink);">/rehab:</span>
 
 - members below level 50 will receive licenses without taking tests and free of charge if all licenses are obtained from the same SFSI member.
 - members above level 50 will receive licenses for free if they purchase all licenses from the same SFSI member.
-
-## 8. Candidates (rank 0)
-
-<span style="color:var(--pink);">8.1</span> Members with rank 0 (Candidates) are not allowed to use faction commands and vehicles outside of the practical test, which they undertake with a tester alongside them (<span style="color:red;">sanction: Failing Tests</span>).
-
-<span style="color:var(--pink);">8.2</span> Members with rank 0 are allowed to use the <span style="color:var(--pink);">/r</span> command during the practical test only for testing purposes (you are not allowed to communicate with colleagues) or after passing the entrance test (<span style="color:red;">sanction: Failing Tests</span>).
-
-<span style="color:var(--pink);">8.3</span> Taking a call during a practical test is prohibited, except when the tester announces that they no longer need calls (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Verbal Warning</span> for subsequent offenses).
-
-<span style="color:var(--pink);">8.4</span> A tester is required to announce the start and end of a practical test (<span style="color:red;">sanction: Verbal Warning</span>).
-
-<span style="color:var(--pink);">8.5</span> Any player who has been accepted to take the tests must behave decently. If they insult or behave inappropriately towards a faction member, they are automatically rejected without the right to take the entrance tests to the faction again.
-
-## 9. Fines
-
-If you have an unpaid fine, you have 48 hours to make the payment directly in-game using the command [<span style="color:var(--pink);">/fines</span>]. Otherwise, you will be sanctioned with a <span style="color:red;">Faction Warn</span>. Fines are to be paid only from your own funds by the member in question.
-
-The reasons for which a fine will be issued are as follows:
-
-- AFK at HQ or Training Room (interior/exterior) in "i" if blocking player access - <span style="color:var(--green);">$25,000</span>
-- spamming on /r - <span style="color:var(--green);">$35,000</span>
-- writing in all caps on /r - <span style="color:var(--green);">$30,000</span>
-- being late at announced meeting / Training / Activity - <span style="color:var(--green);">$30,000</span>
-- speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span>
-- being AFK during an activity - <span style="color:var(--green);">$35,000</span>
-- parking vehicles in HQ courtyard in a way that obstructs faction vehicle traffic - <span style="color:var(--green);">$50,000</span> for the first offense, <span style="color:orange;">Verbal Warning + Fine $50,000</span> for subsequent offenses
-- unannounced FVR - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity
-- providing services without player request - <span style="color:var(--green);">$100,000</span> + <span style="color:red;">Verbal Warning</span>
-- taking calls during a practical test - <span style="color:var(--green);">$50,000</span>
-- unannounced FVR when another colleague rank 5+ announced - <span style="color:var(--green);">$50,000</span>
-
-!!! danger "Important"
-    Fines can be given by a rank 6+ member.
-
-## 10. Faction Chat
-
-<span style="color:var(--pink);">10.1</span> You are not allowed to disclose topics discussed within the faction (what's on /r, stays on /r) (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2</span> Business conducted on the faction chat or announcements related to buying or selling goods on the faction chat are prohibited (<span style="color:red;">sanction: Verbal Warning</span>).
-
-<span style="color:var(--pink);">10.3</span> You are obliged to inform members when using the /fvr command (minimum 5 seconds) (<span style="color:red;">sanction: Verbal Warning + Fine</span>).
-
-<span style="color:var(--pink);">10.4</span> You are not allowed to spam or write with Caps Lock ON (you are allowed with caps for only 2 characters, example: "YES") (<span style="color:orange;">sanction: Fine</span>).
-
-<span style="color:var(--pink);">10.5</span> The /ftalkpower command will only be used with a well-founded reason (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Dismissal</span> for subsequent offenses).
-
-<span style="color:var(--pink);">10.6</span> Members are allowed to request promotion (Rank Up) on /r, /sms, provided they are not insistent and do not spam the leader (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.7</span> You are not allowed to toggle chat power on the faction chat without the consent of a rank 6 or the leader (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for subsequent offenses).
