@@ -243,6 +243,7 @@ Exemple de abuzuri <span style="color:red;">sanctionabile cu warn din prima:</sp
 - folosirea unor buguri de textura cand ai wanted (sau nu) si te ascunzi de politie ori de un hitman.
 - buguri cu care iti dai unfreeze/untie.
 - buguri care-ti permit sa omori alti jucatori.
+- folosirea artificiilor pentru a omori alti jucatori.
 - buguirea vehiculelor la war prin texturi.
 
 <span style="color:var(--pink);">2.4.3</span> Alte abuzuri minore care nu se regasesc in lista de mai sus se vor sanctiona prin <span style="color:red;">kick la prima abatere, apoi warn.</span>
@@ -267,7 +268,7 @@ Exemple de abuzuri <span style="color:red;">sanctionabile cu warn din prima:</sp
 
 Exemple de limbaj sanctionabil:
 
-- sugi pula, fmm, mortii ma-tii, rasa ma-tii, muie, sa-ti moara familia etc.
+- sugi pula, fmm, mortii ma-tii, rasa ma-tii, muie, sa-ti moara familia, ma pis pe ma-ta, ma pis pe familia ta, ma pis in gura ta, sclava de ma-ta, ma-ta in vitrina etc.
 - diferitele inventii pentru a modifica injuraturile precum: pu_la, fememe, mu!e etc.
 - insultele cenzurate sau limbajul vulgar cenzurat folosite in mod exagerat.
 
@@ -321,11 +322,11 @@ Exemple de comportament non-rp:
 
 - aruncatul intentionat cu viata putina in fata vehiculelor trecatoare pentru a acorda wanted soferilor.
 - impingerea vehiculelor de joburi, factiuni sau personale in mod abuziv (de exemplu pentru a le respawna, pentru a le muta de langa proprietar/sofer etc.).
-- drive-by intentionat cu Monster Truck, Sandking sau vehicule fara coliziuni (cele de la joburi).
+- drive-by intentionat cu: vehicule mari (Monster Truck, Sandking, etc.), elicea elicopterelor sau vehicule fara coliziuni (cele de la joburi).
 - a sta AFK cu wanted in aer.
 - /sleep cand esti urmarit de un politist/hitman.
 - blocarea punctelor de acces folosind vehicule parcate.
-- diverse actiuni abuzive de deconectare sau respawnare pentru a scapa de sanctiunile pe care trebuie sa le primiti de la politisti.
+- diverse actiuni abuzive de deconectare sau respawnare pentru a scapa de sanctiunile pe care trebuie sa le primiti de la politisti (daca jucatorul a fost sanctionat automat de server cu wanted, nu va fi sanctionat de admini).
 - atacarea altor jucatori, ca membru de clan, in interiorul sau apropierea zonelor de clan fara sa fii implicat direct in cucerirea/apararea acelei zone; daca membrii altor clanuri au initiat deja o lupta pentru acea zona, este interzisa interventia altor persoane care nu fac parte din respectivele clanuri (<span style="color:red;">sanctiune: kick prima abatere, ajail la urmatoarele</span>).
 
 ## 6. Chaturi Globale
@@ -454,6 +455,8 @@ Exemple de comportament non-rp:
 <span style="color:var(--pink);">8.2.5</span> Este interzis sa faci reclama (servere, site-uri, pagini, canale, clipuri, etc.) (<span style="color:red;">sanctiune: suspend website 3 zile sau ban 14 zile/permanent</span>).
 
 <span style="color:var(--pink);">8.2.6</span> Ne rezervam dreptul de a oferi suspend pe website persoanelor care abuzeaza de sistemul de ticketing.
+
+<span style="color:var(--pink);">8.2.7</span> Reclamatiile deschise cu motiv de reclamare selectat incorect vor fi inchise fara a acorda vreo sanctiune, exceptie pentru incalcari grave de regulament.
 
 !!! example "Nota informativa"
     Regulile de mai sus se aplica inclusiv comentariilor sterse, reclamatiilor retrase, martorilor adaugati, dovezilor postate in reclamatii, continutul extern (linkuri catre alte site-uri) si asa mai departe.

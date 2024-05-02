@@ -97,7 +97,7 @@ Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](#10-regulament
 
 <span style="color:var(--pink);">4.3.2</span> Jucatorii cu o vechime minima de un an de zile in factiune, care au dat dovada de seriozitate si implicare, beneficiaza la cererea lor <span style="color:var(--green);">de a fi exclusi</span> de la cerinta de acumulare a orelor reale jucate dintr-o anumita luna.
 
-<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> si va va scuti doar de necesitatea orelor jucate, nu si efectuarea rapoartelor de activitate din respectiva luna. Acestea trebuie sa le faceti in continuare sau sa optati pentru o cerere de inactivitate pentru perioada permisa si sa folositi rapoarte optionale daca aveti pentru perioada ramasa.
+<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> si va va scuti doar de necesitatea orelor jucate, nu si de warurile din respectiva luna.
 
 ## 5. Reclamatii Website
 
@@ -176,7 +176,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 - membrii banati pentru coduri sau moduri grave interzise a caror durata e de 30 de zile, vor fi demisi intotdeauna cu FP 60/60.
 - membrii cu interdictie care reusesc cumva sa intre intr-o factiune vor fi demisi intotdeauna cu FP 60/60.
-- membrii care abuzeaza de functie (isi ofera singuri licentele inainte de-a fi demisi, dau multiple news-uri intentionat aiurea, etc.) vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60 cat si banati 14 zile</span> pentru acest lucru.
+- membrii care abuzeaza de functie (amenzi excesive si nejustificate, atacuri multiple complet aiurea, schimbarea statusului la multipli candidati fara justificare, furtul din seiful factiunii, etc.) vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60 cat si banati 14 zile</span> pentru acest lucru.
 
 !!! danger "Important"
     In cazul in care ati primit ban 3 sau mai multe zile veti putea ramane in factiune doar daca sunteti debanati printr-o cerere de unban, nu si daca va cumparati unban cu gold.
@@ -218,7 +218,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.1.2</span> Programul warurilor obligatorii in perioada de vara este de Luni pana Vineri intre un interval stabilit prin vot anual.
 
-<span style="color:var(--pink);">10.1.3</span> Programul warurilor optionale este Sambata de la ora 20:00 si Duminica de la ora 21:00.
+<span style="color:var(--pink);">10.1.3</span> Programul warurilor optionale este Sambata de la ora 20:00 si Duminica de la ora 20:00.
 
 <span style="color:var(--pink);">10.1.4</span> Atacurile se dau pe website-ul RPG in sectiunea [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs), de catre un rank 4+, intre incepand cu 5 minute dupa finalizarea programului de waruri si pana la cel mult o ora dupa finalizarea acestuia (ex: 22:05 - 22:59)
 
@@ -306,7 +306,7 @@ Cand gangul are <span style="color:var(--green);">1 war:</span>
 
 - orice membru are dreptul la 2 invoiri pe saptamana.
 - <span style="color:green;">primele 5 invoiri la waruri sunt acceptate</span>, <span style="color:red;">restul vor fi respinse</span>. La alte activitati se va anunta daca se impune o limita.
-- daca un membru face invoire si este prezent la activitate, invoirea va fi respinsa.
+- daca un membru face invoire si este prezent la activitate sau la toate warurile din acea zi, invoirea va fi respinsa.
 - la 2 sau mai multe invoiri in zile consecutive conducerea factiunii isi rezerva dreptul de a respinge invoirea.
 - invoirile facute in timpul warurilor vor fi respinse.
 

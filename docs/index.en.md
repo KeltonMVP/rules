@@ -242,6 +242,7 @@ Abuse examples <span style="color:red;">punishable with warn from the first offe
 - using certain texture bugs when you have wanted (or not) and hiding from the police or hitmen.
 - bugs that allow you to get unfreeze/untie.
 - bugs that allow you to kill other players.
+- using fireworks to kill other players.
 ​- bugging war vehicles in textures.
 
 <span style="color:var(--pink);">2.4.3</span> Other minor abuses not found in the list above will be punished with <span style="color:red;">kick at the first offence, then warn.</span>
@@ -266,7 +267,7 @@ Abuse examples <span style="color:red;">punishable with warn from the first offe
 
 Examples of punishable language:
 
-- suck my dick, fmm, cocksucker, fuck you etc.
+- suck my dick, fmm, cocksucker, fuck you, piss on your mother, piss on your family, piss in your mouth, your bitch mom etc.
 - different inventions to modify cursing like: di_ck, fememe, fuc y0u etc.
 - censored insults or censored vulgar language used in an exagerated manner.
 
@@ -320,11 +321,11 @@ Examples of non-rp behavior:
 
 - throwing yourself intentionally in front of passing vehicles to give the drivers wanted.
 - pushing job vehicles, faction vehicles or personal vehicles in an abusive way (for example to respawn them, move them from the owner/driver etc.).
-- intentional drive-by with Monster Truck, Sandking or vehicles with no collison (those from jobs).
+- intentional drive-by with: large vehicles (Monster Truck, Sandking, etc.), helicopter propeller or vehicles with no collison (those from jobs).
 - staying AFK with wanted in air.
 - /sleep when you are followed by a police officer/hitman.
 - blocking access points using parked vehicles.
-- diverse abusive actions of disconnecting or respawning in order to escape the punishments you need to receive from police officers.
+- diverse abusive actions of disconnecting or respawning in order to escape the punishments you need to receive from police officers (if the player got punished automatically with wanted, admins will not punish them).
 - attacking other players, as a clan member, inside or near clan zones without being directly involved in the conquest/defense of that area; if members of other clans have already initiated a battle for that area, it is prohibited for other individuals who are not part of those clans to intervene (<span style="color:red;">punishment: kick for the first offense, ajail for subsequent offenses</span>).
 
 ## 6. Global Chats
@@ -453,6 +454,8 @@ Examples of non-rp behavior:
 <span style="color:var(--pink);">8.2.5</span> It is forbidden to advertise (servers, websites, pages, channels, clips, etc.) (<span style="color:red;">punishment: website suspension for 3 days or ban for 14 days/permanently</span>).
 
 <span style="color:var(--pink);">8.2.6</span> We reserve our right to web suspend players that abuse the ticketing system.
+
+<span style="color:var(--pink);">8.2.7</span> Complaints opened with an incorrectly selected complaint reasons will be closed without imposing any sanctions, except for serious rule violations.
 
 !!! example "Info note"
     The rules above apply also to deleted comments, withdrawn complaints, added witnesses, proofs posted in complaints, external content (links to other sites) and so on.

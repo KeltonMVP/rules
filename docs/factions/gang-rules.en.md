@@ -97,7 +97,7 @@ For more details, visit the section on [War Rules](#10-war-rules).
 
 <span style="color:var(--pink);">4.3.2</span> Players with a minimum seniority of one year in the faction, who have shown seriousness and involvement, are eligible, upon their request, <span style="color:var(--green);">to be exempted</span> from the requirement to accumulate real hours played in a specific month.
 
-<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
+<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from war presence for that month.
 
 ## 5. Website Complaints
 
@@ -176,7 +176,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 - members banned for cheats or mods with a duration of 30 days will always be dismissed with FP 60/60.
 - members with bans who somehow manage to enter a faction will always be dismissed with FP 60/60.
-- members who abuse their position (granting licenses to themselves before being dismissed, intentionally providing multiple false news, etc.) will always be dismissed with <span style="color:red;">FP 60/60 and banned for 14 days</span> for this.
+- members who abuse their position (excessive and unjustified fines, completely random multiple attacks, changing the status of multiple candidates without justification, theft from the faction's safe, etc.) will always be dismissed with <span style="color:red;">FP 60/60 and banned for 14 days</span> for this.
 
 !!! danger "Important"
     If you have received a ban of 3 days or more, you will only be able to remain in the faction if you are unbanned through an unban request, not if you purchase an unban with gold.
@@ -218,7 +218,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.1.2</span> The schedule for mandatory wars during the summer period is from Monday to Friday within a time frame determined annually by vote.
 
-<span style="color:var(--pink);">10.1.3</span> The schedule for optional wars is on Saturday at 20:00 and Sunday at 21:00.
+<span style="color:var(--pink);">10.1.3</span> The schedule for optional wars is on Saturday at 20:00 and Sunday at 20:00.
 
 <span style="color:var(--pink);">10.1.4</span> Attacks are initiated on the RPG website in the [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs) section by a rank 4+ member, starting from 5 minutes after the war schedule ends and lasting up to one hour after its completion (ex: 22:05 - 22:59)
 
@@ -306,7 +306,7 @@ When the gang has <span style="color:var(--green);">1 war:</span>
 
 - every member is entitled to 2 accepted requests per week.
 - <span style="color:green;">the first 5 absence requests for wars are accepted</span>, <span style="color:red;">the rest will be rejected</span>. For other activities, a limit will be announced if necessary.
-- if a member requests absence and is present at the activity, the request will be rejected.
+- if a member requests absence and is present at the activity or all wars during that day, the request will be rejected.
 - for 2 or more requests on consecutive days, faction leadership reserves the right to reject the request.
 - requests made during wars will be rejected.
 
