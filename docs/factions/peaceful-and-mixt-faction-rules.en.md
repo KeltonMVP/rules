@@ -64,7 +64,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.4</span> members who do not listen to those of higher rank can be sanctioned (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
 
-<span style="color:var(--pink);">3.5</span> abusive use of the command [/fvr] (respawning vehicles just to disrupt a colleague, spamming it, etc.) will be punished with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple offenses.
+<span style="color:var(--pink);">3.5</span> abusive use of the command [<span style="color:var(--pink);">/fvr</span>] (respawning vehicles just to disrupt a colleague, spamming it, etc.) will be punished with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple offenses.
 
 ## 4. Activity
 

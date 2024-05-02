@@ -62,7 +62,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.4</span> Members who do not listen to those of higher rank can be sanctioned (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
 
-<span style="color:var(--pink);">3.5</span> The abusive use of the [/fvr] command (respawning vehicles just to hinder a colleague, spamming with it, etc.) will be sanctioned with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple infractions.
+<span style="color:var(--pink);">3.5</span> The abusive use of the [<span style="color:var(--pink);">/fvr</span>] command (respawning vehicles just to hinder a colleague, spamming with it, etc.) will be sanctioned with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple infractions.
 
 ## 4. Activity
 
@@ -292,7 +292,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.3.2</span> It is not allowed to confiscate weapons from players without wanted levels who attack police officers, they are to be sanctioned with Wanted 3 for assaulting an officer (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3.3</span> Do not sanction for possession or use of drugs without evidence obtained through [/frisk] or the message of drug use near you (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it continues).
+<span style="color:var(--pink);">10.3.3</span> Do not sanction for possession or use of drugs without evidence obtained through [<span style="color:var(--pink);">/frisk</span>] or the message of drug use near you (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it continues).
 
 ### Confiscating the <span style="color:orange;">Driving License</span>
 
@@ -349,7 +349,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">11.2</span> Unlike those in PDs, FBI and National Guard members will use this command less frequently (<span style="color:var(--pink);">see internal regulations</span>).
 
-<span style="color:var(--pink);">11.3</span> It is prohibited to use [/frisk] or [/su] on any player while they are in a poker game. When the player is not playing at the poker table, you can use [/frisk] or [/su]. If a player runs after [/frisk] to the poker table during a game, you can report them on the RPG for NON-RP behavior (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">11.3</span> It is prohibited to use [<span style="color:var(--pink);">/frisk</span>] or [<span style="color:var(--pink);">/su</span>] on any player while they are in a poker game. When the player is not playing at the poker table, you can use [<span style="color:var(--pink);">/frisk</span>] or [<span style="color:var(--pink);">/su</span>]. If a player runs after [<span style="color:var(--pink);">/frisk</span>] to the poker table during a game, you can report them on the RPG for NON-RP behavior (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">11.4</span> Using the command inside arenas (paintball, gungame, etc.) is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -365,7 +365,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">12.4</span> It is used to identify a Hitman agent when they have visible weapons, do not leave the Government Territory, or endanger a player's life (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">12.5</span> If you are pursuing a player on foot and they do not cooperate when you command them to stop, you have every right to use the equipped stun gun [/tazer].
+<span style="color:var(--pink);">12.5</span> If you are pursuing a player on foot and they do not cooperate when you command them to stop, you have every right to use the equipped stun gun [<span style="color:var(--pink);">/tazer</span>].
 
 ## 13. Giving Wanted
 
@@ -397,15 +397,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">13.1.13</span> To give wanted 3 for "attacking a police officer," the player must attack you with fists/feet at least 4 times or once with a weapon. Make sure you have VIDEO or MULTIPLE PHOTOS, otherwise, you risk being sanctioned for insufficient evidence (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.14</span> If you are attacked or killed and do not have duty, you can go on duty and offer Wanted 3 for attacking a police officer to the player within a maximum of 5 minutes from the offense, provided you use [/mdc] beforehand and make sure the player does not already have wanted status. If the player already has wanted status (regardless of the reason) when they attack you, they can be killed by the police officer on the spot in self-defense. Regarding members of the traffic team, they are NOT allowed to pursue suspects but only to kill them in self-defense when attacked (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">13.1.14</span> If you are attacked or killed and do not have duty, you can go on duty and offer Wanted 3 for attacking a police officer to the player within a maximum of 5 minutes from the offense, provided you use [<span style="color:var(--pink);">/mdc</span>] beforehand and make sure the player does not already have wanted status. If the player already has wanted status (regardless of the reason) when they attack you, they can be killed by the police officer on the spot in self-defense. Regarding members of the traffic team, they are NOT allowed to pursue suspects but only to kill them in self-defense when attacked (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.15</span> Players who use [/pickpocket] on you and fail to steal money from you will not be sanctioned with wanted status. You can only give them the specific wanted status if they successfully take your money (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">13.1.15</span> Players who use [<span style="color:var(--pink);">/pickpocket</span>] on you and fail to steal money from you will not be sanctioned with wanted status. You can only give them the specific wanted status if they successfully take your money (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.16</span> Before giving wanted status for unfounded calls, you are required to announce this on [/d], in the form: unfounded ID/name (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">13.1.16</span> Before giving wanted status for unfounded calls, you are required to announce this on [<span style="color:var(--pink);">/d</span>], in the form: unfounded ID/name (<span style="color:red;">sanction: Verbal Warning</span>).
 
 ### Accomplice Wanted
 
-<span style="color:var(--pink);">13.2.1</span> If a player with wanted status (with the right to surrender) is a passenger in a vehicle, they will be summoned, and if the driver does not [/eject], then the driver will be sanctioned with wanted 6 "accomplice" without further warnings. ATTENTION! The passenger with wanted status does NOT lose their right to surrender (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">13.2.1</span> If a player with wanted status (with the right to surrender) is a passenger in a vehicle, they will be summoned, and if the driver does not [<span style="color:var(--pink);">/eject</span>], then the driver will be sanctioned with wanted 6 "accomplice" without further warnings. ATTENTION! The passenger with wanted status does NOT lose their right to surrender (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">13.2.2</span> If an escaped player from prison is a passenger in a car, the driver will receive wanted 6 accomplice without warnings.
 
@@ -429,7 +429,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">14.2.1</span> Before killing a player with wanted status who has the right to surrender, they must be prompted to surrender at least <span style="color:var(--pink);">3 times</span> (within a maximum interval of 5 minutes from the first prompt), and if the player remains stationary, a minimum of 30 seconds must be waited before killing them (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">14.2.2</span> If a suspect (with the right to surrender) is AFK with wanted status (on ESC), prompt them, notify on [/d] that they are AFK stating the exact time, including seconds, and <span style="color:var(--pink);">after 3 minutes (180 seconds)</span>, they can be killed.
+<span style="color:var(--pink);">14.2.2</span> If a suspect (with the right to surrender) is AFK with wanted status (on ESC), prompt them, notify on [<span style="color:var(--pink);">/d</span>] that they are AFK stating the exact time, including seconds, and <span style="color:var(--pink);">after 3 minutes (180 seconds)</span>, they can be killed.
 
 <span style="color:var(--pink);">14.2.3</span> If the suspect remains motionless when asked to surrender, the officer must wait for 30 seconds, after which they are entitled to kill them.
 
@@ -491,7 +491,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">17.2.1</span> All proofs from the server must include server markings with the date, time, player's name, and server name (<span style="color:var(--pink);">invalid proofs</span>).
 
-<span style="color:var(--pink);">17.2.2</span> In the case of a faction member being reported, the [/timestamp] command must always be activated (<span style="color:red;">warning: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it persists).
+<span style="color:var(--pink);">17.2.2</span> In the case of a faction member being reported, the [<span style="color:var(--pink);">/timestamp</span>] command must always be activated (<span style="color:red;">warning: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it persists).
 
 <span style="color:var(--pink);">17.2.3</span> A proof is valid for a maximum of 3 days (<span style="color:var(--pink);">invalid proofs</span>). You have 24 hours to provide evidence in your defense, except when you have an inactivity request. In this case, you have 24 hours after the expiration of inactivity to present the evidence.
 
@@ -605,7 +605,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">21.4.2</span> Under no circumstances are you allowed to clear a Wanted 5 for killing a police officer (<span style="color:red;">sanction: Faction Warning</span>).
 
-<span style="color:var(--pink);">21.4.3</span> It is prohibited to use [/clear] on someone without announcing a well-founded reason on [/d] (<span style="color:red;">sanction: Faction Warning</span>).
+<span style="color:var(--pink);">21.4.3</span> It is prohibited to use [<span style="color:var(--pink);">/clear</span>] on someone without announcing a well-founded reason on [<span style="color:var(--pink);">/d</span>] (<span style="color:red;">sanction: Faction Warning</span>).
 
 ### Skins
 
@@ -629,7 +629,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ### Gang HQs
 
-<span style="color:var(--pink);">21.7.1</span> You are not allowed to stay at gang HQs (including the courtyard of HQs) without a specific purpose (DM in HQ, suspect in HQ) and confiscate items or use [/frisk] on players (<span style="color:red;">sanction: Faction Warning</span>).
+<span style="color:var(--pink);">21.7.1</span> You are not allowed to stay at gang HQs (including the courtyard of HQs) without a specific purpose (DM in HQ, suspect in HQ) and confiscate items or use [<span style="color:var(--pink);">/frisk</span>] on players (<span style="color:red;">sanction: Faction Warning</span>).
 
 <span style="color:var(--pink);">21.7.2</span> It is prohibited to confiscate weapons from a player who is in an HQ or in the courtyard of an HQ, unless they are attacking you or using them to attack other players (<span style="color:red;">sanction: Faction Warning</span>).
 

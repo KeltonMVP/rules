@@ -58,7 +58,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.3</span> When you find a department vehicle: Infernus, Turismo, Bullet, NRG-500, Maverick, announce that you're taking it, for example: "[<span style="color:var(--pink);">/d</span>] Found a Bullet in the Fort Carson area, taking it." (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.4</span> Bullets and NRGs can be used by members with Rank 3+. They are required to announce it on /r.
+<span style="color:var(--pink);">3.4</span> Bullets and NRGs can be used by members with Rank 3+. They are required to announce it on [<span style="color:var(--pink);">/r</span>].
 
 <span style="color:var(--pink);">3.5</span> The water tank can be used by Rank 4 members.
 
@@ -66,7 +66,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 4. Suspects
 
-<span style="color:var(--pink);">4.1</span> FBI members have priority in capturing and arresting suspects with <span style="color:var(--pink);">wanted levels 3 and 4, as well as those without surrender rights</span> (exceptions to this rule are members of rank 4 and above who can go after any wanted). If there are no players with wanted levels 3 and 4 in the /wanted list, FBI members may engage in capturing/arresting players with wanted levels 1 and 2, and then 5 and 6. If a suspect with wanted level 1/2 or 5/6 surrenders (gets into a vehicle without being commanded), you should [/cuff] them, transport them to the nearest department HQ, and ask a PD or NG member if they will arrest them or if you should (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.1</span> FBI members have priority in capturing and arresting suspects with <span style="color:var(--pink);">wanted levels 3 and 4, as well as those without surrender rights</span> (exceptions to this rule are members of rank 4 and above who can go after any wanted). If there are no players with wanted levels 3 and 4 in the [<span style="color:var(--pink);">/wanted</span>] list, FBI members may engage in capturing/arresting players with wanted levels 1 and 2, and then 5 and 6. If a suspect with wanted level 1/2 or 5/6 surrenders (gets into a vehicle without being commanded), you should [<span style="color:var(--pink);">/cuff</span>] them, transport them to the nearest department HQ, and ask a PD or NG member if they will arrest them or if you should (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! danger "Important"
     If there are no priority suspects for your department, take a screenshot with [<span style="color:var(--pink);">/wanted</span>] and proceed to capture a player who is not a priority at the wanted level. You have 5 minutes to capture any player while adhering to the basic rule. If the 5 minutes have passed, but you still managed to issue one or two warnings to the suspect, you can continue the pursuit. If not, check [<span style="color:var(--pink);">/wanted</span>] again and based on the available suspects, continue your activity.
@@ -109,8 +109,6 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.19</span> Department members are not allowed to drive abusively and intentionally disturb other traffic participants (examples: intentionally crashing into other drivers multiple times, blocking the road, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.20</span> If the suspect without the right to surrender jumps on tall buildings using a bicycle (using the high jump bug), making it difficult to catch and kill them, you have the right to open fire with Hunter or Hydra to kill them. If the suspect comes down from the building, you are not allowed to open fire anymore, but you continue the ground pursuit. Make sure you always have clear evidence before opening fire! Failure to comply with this rule will result in a <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues.
-
 ## 5. Faction
 
 <span style="color:var(--pink);">5.1</span> Phones will be turned off during an FBI activity without being warned by an organizer (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
@@ -123,7 +121,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.5</span> Every FBI member is obligated to have a shortcut to their forum profile on the website. You have 48 hours from joining the faction to do this. Failure to have this shortcut to the forum profile after the 48 hours will result in a <span style="color:red;">Verbal Warning</span>, and if not remedied within 24 hours, a <span style="color:red;">Faction Warn</span> will be issued.
 
-<span style="color:var(--pink);">5.6</span> You are not allowed to practice (use [/work] or other related job start commands, including farming) any other job besides Detective or Mechanic (strictly for vehicle maintenance during pursuits) while on duty (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">5.6</span> You are not allowed to practice (use [<span style="color:var(--pink);">/work</span>] or other related job start commands, including farming) any other job besides Detective or Mechanic (strictly for vehicle maintenance during pursuits) while on duty (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
 <span style="color:var(--pink);">5.7</span> Candidates who pass the entrance tests are not allowed to go [<span style="color:var(--pink);">/duty</span>] on or use the [<span style="color:var(--pink);">/d</span>] chat (<span style="color:red;">sanction: failing the tests</span>).
 
@@ -133,14 +131,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 6. Activities
 
-<span style="color:var(--pink);">6.1</span> Mandatory activities can be organized by the Leader with a well-founded reason and with the approval of a Senior Admin. Considering they will be quite rare, all members must attend and are not entitled to leave, except for players who have submitted an inactivity request for that particular week. A mandatory activity is valid as long as it is announced at least one week in advance (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">6.1</span> Meetings will be held when the Leader deems it necessary. Attendance at meetings is always mandatory.
 
-- for level 1-3 admins, if the mandatory activity takes place during wars, they will be automatically excused, provided they fulfill their admin duties regarding catching wanted players.
-- for subleaders, the leader will decide whether to sanction their absence from mandatory activities when they do not have an inactivity request for that particular week.
-
-<span style="color:var(--pink);">6.2</span> Meetings will be held when the Leader deems it necessary. Attendance at meetings is always mandatory.
-
-<span style="color:var(--pink);">6.3</span> An optional activity will last a minimum of 20 minutes and a maximum of 50 minutes (the activity itself does not count + <span style="color:red;">Verbal Warning from the trainer</span>).
+<span style="color:var(--pink);">6.2</span> An optional activity will last a minimum of 20 minutes and a maximum of 50 minutes (the activity itself does not count + <span style="color:red;">Verbal Warning from the trainer</span>).
 
 ## 7. Faction Chat
 

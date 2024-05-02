@@ -54,19 +54,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - 3 Barracks - Rank 4.
 - 4 Hydra - Rank 4.
 
-<span style="color:var(--pink);">3.1</span> You are allowed to open fire with Hydra, Hunter, and Rustler only if the suspect flees with an Aircraft / Helicopter (Air vs Air) (<span style="color:red;">sanction: Rank Down</span>).
+<span style="color:var(--pink);">3.1</span> Only Rank 3+ members can pursue / arrest surrendering suspects using their personal vehicles as drivers, except for non-surrendering suspects, for whom any Rank 2+ can use personal vehicles (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.2</span> If a non-surrendering suspect jumps on tall buildings using a bicycle (exploiting the high jump bug), making it difficult to catch and kill them, you have the right to open fire with Hunter or Hydra to kill them. If the suspect comes down from the building, you are no longer allowed to open fire, but you continue the ground pursuit. Always ensure you have clear evidence before opening fire! Failure to comply with this rule will result in a <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for the second offense, and <span style="color:red;">Dismissal</span> if it persists.
+<span style="color:var(--pink);">3.2</span> You are required to turn on the siren when you go on a pursuit mission (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">3.3</span> Only Rank 3+ members can pursue / arrest surrendering suspects using their personal vehicles as drivers, except for non-surrendering suspects, for whom any Rank 2+ can use personal vehicles (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.3</span> You are allowed to violate traffic rules when driving a police car with the siren on (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.4</span> You are required to turn on the siren when you go on a pursuit mission (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">3.4</span> FBI / National Guard members will be able to pursue suspects in civilian vehicles. If they are pursuing surrendering suspects, they must respect traffic rules, but if the pursued suspects do not surrender, they can violate those rules (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.5</span> You are allowed to violate traffic rules when driving a police car with the siren on (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.6</span> FBI / National Guard members will be able to pursue suspects in civilian vehicles. If they are pursuing surrendering suspects, they must respect traffic rules, but if the pursued suspects do not surrender, they can violate those rules (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.7</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they should be fined directly in-game by a PD member or if reported on the website, fined by the Leader. If they fail to pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
+<span style="color:var(--pink);">3.5</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they should be fined directly in-game by a PD member or if reported on the website, fined by the Leader. If they fail to pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
 
 ## 4.1. The Jail
 

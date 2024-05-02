@@ -64,7 +64,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.4</span> Membrii care nu asculta de cei de rank superior pot fi sanctionati (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
 
-<span style="color:var(--pink);">3.5</span> Folosirea comenzii [/fvr] intr-un mod abuziv (respawnarea masinilor doar pentru a incurca un coleg, spamul cu ea etc.) o sa fie sanctionata cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple.
+<span style="color:var(--pink);">3.5</span> Folosirea comenzii [<span style="color:var(--pink);">/fvr</span>] intr-un mod abuziv (respawnarea masinilor doar pentru a incurca un coleg, spamul cu ea etc.) o sa fie sanctionata cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple.
 
 ## 4. Activitate
 

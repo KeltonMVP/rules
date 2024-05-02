@@ -54,19 +54,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - 3 Barracks - Rank 4.
 - 4 Hydra - Rank 4.
 
-<span style="color:var(--pink);">3.1</span> Aveti voie sa deschideti focul cu Hydra, Hunter si Rustler, doar in cazul in care suspectul fuge cu Avion / Elicopter (Air vs Air) (<span style="color:red;">sanctiune: Rank Down</span>).
+<span style="color:var(--pink);">3.1</span> Doar membrii de Rank 3+ pot urmari / aresta suspecti cu drept de predare si cu masinile personale ca sofer, exceptie in cazul suspectilor cu nodrept, in cazul lor orice rank 2+ pot folosi masini personale (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.2</span> In cazul in care suspectul fara drept de predare sare pe cladiri inalte folosind o bicicleta (folosindu-se de bugul high jump), fiind greu de prins si omorat, aveti dreptul de a deschide focul cu Hunter sau Hydra pentru a-i omori. Daca suspectul coboara de pe cladire, nu mai aveti voie sa deschideti focul, ci continuati urmarirea terestra. Asigurati-va ca aveti intotdeauna dovezi clare inainte de a deschide focul! Nerespectarea acestei reguli se va sanctiona cu <span style="color:red;">Faction Warn</span> la prima abatere, <span style="color:red;">Rank Down</span> la a doua abatere si <span style="color:red;">Demitere</span> daca va continua.
+<span style="color:var(--pink);">3.2</span> Sunteti obligati sa porniti girofarul atunci cand plecati intr-o misiune de urmarire (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
-<span style="color:var(--pink);">3.3</span> Doar membrii de Rank 3+ pot urmari / aresta suspecti cu drept de predare si cu masinile personale ca sofer, exceptie in cazul suspectilor cu nodrept, in cazul lor orice rank 2+ pot folosi masini personale (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">3.3</span> Aveti voie sa incalcati regulile de circulatie cand conduceti o masina de politie cu girofarul pornit (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.4</span> Sunteti obligati sa porniti girofarul atunci cand plecati intr-o misiune de urmarire (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">3.4</span> Membrii FBI / National Guard vor putea urmari suspectii si in masini de civil. In cazul in care merg dupa suspecti ce au drept de predare, trebuie sa respecte regulile de circulatie, iar in cazul in care suspecti urmariti nu au drept de predare, pot incalca acele reguli (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.5</span> Aveti voie sa incalcati regulile de circulatie cand conduceti o masina de politie cu girofarul pornit (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.6</span> Membrii FBI / National Guard vor putea urmari suspectii si in masini de civil. In cazul in care merg dupa suspecti ce au drept de predare, trebuie sa respecte regulile de circulatie, iar in cazul in care suspecti urmariti nu au drept de predare, pot incalca acele reguli (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">3.7</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">3.5</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span>
 
 ## 4. Jailul
 

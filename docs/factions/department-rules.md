@@ -62,7 +62,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.4</span> Membrii care nu asculta de cei de rank superior pot fi sanctionati (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
 
-<span style="color:var(--pink);">3.5</span> Folosirea comenzii [/fvr] intr-un mod abuziv (respawnarea masinilor doar pentru a incurca un coleg, spamul cu ea etc.) o sa fie sanctionata cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple.
+<span style="color:var(--pink);">3.5</span> Folosirea comenzii [<span style="color:var(--pink);">/fvr</span>] intr-un mod abuziv (respawnarea masinilor doar pentru a incurca un coleg, spamul cu ea etc.) o sa fie sanctionata cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple.
 
 ## 4. Activitate
 
@@ -292,7 +292,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.3.2</span> Nu este permis sa confiscati armele jucatorilor fara wanted care ataca politistii, acestia fiind sanctionati cu wanted 3 pentru atacare politist (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3.3</span> Nu sanctionati pentru posesie sau folosire droguri fara a avea dovada cu [/frisk] sau mesajul folosirii drogurilor langa voi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
+<span style="color:var(--pink);">10.3.3</span> Nu sanctionati pentru posesie sau folosire droguri fara a avea dovada cu [<span style="color:var(--pink);">/frisk</span>] sau mesajul folosirii drogurilor langa voi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
 
 ### Confiscarea <span style="color:orange;">Licentei Auto</span>
 
@@ -349,7 +349,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">11.2</span> Spre deosebire de cei din PD-uri, membrii FBI si National Guard vor folosi aceasta comanda mai putin (<span style="color:var(--pink);">vedeti regulamentele interne</span>).
 
-<span style="color:var(--pink);">11.3</span> Este interzis sa acordati [/frisk] respectiv [/su] oricarui jucator atunci cand acesta este intr-un meci de poker. Cand jucatorul nu joaca la masa de poker, puteti sa-i acordati [/frisk] respectiv [/su]. In cazul in care un jucator fuge dupa [/frisk] la masa de poker in meci, il puteti reclama pe RPG pentru comportament NON-RP (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">11.3</span> Este interzis sa acordati [<span style="color:var(--pink);">/frisk</span>] respectiv [<span style="color:var(--pink);">/su</span>] oricarui jucator atunci cand acesta este intr-un meci de poker. Cand jucatorul nu joaca la masa de poker, puteti sa-i acordati [<span style="color:var(--pink);">/frisk</span>] respectiv [<span style="color:var(--pink);">/su</span>]. In cazul in care un jucator fuge dupa [<span style="color:var(--pink);">/frisk</span>] la masa de poker in meci, il puteti reclama pe RPG pentru comportament NON-RP (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">11.4</span> Nu este permisa folosirea comenzii in interiorul arenelor (paintball, gungame, etc) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -365,7 +365,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">12.4</span> Se foloseste pentru identificarea unui agent Hitman atunci cand acesta are arme la vedere, nu paraseste Teritoriul Guvernamental sau cand pune in pericol viata unui jucator (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">12.5</span> In cazul in care urmariti un jucator pe jos iar acesta nu coopereaza cand il somati sa stea pe loc, aveti tot dreptul de a utiliza electrosocul din dotare [/tazer].
+<span style="color:var(--pink);">12.5</span> In cazul in care urmariti un jucator pe jos iar acesta nu coopereaza cand il somati sa stea pe loc, aveti tot dreptul de a utiliza electrosocul din dotare [<span style="color:var(--pink);">/tazer</span>].
 
 ## 13. Acordarea Wantedului
 
@@ -397,15 +397,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">13.1.13</span> Pentru a acorda wanted 3 „atacare politist”, jucatorul trebuie sa va atace cu pumnii/picioarele de minim 4 ori sau o data cu o arma. Asigurati-va ca aveti VIDEO sau POZE MULTIPLE, altfel riscati sa fiti sanctionati pentru dovezi insuficiente (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.14</span> Daca sunteti atacati sau omorati si nu aveti duty, puteti sa va luati duty si sa oferiti Wanted 3 pentru atacare politist jucatorului in maxim 5 minute de la savarsirea faptei, cu conditia sa folositi [/mdc] inainte si sa va asigurati ca jucatorul nu detine deja wanted. In cazul in care jucatorul detine deja wanted (indiferent de motiv) atunci cand va ataca, acesta poate fi omorat de catre politist pe loc in scop de auto-aparare. In cazul membrilor ce fac parte din echipa rutiera, acestia NU au voie sa plece in urmarirea suspectilor, ci doar sa-i omoare in legitima aparare, in momentul in care sunt atacati (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">13.1.14</span> Daca sunteti atacati sau omorati si nu aveti duty, puteti sa va luati duty si sa oferiti Wanted 3 pentru atacare politist jucatorului in maxim 5 minute de la savarsirea faptei, cu conditia sa folositi [<span style="color:var(--pink);">/mdc</span>] inainte si sa va asigurati ca jucatorul nu detine deja wanted. In cazul in care jucatorul detine deja wanted (indiferent de motiv) atunci cand va ataca, acesta poate fi omorat de catre politist pe loc in scop de auto-aparare. In cazul membrilor ce fac parte din echipa rutiera, acestia NU au voie sa plece in urmarirea suspectilor, ci doar sa-i omoare in legitima aparare, in momentul in care sunt atacati (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.15</span> Jucatorii care folosesc [/pickpocket] pe voi si nu reusesc sa fure bani de la voi nu vor fi sanctionati cu wanted. Puteti sa le acordati wanted-ul specific doar daca au reusit sa va ia banii (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">13.1.15</span> Jucatorii care folosesc [<span style="color:var(--pink);">/pickpocket</span>] pe voi si nu reusesc sa fure bani de la voi nu vor fi sanctionati cu wanted. Puteti sa le acordati wanted-ul specific doar daca au reusit sa va ia banii (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.16</span> Inaintea acordarii de wanted pentru apel nefondat, sunteti obligati sa anuntati pe [/d] acest lucru, sub forma: nefondat ID/nume (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">13.1.16</span> Inaintea acordarii de wanted pentru apel nefondat, sunteti obligati sa anuntati pe [<span style="color:var(--pink);">/d</span>] acest lucru, sub forma: nefondat ID/nume (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 ### Acordarea de Complice
 
-<span style="color:var(--pink);">13.2.1</span> Daca un jucator cu wanted (cu drept de predare) este pasager intr-un vehicul, va fi somat corespunzator, iar daca soferul nu ii da [/eject], atunci soferul va fi sanctionat cu wanted 6 „complice” fara alte somatii. ATENTIE! Pasagerul cu wanted NU isi pierde dreptul de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">13.2.1</span> Daca un jucator cu wanted (cu drept de predare) este pasager intr-un vehicul, va fi somat corespunzator, iar daca soferul nu ii da [<span style="color:var(--pink);">/eject</span>], atunci soferul va fi sanctionat cu wanted 6 „complice” fara alte somatii. ATENTIE! Pasagerul cu wanted NU isi pierde dreptul de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">13.2.2</span> In cazul in care un jucator evadat din inchisoare este pasager intr-o masina, soferul va primi Wanted 6 complice fara somatii.
 
@@ -429,7 +429,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">14.2.1</span> Inainte de a omori un jucator cu wanted care are drept de predare acesta trebuie sa fie somat de <span style="color:var(--pink);">minim 3 ori</span> sa se predea (intr-un interval de maxim 5 minute de la prima somatie), iar in cazul in care jucatorul sta pe loc se asteapta minim 30 de secunde inainte de a-l omori (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">14.2.2</span> Daca un suspect (cu drept de predare) este AFK on wanted (pe ESC), il somati, anuntati pe [/d] ca este AFK precizand ora exacta, incluzand secundele, iar <span style="color:var(--pink);">dupa 3 minute (180 secunde)</span> il puteti omori.
+<span style="color:var(--pink);">14.2.2</span> Daca un suspect (cu drept de predare) este AFK on wanted (pe ESC), il somati, anuntati pe [<span style="color:var(--pink);">/d</span>] ca este AFK precizand ora exacta, incluzand secundele, iar <span style="color:var(--pink);">dupa 3 minute (180 secunde)</span> il puteti omori.
 
 <span style="color:var(--pink);">14.2.3</span> Daca suspectul sta nemiscat atunci cand este intrebat daca se preda, politistul trebuie sa astepte 30 de secunde, dupa care are dreptul sa-l omoare.
 
@@ -491,7 +491,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">17.2.1</span> Toate dovezile de pe server trebuie sa includa marcajele serverului cu data, ora, numele jucatorului si al serverului (<span style="color:var(--pink);">dovezi invalide</span>).
 
-<span style="color:var(--pink);">17.2.2</span> În cazul membrului facțiunii reclamat comanda [/timestamp] trebuie să fie mereu activată (<span style="color:red;">sancțiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> dacă continuă).
+<span style="color:var(--pink);">17.2.2</span> În cazul membrului facțiunii reclamat comanda [<span style="color:var(--pink);">/timestamp</span>] trebuie să fie mereu activată (<span style="color:red;">sancțiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> dacă continuă).
 
 <span style="color:var(--pink);">17.2.3</span> O dovada este valabila cel mult 3 zile (<span style="color:var(--pink);">dovezi invalide</span>). Aveti la dispozitie 24 de ore sa aduceti dovezi in apararea voastra, exceptie atunci cand aveti cerere de inactivitate. In acest caz aveti la dispozitie 24 de ore dupa expirarea inactivitatii sa prezentati dovezile.
 
@@ -605,7 +605,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.4.2</span> Nu aveti voie sub nicio forma sa dati clear la Wanted 5 pentru omorare politist (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">21.4.3</span> Este interzis sa dati [/clear] cuiva fara sa anuntati pe [/d] un motiv bine intemeiat (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">21.4.3</span> Este interzis sa dati [<span style="color:var(--pink);">/clear</span>] cuiva fara sa anuntati pe [<span style="color:var(--pink);">/d</span>] un motiv bine intemeiat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ### Skinuri
 
@@ -629,7 +629,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 ### HQ-urile Gangurilor
 
-<span style="color:var(--pink);">21.7.1</span> Nu aveti voie sa stati la HQ-urile mafiilor (inclusiv curtea HQ-urilor) fara un scop anume (DM in HQ, suspect in HQ) si sa confiscati obiecte sau sa dati [/frisk] jucatorilor (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">21.7.1</span> Nu aveti voie sa stati la HQ-urile mafiilor (inclusiv curtea HQ-urilor) fara un scop anume (DM in HQ, suspect in HQ) si sa confiscati obiecte sau sa dati [<span style="color:var(--pink);">/frisk</span>] jucatorilor (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">21.7.2</span> Este interzis sa confiscati armele unui jucator care se afla in HQ sau in curtea HQ-ului, daca acesta nu va ataca sau le foloseste pentru a ataca alti jucatori (<span style="color:red;">sanctiune: Faction Warn</span>).
 
