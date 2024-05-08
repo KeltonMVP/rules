@@ -4,8 +4,6 @@
 
 <span style="color:var(--pink);">1.1</span> The owner of an account is always considered to be the possessor of the email address registered on the account. For security reasons make sure you do not lose access to the account's email address, otherwise it is lost.
 
-<span style="color:var(--pink);">1.1.1</span> The staff offers limited help via [the recovery system](https://www.rpg.b-zone.ro/account/recoverAccount) on the RPG website and does not guarantee the recovery of a lost account. We reserve our right to reject recoveries  without offering any reason.
-
 !!! example "Info note"
     All punishments will be given depending on the real level of the player (meaning we will calculate the respect points of the player to determinate their real level).
 
@@ -31,7 +29,7 @@
 
 <span style="color:var(--pink);">1.3.2</span> Sharing an account with other people may lead to such probems and you risk remaining without an account, goods or get punished because of this.
 
-<span style="color:var(--pink);">1.3.3</span> Recovering a lost account can only be done by [a recovery request](https://www.rpg.b-zone.ro/account/recoverAccount) on the website, by clicking the Sign In button and then on Lost your account. Read the rules that show up carefully when trying to recover an account.
+<span style="color:var(--pink);">1.3.3</span> The recovery of a lost account can only be done through a [recovery request](https://www.rpg.b-zone.ro/account/recoverAccount) on the website, by clicking on the Sign In button and then on Lost your account. Staff offers limited assistance only through recovery requests that can be made on the RPG website and does not guarantee the recovery of a lost account. We reserve the right to reject any request without providing a reason.
 
 !!! example "Info note"
 
@@ -139,7 +137,7 @@
     - have the same email address and the account has been recently active in-game (past month).
     - at the moment of the punishment share the same IP.
 
-    In certain situations the staff can ban secondary accounts that do not apply in this rule with the approval of a level 6 admin.
+    In certain situations the staff can ban secondary accounts that do not apply in this rule with the approval of a level 6 admin (usually in case of accounts with multiple sanctions).
 
 <span style="color:var(--pink);">1.5.3</span> It is strictly forbidden for members of the RPG team (leaders, helpers, admins) to share their accounts with other people without informing and discussing with the Supervisor or Manager beforehand. The consequence for breaking this rule is removing you from your position or even banning your account if needed.
 
@@ -164,7 +162,8 @@
 <span style="color:var(--pink);">1.7.2</span> Players with houses bought from the shop need at least 10 REAL hours in the last 2 months not to lose them.
 
 <span style="color:var(--pink);">1.7.3</span> If you cannot play we suggest selling your properties so you don't lose them. You cannot recover properties lost due to inactivity.
-Attempts of trying to hide properties from inactive accounts will not stop you from losing them.
+
+<span style="color:var(--pink);">1.7.4</span> Attempts of trying to hide properties from inactive accounts will not stop you from losing them.
 
 !!! example "Info note"
     The last 2 months of gameplay are always considered the last 2 months before the current month.
@@ -269,12 +268,12 @@ Examples of punishable language:
 
 - suck my dick, fmm, cocksucker, fuck you, piss on your mother, piss on your family, piss in your mouth, your bitch mom etc.
 - different inventions to modify cursing like: di_ck, fememe, fuc y0u etc.
-- censored insults or censored vulgar language used in an exagerated manner.
+- censored insults, censored vulgar language used in an exagerated manner or where the context can be well understood.
 
 Examples of unpunishable language (<span style="color:red;">exception towards admins</span>):
 
 - asshole, loser, jackass, idiot, or other forms of light offences.
-- language that is sufficiently well censored: suck \*\*\*\*, eat \*\*\*\*, *** etc. (censored language will also be punished if the censorship is insufficient and the context can be well understood)
+- single words that are sufficiently well censored and where the context is not very clear, such as: suck \*\*\*\*, eat \*\*\*\*, *** etc.
 - obscene signs (\_|\_, \_\(\)\_ etc.).
 
 <span style="color:var(--pink);">4.1.2</span> Language on clan chats will be punished by clan owners, except when the language is done by the owner himself, is addressed to admins or faction colleagues.

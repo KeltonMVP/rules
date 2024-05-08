@@ -65,7 +65,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 4. General Overview
 
-<span style="color:var(--pink);">4.1</span> Faction Warn Clear manual is a privilege granted by the leadership of LSPD, not a right. Do not ask for FW clear from the leader or subleader (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.1</span> Faction Warn Clear manual is a privilege granted by the leadership of the faction, not a right. Do not ask for FW clear from the leader or subleader (<span style="color:red;">sanction: Faction Warn</span>).
 
 ## 5. Meetings and Trainings
 

@@ -65,7 +65,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 4. Dispozitii Generale
 
-<span style="color:var(--pink);">4.1</span> Faction Warn Clear manual este un privilegiu oferit de conducerea LSPD, nu un drept. Nu cereti FW clear liderului sau subliderului (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.1</span> Faction Warn Clear manual este un privilegiu oferit de conducerea factiunii, nu un drept. Nu cereti FW clear liderului sau subliderului (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ## 5. Sedinte si Antrenamente
 

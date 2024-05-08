@@ -4,8 +4,6 @@
 
 <span style="color:var(--pink);">1.1</span> Proprietarul unui cont este considerat intotdeauna posesorul adresei de email inregistrate pe cont. Din motive de securitate asigurati-va ca nu pierdeti accesul la adresa de mail de pe cont, in caz contrar contul este pierdut.
 
-<span style="color:var(--pink);">1.1.1</span> Stafful ofera ajutor limitat numai prin intermediul [cererilor de recuperare](https://www.rpg.b-zone.ro/account/recoverAccount) care pot fi facute pe website-ul RPG si nu garanteaza recuperarea unui cont pierdut. Ne rezervam dreptul de a respinge orice cerere fara a oferi un motiv.
-
 !!! example "Nota informativa"
     Toate sanctiunile vor fi acordate conform nivelului real al jucatorului (adica se calculeaza toate punctele de respect ale jucatorului pentru a-i determina nivelul real).
 
@@ -31,7 +29,7 @@
 
 <span style="color:var(--pink);">1.3.2</span> Impartirea contului cu alte persoane poate duce la astfel de probleme si riscati sa ramaneti fara cont, bunuri sau sa fiti sanctionati din cauza acestora.
 
-<span style="color:var(--pink);">1.3.3</span> Recuperarea unui cont pierdut se poate face numai printr-o [cerere de recuperare](https://www.rpg.b-zone.ro/account/recoverAccount) pe website, facand click pe butonul Sign In iar mai apoi pe Lost your account. Cititi cu atentie regulamentul care va apare acolo atunci cand incercati sa recuperati un cont.
+<span style="color:var(--pink);">1.3.3</span> Recuperarea unui cont pierdut se poate face numai printr-o [cerere de recuperare](https://www.rpg.b-zone.ro/account/recoverAccount) pe website, facand click pe butonul Sign In iar mai apoi pe Lost your account. Stafful ofera ajutor limitat numai prin intermediul cererilor de recuperare care pot fi facute pe website-ul RPG si nu garanteaza recuperarea unui cont pierdut. Ne rezervam dreptul de a respinge orice cerere fara a oferi un motiv.
 
 !!! example "Nota informativa"
 
@@ -139,7 +137,7 @@
     - au aceeasi adresa de email iar pe cont s-a activat recent in joc (ultima luna).
     - la momentul sanctiunii impart IP comun.
 
-    In anumite situatii se pot bana conturi secundare si care nu se aplica in aceasta regula cu aprobarea unui admin 6.
+    In anumite situatii se pot bana conturi secundare si care nu se aplica in aceasta regula cu aprobarea unui admin 6 (de regula in cazul conturilor cu multiple sanctiuni).
 
 <span style="color:var(--pink);">1.5.3</span> Este strict interzis pentru membrii echipei RPG (lideri, helperi, admini) sa-si imparta conturile cu alte persoane fara a anunta si discuta situatia cu Supervisorul sau Managerul in prealabil. Consecinta incalcarii acestei reguli este inlaturarea din functie sau chiar banarea contului daca e nevoie.
 
@@ -159,12 +157,13 @@
     Atata timp cat jucati normal, va miscati voi contul, pe cate un cont odata si nu cautati in mod explicit metode de a va creste activitatea in mod abuziv, nu aveti de ce sa va temeti sau sa va intereseze regulile de mai sus. Ele vizeaza efectiv jucatorii care cauta in mod explicit sa abuzeze, nicidecum jucatorii care joaca normal.
 
 ### Inactivitate
-<span style="color:var(--pink);">1.7.1</span> Jucatorii care nu au minim 20 de ore REALE jucate in ultimele 2 luni de joc risca pierderea casei sau a tuturor actiunilor bizrilor detinute (fara vehicule).
+<span style="color:var(--pink);">1.7.1</span> Jucatorii care nu au minim 20 de ore REALE jucate in ultimele 2 luni de joc risca pierderea casei sau a tuturor actiunilor bizurilor detinute (fara vehicule).
 
 <span style="color:var(--pink);">1.7.2</span> Jucatorii cu case cumparate de pe shop au nevoie de minim 10 ore REALE in ultimele 2 luni pentru a nu le pierde.
-Daca nu puteti juca, va sugeram sa vindeti proprietatile ca sa nu le pierdeti. Nu puteti recupera proprietatile pierdute din cauza inactivitatii.
 
-<span style="color:var(--pink);">1.7.3</span> Incercarile de ascundere a propritatilor de pe conturile inactive nu va vor scuti de pierderea acestora.
+<span style="color:var(--pink);">1.7.3</span> Daca nu puteti juca, va sugeram sa vindeti proprietatile ca sa nu le pierdeti. Nu puteti recupera proprietatile pierdute din cauza inactivitatii.
+
+<span style="color:var(--pink);">1.7.4</span> Incercarile de ascundere a proprietatile de pe conturile inactive nu va vor scuti de pierderea acestora.
 
 !!! example "Nota informativa"
     Ultimele 2 luni de joc sunt considerate intotdeauna ultimele 2 luni de dinaintea lunii in care ne aflam.
@@ -270,12 +269,12 @@ Exemple de limbaj sanctionabil:
 
 - sugi pula, fmm, mortii ma-tii, rasa ma-tii, muie, sa-ti moara familia, ma pis pe ma-ta, ma pis pe familia ta, ma pis in gura ta, sclava de ma-ta, ma-ta in vitrina etc.
 - diferitele inventii pentru a modifica injuraturile precum: pu_la, fememe, mu!e etc.
-- insultele cenzurate sau limbajul vulgar cenzurat folosite in mod exagerat.
+- insultele cenzurate, limbajul vulgar cenzurat folosit in mod exagerat sau unde se intelege foarte bine contextul.
 
 Exemple de limbaj nesanctionabil (<span style="color:red;">exceptie fata de admini</span>):
 
 - ratat, sugaci, handicapat, tampit, gras, slaban, idiot, cretin sau alte forme de jigniri usoare.
-- limbajul suficient de bine cenzurat precum: sugi \*\*\*\*, ma \*\*\*\*, te \*\*\* etc. (se sanctioneaza si limbajul cenzurat insuficient de bine unde se intelege foarte bine contextul)
+- cuvinte singulare suficient de bine cenzurate unde contextul nu e foarte clar, precum: sugi \*\*\*\*, ma \*\*\*\*, te \*\*\* etc.
 - semne obscene (\_|\_, \_\(\)\_ etc.).
 
 <span style="color:var(--pink);">4.1.2</span> Limbajul pe chaturile clanurilor va fi sanctionat de catre ownerii de clan, mai putin atunci cand acesta este adresat de insusi clan owner, este adresat adminilor sau colegilor de factiune.
