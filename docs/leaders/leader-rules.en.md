@@ -310,7 +310,7 @@ Examples:
 Violation of the above rule will be sanctioned (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
 
 !!! danger "Important"
-		The reason "PM complaint" is not considered a valid reason.
+	The reason "PM complaint" is not considered a valid reason.
 
 ### Sanctioning Members
 

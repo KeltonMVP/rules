@@ -311,7 +311,7 @@ Exemple:
 Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
 !!! danger "Important"
-		Motivul "reclamatie PM" nu este considerat un motiv valid.
+	Motivul "reclamatie PM" nu este considerat un motiv valid.
 
 ### Sanctionarea Membrilor
 
