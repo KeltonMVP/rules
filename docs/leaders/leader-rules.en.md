@@ -180,7 +180,7 @@
 
 <span style="color:var(--pink);">4.1.2</span> Leaders are obligated to open applications and recruit at least 2 players when they have at most 5 free slots.
 
-<span style="color:var(--pink);">4.1.3</span> If the Leader does not have an inactivity request and does not recruit for 5 days when there are at most 5 free slots, they will be sanctioned.
+<span style="color:var(--pink);">4.1.3</span> If the Leader does not have an inactivity request and does not recruit for 5 days when the faction has 5 or more free slots, they will be sanctioned.
 
 Violation of the above rules will be sanctioned with <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses.
 
@@ -309,6 +309,9 @@ Examples:
 
 Violation of the above rule will be sanctioned (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
 
+!!! danger "Important"
+		The reason "PM complaint" is not considered a valid reason.
+
 ### Sanctioning Members
 
 <span style="color:var(--pink);">5.2.1</span> All sanctions that a Leader can apply are found in the general regulations as well as the internal regulations of the faction.
@@ -363,8 +366,6 @@ the request to respond to complaints.
 - complaints without valid evidence will be ignored.
 - complaints without evidence will be ignored.
 - complaints can be resubmitted with valid evidence.
-
-<span style="color:var(--pink);">6.1.6</span> Complaints in which the complainant uses vulgar language will be ignored, and the complainant will be sanctioned by admins.
 
 Violation of all the above rules will be penalized (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
 
@@ -1138,16 +1139,11 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 
 <span style="color:var(--pink);">8.1.4</span> Leaders are permitted to play on other accounts on the same server with approval from faction managers (admins 4+).
 
-<span style="color:var(--pink);">8.1.5</span> A Leader Warn in the Leader position can be removed after <span style="color:var(--pink);">at least one month</span> from receiving it if no further warnings have been issued in the meantime.
-	- these warnings will only be removed at the Leader's request and only with the agreement of a faction manager (admin 4+) if they believe the Leader deserves to have their warning removed.
+<span style="color:var(--pink);">8.1.5</span> A Leader Warn in the Leader position can be removed after <span style="color:var(--pink);">at least one month</span> from receiving it if no further punishments have been issued in the meantime.
+	
+- these punishments will only be removed at the Leader's request and only with the agreement of a faction manager (admin 4+) if they believe the Leader deserves to have their punishment removed.
 
 <span style="color:var(--pink);">8.1.6</span> It is strictly forbidden for a Leader to request various compensations for accepting a player into the faction, passing their test, sparing them from sanctions, promoting them, etc. (<span style="color:red;">sanction: Leader Warn</span> first offense, <span style="color:red;">Dismissal</span> if repeated).
-
-<span style="color:var(--pink);">8.1.7</span>Gang Leaders who have at least 10 members banned for cheats in one month risk severe sanctions if this number continues to increase (<span style="color:red;">sanction: Leader Warn</span> or <span style="color:red;">Dismissal</span>).
-
-<span style="color:var(--pink);">8.1.8</span> Gang Leaders are obligated to participate in 3 out of 5 war days per week (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> second offense, <span style="color:red;">Dismissal</span> if repeated).
-
-<span style="color:var(--pink);">8.1.9</span> Gang Leaders are obligated to have a minimum of 3 attacks each week during war days (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> second offense).
 
 ### Member Activity
 
@@ -1200,7 +1196,7 @@ Members will be sanctioned as follows:
 
 <span style="color:var(--pink);">8.4.2</span> Leaders who knowingly accept individuals using cheats will be sanctioned with <span style="color:red;">Leader Warn or Dismissal</span>, depending on the case.
 
-<span style="color:var(--pink);">8.4.3</span> Leaders and subleaders are obligated to attend wars. Subleaders can use their <span style="color:var(--pink);">2 weekly absences</span> for exemption, while Leaders must post in the specific Staff discord channel for an absence request (sanction: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">dismissal</span> if it continues).
+<span style="color:var(--pink);">8.4.3</span> Leaders and subleaders are obligated to attend 3 out of 5 war days per week. Subleaders can use their <span style="color:var(--pink);">2 weekly absences</span> for exemption, while Leaders must post in the specific Staff discord channel for an absence request (sanction: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">dismissal</span> if it continues).
 
 <span style="color:var(--pink);">8.4.4</span> Members who are part of a gang and meanwhile receive an <span style="color:var(--pink);">interdiction</span> will always be dismissed with <span style="color:red;">FP 60/60</span>. Players who receive an interdiction will be able to be accepted into another gang after a minimum of one month from receiving the ban. Leaders who accept players with interdictions will be sanctioned with <span style="color:red;">Leader Warn</span>, even for the first offense.
 
@@ -1211,6 +1207,10 @@ Members will be sanctioned as follows:
 <span style="color:var(--pink);">8.4.7</span> With every vote you bring to the player whose interdiction request is made, you are obliged to bring an argument for that vote.
 
 <span style="color:var(--pink);">8.4.8</span> Leaders are NOT allowed to sanction members during wars for reasons such as "who dies without a kill gets FW" - "who dies gets FW." You can sanction members for disobeying a higher rank only if you provide enough time to reach a backup position, and those members continue to ignore you and do not come to the position you requested (<span style="color:red;">sanction: Leader Warn</span>).
+
+<span style="color:var(--pink);">8.4.9</span>Gang Leaders who have at least 10 members banned for cheats in one month risk severe sanctions if this number continues to increase (<span style="color:red;">sanction: Leader Warn</span> or <span style="color:red;">Dismissal</span>).
+
+<span style="color:var(--pink);">8.4.10</span> Gang Leaders are obligated to have a minimum of 3 attacks each week during war days (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> second offense).
 
 #### <span style="color:#3baad5;">Absences</span>
 

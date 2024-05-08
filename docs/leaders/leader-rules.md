@@ -181,7 +181,7 @@ mari de 5 zile.
 
 <span style="color:var(--pink);">4.1.2</span> Liderii au obligatia de a deschide aplicatiile si de a recruta minim 2 jucatori atunci cand au cel mult 5 locuri libere.
 
-<span style="color:var(--pink);">4.1.3</span> Daca Liderul nu are cerere de inactivitate si nu recruteaza timp de 5 zile cand are cel mult 5 locuri libere va fi sanctionat.
+<span style="color:var(--pink);">4.1.3</span> Daca Liderul nu are cerere de inactivitate si nu recruteaza timp de 5 zile cand factiunea are 5 sau mai multe locuri libere va fi sanctionat.
 
 Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele.
 
@@ -310,6 +310,9 @@ Exemple:
 
 Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
+!!! danger "Important"
+		Motivul "reclamatie PM" nu este considerat un motiv valid.
+
 ### Sanctionarea Membrilor
 
 <span style="color:var(--pink);">5.2.1</span> Toate sanctiunile pe care le poate aplica un Lider se gasesc in regulamentul general cat si cel intern al factiunii.
@@ -363,8 +366,6 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 - reclamatiile care nu au dovezi valide vor fi anulate.
 - reclamatiile fara dovezi vor fi anulate.
 - reclamatiile pot fi refacute cu dovezi valide.
-
-<span style="color:var(--pink);">6.1.6</span> Reclamatiile in care reclamantul foloseste un limbaj vulgar vor fi anulate iar acesta va fi sanctionat de admini.
 
 Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
@@ -1138,16 +1139,11 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 
 <span style="color:var(--pink);">8.1.4</span> Liderilor le este permis sa joace pe alte conturi pe acelasi server cu aprobare de la managerii de factiuni (adminii 4+).
 
-<span style="color:var(--pink);">8.1.5</span> Un avertisment la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte avertismente intre timp.
-	- aceste avertismente se vor inlatura numai la cererea Liderului si numai cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie sters avertismentul.
+<span style="color:var(--pink);">8.1.5</span> Un Leader Warn la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte sanctiuni intre timp.
+	
+- acestea se vor inlatura numai la cererea Liderului si numai cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie stearsa sanctiunea.
 
 <span style="color:var(--pink);">8.1.6</span> Este strict interzis unui Lider sa ceara diverse compensatii pentru a accepta un jucator in factiune, a-l trece testul, a-l scuti de sanctiuni, a-l promova, etc (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
-
-<span style="color:var(--pink);">8.1.7</span> Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
-
-<span style="color:var(--pink);">8.1.8</span> Liderii de Ganguri au obligatia de a se prezenta la 3 din 5 zile de waruri pe saptamana (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere, <span style="color:red;">Demitere</span> daca continua).
-
-<span style="color:var(--pink);">8.1.9</span> Liderii de gang au obligatia de a avea minim 3 attack-uri in fiecare saptamana in care se desfasoara wars (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere).
 
 ### Activitatea Membrilor
 
@@ -1200,7 +1196,7 @@ Membrii vor fi sanctionati in urmatorul fel:
 
 <span style="color:var(--pink);">8.4.2</span> Liderii care accepta in mod constient persoane care folosesc coduri o sa fie sanctionati cu <span style="color:red;">Leader Warn sau Demitere</span>, in functie de caz.
 
-<span style="color:var(--pink);">8.4.3</span> Liderii si subliderii au obligatia de a se prezenta la waruri. Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
+<span style="color:var(--pink);">8.4.3</span> Liderii si subliderii au obligatia de a se prezenta la 3 din 5 zile de waruri. Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
 
 <span style="color:var(--pink);">8.4.4</span> Membrii care fac parte dintr-un gang si intre timp primesc <span style="color:var(--pink);">interdictie</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60</span>. Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. Liderii care vor accepta jucatori cu interdictie vor fi sanctionati cu <span style="color:red;">Leader Warn</span>, chiar si de la prima abatere.
 
@@ -1211,6 +1207,10 @@ Membrii vor fi sanctionati in urmatorul fel:
 <span style="color:var(--pink);">8.4.7</span> La fiecare vot pe care-l aduceti jucatorului caruia i s-a facut cererea de interdictie sunteti obligati sa aduceti si un argument pentru votul respectiv.
 
 <span style="color:var(--pink);">8.4.8</span> Liderii NU au voie sa sanctioneze membrii la war pe motive precum "cine moare fara kill are FW" - "cine moare are FW". Va puteti sanctiona membrii pentru neascultare rank superior doar daca oferiti suficient timp sa ajunga la o pozitie de backup, iar acei membrii continua sa va ignore si sa nu vina la pozitia ceruta de voi (<span style="color:red;">sanctiune: Leader Warn</span>).
+
+<span style="color:var(--pink);">8.4.9</span> Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
+
+<span style="color:var(--pink);">8.4.10</span> Liderii de gang au obligatia de a avea minim 3 attack-uri in fiecare saptamana in care se desfasoara wars (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere).
 
 #### <span style="color:#3baad5;">Invoirile</span>
 
