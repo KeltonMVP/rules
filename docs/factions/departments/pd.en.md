@@ -199,11 +199,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.2</span> When setting up/resuming a radar, regardless of the city you are in, you are obligated to announce it on the department chat, [<span style="color:var(--pink);">/d</span>].
 
-<span style="color:var(--pink);">10.3</span> Before setting up a radar in a certain area, you must ask three times on [<span style="color:var(--pink);">/d</span>] if the area is clear, and if the area is not in your city, you must request permission from a rank 4+ on [<span style="color:var(--pink);">/d</span>]. If you do not receive a response or are refused, you must wait 5 minutes before making another request.
+<span style="color:var(--pink);">10.3</span> Before placing a radar in a specific area, you must ask 3 times on [<span style="color:var(--pink);">/d</span>], with a minimum of 10 seconds between each, if the area is clear. If the area is not within your city, you must request permission from a rank 4+ member from that city on [<span style="color:var(--pink);">/d</span>]. If you don't receive an answer, you may place the radar after 1 minute. If you are refused (with a valid reason), you must wait 5 minutes before making another request.
 
-<span style="color:var(--pink);">10.3.1</span> You are obligated to have evidence of the permission received. If you do not have it, it will be considered that you set up the radar without permission and you will receive a <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.3.1</span> You are required to have evidence of the agreement received or, in its absence, with those 3 inquiries on [<span style="color:var(--pink);">/d</span>]. If you do not have it, you will be sanctioned with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.3.2</span> If a rank lower than 4 grants you the right to set up radar in another city, you will do so at your own risk, and you may be penalized as if you did not have evidence for the radar.
+<span style="color:var(--pink);">10.3.2</span> If a rank lower than 4 grants you the right to place a radar in another city, ignore it and continue to ask on [<span style="color:var(--pink);">/d</span>] until you accumulate 3 requests; otherwise, you risk being penalized as if you did not have evidence for the radar.
 
 <span style="color:var(--pink);">10.4</span> Vehicles equipped with radar systems are: PD Car, Police Infernus, HPV-1000, and PD NRG-500.
 
