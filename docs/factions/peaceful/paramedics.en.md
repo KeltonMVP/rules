@@ -100,7 +100,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.4</span> You are not allowed to spam or write with Caps Lock ON (you are allowed with caps for only 2 characters, example: "YES") (<span style="color:orange;">sanction: Fine</span>).
 
-<span style="color:var(--pink);">5.5</span> The [<span style="color:var(--pink);">/ftalkpower</span>] command will only be used with a well-founded reason (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Dismissal</span> for subsequent offenses).
+<span style="color:var(--pink);">5.5</span> The [<span style="color:var(--pink);">/ftalkpower</span>] command will only be used with a well-founded reason (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.6</span> You are not allowed to toggle chat power on the faction chat without the consent of a rank 6 or the leader (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> for subsequent offenses).
 

@@ -11,7 +11,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">1.1</span> Examples of language <span style="color:var(--pink);">towards colleagues punishable</span> with <span style="color:red;">Faction Warn:</span>
 
 - failure, suckers, handicapped, stupid, idiot, moron or other forms of mild insults.
-- sufficiently censored language such as: suck \*\*\*\*, f\*\*\*\* me, \*\*\* you etc.
+- single words that are sufficiently well censored and where the context is not very clear, such as: suck \*\*\*\*, eat \*\*\*\*, *** etc.
 - obscene gestures (\_|\_, _\(\)\_ etc.).
 
 !!! example "Info note"
@@ -20,10 +20,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">1.2</span> Examples of language <span style="color:var(--pink);">towards colleagues or other players</span> punishable by <span style="color:red;">dismissal:</span>
 
-- suck d\*ck, f\*ck you, your mother's dead, your race, suck it, may your family die, etc.
-- various inventions to modify insults such as: pu\_la, fememe, mu!e etc.
-- insufficiently censored language where the context is very clear.
-- censored insults or excessively censored vulgar language.
+- suck my dick, fmm, cocksucker, fuck you, piss on your mother, piss on your family, piss in your mouth, your bitch mom etc.
+- different inventions to modify cursing like: di_ck, fememe, fuc y0u etc.
+- censored insults, censored vulgar language used in an exagerated manner or where the context can be well understood.
 
 !!! danger "Important"
     Language of this kind in the faction chat will always be punished regardless of who it is addressed to.

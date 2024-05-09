@@ -178,7 +178,7 @@
 
 <span style="color:var(--pink);">4.1.1</span> Applications can be opened when there is at least one free slot in the faction or a slot is about to become available.
 
-<span style="color:var(--pink);">4.1.2</span> Leaders are obligated to open applications and recruit at least 2 players when they have at most 5 free slots.
+<span style="color:var(--pink);">4.1.2</span> Leaders are obligated to open applications and recruit at least 2 players when the faction has 5 or more free slots.
 
 <span style="color:var(--pink);">4.1.3</span> If the Leader does not have an inactivity request and does not recruit for 5 days when the faction has 5 or more free slots, they will be sanctioned.
 
@@ -1220,6 +1220,9 @@ Members will be sanctioned as follows:
 
 - if there are 5 or fewer absence requests, they will be automatically accepted.
 - if there are more than 5 absence requests, the first 5 will have priority. If a member who has an absence request has been present at all wars on that day, their request will be rejected.
+
+!!! example "Info note"
+	A member is considered present at a war if they have at least 30 seconds on the turf or a minimum of 3 kills/deaths in total.
 
 #### <span style="color:#3baad5;">War Seconds</span>
 

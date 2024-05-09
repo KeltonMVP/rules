@@ -194,7 +194,7 @@ For all the above rules, you must have evidence (SS) to prove that you did not u
 
 <span style="color:var(--pink);">6.1</span> It is prohibited to use [<span style="color:var(--pink);">/tog</span>] and deactivate faction chat without special permission from the leader (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">6.2</span> Members of rank 5+ are allowed to close the chat for certain ranks [<span style="color:var(--pink);">/ftalkpower</span>] only with the consent of the leader or subleader (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">6.2</span> Members of rank 5+ are allowed to close the chat for certain ranks [<span style="color:var(--pink);">/ftalkpower</span>] only with the consent of the leader or subleader (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.3</span> Direct command is used without consent when there is a heated argument that needs to be diffused, in case the leader or one of the sub-leaders is not online, but you will also need evidence (<span style="color:red;">sanction: Verbal Warning</span>).
 

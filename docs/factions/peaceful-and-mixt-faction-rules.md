@@ -11,7 +11,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">1.1</span> Exemple de limbaj <span style="color:var(--pink);">fata de colegi sanctionabil</span> cu <span style="color:red;">Faction Warn:</span>
 
 - ratat, sugaci, handicapat, tampit, idiot, cretin sau alte forme de jigniri usoare.
-- limbajul suficient de bine cenzurat precum: sugi \*\*\*\*, ma \*\*\*\*, te \*\*\* etc.
+- cuvinte singulare suficient de bine cenzurate unde contextul nu e foarte clar, precum: sugi \*\*\*\*, ma \*\*\*\*, te \*\*\* etc.
 - semne obscene (\_|\_, _\(\)\_ etc.).
 
 !!! example "Nota informativa"
@@ -20,10 +20,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">1.2</span> Exemple de limbaj <span style="color:var(--pink);">fata de colegi sau alti jucatori</span> sanctionabil cu <span style="color:red;">demitere:</span>
 
-- sugi pula, fmm, mortii ma-tii, rasa ma-tii, muie, sa-ti moara familia etc.
+- sugi pula, fmm, mortii ma-tii, rasa ma-tii, muie, sa-ti moara familia, ma pis pe ma-ta, ma pis pe familia ta, ma pis in gura ta, sclava de ma-ta, ma-ta in vitrina etc.
 - diferitele inventii pentru a modifica injuraturile precum: pu_la, fememe, mu!e etc.
-- limbaj cenzurat insuficient unde se intelege foarte bine contextul.
-- insultele cenzurate sau limbajul vulgar cenzurat folosite in mod exagerat.
+- insultele cenzurate, limbajul vulgar cenzurat folosit in mod exagerat sau unde se intelege foarte bine contextul.
 
 !!! danger "Important"
     Limbajul de acest gen pe chatul factiunii va fi mereu sanctionat indiferent cui este adresat.

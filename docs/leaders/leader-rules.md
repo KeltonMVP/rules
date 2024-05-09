@@ -179,7 +179,7 @@ mari de 5 zile.
 
 <span style="color:var(--pink);">4.1.1</span> Aplicatiile pot fi deschise atunci cand exista cel putin un loc liber in factiune sau urmeaza sa se elibereze un loc.
 
-<span style="color:var(--pink);">4.1.2</span> Liderii au obligatia de a deschide aplicatiile si de a recruta minim 2 jucatori atunci cand au cel mult 5 locuri libere.
+<span style="color:var(--pink);">4.1.2</span> Liderii au obligatia de a deschide aplicatiile si de a recruta minim 2 jucatori atunci cand factiunea are 5 sau mai multe locuri libere.
 
 <span style="color:var(--pink);">4.1.3</span> Daca Liderul nu are cerere de inactivitate si nu recruteaza timp de 5 zile cand factiunea are 5 sau mai multe locuri libere va fi sanctionat.
 
@@ -1220,6 +1220,9 @@ Membrii vor fi sanctionati in urmatorul fel:
 
 - daca sunt 5 sau mai putine invoiri acestea vor fi acceptate automat.
 - daca sunt mai mult de 5 invoiri primele 5 au prioritate. In cazul in care un membru care are invoire a fost prezent la toate warurile din ziua respectiva, invoirea lui va fi respinsa.
+
+!!! example "Nota informativa"
+	Un membru este considerat prezent la war daca are un minim de 30 de secunde pe turf sau minim 3 omoruri/decese in total.
 
 #### <span style="color:#3baad5;">Secundele la Waruri</span>
 

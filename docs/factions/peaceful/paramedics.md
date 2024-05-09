@@ -100,7 +100,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.4</span> Nu aveti voie sa faceti spam sau sa scrieti cu Caps Lock ON (aveti voie cu caps doar 2 caractere, exemplu: "DA") (<span style="color:orange;">sanctiune: Amenda</span>).
 
-<span style="color:var(--pink);">5.5</span> Comanda [<span style="color:var(--pink);">/ftalkpower</span>] se va folosi doar cu un motiv bine intemeiat (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">Demitere</span> la urmatoarea).
+<span style="color:var(--pink);">5.5</span> Comanda [<span style="color:var(--pink);">/ftalkpower</span>] se va folosi doar cu un motiv bine intemeiat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.6</span> Nu aveti voie sa dati tog la chatul factiunii fara acordul unui rank 6 sau a liderului (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">Rank Down</span> la urmatoarea).
 

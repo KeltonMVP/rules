@@ -194,7 +194,7 @@ La toate regulile de mai sus trebuie sa aveti dovezi (SS) pentru a dovedi ca nu 
 
 <span style="color:var(--pink);">6.1</span> Este interzis sa dati [<span style="color:var(--pink);">/tog</span>] si sa dezactivati chatul factiunii fara acord special din partea liderului (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">6.2</span> Membrii de rank 5+ au voie sa inchida chatul pentru anumite rank-uri [<span style="color:var(--pink);">/ftalkpower</span>] doar cu acordul liderului / subliderului (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">6.2</span> Membrii de rank 5+ au voie sa inchida chatul pentru anumite rank-uri [<span style="color:var(--pink);">/ftalkpower</span>] doar cu acordul liderului / subliderului (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.3</span> Se foloseste direct comanda fara acord, atunci cand este o cearta aprinsa si trebuie atenuata, in cazul in care liderul sau unul dintre sublideri nu este online, insa veti avea nevoie si de dovezi (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
