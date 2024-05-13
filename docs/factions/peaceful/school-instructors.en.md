@@ -80,7 +80,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     You will be sanctioned if you intentionally leave the server when a player requests licenses and you are on duty.<br/>
     You have the right to refuse the client if you are not [<span style="color:var(--pink);">/duty</span>].
 
-<span style="color:var(--pink);">4.10</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.10</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.11</span> When a member takes a client who has not issued [<span style="color:var(--pink);">/needlicense</span>], the member must ask on [<span style="color:var(--pink);">/sx</span>] if the player has been accepted by someone else. If no one responds within 5 seconds, take a screenshot and continue giving tests to that client (<span style="color:red;">sanction: Faction Warn</span>).
 

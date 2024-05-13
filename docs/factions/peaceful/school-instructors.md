@@ -80,7 +80,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     Veti fi sanctionati daca parasiti intentionat serverul cand un jucator va cere licente si sunteti la datorie.<br/> 
     Aveti dreptul de a refuza clientul daca nu sunteti [<span style="color:var(--pink);">/duty</span>].
 
-<span style="color:var(--pink);">4.10</span> Aveti obligatia de a face dovezi la toate testele pentru licentele pe care le acordati. Lipsa dovezilor la cererea liderului sau adminilor se sanctioneaza (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.10</span> Aveti obligatia de a face dovezi la toate testele pentru licentele pe care le acordati. Lipsa dovezilor la cererea liderului sau adminilor se sanctioneaza (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.11</span> Cand un membru ia un client care nu a dat [<span style="color:var(--pink);">/needlicense</span>], membrul trebuie sa intrebe pe [<span style="color:var(--pink);">/sx</span>] daca playerul a fost acceptat de altcineva. Daca nu raspunde nimeni in 5 secunde, faceti o poza si continuati sa dati testele cu clientul respectiv (<span style="color:red;">sanctiune: Faction Warn</span>).
 
