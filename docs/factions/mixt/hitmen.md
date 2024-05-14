@@ -43,8 +43,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - 37 Sparrow - Rank 1.
 - 3 Buffalo - Rank 1.
-- 3 FCR-900 - Rank 4.
-- 1 Sultan - Rank 4.
+- 3 FCR-900 - Rank 2.
+- 1 Sultan - Rank 3.
 - 2 Maverick - Rank 4.
 
 ## 4. Efectuarea Contractelor
@@ -55,7 +55,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.2</span> Armele cu care puteti efectua un contract sunt: <span style="color:var(--pink);">Sniper, SD Pistol si Knife (cutit).</span>
 
-<span style="color:var(--pink);">4.3</span> Puteti efectua un contract folosind Knife sau SD Pistol doar atunci cand tinta se afla in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie. Nu aveti voie sa faceti contracte in <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.3</span> Puteti efectua un contract folosind Knife sau SD Pistol doar atunci cand tinta se afla in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD / Training Room sau Primarie. Nu aveti voie sa faceti contracte in <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
 
 <span style="color:var(--pink);">4.4.1</span> Finalizarea contractelor cu alte arme decat cele mentionate mai sus, ori folosirea armelor SD Pistol si Knife cand tinta nu este in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie va duce la <span style="color:red;">demiterea voastra cu 60 FP.</span>
 

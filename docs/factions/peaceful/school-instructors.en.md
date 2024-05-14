@@ -56,7 +56,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 4. Licenses
 
-<span style="color:var(--pink);">4.1</span> You are not allowed to issue licenses without the appropriate tests (except for players above level 50+) (<span style="color:red">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.1</span> You are not allowed to issue licenses without the appropriate tests (except for players above level 50+) (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
 <span style="color:var(--pink);">4.2</span> You are not allowed to grant licenses if either you or the client have any level of <span style="color:var(--pink);">Wanted</span> (<span style="color:red">sanction: Verbal Warning</span> for the first offense, <span style="color:red">Faction Warn</span> if it continues).
 
@@ -80,7 +80,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     You will be sanctioned if you intentionally leave the server when a player requests licenses and you are on duty.<br/>
     You have the right to refuse the client if you are not [<span style="color:var(--pink);">/duty</span>].
 
-<span style="color:var(--pink);">4.10</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">4.10</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
 <span style="color:var(--pink);">4.11</span> When a member takes a client who has not issued [<span style="color:var(--pink);">/needlicense</span>], the member must ask on [<span style="color:var(--pink);">/sx</span>] if the player has been accepted by someone else. If no one responds within 5 seconds, take a screenshot and continue giving tests to that client (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -151,7 +151,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 8. Meetings
 
-<span style="color:var(--pink);">8.1</span> During the meeting, only the leader/subleader speaks. If you have a question/comment on the topic being discussed at that moment, raise your hand (/wave). All other questions should be addressed at the end of the meeting (<span style="color:orange;">sanction: fine</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">8.1</span> During the meeting, only the leader/subleader speaks. If you have a question/comment on the topic being discussed at that moment, raise your hand (/wave). All other questions should be addressed at the end of the meeting (<span style="color:orange;">sanction: fine 25,000$</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
 <span style="color:var(--pink);">8.2</span> Do not stay AFK during the meeting (more than 3 minutes) (<span style="color:red;">sanction: Faction Warn</span>).
 

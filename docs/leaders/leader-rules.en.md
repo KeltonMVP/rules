@@ -247,7 +247,8 @@ Violation of the above rules will be sanctioned with <span style="color:red;">Ve
 ### Testing Candidates
 
 <span style="color:var(--pink);">4.4.1</span> Only members with a minimum rank of 4 and Tester status can conduct tests with candidates.<br/>
-<span style="color:var(--pink);">4.4.2</span> The Leader has the right to decide who is granted Tester status among members with a minimum rank of 4.
+<span style="color:var(--pink);">4.4.2</span> The Leader has the right to decide who is granted Tester status among members with a minimum rank of 4.<br/>
+<span style="color:var(--pink);">4.4.3</span> All players who have taken the faction entry test must be obligatorily recorded in the specific test logs topic on the forum by the person who conducted the test (<span style="color:red;">sanction: Faction Warn</span> for the tester or <span style="color:red;">Leader Warn</span> if the leader conducted the test).
 
 #### <span style="color:#3baad5;">Rules for Testing Candidates</span>
 

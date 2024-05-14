@@ -248,7 +248,8 @@ Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Av
 ### Testarea Candidatilor
 
 <span style="color:var(--pink);">4.4.1</span> Doar membrii de minim rank 4 si statut de Tester pot sustine teste cu candidatii.<br/>
-<span style="color:var(--pink);">4.4.2</span> Liderul are dreptul de a decide cui ofera statutul de Tester dintre membrii de minim rank 4.
+<span style="color:var(--pink);">4.4.2</span> Liderul are dreptul de a decide cui ofera statutul de Tester dintre membrii de minim rank 4.<br/>
+<span style="color:var(--pink);">4.4.3</span> Toti jucatorii care au sustinut test de intrare in factiune trebuie trecuti in mod obligatoriu in topicul specific logurilor testelor de pe forum de catre persoana care a sustinut testul (<span style="color:red;">sanctiune: Faction Warn</span> pentru tester sau <span style="color:red;">Leader Warn</span> daca liderul a sustinut testul).
 
 #### <span style="color:#3baad5;">Reguli Testare Candidati</span>
 

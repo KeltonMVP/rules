@@ -107,6 +107,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - informatii si sfaturi.
 - recrutari pentru factiuni.
 
+<span style="color:var(--pink);">5.2.1.1</span> Anunturile informative despre comenzi vulgare, precum [<span style="color:var(--pink);">/wank</span>], [<span style="color:var(--pink);">/blowjob</span>], etc. nu sunt permise (<span style="color:red;">sanctiune: Faction Warn</span>).
+
 <span style="color:var(--pink);">5.2.2</span> Un anunt informativ trebuie sa aiba minim 60 de caractere (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 <span style="color:var(--pink);">5.2.3</span> Anunturile informative pe care le publicati pe [<span style="color:var(--pink);">/news</span>] trebuie sa varieze. Nu publicati acelasi anunt de multe ori intr-o zi (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
@@ -191,7 +193,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3.15</span> Reporterii au dreptul de a-si promova bunurile printr-un singur anunt in timpul unei sesiuni de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.16</span> Un reporter are dreptul de a oferi cate un anunt pentru fiecare coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">5.3.16</span> Un reporter are dreptul de a oferi un singur anunt pentru un coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 ### Anunturi Roleplay
 
@@ -368,6 +370,14 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">6.4.8</span> Aveti 48 de ore la dispozitie ca sa postati evidenta unui concurs dupa incheierea acestuia in topicul specific (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 <span style="color:var(--pink);">6.4.9</span> Daca un invitat este scos din concurs de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in emisiune (<span style="color:red;">sanctiune: Faction Warn</span).
+
+<span style="color:var(--pink);">6.4.10</span> Premiul unui concurs reprezinta 80% din suma totala a banilor platiti de participanti (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+
+<span style="color:var(--pink);">6.4.11</span> Membrii News Reporters nu pot participa la concursurile organizate de colegii lor (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.4.12</span> In timpul concursului sunteti obligati sa contorizati toate raspunsurile corecte intr-un clasament (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.4.12.1</span> Contorizarea gresita a unui raspuns corect se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele. 
 
 ## 7. Ziare
 

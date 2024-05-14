@@ -24,7 +24,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to medics that can be accepted.
 - <span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.
-- <span style="color:var(--pink);">[/corpse]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.
+- <span style="color:var(--pink);">[/corpse < corpse id >]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.
+- <span style="color:var(--pink);">[/onduty]</span> - shows members on duty.
+- <span style="color:var(--pink);">[/members]</span> - shows the list of all faction members.
 
 ## 2. Faction Skins
 
@@ -41,7 +43,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - 15 Ambulances - Rank 0.
 - 16 Romero - Rank 1.
 - 2 Raindance - Rank 3.
-- 5 Ranger - Rank 3.
+- 5 Ranger - Rank 4.
 
 <span style="color:var(--pink);">3.1</span> It is forbidden to use ambulances and Romero vehicles for personal purposes (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -55,7 +57,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.6</span> When destroying the faction vehicle, announce it in chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">3.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:orange;">sanction: fine</span>).
 
 <span style="color:var(--pink);">3.8</span> The siren is only to be used if you have an accepted command [<span style="color:var(--pink);">/accept medic</span>] (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -64,6 +66,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">3.10</span> You are allowed to go AFK on-duty in the faction vehicle, but not for more than 60 seconds (1 minute) (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">3.11</span> If you are not AFK and not on duty in the faction vehicle, you have 30 seconds to go on duty to avoid receiving a sanction (<span style="color:red;">sanction: Verbal Warning</span>).
+
+<span style="color:var(--pink);">3.12</span> It is forbidden to paint faction vehicles any color other than WHITE or RED (<span style="color:orange;">sanction: fine</span>).
 
 ## 4. General Rules
 
@@ -191,16 +195,18 @@ For <span style="color:var(--pink);">/rehab:</span>
 The reasons for which a fine will be issued are as follows:
 
 - AFK at HQ or Training Room (interior/exterior) in "<span style="color:var(--pink);">i</span>" if blocking player access - <span style="color:var(--green);">$25,000</span>
-- spamming on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$35,000</span>
+- speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span>
 - writing in all caps on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$30,000</span>
 - being late at announced meeting / Training / Activity - <span style="color:var(--green);">$30,000</span>
-- speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span>
+- spamming on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$35,000</span>
 - being AFK during an activity - <span style="color:var(--green);">$35,000</span>
 - parking vehicles in HQ courtyard in a way that obstructs faction vehicle traffic - <span style="color:var(--green);">$50,000</span> for the first offense, <span style="color:orange;">Verbal Warning + Fine $50,000</span> for subsequent offenses
 - unannounced FVR - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity
-- providing services without player request - <span style="color:var(--green);">$100,000</span> + <span style="color:red;">Verbal Warning</span>
 - taking calls during a practical test - <span style="color:var(--green);">$50,000</span>
 - unannounced FVR when another colleague rank 5+ announced - <span style="color:var(--green);">$50,000</span>
+- painting a faction vehicle (except WHITE or RED) - <span style="color:var(--green);">$50,000</span>
+- equipping a faction vehicle with NOS or Hydra - <span style="color:var(--green);">$50,000</span>
+- providing services without player request - <span style="color:var(--green);">$100,000</span> + <span style="color:red;">Verbal Warning</span>
 
 !!! danger "Important"
     Fines can be given by a rank 6+ member.

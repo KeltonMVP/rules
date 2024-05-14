@@ -107,6 +107,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - information and tips.
 - faction recruitments.
 
+<span style="color:var(--pink);">5.2.1.1</span> Informative announcements about vulgar commands, such as [<span style="color:var(--pink);">/wank</span>], [<span style="color:var(--pink);">/blowjob</span>], etc. are not allowed (<span style="color:red;">punishment: Faction Warn</span>).
+
 <span style="color:var(--pink);">5.2.2</span> An informative announcement must have a minimum of 60 characters (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
 <span style="color:var(--pink);">5.2.3</span> The informative announcements you publish on [<span style="color:var(--pink);">/news</span>] must vary. Do not publish the same announcement multiple times in one day (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
@@ -191,7 +193,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3.15</span> Reporters have the right to promote their goods through a single announcement during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.16</span> A reporter is entitled to provide one announcement for each faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">5.3.16</span> A reporter is entitled to provide only one announcement for a faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
 ### Roleplay News
 
@@ -368,6 +370,14 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">6.4.8</span> You have 48 hours to post evidence of a contest after its conclusion in the specific topic (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
 <span style="color:var(--pink);">6.4.9</span> If a contestant is removed from the contest by an Admin for a reason involving the [<span style="color:var(--pink);">/l</span>] command, they can no longer be invited back to the contest (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.4.10</span> The prize for a contest represents 80% of the total amount of money paid by participants (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
+
+<span style="color:var(--pink);">6.4.11</span> News Reporters members cannot participate in contests organized by their colleagues (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.4.12</span> During the contest, you are required to tally all correct answers in a ranking (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.4.12.1</span> Incorrect tallying of a correct answer is sanctioned with a <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
 
 ## 7. Newspapers
 

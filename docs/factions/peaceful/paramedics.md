@@ -24,7 +24,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii online, iar cei on-duty sunt evidentiati cu verde (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre medici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/corpses]</span> - afiseaza o lista cu toate cadavrele ce pot fi ridicate.
-- <span style="color:var(--pink);">[/corpse]</span> - cu aceasta comanda incepi sa mergi catre un cadavru pentru a-l ridica. Va aparea un checkpoint pe harta la locatia acestuia.
+- <span style="color:var(--pink);">[/corpse < corpse id >]</span> - cu aceasta comanda incepi sa mergi catre un cadavru pentru a-l ridica. Va aparea un checkpoint pe harta la locatia acestuia.
+- <span style="color:var(--pink);">[/onduty]</span> - arata membrii aflati la datorie.
+- <span style="color:var(--pink);">[/members]</span> - arata lista cu toti membrii factiunii.
+
 
 ## 2. Skinurile Factiunii
 
@@ -41,7 +44,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - 15 Ambulante - Rank 0.
 - 16 Romero - Rank 1.
 - 2 Raindance - Rank 3.
-- 5 Ranger - Rank 3.
+- 5 Ranger - Rank 4.
 
 <span style="color:var(--pink);">3.1</span> Este interzisa folosirea ambulantelor si a vehiculelor de tip Romero in scop personal (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -55,7 +58,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.6</span> Cand distrugeti masina factiunii anuntati pe chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">3.7</span> Este interzisa echiparea masinilor factiunii cu NOS sau sisteme hidraulice (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">3.7</span> Este interzisa echiparea masinilor factiunii cu NOS sau sisteme hidraulice (<span style="color:orange;">sanctiune: amenda</span>).
 
 <span style="color:var(--pink);">3.8</span> Sirena este folosita doar in cazul in care aveti o comanda acceptata [<span style="color:var(--pink);">/accept medic</span>] (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -64,6 +67,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">3.10</span> Aveti voie sa stati AFK on-duty in masina de factiune, dar nu mai mult de 60 secunde (1 minut) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">3.11</span> Daca nu sunteti AFK si nu sunteti cu duty in masina de factiune, aveti 30 secunde pentru a pune duty si a nu primi sanctiune (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+
+<span style="color:var(--pink);">3.12</span> Este interzisa vopsirea vehiculelor de factiune intr-o alta culoare decat ALB sau ROSU (<span style="color:orange;">sanctiune: amenda</span>).
 
 ## 4. Reguli Generale
 
@@ -81,7 +86,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.7</span> Membrii Paramedics la datorie sunt obligati sa accepte comenzile primite daca se afla pe Ambulanta/Raindance/Ranger si sa mearga dupa toate cadavrele aparute daca se afla pe un vehicul de tip Romero. Daca aveti un motiv intemeiat pentru care nu puteti accepta comanda sau nu puteti merge dupa un cadavru trebuie sa veniti cu explicatii clare si dovezi (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.8</span> Daca o comanda se afla la mai mult de 4.500 metri departare de dvs. (distanta medie intre orase sau de la CNN LS pana la Basin Bunker), sunteti obligati sa intrebati daca un alt coleg la datorie se afla mai aproape de aceasta, respectivul fiind nevoit sa o accepte daca este in apropierea ei (sub 2500 metri) (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">4.8</span> Daca o comanda se afla la mai mult de 2.500 metri departare de dvs. (distanta medie intre orase sau de la CNN LS pana la Basin Bunker), sunteti obligati sa intrebati daca un alt coleg la datorie se afla mai aproape de aceasta, respectivul fiind nevoit sa o accepte daca este in apropierea ei (sub 2500 metri) (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 <span style="color:var(--pink);">4.9</span> Membrii nu au voie sa faca spam sau sa abuzeze de comenzile [<span style="color:var(--pink);">/fvs</span>], respectiv [<span style="color:var(--pink);">/fvr</span>] (<span style="color:red;">sanctiune: Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abateri multiple sau abuzuri).
 
@@ -191,16 +196,18 @@ Pentru <span style="color:var(--pink);">/rehab:</span>
 Motivele pentru care se va acorda o amenda sunt urmatoarele:
 
 - AFK HQ sau Training Room (interior / exterior) in "<span style="color:var(--pink);">i</span>" daca blocheaza accesul jucatorilor - <span style="color:var(--green);">25,000$</span>
-- spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">35,000$</span>
+- vorbit neintrebat in timpul Sedintei / Antrenamentului - <span style="color:var(--green);">25,000$</span>
 - caps pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
 - intarziere sedinta / Antrenament / Activitate anuntata - <span style="color:var(--green);">30,000$</span>
-- vorbit neintrebat in timpul Sedintei / Antrenamentului - <span style="color:var(--green);">25,000$</span>
+- spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">35,000$</span>
 - AFK in timpul unei activitati - <span style="color:var(--green);">35,000$</span>
 - parcarea masinilor in curtea HQ-ului astfel incat sa deranjeze circulatia vehiculelor factiunii - <span style="color:var(--green);">50,000$</span> la prima abatere, <span style="color:orange;">Avertisment Verbal + Amenda 50,000$</span> la urmatoarea
 - FVR neanuntat - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de gravitate
-- acordarea serviciilor fara cerinta jucatorului - <span style="color:var(--green);">100,000$</span> + <span style="color:red;">Avertisment Verbal</span>
 - preluarea apelurilor in timpul unui test practic - <span style="color:var(--green);">50,000$</span>
 - FVR cand a anuntat alt coleg rank 5+ - <span style="color:var(--green);">50,000$</span>
+- vopsirea vehiculul de factiune (exceptie ALB sau ROSU) - <span style="color:var(--green);">50,000$</span>
+- echiparea vehiculului de factiune cu NOS sau Hydra - <span style="color:var(--green);">50,000$</span>
+- acordarea serviciilor fara cerinta jucatorului - <span style="color:var(--green);">100,000$</span> + <span style="color:red;">Avertisment Verbal</span>
 
 !!! danger "Important"
     Amenzile pot fi acordate de catre un membru de rank 6+.

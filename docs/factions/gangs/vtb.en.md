@@ -10,7 +10,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - <span style="color:var(--pink);">[/f]</span> - (rank 1) gang chat.
 - <span style="color:var(--pink);">[/fdeposit]</span> - (rank 1) deposit money into the gang safe.
-- <span style="color:var(--pink);">[/fwithdraw]</span> - (Leader) withdraw money from the faction safe.
+- <span style="color:var(--pink);">[/fwithdraw]</span> - (rank established by the leader) withdraw money from the faction safe.
 - <span style="color:var(--pink);">[/fputdrugs]</span> - (rank 1) deposit drugs into the faction safe.
 - <span style="color:var(--pink);">[/fgetdrugs]</span> - (rank 1) withdraw drugs from the faction safe.
 - <span style="color:var(--pink);">[/turfs]</span> - (rank 1) view the gang's territories on the map.
@@ -26,6 +26,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/fvr]</span> - (rank 5) respawn all faction vehicles.
 - <span style="color:var(--pink);">[/ftalkpower]</span> - (rank 5) set the minimum rank to speak in faction chat.
 - <span style="color:var(--pink);">[/fwithdrawpower]</span> - (Leader) modify the rank that can access the faction safe.
+- <span style="color:var(--pink);">[/fputmaterials]</span> - (rank 1) deposit materials in the faction's safe.
+- <span style="color:var(--pink);">[/fgetmaterials]</span> - (rank 1) withdraw materials from the faction's safe.
+- <span style="color:var(--pink);">[/skins]</span> - (rank 1) change the faction skin.
+- <span style="color:var(--pink);">[/setgc]</span> - (Leader) apply a restriction on the faction chat.
+- <span style="color:var(--pink);">[/upcomingwars]</span> - (rank 1) show upcoming wars.
 - <span style="color:var(--pink);">[/order]</span> - (rank 1) buy weapons from HQ.
     - <span style="color:var(--pink);">[/order 1]</span> - (rank 1 / 350 mats) Desert Eagle.
     - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Desert Eagle, M4.

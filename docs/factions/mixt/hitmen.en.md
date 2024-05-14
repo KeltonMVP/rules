@@ -43,8 +43,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - 37 Sparrow - Rank 1.
 - 3 Buffalo - Rank 1.
-- 3 FCR-900 - Rank 4.
-- 1 Sultan - Rank 4.
+- 3 FCR-900 - Rank 2.
+- 1 Sultan - Rank 3.
 - 2 Maverick - Rank 4.
 
 ## 4. Completing Contracts
@@ -55,7 +55,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.2</span> The weapons you can use to carry out a contract are: <span style="color:var(--pink);">Sniper, SD Pistol, and Knife.</span>
 
-<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage or City Hall. You are not allowed to perform contracts in <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage / Training Room or City Hall. You are not allowed to perform contracts in <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
 
 <span style="color:var(--pink);">4.4.1</span> Completing contracts with weapons other than those mentioned above, or using SD Pistol and Knife when the target is not inside a house / faction HQ / clan HQ / business / PD Garage or City Hall will result in <span style="color:red;">your dismissal with 60 FP.</span>
 
