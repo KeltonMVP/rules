@@ -1774,7 +1774,9 @@
 <li><span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).</li>
 <li><span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to medics that can be accepted.</li>
 <li><span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.</li>
-<li><span style="color:var(--pink);">[/corpse]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.</li>
+<li><span style="color:var(--pink);">[/corpse &lt; corpse id &gt;]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.</li>
+<li><span style="color:var(--pink);">[/onduty]</span> - shows members on duty.</li>
+<li><span style="color:var(--pink);">[/members]</span> - shows the list of all faction members.</li>
 </ul>
 <h2 id="2-faction-skins">2. Faction Skins<a class="headerlink" href="#2-faction-skins" title="Permanent link">&para;</a></h2>
 <figure>
@@ -1788,7 +1790,7 @@
 <li>15 Ambulances - Rank 0.</li>
 <li>16 Romero - Rank 1.</li>
 <li>2 Raindance - Rank 3.</li>
-<li>5 Ranger - Rank 3.</li>
+<li>5 Ranger - Rank 4.</li>
 </ul>
 <p><span style="color:var(--pink);">3.1</span> It is forbidden to use ambulances and Romero vehicles for personal purposes (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">3.2</span> Rank 3+ members can use Raindance and Ranger vehicles for personal purposes provided they announce it in the faction chat. Failure to announce will result in them being treated as on-duty members, which may attract sanctions depending on the situation.</p>
@@ -1796,11 +1798,12 @@
 <p><span style="color:var(--pink);">3.4</span> When taking a vehicle from the faction, announce it in the chat [/r Ambulance/Raindance/Ranger/Romero to me] (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">3.5</span> You are required to destroy the service vehicle after you have finished using it (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">3.6</span> When destroying the faction vehicle, announce it in chat [/r Ambulance/Raindace/Ranger/Romero rr] (<span style="color:red;">sanction: Verbal Warning</span>).</p>
-<p><span style="color:var(--pink);">3.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:red;">sanction: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">3.7</span> It is forbidden to equip faction vehicles with NOS or hydraulic systems (<span style="color:orange;">sanction: fine</span>).</p>
 <p><span style="color:var(--pink);">3.8</span> The siren is only to be used if you have an accepted command [<span style="color:var(--pink);">/accept medic</span>] (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">3.9</span> You are allowed to go AFK off-duty in the faction vehicle, but not for more than 120 seconds (2 minutes) (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">3.10</span> You are allowed to go AFK on-duty in the faction vehicle, but not for more than 60 seconds (1 minute) (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">3.11</span> If you are not AFK and not on duty in the faction vehicle, you have 30 seconds to go on duty to avoid receiving a sanction (<span style="color:red;">sanction: Verbal Warning</span>).</p>
+<p><span style="color:var(--pink);">3.12</span> It is forbidden to paint faction vehicles any color other than WHITE or RED (<span style="color:orange;">sanction: fine</span>).</p>
 <h2 id="4-general-rules">4. General Rules<a class="headerlink" href="#4-general-rules" title="Permanent link">&para;</a></h2>
 <p><span style="color:var(--pink);">4.1</span> Faction members can only be sanctioned by members of ranks 5, 6, and the leader (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">4.2</span> It is permitted to possess drugs only when you have a specific active task (<span style="color:orange;">sanction: fine of $50,000</span>).</p>
@@ -1905,16 +1908,18 @@ Activities will only take place on weekends (Saturday or Sunday) between 18:00 -
 <p>The reasons for which a fine will be issued are as follows:</p>
 <ul>
 <li>AFK at HQ or Training Room (interior/exterior) in "<span style="color:var(--pink);">i</span>" if blocking player access - <span style="color:var(--green);">$25,000</span></li>
-<li>spamming on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$35,000</span></li>
+<li>speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span></li>
 <li>writing in all caps on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$30,000</span></li>
 <li>being late at announced meeting / Training / Activity - <span style="color:var(--green);">$30,000</span></li>
-<li>speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span></li>
+<li>spamming on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">$35,000</span></li>
 <li>being AFK during an activity - <span style="color:var(--green);">$35,000</span></li>
 <li>parking vehicles in HQ courtyard in a way that obstructs faction vehicle traffic - <span style="color:var(--green);">$50,000</span> for the first offense, <span style="color:orange;">Verbal Warning + Fine $50,000</span> for subsequent offenses</li>
 <li>unannounced FVR - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity</li>
-<li>providing services without player request - <span style="color:var(--green);">$100,000</span> + <span style="color:red;">Verbal Warning</span></li>
 <li>taking calls during a practical test - <span style="color:var(--green);">$50,000</span></li>
 <li>unannounced FVR when another colleague rank 5+ announced - <span style="color:var(--green);">$50,000</span></li>
+<li>painting a faction vehicle (except WHITE or RED) - <span style="color:var(--green);">$50,000</span></li>
+<li>equipping a faction vehicle with NOS or Hydra - <span style="color:var(--green);">$50,000</span></li>
+<li>providing services without player request - <span style="color:var(--green);">$100,000</span> + <span style="color:red;">Verbal Warning</span></li>
 </ul>
 <div class="admonition danger">
 <p class="admonition-title">Important</p>
@@ -1968,7 +1973,7 @@ You are no longer obliged to refund allied faction members if they refuse.</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 9, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 14, 2024</span>
   </span>
 
     
