@@ -21,10 +21,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii. 
 - <span style="color:var(--pink);">[/tog Hitman Contracts]</span> - activeaza/dezactiveaza mesajele legate de contracte.
 - <span style="color:var(--pink);">[/portable]</span> - deschizi laptopul agentiei (trebuie sa fii conectat pentru a putea folosi comenzi specifice).
-    - <span style="color:var(--pink);">[MyContract]</span> - arata tinta pe care o ai.
+    - <span style="color:var(--pink);">[MyContract]</span> - arata detalii cu privire la tinta, precum: nume, ID, nivel, factiune daca e cazul, job, timpul de inchisoare daca e cazul.
     - <span style="color:var(--pink);">[Gethit]</span> - preiei un contract.
     - <span style="color:var(--pink);">[Leavehit]</span> - anulezi un contract.
     - <span style="color:var(--pink);">[Order]</span> - comanzi un pachet de arme in functie de rank.
+        - Order 1: (rank 1) Knife, SD Pistol, MP5, Sniper.
+        - Order 2: (rank 2+) Knife, SD Pistol, MP5, M4, Sniper.
+        - Order 3: (rank 2+) Knife, SD Pistol, MP5, AK47, Sniper.
     - <span style="color:var(--pink);">[Ranks]</span> - afiseaza membrii online si rankul acestora.
     - <span style="color:var(--pink);">[Undercover]</span> - iti asigura identitatea secreta pentru realizarea unui contract.
     - <span style="color:var(--pink);">[Logout]</span> - te deconectezi de la laptopul agentiei.
@@ -110,9 +113,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.2</span> Dupa efectuarea unui contract trebuie sa asteptati o perioada de timp (aceasta perioada depinde de distanta si de modul cum a fost efectuat contractul) pana puteti lua alt contract. Aceste perioade si moduri de efectuare sunt:
 
-- pentru contractul efectuat intre <span style="color:var(--pink);">150.0m si 199.9m,</span> timpul de asteptare este de 15 minute.
-- pentru contractul efectuat intre <span style="color:var(--pink);">200.0m si 249.9m,</span> timpul de asteptare este de 10 minute.
-- pentru contractul efectuat intre <span style="color:var(--pink);">250.0m si 299.9m</span> sau in cazul in care tinta se sinucide (de la 150.0m pana la 299.9m), timpul de asteptare este de 5 minute.
+- pentru contractul efectuat intre <span style="color:var(--pink);">150.0m si 1911.9m,</span> timpul de asteptare este de 15 minute.
+- pentru contractul efectuat intre <span style="color:var(--pink);">200.0m si 2411.9m,</span> timpul de asteptare este de 10 minute.
+- pentru contractul efectuat intre <span style="color:var(--pink);">250.0m si 2911.9m</span> sau in cazul in care tinta se sinucide (de la 150.0m pana la 2911.9m), timpul de asteptare este de 5 minute.
 - daca contractul a fost efectuat de la o distanta <span style="color:var(--pink);">mai mare de 300m</span> sau cu Knife/SD Pistol, agentul poate sa ia automat un alt contract.
 
 ### Leavehit
@@ -169,21 +172,60 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 !!! example "Nota informativa"
     Daca se dovedeste ca s-a dat [<span style="color:var(--pink);">/fvr</span>] special pentru a incurcat membrul, se aplica sanctiunea pentru abuz de [<span style="color:var(--pink);">/fvr</span>].
 
-## 9. Altele
+## 9. Blacklistul
 
-<span style="color:var(--pink);">9.1</span> Atunci cand un agent are Wanted 6 (fara drept de predare), aceste are obligatia de a nu sta in HQ deoarece exista posibilitatea de a fi si alte victime.
+<span style="color:var(--pink);">9.1</span> Puteti face drive-by ca pasager asupra jucatorilor aflati pe blacklist.
 
-<span style="color:var(--pink);">9.2</span> Este recomandat ca agentii sa faca poza la fiecare contract indeplinit pentru a nu se crea conflicte, sau in cazul in care vor fi reclamati.
+<span style="color:var(--pink);">9.2</span> Puteti folosi Sultan sau Maverick la urmarirea jucatorilor aflati pe blacklist (pentru Maverick trebuie sa fiti insotiti de un rank 4).
 
-<span style="color:var(--pink);">9.3</span> Folosirea armelor silent, Sniper si Knife pentru auto-aparare (pe COPS) va fi sanctionata cu <span style="color:red;">demitere cu FP.</span>
+<span style="color:var(--pink);">9.3</span> Explicati scurt si clar motivul uciderii unui jucator aflat pe blacklist daca intreaba de ce a fost omorat.
 
-<span style="color:var(--pink);">9.4</span> Absentarea de la activitati sau sedinta fara invoire va fi sanctionata cu <span style="color:red;">Faction Warn.</span> Intarzierea la activitati sau sedinte se sanctioneaza in felul urmator:
+<span style="color:var(--pink);">9.4</span> In urmarirea unui jucator aflat pe blacklist anuntati-l ca e pe blacklist si ca poate plati blacklistul prin comanda [<span style="color:var(--pink);">/mybl</span>].
+
+## 10. The Silent One
+
+<span style="color:var(--pink);">10.1</span> The Silent One (TSO) este o competitie <span style="color:var(--pink);">OBLIGATORIE</span> pentru agentii de rank 1-5 ce se desfasoare saptamanal. Participarea se face pe forum in topicul [The Silent One](https://forum.b-zone.ro/topic/31863--).
+
+<span style="color:var(--pink);">10.1.1</span> Neparticiparea la concurs sau postarea unei poze incorecte se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea.
+
+<span style="color:var(--pink);">10.1.2</span> Pentru membrii cu raport optional sau inactivitate, participarea la TSO este optionala.
+
+<span style="color:var(--pink);">10.2</span> Ca un contract TSO sa fie considerat corect trebuie sa indeplineasca urmatoarele conditii:
+
+- distanta minima de 300 metri.
+- poza sa fie cu tinta pusa.
+- timestamp-ul trebuie sa fie activat, folositi [<span style="color:var(--pink);">/timestamp</span>] pentru a-l activa.
+- sa fiti pe aceeasi linie pe minimap cu tinta ([asa da](https://imgur.com/a/KJrHsqO) / [asa nu](https://imgur.com/a/jgKWSvV)).
+- distanta de pe [<span style="color:var(--pink);">/find</span>] sa corespunda cu distanta de la mesajul informativ ca ati realizat contractul (<span style="color:var(--pink);">*</span>).
+
+!!! example "Nota informativa"
+    Aveti aici [cateva exemple](https://imgur.com/a/RkMvfUC) de contracte corecte, pentru a va da seama cum ar trebui sa arate.
+
+<span style="color:var(--pink);">10.2.1</span> Exista situatii sa nu corespunda distanta de pe [<span style="color:var(--pink);">/find</span>] cu cea de realizare a contractului atunci cand tinta e in miscare. Contractul va fi considerat valid cat timp pe minimap tinta se afla pe aceeasi linie cu voi ([exemplu](https://imgur.com/a/mzmuBra)).
+
+<span style="color:var(--pink);">10.2.2</span> Exista situatii sa nu se vada tinta dupa ce o omorati. Contractul va fi considerat valid cat timp pe minimap tinta se afla pe aceeasi linie cu voi ([exemplu](https://imgur.com/a/viBDRbF)).
+
+<span style="color:var(--pink);">10.2.3</span> Damage-ul informativ nu este obligatoriu, insa este recomandat sa-l aveti activat.
+
+<span style="color:var(--pink);">10.3</span> Contractele pentru editia curenta de TSO se posteaza <span style="color:var(--pink);">DOAR</span> dupa ce sunt postate rezultatele editiei precedente (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+
+<span style="color:var(--pink);">10.4</span> Puteti edita postarea de pe forum pentru a modifica poza cu contractul, atata timp cat va permite forumul optiunea de editare. Daca aceasta nu e disponibila puteti discuta cu liderul sa va editeze postarea daca doreste.
+
+## 11. Altele
+
+<span style="color:var(--pink);">11.1</span> Atunci cand un agent are Wanted 6 (fara drept de predare), aceste are obligatia de a nu sta in HQ deoarece exista posibilitatea de a fi si alte victime.
+
+<span style="color:var(--pink);">11.2</span> Este recomandat ca agentii sa faca poza la fiecare contract indeplinit pentru a nu se crea conflicte, sau in cazul in care vor fi reclamati.
+
+<span style="color:var(--pink);">11.3</span> Folosirea armelor silent, Sniper si Knife pentru auto-aparare (pe COPS) va fi sanctionata cu <span style="color:red;">demitere cu FP.</span>
+
+<span style="color:var(--pink);">11.4</span> Absentarea de la activitati sau sedinta fara invoire va fi sanctionata cu <span style="color:red;">Faction Warn.</span> Intarzierea la activitati sau sedinte se sanctioneaza in felul urmator:
 
 - intarziere sub 10 minute - <span style="color:var(--green);">nimic</span>
 - intarziere de 10-20 de minute - <span style="color:orange;">Avertisment verbal (AV)</span>
 - intarziere de 20-30 minute - <span style="color:orange;">Avertisment verbal (AV)</span> + <span style="color:var(--green);">50.000$ amenda</span>
 - intarziere de 30+ minute - <span style="color:red;">Faction Warn (FW)</span>
 
-<span style="color:var(--pink);">9.5</span> Deathmatch-ul fara a avea contract va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">11.5</span> Deathmatch-ul fara a avea contract va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">9.6</span> Contractele facute intentionat cu [<span style="color:var(--pink);">/turn on</span>] sau altceva, pentru a fi efectuat de la distante pentru poze, gen 69.0m vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">11.6</span> Contractele facute intentionat cu [<span style="color:var(--pink);">/turn on</span>] sau altceva, pentru a fi efectuat de la distante pentru poze, gen 611.0m vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>

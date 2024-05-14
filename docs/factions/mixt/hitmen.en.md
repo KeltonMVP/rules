@@ -21,10 +21,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction blacklist.
 - <span style="color:var(--pink);">[/tog Hitman Contracts]</span> - toggles hitman contract messages on/off.
 - <span style="color:var(--pink);">[/portable]</span> - opens the agency's laptop (you must be connected to use specific commands).
-    - <span style="color:var(--pink);">[MyContract]</span> - shows your target.
+    - <span style="color:var(--pink);">[MyContract]</span> - shows details about the target, such as: name, ID, level, faction if applicable, job, and jail time if applicable.
     - <span style="color:var(--pink);">[Gethit]</span> - takes a contract.
     - <span style="color:var(--pink);">[Leavehit]</span> - cancels a contract.
     - <span style="color:var(--pink);">[Order]</span> - orders a package of weapons based on rank.
+        - Order 1: (rank 1) Knife, SD Pistol, MP5, Sniper.
+        - Order 2: (rank 2+) Knife, SD Pistol, MP5, M4, Sniper.
+        - Order 3: (rank 2+) Knife, SD Pistol, MP5, AK47, Sniper.
     - <span style="color:var(--pink);">[Ranks]</span> - displays online members and their ranks.
     - <span style="color:var(--pink);">[Undercover]</span> - ensures your secret identity for contract execution.
     - <span style="color:var(--pink);">[Logout]</span> - logs you out from the agency's laptop.
@@ -110,9 +113,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.2</span> After completing a contract, you must wait for a certain period of time (this period depends on the distance and how the contract was executed) before you can take another contract. These waiting periods and execution methods are as follows:
 
-- for contracts executed between <span style="color:var(--pink);">150.0m and 199.9m,</span> the waiting time is 15 minutes.
-- for contracts executed between <span style="color:var(--pink);">200.0m and 249.9m,</span> the waiting time is 10 minutes.
-- for contracts executed between <span style="color:var(--pink);">250.0m and 299.9m</span> or in the case where the target commits suicide (from 150.0m to 299.9m), the waiting time is 5 minutes.
+- for contracts executed between <span style="color:var(--pink);">150.0m and 1911.9m,</span> the waiting time is 15 minutes.
+- for contracts executed between <span style="color:var(--pink);">200.0m and 2411.9m,</span> the waiting time is 10 minutes.
+- for contracts executed between <span style="color:var(--pink);">250.0m and 2911.9m</span> or in the case where the target commits suicide (from 150.0m to 2911.9m), the waiting time is 5 minutes.
 - if the contract was executed from a distance <span style="color:var(--pink);">greater than 300m</span> or with a Knife/SD Pistol, the agent can automatically take another contract.
 
 ### Leavehit
@@ -169,21 +172,60 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 !!! example "Info note"
     If it is proven that [<span style="color:var(--pink);">/fvr</span>] was deliberately used to hinder the member, the sanction for abuse of [<span style="color:var(--pink);">/fvr</span>] applies.
 
-## 9. Others
+## 9. Blacklist
 
-<span style="color:var(--pink);">9.1</span> When an agent has Wanted 6 (no surrender rights), they are obligated not to stay at the HQ because there is a possibility of other victims.
+<span style="color:var(--pink);">9.1</span> You can perform a drive-by as a passenger on players who are on the blacklist.
 
-<span style="color:var(--pink);">9.2</span> It is recommended that agents take a picture after each completed contract to avoid conflicts, or in case they are reported.
+<span style="color:var(--pink);">9.2</span> You can use a Sultan or Maverick to chase players on the blacklist (for the Maverick, you must be accompanied by a rank 4).
 
-<span style="color:var(--pink);">9.3</span> The use of silent weapons, Sniper and Knife for self-defense (against COPS) will be punished with <span style="color:red;">dismissal with FP.</span>
+<span style="color:var(--pink);">9.3</span> Briefly and clearly explain the reason for killing a player on the blacklist if they ask why they were killed.
 
-<span style="color:var(--pink);">9.4</span> Absence from activities or meetings without permission will be sanctioned with <span style="color:red;">Faction Warn.</span> being late to activities or meetings is sanctioned as follows:
+<span style="color:var(--pink);">9.4</span> When chasing a player on the blacklist, inform them that they are on the blacklist and that they can pay off the blacklist using the command [<span style="color:var(--pink);">/mybl</span>].
+
+## 10. The Silent One
+
+<span style="color:var(--pink);">10.1</span> The Silent One (TSO) is a <span style="color:var(--pink);">MANDATORY</span> competition for agents ranked 1-5 that takes place weekly. Participation is done on the forum in the topic [The Silent One](https://forum.b-zone.ro/topic/31863--).
+
+<span style="color:var(--pink);">10.1.1</span> Failure to participate in the contest or posting an incorrect picture will be sanctioned with a <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
+<span style="color:var(--pink);">10.1.2</span> For members with optional reports or inactivity, participation in TSO is optional.
+
+<span style="color:var(--pink);">10.2</span> For a TSO contract to be considered valid, it must meet the following conditions:
+
+- minimum distance of 300 meters.
+- the picture must have the target locked.
+- timestamp must be activated, use [<span style="color:var(--pink);">/timestamp</span>] to activate it.
+- you must be aligned with the target on the minimap ([example of correct alignment](https://imgur.com/a/KJrHsqO) / [example of incorrect alignment](https://imgur.com/a/jgKWSvV)).
+- the distance on [<span style="color:var(--pink);">/find</span>] must match the distance in the informational message that the contract was completed (<span style="color:var(--pink);">*</span>).
+
+!!! example "Info Note"
+    Here are [some examples](https://imgur.com/a/RkMvfUC) of valid contracts to show how they should look.
+
+<span style="color:var(--pink);">10.2.1</span> There are situations where the distance on [<span style="color:var(--pink);">/find</span>] does not match the completion distance if the target is moving. The contract will be considered valid as long as the target is aligned with you on the minimap ([example](https://imgur.com/a/mzmuBra)).
+
+<span style="color:var(--pink);">10.2.2</span> There are situations where the target is not visible after you kill them. The contract will be considered valid as long as the target is aligned with you on the minimap ([example](https://imgur.com/a/viBDRbF)).
+
+<span style="color:var(--pink);">10.2.3</span> Informative damage is not mandatory but is recommended to have it activated.
+
+<span style="color:var(--pink);">10.3</span> Contracts for the current edition of TSO can be posted <span style="color:var(--pink);">ONLY</span> after the results of the previous edition are posted (<span style="color:red;">sanction: Verbal Warning</span>).
+
+<span style="color:var(--pink);">10.4</span> You can edit your forum post to modify the picture with the contract as long as the forum allows the editing option. If it is not available, you can discuss with the leader to edit your post if they agree.
+
+## 11. Others
+
+<span style="color:var(--pink);">11.1</span> When an agent has Wanted 6 (no surrender rights), they are obligated not to stay at the HQ because there is a possibility of other victims.
+
+<span style="color:var(--pink);">11.2</span> It is recommended that agents take a picture after each completed contract to avoid conflicts, or in case they are reported.
+
+<span style="color:var(--pink);">11.3</span> The use of silent weapons, Sniper and Knife for self-defense (against COPS) will be punished with <span style="color:red;">dismissal with FP.</span>
+
+<span style="color:var(--pink);">11.4</span> Absence from activities or meetings without permission will be sanctioned with <span style="color:red;">Faction Warn.</span> being late to activities or meetings is sanctioned as follows:
 
 - being late under 10 minutes - <span style="color:var(--green);">nothing</span>
 - being late for 10-20 minutes - <span style="color:orange;">Verbal Warning (VW)</span>
 - being late for 20-30 minutes - <span style="color:orange;">Verbal Warning (VW)</span> + <span style="color:var(--green);">$50,000 fine</span>
 - being late for 30+ minutes - <span style="color:red;">Faction Warn (FW)</span>
 
-<span style="color:var(--pink);">9.5</span> Deathmatching without having a contract will be sanctioned with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">11.5</span> Deathmatching without having a contract will be sanctioned with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">9.6</span> Contracts deliberately made with [<span style="color:var(--pink);">/turn on</span>] or other means to be carried out from distances for pictures, like 69.0m, will be sanctioned with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">11.6</span> Contracts deliberately made with [<span style="color:var(--pink);">/turn on</span>] or other means to be carried out from distances for pictures, like 611.0m, will be sanctioned with <span style="color:red;">Faction Warn.</span>
