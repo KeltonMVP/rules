@@ -1445,9 +1445,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#10-others" class="md-nav__link">
+  <a href="#10-fines" class="md-nav__link">
     <span class="md-ellipsis">
-      10. Others
+      10. Fines
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-others" class="md-nav__link">
+    <span class="md-ellipsis">
+      11. Others
     </span>
   </a>
   
@@ -1737,9 +1746,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#10-others" class="md-nav__link">
+  <a href="#10-fines" class="md-nav__link">
     <span class="md-ellipsis">
-      10. Others
+      10. Fines
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-others" class="md-nav__link">
+    <span class="md-ellipsis">
+      11. Others
     </span>
   </a>
   
@@ -1784,6 +1802,25 @@
 <li><span style="color:var(--pink);">[/lawyer &lt; id &gt; &lt; price &gt;]</span> - you sell release warrants (you need 15 points for a warrant).</li>
 <li><span style="color:var(--pink);">[/acceptpoints]</span> - you find out how many points you have for selling warrants.</li>
 <li><span style="color:var(--pink);">[/gov &lt; text &gt;]</span> - governmental global chat used only for important announcements.</li>
+<li><span style="color:var(--pink);">[/members]</span> - shows the list of all faction members.</li>
+<li><span style="color:var(--pink);">[/onduty]</span> - shows members on duty.</li>
+<li><span style="color:var(--pink);">[/fvr]</span> - respawns faction vehicles.</li>
+<li><span style="color:var(--pink);">[/skins]</span> - allows changing the skin.</li>
+<li><span style="color:var(--pink);">[/uncuff <id>]</span> - uncuffs a player.</li>
+<li><span style="color:var(--pink);">[/backup]</span> - calls for reinforcements to the current location.</li>
+<li><span style="color:var(--pink);">[/cbackup]</span> - cancels the call for reinforcements.</li>
+<li><span style="color:var(--pink);">[/opengate <gate id>]</span> - opens a gate in Jail.</li>
+<li><span style="color:var(--pink);">[/jaillist]</span> - displays a list of prisoners in Jail.</li>
+<li><span style="color:var(--pink);">[/untie <id>]</span> - releases a player from [<span style="color:var(--pink);">/tie</span>].</li>
+<li><span style="color:var(--pink);">[/fvs]</span> - spawns a faction vehicle.</li>
+<li><span style="color:var(--pink);">[/ftalkpower <Rank 0 - 5>]</span> - applies a restriction on faction chat.</li>
+<li><span style="color:var(--pink);">[/shield <Buy/Attach/Remove>]</span> - buys/attaches/removes the protective shield.</li>
+<li><span style="color:var(--pink);">[/tduty]</span> - goes on duty as a Tester.</li>
+<li><span style="color:var(--pink);">[/copguns]</span> - sets pre-determined weapons for [<span style="color:var(--pink);">/duty</span>].</li>
+<li><span style="color:var(--pink);">[/opencell <cell id>]</span> - opens a cell.</li>
+<li><span style="color:var(--pink);">[/closecell <cell id>]</span> - closes a cell.</li>
+<li><span style="color:var(--pink);">[/opencellsall]</span> - opens all cells.</li>
+<li><span style="color:var(--pink);">[/closecellsall]</span> - closes all cells.</li>
 </ul>
 <h2 id="2-faction-skins">2. Faction Skins<a class="headerlink" href="#2-faction-skins" title="Permanent link">&para;</a></h2>
 <figure>
@@ -1795,12 +1832,12 @@
     <img alt="National Guard vehicles" src="../../../../images/ng-vehicles.png" width="1000&quot;" />
 </figure>
 <ul>
-<li>20 Patriot - Rank 1.</li>
-<li>17 Police Car - Rank 1.</li>
+<li>20 Patriot - Rank 0.</li>
+<li>17 Police Car - Rank 0.</li>
 <li>2 Predator - Rank 1.</li>
 <li>3 NRG - Rank 2.</li>
 <li>7 Turismo - Rank 2.</li>
-<li>1 Maverick - Rank 2.</li>
+<li>1 NG Maverick - Rank 2.</li>
 <li>2 Rustler - Rank 2.</li>
 <li>3 Hunter - Rank 3.</li>
 <li>3 Barracks - Rank 4.</li>
@@ -1818,7 +1855,11 @@
 <p><span style="color:var(--pink);">4.1.3</span> Civilians without wanted status are not allowed to go to the cell area.</p>
 <p><span style="color:var(--pink);">4.1.4</span> The Governmental Area is considered the part between Gate 1 and Gate 2, individuals in this area <span style="color:var(--pink);">will be warned three times, and one minute will be waited from the last warning.</span> Individuals crossing Gate 2 will receive a wanted level 2 "<span style="color:var(--pink);">Governmental Area</span>" without warning, being considered detainees (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">4.1.5</span> Individuals in the first room without reason <span style="color:var(--pink);">will be warned three times + one minute will be waited from the last warning,</span> otherwise they receive a wanted level 2 "<span style="color:var(--pink);">Disobeying Order</span>" (<span style="color:red;">sanction: Faction Warn</span>).</p>
-<p><span style="color:var(--pink);">4.1.6</span> You are allowed to arrest suspects who come alone and surrender regardless of their wanted level, provided you check their [<span style="color:var(--pink);">/mdc</span>] (on the "i" where clear is given) for surrender rights, and then ask on [<span style="color:var(--pink);">/d</span>] if the suspect is not with anyone.</p>
+<p><span style="color:var(--pink);">4.1.16</span> Cells will automatically open by script at :00 and :30, and will also automatically close by script at :10 and :40.</p>
+<div class="admonition example">
+<p class="admonition-title">Info Note</p>
+<p>The cell opening schedule is between 08:00 and 02:00, opening automatically by script.</p>
+</div>
 <p><span style="color:var(--pink);">4.1.7</span> If there is a PD / FBI / National Guard member at Jail and a suspect with any wanted level arrives, the National Guard member has priority to arrest them. If there are no National Guard members at Jail (during arrest, in cells, or in the Yard), then PD / FBI has the right to arrest any wanted individual inside the Jail.</p>
 <p><span style="color:var(--pink);">4.1.8</span> When someone finds a suspect at Jail, ask on [<span style="color:var(--pink);">/d</span>]: [suspect's name] is with someone?. If someone answers "Yes", then you must hand over the suspect to the person who answered.</p>
 <p><span style="color:var(--pink);">4.1.9</span> PD, FBI, and National Guard must use [<span style="color:var(--pink);">/duty</span>] in the Armory or at home to be able to use any police-specific commands (including driving police cars, armor at [<span style="color:var(--pink);">/heal</span>]).</p>
@@ -1836,14 +1877,14 @@
 <p><span style="color:var(--pink);">4.1.17</span> A maximum of 4 guards can enter the Jail courtyard.</p>
 <p><span style="color:var(--pink);">4.1.18</span> To catch players escaping, the National Guard member must be near the person or persons trying to escape. If they are close enough to them, they will automatically enter Jail with the maximum sentence, and the National Guard member will receive a message on the screen about this.</p>
 <p><span style="color:var(--pink);">4.1.19</span> If the player or players manage to escape from Jail, they will receive a temporary Wanted level 6, during which National Guard members (Rank 2+) or any other member of the Police Departments can go after them and kill them.</p>
-<p><span style="color:var(--pink);">4.1.20</span> There is a one-minute limit until the Departments are alerted that someone has escaped, during which the suspects remain with the Jail skin and do not receive a wanted level. You are not allowed to kill them before receiving the wanted level for escape. If the suspects are killed, they enter Jail with the maximum sentence.</p>
+<p><span style="color:var(--pink);">4.1.20</span> There is a one-minute delay before the Departments are alerted that someone has escaped, during which time the suspects remain with the Jail skin and do not receive a wanted level. You are not allowed to kill them before they receive the wanted level for escaping. If the suspects are killed by other players or die on their own before receiving the wanted level for escaping, they automatically go back to Jail with the maximum sentence.</p>
 <p><span style="color:var(--pink);">4.1.21</span> Giving [<span style="color:var(--pink);">/punish</span>] without reason is not allowed. Any [<span style="color:var(--pink);">/punish</span>] must have a well-founded reason and should only be given after pictures/videos have been taken showing a rule violation (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">4.1.22</span> If someone intentionally gives [<span style="color:var(--pink);">/punish</span>] to those attempting to escape specifically to stop them from doing so (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">4.1.23</span> The only way to stop players from escaping is to be near them when they attempt to escape.</p>
 <p><span style="color:var(--pink);">4.1.24</span> You are not allowed to kill detainees without reason (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">4.1.25</span> To administer [<span style="color:var(--pink);">/punish</span>] to a detainee, they must attack you with their fists at least <span style="color:var(--pink);">2-3 times.</span></p>
 <p><span style="color:var(--pink);">4.1.26</span> To administer [<span style="color:var(--pink);">/punish</span>], a detainee must hit the bars with their fists at least <span style="color:var(--pink);">2-3 times.</span></p>
-<p><span style="color:var(--pink);">4.1.27</span> [<span style="color:var(--pink);">/punish</span>] can be given if a detainee insults you (<span style="color:red;">sanction: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">4.1.27</span> [<span style="color:var(--pink);">/punish</span>] can be given if a detainee insults you (for insults examples see <a href="../../../#4-language">Server Rules &gt; Unpunishable Language</a>) (<span style="color:red;">sanction: Faction Warn</span>).</p>
 <p><span style="color:var(--pink);">4.1.28</span> In Jail, National Guard members have the right to use the [<span style="color:var(--pink);">/frisk</span>] command on any civilian who enters, whether they have a wanted level or not, except those without surrender rights. If you find weapons or drugs on the civilian, you are allowed to confiscate them, explaining "<span style="color:var(--pink);">You entered with weapons on Governmental Area</span>" or "<span style="color:var(--pink);">You had drugs on you</span>".</p>
 <p><span style="color:var(--pink);">4.1.29</span> In jail, National Guard members can confiscate drugs from all individuals inside it.</p>
 <p><span style="color:var(--pink);">4.1.30</span> In this mode, you can see the names of the detainees in JAIL [ <a href="https://www.youtube.com/watch?v=CwPMliiHVIU">CLICK HERE</a> ].</p>
@@ -1905,11 +1946,29 @@
 <p>Leaders and subleaders are exceptions, along with any special situations that may arise, established by the leadership, in which this may be tolerated, applied immediately as needed.</p>
 </div>
 <p><span style="color:var(--pink);">9.4</span> In recruitment cases where each candidate is assigned one or more testers, the testers are not allowed to test anyone other than the candidates they have been assigned to. The exception is rank 6; they can test any candidate at any time (<span style="color:red;">sanction: Rank Down + removal from tester position</span>).</p>
-<h2 id="10-others">10. Others<a class="headerlink" href="#10-others" title="Permanent link">&para;</a></h2>
-<p><span style="color:var(--pink);">10.1</span> If a faction member sends private messages (PMs) solely to disrupt a colleague, the member will be warned in advance by the leader to cease the PMs, and they will be ignored. Subsequent infractions will be punished with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">Dismissal</span> (if necessary).</p>
-<p><span style="color:var(--pink);">10.2</span> To join the National Guard, you need a Detective skill level of 5.</p>
-<p><span style="color:var(--pink);">10.3</span> Making negative generalizations about other departments or colleagues, regardless of existing issues, is prohibited. Violation of this rule will be sanctioned with a <span style="color:red;">Faction Warn</span> or <span style="color:red;">Dismissal</span>, depending on the circumstances and the number of previous infractions.</p>
-<p><span style="color:var(--pink);">10.4</span> Any player accepted to conduct tests must behave decently. If they insult or exhibit inappropriate behavior towards a faction member, they are automatically rejected without the right to conduct faction entry tests anymore.</p>
+<h2 id="10-fines">10. Fines<a class="headerlink" href="#10-fines" title="Permanent link">&para;</a></h2>
+<p><span style="color:var(--pink);">10.1</span> These fines will be awarded in-game using the [<span style="color:var(--pink);">/fines</span>] system only by the leader or subleaders when necessary based on clear evidence. These fines can be paid within a maximum of 48 hours from the time they were received. Members who do not pay the active fines using the [<span style="color:var(--pink);">/fines</span>] command within 48 hours of receiving them will be automatically sanctioned by the server with <span style="color:red;">Faction Warn</span>.</p>
+<ul>
+<li>Illegal parking - <span style="color:var(--green);">30,000$</span></li>
+<li>Reckless driving - <span style="color:var(--green);">35,000$</span></li>
+<li>Using hydraulics on a public road - <span style="color:var(--green);">100,000$</span></li>
+<li>Using NOS - <span style="color:var(--green);">100,000$</span></li>
+<li>Exceeding legal speed between 50-100 km/h - pay fine to the police officer in-game</li>
+<li>Exceeding legal speed over 100 km/h - pay fine to the police officer in-game</li>
+<li>Headlights off - <span style="color:var(--green);">30,000$</span></li>
+<li>Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated</li>
+<li>Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span></li>
+<li>Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">75,000$</span></li>
+<li>Excessive use of emoticons on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span></li>
+<li>Spam on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span></li>
+<li>Vehicle parked in the faction's vehicle spot or blocking entry/exit with them - <span style="color:var(--green);">50,000$</span></li>
+<li>Excessive use of the [<span style="color:var(--pink);">/FVS</span>] command when not needed, e.g., activity, parade, checkpoint - <span style="color:var(--green);">75,000$</span></li>
+</ul>
+<h2 id="11-others">11. Others<a class="headerlink" href="#11-others" title="Permanent link">&para;</a></h2>
+<p><span style="color:var(--pink);">11.1</span> If a faction member sends private messages (PMs) solely to disrupt a colleague, the member will be warned in advance by the leader to cease the PMs, and they will be ignored. Subsequent infractions will be punished with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">Dismissal</span> (if necessary).</p>
+<p><span style="color:var(--pink);">11.2</span> To join the National Guard, you need a Detective skill level of 5.</p>
+<p><span style="color:var(--pink);">11.3</span> Making negative generalizations about other departments or colleagues, regardless of existing issues, is prohibited. Violation of this rule will be sanctioned with a <span style="color:red;">Faction Warn</span> or <span style="color:red;">Dismissal</span>, depending on the circumstances and the number of previous infractions.</p>
+<p><span style="color:var(--pink);">11.4</span> Any player accepted to conduct tests must behave decently. If they insult or exhibit inappropriate behavior towards a faction member, they are automatically rejected without the right to conduct faction entry tests anymore.</p>
 
 
 
@@ -1932,7 +1991,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 2, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 15, 2024</span>
   </span>
 
     
