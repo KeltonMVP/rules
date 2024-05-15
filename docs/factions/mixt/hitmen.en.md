@@ -52,6 +52,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 4. Completing Contracts
 
+!!! example "Info Note"
+    The steps to take a contract are as follows: [<span style="color:var(--pink);">/portable</span>], gethit, order, undercover, [<span style="color:var(--pink);">/find</span>].
+
 <span style="color:var(--pink);">4.1</span> Each contract must be performed silently.
 
 <span style="color:var(--pink);">4.1.1</span> Silent mode represents carrying out a contract from a long distance, from a location where you cannot be seen by anyone, using a sniper rifle.
@@ -90,6 +93,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">4.15</span> Cheating or assisting a colleague in cheating the activity report is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
 
 <span style="color:var(--pink);">4.16</span> An agent is not allowed to reveal their identity while <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.17</span> You are allowed to have colleagues with you on G during contracts.
 
 ### Identity Disclosure + Sanction
 
@@ -227,5 +232,3 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - being late for 30+ minutes - <span style="color:red;">Faction Warn (FW)</span>
 
 <span style="color:var(--pink);">11.5</span> Deathmatching without having a contract will be sanctioned with <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">11.6</span> Contracts deliberately made with [<span style="color:var(--pink);">/turn on</span>] or other means to be carried out from distances for pictures, like 611.0m, will be sanctioned with <span style="color:red;">Faction Warn.</span>

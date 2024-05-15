@@ -28,6 +28,25 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/lawyer < id > < pret >]</span> - vinzi mandate de eliberare (ai nevoie de 15 puncte pentru un mandat).
 - <span style="color:var(--pink);">[/acceptpoints]</span> - afli cate puncte detii pentru a vinde mandate.
 - <span style="color:var(--pink);">[/gov < text >]</span> - chatul global guvernamental folosit doar pentru anunturi importante.
+- <span style="color:var(--pink);">[/members]</span> - arata lista cu toti membrii factiunii.
+- <span style="color:var(--pink);">[/onduty]</span> - arata membrii aflati la datorie.
+- <span style="color:var(--pink);">[/fvr]</span> - respawneaza vehiculele factiunii.
+- <span style="color:var(--pink);">[/skins]</span> - permite schimbarea skinului.
+- <span style="color:var(--pink);">[/uncuff < id >]</span> - descatusezi un jucator.
+- <span style="color:var(--pink);">[/backup]</span> - chemi intariri la locatia curenta.
+- <span style="color:var(--pink);">[/cbackup]</span> - anulezi intaririle.
+- <span style="color:var(--pink);">[/opengate < gate id >]</span> - deschizi o poarta din Jail.
+- <span style="color:var(--pink);">[/jaillist]</span> - afiseaza o lista cu prizonierii din Jail.
+- <span style="color:var(--pink);">[/untie < id >]</span> - elibereaza un jucator din [<span style="color:var(--pink);">/tie</span>].
+- <span style="color:var(--pink);">[/fvs]</span> - spawnezi un vehicul de factiune.
+- <span style="color:var(--pink);">[/ftalkpower < Rank 0 - 5 >]</span> - aplica o restrictie pe chatul factiunii.
+- <span style="color:var(--pink);">[/shield < Buy/Attach/Remove >]</span> - cumperi/pui/stergi scutul de protectie.
+- <span style="color:var(--pink);">[/tduty]</span> - te pui la datorie ca Tester.
+- <span style="color:var(--pink);">[/copguns]</span> - setezi arme prestabilite pentru [<span style="color:var(--pink);">/duty</span>].
+- <span style="color:var(--pink);">[/opencell < id celula >]</span> - deschizi o celula.
+- <span style="color:var(--pink);">[/closecell < id celula >]</span> - inchizi o celula.
+- <span style="color:var(--pink);">[/opencellsall]</span> - deschizi toate celulele.
+- <span style="color:var(--pink);">[/closecellsall]</span> - inchizi toate celulele.
 
 ## 2. Skinurile Factiunii
 
@@ -43,12 +62,12 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     ![vehicule National Guard](../../images/ng-vehicles.png){ width=1000" }
 </figure>
 
-- 20 Patriot - Rank 1.
-- 17 Police Car - Rank 1.
+- 20 Patriot - Rank 0.
+- 17 Police Car - Rank 0.
 - 2 Predator - Rank 1.
 - 3 NRG - Rank 2.
 - 7 Turismo - Rank 2.
-- 1 Maverick - Rank 2.
+- 1 NG Maverick - Rank 2.
 - 2 Rustler - Rank 2.
 - 3 Hunter - Rank 3.
 - 3 Barracks - Rank 4.
@@ -101,7 +120,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.1.15</span> Cei care au jobul de lawyer isi vor face reclama pe [<span style="color:var(--pink);">/ad</span>] sau [<span style="color:var(--pink);">/news</span>], nu au voie sa vina la Jail sa-si faca reclama.
 
-<span style="color:var(--pink);">4.1.16</span> Programul de deschidere a celulelor este cuprins in intervalul 8:00 - 2:00, la fiecare Payday (:00) si la fiecare jumatate de ora (:30), deschizandu-se automat din script.
+<span style="color:var(--pink);">4.1.16</span> Celulele se vor deschide automat din script la :00 si la :30, de asemenea vor fi inchise automat din script la :10, respectiv :40.
+
+!!! example "Nota informativa"
+    Programul de deschidere al celulelor este cuprins in intervalul 08:00 - 02:00, deschizandu-se automat din script.
 
 <span style="color:var(--pink);">4.1.17</span> In curtea Jailului pot intra maxim 4 gardieni.
 
@@ -109,7 +131,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.1.19</span> Daca jucatorul sau jucatorii reusesc sa scape din Jail, acestia vor primi Wanted 6 temporar, timp in care membrii National Guard (Rank 2+) sau orice alt membru din Departamentele de politie se pot duce dupa ei si sa-i omoare.
 
-<span style="color:var(--pink);">4.1.20</span> Exista o limita de un minut pana cand Departamentele sunt alertate ca cineva a evadat, timp in care suspectii raman cu skinul de Jail si nu primesc wanted. Nu aveti voie sa-i omorati inainte de a primi wantedul pentru evadare. Daca suspectii sunt omorati, acestia intra in Jail cu sentinta maxima.
+<span style="color:var(--pink);">4.1.20</span> Exista o limita de un minut pana cand Departamentele sunt alertate ca cineva a evadat, timp in care suspectii raman cu skinul de Jail si nu primesc wanted. Nu aveti voie sa-i omorati inainte de a primi wantedul pentru evadare. Daca suspectii sunt omorati de alti jucatori sau mor singuri inainte de a primi wantedul pentru evadare, acestia intra in Jail automat cu sentinta maxima.
 
 <span style="color:var(--pink);">4.1.21</span> Nu este permisa acordarea [<span style="color:var(--pink);">/punish</span>]-ului aiurea. Orice [<span style="color:var(--pink);">/punish</span>] trebuie sa aiba un motiv bine intemeiat si sa fie dat numai dupa ce s-au facut poze / video ca a incalcat o regula (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -123,7 +145,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.1.26</span> Pentru a acorda [<span style="color:var(--pink);">/punish</span>], un detinut trebuie sa dea cu pumnii in gratii de <span style="color:var(--pink);">minim 2-3 ori.</span>
 
-<span style="color:var(--pink);">4.1.27</span> Se poate acorda [<span style="color:var(--pink);">/punish</span>] in cazul in care un detinut va jigneste (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.1.27</span> Se poate acorda [<span style="color:var(--pink);">/punish</span>] in cazul in care un detinut va jigneste (pentru exemple de jigniri vezi [Regulamentul Serverului > Limbaj Nesanctionabil](../../#4-limbaj)) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.1.28</span> In Jail, membrii National Guard au dreptul sa foloseasca comanda [<span style="color:var(--pink);">/frisk</span>] pe orice civil care intra acolo, chiar daca are sau nu wanted, exceptie facand cei fara drept de predare. In cazul in care descoperiti arme sau droguri asupra civilului respectiv, aveti voie sa le confiscati, cu explicatia "<span style="color:var(--pink);">Ai intrat cu arme pe Teren Guvernamental</span>" sau "<span style="color:var(--pink);">Ai avut droguri la tine</span>".
 
@@ -230,13 +252,32 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">9.4</span> In cazul recrutarilor in care fiecarui candidat ii este acordat un tester sau mai multi, testerii nu vor avea voie sa dea test cu altcineva decat cu candidatii la care au fost repartizati. Exceptie fac  rank 6, ei pot da test cu orice candidat oricand (<span style="color:red;">sanctiune: Rank Down + indepartarea functiei de tester</span>).
 
-## 10. Altele
+## 10. Amenzi
 
-<span style="color:var(--pink);">10.1</span> In cazul in care un coleg de factiune face PM doar pentru a incurca un coleg, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">Demitere</span> (daca este cazul).
+<span style="color:var(--pink);">10.1</span> Aceste amenzi o sa fie acordate in joc folosind sistemul de [<span style="color:var(--pink);">/fines</span>] doar de catre lider sau sublideri atunci cand este necesar in baza unor dovezi clare. Aceste amenzi pot sa fie achitate in maximum 48 de ore de cand au fost primite. Membrii care nu platesc amenzile active prin comanda [<span style="color:var(--pink);">/fines</span>] in maximum 48 de ore de cand le-au primit o sa fie sanctionati automat de catre server cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.2</span> Pentru a face parte din National Guard, aveti nevoie de Skill 5 Detectiv.
+- Parcatul neregulamentar - <span style="color:var(--green);">30,000$</span>
+- Condus neregulamentar - <span style="color:var(--green);">35,000$</span>
+- Folosirea hidraulicelor pe un drum public - <span style="color:var(--green);">100,000$</span>
+- Folosirea de NOS - <span style="color:var(--green);">100,000$</span>
+- Depasire viteza legala intre 50-100 km/h - platiti amenda politistului in joc
+- Depasire viteza legala peste 100 km/h  - platiti amenda politistului in joc
+- Headlights off (faruri oprite) - <span style="color:var(--green);">30,000$</span>
+- Folosirea comenzii [<span style="color:var(--pink);">/FVR</span>] fara a se anunta in prealabil - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> prima abatatere, <span style="color:red;">Faction Warn</span> daca se repeta
+- Folosirea Caps Lock-ului intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
+- Nerespectarea indicatiilor unui rang superior la activitati/antrenamente - <span style="color:var(--green);">75,000$</span>
+- Folosirea unui emoticon intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
+- Spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
+- Masina parcata pe locul vehiculelor factiunii sau blocarea intrarii/iesirii cu acestea - <span style="color:var(--green);">50,000$</span>
+- Folosirea in exces a comenzii [<span style="color:var(--pink);">/FVS</span>] atunci cand nu este nevoie, ex: activitate, parada, filtru - <span style="color:var(--green);">75,000$</span>
 
-<span style="color:var(--pink);">10.3</span> Este interzis sa faceti generalizari negative la adresa altor departamente sau colegilor, indiferent de problemele existente. Abaterea se va sanctiona cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, in functie de caz si numarul de abateri anterioare.
+## 11. Altele
 
-<span style="color:var(--pink);">10.4</span> Orice jucator care a fost acceptat pentru a sustine testele trebuie sa se comporte decent. Daca acesta jigneste sau are un comportament neadecvat fata de un membrul al factiunii acesta este automat respins fara a mai avea dreptul de a sustine testele de intrare in factiune.
+<span style="color:var(--pink);">11.1</span> In cazul in care un coleg de factiune face PM doar pentru a incurca un coleg, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">Demitere</span> (daca este cazul).
+
+<span style="color:var(--pink);">11.2</span> Pentru a face parte din National Guard, aveti nevoie de Skill 5 Detectiv.
+
+<span style="color:var(--pink);">11.3</span> Este interzis sa faceti generalizari negative la adresa altor departamente sau colegilor, indiferent de problemele existente. Abaterea se va sanctiona cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, in functie de caz si numarul de abateri anterioare.
+
+<span style="color:var(--pink);">11.4</span> Orice jucator care a fost acceptat pentru a sustine testele trebuie sa se comporte decent. Daca acesta jigneste sau are un comportament neadecvat fata de un membrul al factiunii acesta este automat respins fara a mai avea dreptul de a sustine testele de intrare in factiune.
 

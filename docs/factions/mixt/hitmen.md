@@ -52,6 +52,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 4. Efectuarea Contractelor
 
+!!! example "Nota informativa"
+    Pasii pentru a prelua un contract sunt urmatorii: [<span style="color:var(--pink);">/portable</span>], gethit, order, undercover, [<span style="color:var(--pink);">/find</span>].
+
 <span style="color:var(--pink);">4.1</span> Fiecare contract trebuie efectuat in mod Silent (silentios).
 
 <span style="color:var(--pink);">4.1.1</span> Modul Silent (silentios) reprezinta efectuarea unui contract de la mare distanta, dintr-un loc in care nu poti fi vazut de nimeni, cu Sniper.
@@ -90,6 +93,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">4.15</span> Fraudarea sau ajutarea unui coleg sa fraudeze raportul de activitate este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
 
 <span style="color:var(--pink);">4.16</span> Un agent nu are voie sa-si dezvaluie identitatea cat timp are <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">4.17</span> Va este permis ca in timpul contractelor sa aveti cu voi colegi pe G.
 
 ### Dezvaluire Identitate + Sanctiune
 
@@ -227,5 +232,3 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - intarziere de 30+ minute - <span style="color:red;">Faction Warn (FW)</span>
 
 <span style="color:var(--pink);">11.5</span> Deathmatch-ul fara a avea contract va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">11.6</span> Contractele facute intentionat cu [<span style="color:var(--pink);">/turn on</span>] sau altceva, pentru a fi efectuat de la distante pentru poze, gen 611.0m vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>
