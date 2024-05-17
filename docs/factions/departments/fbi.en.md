@@ -206,13 +206,3 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">9.4</span> The activity report log, activity requests, and attendance log are always posted on Sundays at the end of the week or at the latest on Wednesdays. The weekly mission and namecover report are always posted on Mondays at the beginning of the week.
 
 <span style="color:var(--pink);">9.5</span> The sanction for not posting on time is a <span style="color:red;">Faction Warn</span>.
-
-## 10. Testers
-
-<span style="color:var(--pink);">10.1</span> Members ranked between 4 and 6 (inclusive) are strictly prohibited from modifying the candidate's status to rejected/accepted without the leader's consent. Changing the player's status without the leader's approval is considered favoritism and is punishable by a <span style="color:red;">Faction Warn</span> for the first offense, and a <span style="color:red;">Rank Down</span> if it continues.
-
-<span style="color:var(--pink);">10.2</span> Before starting a test, make sure the applicant's communications are closed. Once you use [<span style="color:var(--pink);">/ft</span>] on a player, their communications are usually automatically closed. The command [<span style="color:var(--pink);">/togcomms</span>] toggles communications open or closed.
-
-<span style="color:var(--pink);">10.3</span> In recruitment cases where the candidate can be tested by any tester, a tester is not allowed to conduct tests with a player from the same clan/alliance (<span style="color:red;">sanction: RANK DOWN + Faction Warn</span>). The exception applies to the leader and subleaders, along with any special situations established by the leadership, in which this may be tolerated, applied immediately depending on the circumstances.
-
-<span style="color:var(--pink);">10.4</span> In recruitment cases where each candidate is assigned one or more testers, testers are not allowed to test anyone other than the candidates they have been assigned to. The exception applies to Rank 6, who can test any candidate at any time (<span style="color:red;">sanction: RANK DOWN + removal from the testing position</span>).

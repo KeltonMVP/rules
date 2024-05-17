@@ -239,45 +239,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">8.4</span> If you suspect a player of having drugs, you are obligated to use [<span style="color:var(--pink);">/frisk</span>] on them first, before using [<span style="color:var(--pink);">/confiscate</span>]. In case of a complaint, it is necessary to provide evidence containing [<span style="color:var(--pink);">/frisk</span>] (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated).
 
-## 9. Tester Rules
+## 9. Others
 
-<span style="color:var(--pink);">9.1</span> Members with ranks between 4 and 6 (inclusive) are strictly prohibited from modifying the candidate's status to rejected/accepted without the leader's approval. Changing a player's status without the leader's consent is considered favoritism and is punished with a <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> if it continues.
+<span style="color:var(--pink);">9.1</span> If a faction member sends private messages (PMs) solely to disrupt a colleague, the member will be warned in advance by the leader to cease the PMs, and they will be ignored. Subsequent infractions will be punished with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">Dismissal</span> (if necessary).
 
-<span style="color:var(--pink);">9.2</span> Before starting a test, make sure the applicant's communication channels are closed. Once you use [<span style="color:var(--pink);">/ft</span>] on a player, their communication channels are normally closed automatically. The command [<span style="color:var(--pink);">/togcomms</span>] toggles communication channels open or closed.
+<span style="color:var(--pink);">9.2</span> To join the National Guard, you need a Detective skill level of 5.
 
-<span style="color:var(--pink);">9.3</span> In recruitment cases where the candidate can be tested by any tester, a tester is not allowed to conduct tests with a player from the same clan/alliance as them (<span style="color:red;">sanction: Rank Down + Faction Warn</span>).
+<span style="color:var(--pink);">9.3</span> Making negative generalizations about other departments or colleagues, regardless of existing issues, is prohibited. Violation of this rule will be sanctioned with a <span style="color:red;">Faction Warn</span> or <span style="color:red;">Dismissal</span>, depending on the circumstances and the number of previous infractions.
 
-!!! danger "Important"
-    Leaders and subleaders are exceptions, along with any special situations that may arise, established by the leadership, in which this may be tolerated, applied immediately as needed.
-
-<span style="color:var(--pink);">9.4</span> In recruitment cases where each candidate is assigned one or more testers, the testers are not allowed to test anyone other than the candidates they have been assigned to. The exception is rank 6; they can test any candidate at any time (<span style="color:red;">sanction: Rank Down + removal from tester position</span>).
-
-## 10. Fines
-
-<span style="color:var(--pink);">10.1</span> These fines will be awarded in-game using the [<span style="color:var(--pink);">/fines</span>] system only by the leader or subleaders when necessary based on clear evidence. These fines can be paid within a maximum of 48 hours from the time they were received. Members who do not pay the active fines using the [<span style="color:var(--pink);">/fines</span>] command within 48 hours of receiving them will be automatically sanctioned by the server with <span style="color:red;">Faction Warn</span>.
-
-- Illegal parking - <span style="color:var(--green);">30,000$</span>
-- Reckless driving - <span style="color:var(--green);">35,000$</span>
-- Using hydraulics on a public road - <span style="color:var(--green);">100,000$</span>
-- Using NOS - <span style="color:var(--green);">100,000$</span>
-- Exceeding legal speed between 50-100 km/h - pay fine to the police officer in-game
-- Exceeding legal speed over 100 km/h - pay fine to the police officer in-game
-- Headlights off - <span style="color:var(--green);">30,000$</span>
-- Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated
-- Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
-- Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">75,000$</span>
-- Excessive use of emoticons on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
-- Spam on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
-- Vehicle parked in the faction's vehicle spot or blocking entry/exit with them - <span style="color:var(--green);">50,000$</span>
-- Excessive use of the [<span style="color:var(--pink);">/FVS</span>] command when not needed, e.g., activity, parade, checkpoint - <span style="color:var(--green);">75,000$</span>
-
-## 11. Others
-
-<span style="color:var(--pink);">11.1</span> If a faction member sends private messages (PMs) solely to disrupt a colleague, the member will be warned in advance by the leader to cease the PMs, and they will be ignored. Subsequent infractions will be punished with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">Dismissal</span> (if necessary).
-
-<span style="color:var(--pink);">11.2</span> To join the National Guard, you need a Detective skill level of 5.
-
-<span style="color:var(--pink);">11.3</span> Making negative generalizations about other departments or colleagues, regardless of existing issues, is prohibited. Violation of this rule will be sanctioned with a <span style="color:red;">Faction Warn</span> or <span style="color:red;">Dismissal</span>, depending on the circumstances and the number of previous infractions.
-
-<span style="color:var(--pink);">11.4</span> Any player accepted to conduct tests must behave decently. If they insult or exhibit inappropriate behavior towards a faction member, they are automatically rejected without the right to conduct faction entry tests anymore.
+<span style="color:var(--pink);">9.4</span> Any player accepted to conduct tests must behave decently. If they insult or exhibit inappropriate behavior towards a faction member, they are automatically rejected without the right to conduct faction entry tests anymore.
 

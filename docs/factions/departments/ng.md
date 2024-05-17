@@ -239,45 +239,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">8.4</span> In cazul in care suspectati un jucator ca ar avea droguri, aveti obligatia de a folosi inainte de toate [<span style="color:var(--pink);">/frisk</span>] pe aceasta, ulterior putand folosi [<span style="color:var(--pink);">/confiscate</span>]. In cazul unei reclamatii este necesar sa prezentati dovada ce contine [<span style="color:var(--pink);">/frisk</span>] (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> daca se mai repeta).
 
-## 9. Reguli Testeri
+## 9. Altele
 
-<span style="color:var(--pink);">9.1</span> Membrilor cu rank cuprins intre 4 si 6 (inclusiv) le este strict interzis sa modifice statutul candidatului in respins / acceptat fara acordul liderului. Modificarea statutului jucatorului fara acordul liderului se considera favorizare si se pedepseste cu <span style="color:red;">Faction Warn</span> prima data, <span style="color:red;">Rank Down</span> daca continua.
+<span style="color:var(--pink);">9.1</span> In cazul in care un coleg de factiune face PM doar pentru a incurca un coleg, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">Demitere</span> (daca este cazul).
 
-<span style="color:var(--pink);">9.2</span> Inainte de a incepe un test, asigurati-va ca aplicantul are caile de comunicatii inchise. Odata ce folositi [<span style="color:var(--pink);">/ft</span>] pe un jucator, in mod normal, acestea i se inchid automat. Comanda [<span style="color:var(--pink);">/togcomms</span>] inchide sau deschide caile de comunicare.
+<span style="color:var(--pink);">9.2</span> Pentru a face parte din National Guard, aveti nevoie de Skill 5 Detectiv.
 
-<span style="color:var(--pink);">9.3</span> In cazul recrutarilor in care candidatul poate da test cu orice tester, un tester nu va avea voie sa sustina teste cu un jucator din acelasi clan / alianta cu el (<span style="color:red;">sanctiune: Rank Down + Faction Warn</span>). 
+<span style="color:var(--pink);">9.3</span> Este interzis sa faceti generalizari negative la adresa altor departamente sau colegilor, indiferent de problemele existente. Abaterea se va sanctiona cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, in functie de caz si numarul de abateri anterioare.
 
-!!! danger "Important"
-    Exceptie fac liderii si subliderii, impreuna cu eventualele situatii speciale ce pot aparea, stabilite de conducere, in care se poate tolera acest lucru, aplicate pe loc in functie de caz.
-
-<span style="color:var(--pink);">9.4</span> In cazul recrutarilor in care fiecarui candidat ii este acordat un tester sau mai multi, testerii nu vor avea voie sa dea test cu altcineva decat cu candidatii la care au fost repartizati. Exceptie fac  rank 6, ei pot da test cu orice candidat oricand (<span style="color:red;">sanctiune: Rank Down + indepartarea functiei de tester</span>).
-
-## 10. Amenzi
-
-<span style="color:var(--pink);">10.1</span> Aceste amenzi o sa fie acordate in joc folosind sistemul de [<span style="color:var(--pink);">/fines</span>] doar de catre lider sau sublideri atunci cand este necesar in baza unor dovezi clare. Aceste amenzi pot sa fie achitate in maximum 48 de ore de cand au fost primite. Membrii care nu platesc amenzile active prin comanda [<span style="color:var(--pink);">/fines</span>] in maximum 48 de ore de cand le-au primit o sa fie sanctionati automat de catre server cu <span style="color:red;">Faction Warn.</span>
-
-- Parcatul neregulamentar - <span style="color:var(--green);">30,000$</span>
-- Condus neregulamentar - <span style="color:var(--green);">35,000$</span>
-- Folosirea hidraulicelor pe un drum public - <span style="color:var(--green);">100,000$</span>
-- Folosirea de NOS - <span style="color:var(--green);">100,000$</span>
-- Depasire viteza legala intre 50-100 km/h - platiti amenda politistului in joc
-- Depasire viteza legala peste 100 km/h  - platiti amenda politistului in joc
-- Headlights off (faruri oprite) - <span style="color:var(--green);">30,000$</span>
-- Folosirea comenzii [<span style="color:var(--pink);">/FVR</span>] fara a se anunta in prealabil - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> prima abatatere, <span style="color:red;">Faction Warn</span> daca se repeta
-- Folosirea Caps Lock-ului intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
-- Nerespectarea indicatiilor unui rang superior la activitati/antrenamente - <span style="color:var(--green);">75,000$</span>
-- Folosirea unui emoticon intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
-- Spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
-- Masina parcata pe locul vehiculelor factiunii sau blocarea intrarii/iesirii cu acestea - <span style="color:var(--green);">50,000$</span>
-- Folosirea in exces a comenzii [<span style="color:var(--pink);">/FVS</span>] atunci cand nu este nevoie, ex: activitate, parada, filtru - <span style="color:var(--green);">75,000$</span>
-
-## 11. Altele
-
-<span style="color:var(--pink);">11.1</span> In cazul in care un coleg de factiune face PM doar pentru a incurca un coleg, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">Demitere</span> (daca este cazul).
-
-<span style="color:var(--pink);">11.2</span> Pentru a face parte din National Guard, aveti nevoie de Skill 5 Detectiv.
-
-<span style="color:var(--pink);">11.3</span> Este interzis sa faceti generalizari negative la adresa altor departamente sau colegilor, indiferent de problemele existente. Abaterea se va sanctiona cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, in functie de caz si numarul de abateri anterioare.
-
-<span style="color:var(--pink);">11.4</span> Orice jucator care a fost acceptat pentru a sustine testele trebuie sa se comporte decent. Daca acesta jigneste sau are un comportament neadecvat fata de un membrul al factiunii acesta este automat respins fara a mai avea dreptul de a sustine testele de intrare in factiune.
+<span style="color:var(--pink);">9.4</span> Orice jucator care a fost acceptat pentru a sustine testele trebuie sa se comporte decent. Daca acesta jigneste sau are un comportament neadecvat fata de un membrul al factiunii acesta este automat respins fara a mai avea dreptul de a sustine testele de intrare in factiune.
 

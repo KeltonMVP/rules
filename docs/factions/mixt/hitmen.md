@@ -118,10 +118,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.2</span> Dupa efectuarea unui contract trebuie sa asteptati o perioada de timp (aceasta perioada depinde de distanta si de modul cum a fost efectuat contractul) pana puteti lua alt contract. Aceste perioade si moduri de efectuare sunt:
 
-- pentru contractul efectuat intre <span style="color:var(--pink);">150.0m si 1911.9m,</span> timpul de asteptare este de 15 minute.
-- pentru contractul efectuat intre <span style="color:var(--pink);">200.0m si 2411.9m,</span> timpul de asteptare este de 10 minute.
-- pentru contractul efectuat intre <span style="color:var(--pink);">250.0m si 2911.9m</span> sau in cazul in care tinta se sinucide (de la 150.0m pana la 2911.9m), timpul de asteptare este de 5 minute.
-- daca contractul a fost efectuat de la o distanta <span style="color:var(--pink);">mai mare de 300m</span> sau cu Knife/SD Pistol, agentul poate sa ia automat un alt contract.
+- pentru contractul efectuat intre <span style="color:var(--pink);">150.0m si 199.9m,</span> timpul de asteptare este de 15 minute.
+- pentru contractul efectuat intre <span style="color:var(--pink);">200.0m si 249.9m,</span> timpul de asteptare este de 10 minute.
+- pentru contractul efectuat intre <span style="color:var(--pink);">250.0m si 299.9m</span> sau in cazul in care tinta se sinucide (de la 150.0m pana la 299.9m), timpul de asteptare este de 5 minute.
+- daca contractul a fost efectuat de la o distanta <span style="color:var(--pink);">cel putin egala cu 300m</span> sau cu Knife/SD Pistol, agentul poate sa ia automat un alt contract.
 
 ### Leavehit
 

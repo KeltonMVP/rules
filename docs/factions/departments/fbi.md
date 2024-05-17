@@ -206,13 +206,3 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">9.4</span> Logul de la raportul de activitate, cereri activitati si cel de la prezente activitati se posteaza mereu duminica la terminarea saptamanii sau cel mai tarziu miercuri. Misiunea saptamanii si raportul namecover se posteaza mereu luni la inceputul saptamanii.
  
 <span style="color:var(--pink);">9.5</span> Sanctiunea pentru nepostarea la timp este <span style="color:red;">Faction Warn.</span>
-
-## 10. Testeri
-
-<span style="color:var(--pink);">10.1</span> Membrilor cu rank cuprins intre 4 si 6 (inclusiv) le este strict interzis sa modifice statutul candidatului in respins/acceptat fara acordul liderului. Modificarea statutului jucatorului fara acordul liderului se considera favorizare si se pedepseste cu <span style="color:red;">Faction Warn</span> prima data, <span style="color:red;">Rank Down</span> daca continua. 
-
-<span style="color:var(--pink);">10.2</span> Inainte de a incepe un test, asigurati-va ca aplicantul are caile de comunicatii inchise. Odata ce folositi [<span style="color:var(--pink);">/ft</span>] pe un jucator, in mod normal, acestea i se inchid automat. Comanda [<span style="color:var(--pink);">/togcomms</span>] inchide sau deschide caile de comunicare.
-
-<span style="color:var(--pink);">10.3</span> In cazul recrutarilor in care candidatul poate da test cu orice tester, un tester nu va avea voie sa sustina teste cu un jucator din acelasi clan/alianta cu el (<span style="color:red;">sanctiune: RANK DOWN + Faction Warn</span>). Exceptie fac liderul si subliderii, impreuna cu eventualele situatii speciale ce pot aparea, stabilite de conducere, in care se poate tolera acest lucru, aplicate pe loc in functie de caz.
-
-<span style="color:var(--pink);">10.4</span> In cazul recrutarilor in care fiecarui candidat ii este acordat un tester sau mai multi, testerii nu vor avea voie sa dea test cu altcineva decat cu candidatii la care au fost repartizati. Exceptie fac Rank 6, ei pot da test cu orice candidat oricand (<span style="color:red;">sanctiune: RANK DOWN + indepartarea functiei de tester</span>).

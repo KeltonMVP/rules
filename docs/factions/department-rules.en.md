@@ -61,8 +61,6 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.4</span> Members who do not listen to those of higher rank can be sanctioned (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
 
-<span style="color:var(--pink);">3.5</span> The abusive use of the [<span style="color:var(--pink);">/fvr</span>] command (respawning vehicles just to hinder a colleague, spamming with it, etc.) will be sanctioned with <span style="color:red;">Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple infractions.
-
 ## 4. Activity
 
 ### Activity Overview
@@ -88,6 +86,14 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">4.2.3</span> For admins of levels 1-3, if the mandatory activity takes place during wars, they will be automatically excused, provided that they fulfill their admin duties regarding catching code abusers.
 
 <span style="color:var(--pink);">4.2.4</span> For subleaders, the leader will decide whether to sanction their absence from mandatory activities when they have not submitted an inactivity request for that week.
+
+<span style="color:var(--pink);">4.2.5</span> Anyone who is late for a meeting / training will come to the Armoury / Meeting Room without making noise in the chat or on [<span style="color:var(--pink);">/r</span>].
+
+<span style="color:var(--pink);">4.2.6</span> During meetings or training sessions, you will silence your phones and listen to the leader, subleader, or trainer until they allow you to speak. Until then, you are required not to use the chat without a valid reason (<span style="color:red;">sanction: Verbal Warning or Faction Warn</span>, as appropriate).
+
+<span style="color:var(--pink);">4.2.7</span> During activities, only faction leadership is allowed to approve the use of vehicles from the garage (<span style="color:red;">sanction: Verbal Warning or Faction Warn</span>, as appropriate).
+
+<span style="color:var(--pink);">4.2.8</span> Members present at activities are required to follow the organizer's instructions and demonstrate discipline and respect towards them. Jokes at their expense are not allowed (<span style="color:red;">sanction: Verbal Warning or Faction Warn</span>, as appropriate).
 
 ### Activity Report
 
@@ -167,7 +173,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.1.2</span> When you find a department vehicle, you are obligated to announce that you are taking it, for example: <strong>/d I found a Bullet in the Bank SF area, I'm taking it.</strong>
 
-<span style="color:var(--pink);">6.1.3</span> Abusive use of the [<span style="color:var(--pink);">/fvs</span>] or [<span style="color:var(--pink);">/fvr</span>] commands (spawning vehicles when there are already enough or just for fun, to fill the garage, to hinder colleagues, to spam, etc.) is not allowed (<span style="color:red;">sanction: Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuses/multiple infractions).
+<span style="color:var(--pink);">6.1.3</span> Using the commands [<span style="color:var(--pink);">/fvr</span>] and [<span style="color:var(--pink);">/fvs</span>] for fun, spamming, disturbing a colleague, filling the garage, etc., is not allowed (<span style="color:red;">sanction: Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuse/multiple offenses).
+
+!!! danger "Important"
+    It must be announced on [<span style="color:var(--pink);">/d</span>] when you intend to use the [<span style="color:var(--pink);">/fvr</span>] command, and you must wait <span style="color:var(--pink);">5 seconds</span> before using it. Failure to comply will be sanctioned according to the Fines section of the internal regulations.
 
 <span style="color:var(--pink);">6.1.4</span> A member of a department is obligated, if their car is parked at another department's HQ, to comply with their colleagues' requests to move their car ONLY in cases of real necessity (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated). For example: The car is spawned over a department vehicle OR it blocks the entrance to a room or location in the HQ.
 
@@ -198,7 +207,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">7.3</span> Using weapons without a well-founded reason in department garages, especially in areas where suspects are arrested, is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">7.4</span> Players who are not allowed to be on government property will be warned at least 3 times and will have one minute from the last warning to leave the area; otherwise, they will be sanctioned with a wanted level (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">7.4</span> Players who are not allowed to stay on government property will be summoned at least 3 times and will have 30 seconds from the last summon to leave the area, otherwise, they will be sanctioned with a wanted level. If they leave but return, they will not be summoned again and will be sanctioned directly with a wanted level (<span style="color:red;">sanction: Faction Warn</span>).
 
 ## 8. Radar
 
@@ -273,25 +282,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.1.2</span> Using commands inside arenas (paintball, gungame, etc.) is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
 
-### Tickets Overview
-
-<span style="color:var(--pink);">10.2.1</span> Only members of the police departments (LSPD, LVPD, SFPD) can use the ticket command (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2.2</span> It is prohibited to give money to those who cannot pay the fine, want to bail out, or want to leave with the help of a lawyer (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2.3</span> If the suspect refuses to accept the fine, you have the right to give them Wanted 3 for non-payment of the fine.
-
-<span style="color:var(--pink);">10.2.4</span> If a player needs to receive two fines and does not pay them, they will be sanctioned with one wanted level for non-payment of the fine (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2.5</span> It is not allowed to divide the sanction offered to players by giving only a part of it, regardless of the situation. For example, it is not allowed to offer a player ONLY the fine if the prescribed sanction is a fine and the suspension of the driving license (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.1.3</span> Only members of the police departments (LSPD, LVPD, SFPD) can issue fines, and the only accepted method is the [<span style="color:var(--pink);">/ticket</span>] command (<span style="color:red;">sanction: Faction Warn</span>).
 
 ### Confiscate Overview
 
-<span style="color:var(--pink);">10.3.1</span> It is not allowed to confiscate weapons, materials, or drugs from players with wanted levels without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.1</span> It is not allowed to confiscate weapons, materials, or drugs from players with wanted levels without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3.2</span> It is not allowed to confiscate weapons from players without wanted levels who attack police officers, they are to be sanctioned with Wanted 3 for assaulting an officer (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.2</span> It is not allowed to confiscate weapons from players without wanted levels who attack police officers, they are to be sanctioned with Wanted 3 for assaulting an officer (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3.3</span> Do not sanction for possession or use of drugs without evidence obtained through [<span style="color:var(--pink);">/frisk</span>] or the message of drug use near you (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it continues).
+<span style="color:var(--pink);">10.2.3</span> Do not sanction for possession or use of drugs without evidence obtained through [<span style="color:var(--pink);">/frisk</span>] or the message of drug use near you (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it continues).
 
 ### Confiscating the <span style="color:orange;">Driving License</span>
 
@@ -302,45 +301,50 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - driving with a blood alcohol concentration of 3.0 - <span style="color:var(--pink);">1 hour</span>
 - using hydraulics on public roads (not in fields, in front of houses, parking lots, sand roads, forests, etc.) - <span style="color:var(--pink);">1 hour</span>
 
-<span style="color:var(--pink);">10.4.1</span> Rules for confiscating a driver's license for exceeding the speed limit are applied according to the [Speeding Violations](#speeding-violations) section of the rules.
+<span style="color:var(--pink);">10.3.1</span> Rules for confiscating a driver's license for exceeding the speed limit are applied according to the [Speeding Violations](#speeding-violations) section of the rules.
 
-<span style="color:var(--pink);">10.4.2</span> If a player is ordered to pull over, the police officer is obliged to guide them to park properly on the right side, where there is space and they do not obstruct other traffic participants (e.g., on the sidewalk, on the right side of the highway, on the right side of the tunnel, etc.). If the player refuses to park properly, then the police officer has the right to sanction them.
+<span style="color:var(--pink);">10.3.2</span> If a player is ordered to pull over, the police officer is obliged to guide them to park properly on the right side, where there is space and they do not obstruct other traffic participants (e.g., on the sidewalk, on the right side of the highway, on the right side of the tunnel, etc.). If the player refuses to park properly, then the police officer has the right to sanction them.
 
 ### Confiscating the <span style="color:orange;">Materials License and Materials</span>
 
-<span style="color:var(--pink);">10.5.1</span> A police officer has the right to confiscate materials, the material license, and to fine players when they use them to create or sell different weapons near them. If a civilian uses materials nearby, the police officer has the following obligations:
+<span style="color:var(--pink);">10.4.1</span> A police officer has the right to confiscate materials, the material license, and to fine players when they use them to create or sell different weapons near them. If a civilian uses materials nearby, the police officer has the following obligations:
 
 - for players levels 1 - 3 <span style="color:var(--pink);">no sanction will be given.</span>
 - for players levels 4 - 19 <span style="color:var(--pink);">the materials will be confiscated.</span>
 - for players level 20+ <span style="color:var(--pink);">both the material license and the materials will be confiscated.</span>
 
-<span style="color:var(--pink);">10.5.2</span> If the player in question abuses this (sells/creates weapons at least 3 times in front of the police officer), the license can be confiscated regardless of the player's level.
+<span style="color:var(--pink);">10.4.2</span> If the player in question abuses this (sells/creates weapons at least 3 times in front of the police officer), the license can be confiscated regardless of the player's level.
 
-<span style="color:var(--pink);">10.5.3</span> If a player possesses materials but not the material license, they will be fined, and the materials will be confiscated.
+<span style="color:var(--pink);">10.4.3</span> If a player possesses materials but not the material license, they will be fined, and the materials will be confiscated.
 
 ### Confiscating the <span style="color:orange;">Weapon License and Weapons</span>
 
-<span style="color:var(--pink);">10.6.1</span> The Weapons License is confiscated when weapons are used near a police officer with the intent to attack another player without reason.
+<span style="color:var(--pink);">10.5.1</span> The Weapons License is confiscated when weapons are used near a police officer with the intent to attack another player without reason.
 
-<span style="color:var(--pink);">10.6.2</span> Weapons are confiscated when they are openly carried near a member of the departments. [exceptions: events, trainings].
+<span style="color:var(--pink);">10.5.2</span> Weapons are confiscated when they are openly carried near a member of the departments. [exceptions: events, trainings].
 
-<span style="color:var(--pink);">10.6.3</span> You are not allowed to confiscate weapons from players on a turf clan. Exception only if there are suspects with wanted and surrender rights on that turf clan. The rule applies only to players who are part of a clan (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.5.3</span> You are not allowed to confiscate weapons from players on a turf clan. Exception only if there are suspects with wanted and surrender rights on that turf clan. The rule applies only to players who are part of a clan (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.6.4</span> Do not confiscate melee weapons or sexual items. The only exception is the smoke grenades from 24/7 stores only if they are used to create chaos or lag (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.5.4</span> Do not confiscate melee weapons or sexual items. The only exception is the smoke grenades from 24/7 stores only if they are used to create chaos or lag (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.6.5</span> It is allowed to confiscate the weapons of a surrendering suspect if they are openly carried or used to attack other players.
+<span style="color:var(--pink);">10.5.5</span> It is allowed to confiscate the weapons of a surrendering suspect if they are openly carried or used to attack other players.
 
-<span style="color:var(--pink);">10.6.6</span> Weapons can be confiscated by members of any department.
+<span style="color:var(--pink);">10.5.6</span> Weapons can be confiscated by members of any department.
 
 ### Confiscating <span style="color:orange;">Drugs</span>
 
-<span style="color:var(--pink);">10.7.1</span> They are confiscated when a player is found to have them in their possession, even if the player is AFK (with or without a hourglass).
+<span style="color:var(--pink);">10.6.1</span> They are confiscated when a player is found to have them in their possession, even if the player is AFK (with or without a hourglass).
 
-<span style="color:var(--pink);">10.7.2</span> They can be confiscated by members of any department.
+<span style="color:var(--pink);">10.6.2</span> They can be confiscated by members of any department.
 
 ### Confiscating the <span style="color:orange;">Flying, Fishing, Sailing Licenses</span>
 
-<span style="color:var(--pink);">10.8</span> Usually, there's no reason to confiscate these licenses, but they can be confiscated if the officer finds a good enough reason to do so.
+<span style="color:var(--pink);">10.7</span> Usually, there's no reason to confiscate these licenses, but they can be confiscated if the officer finds a good enough reason to do so.
+
+Some examples:
+
+- <span style="color:var(--pink);">Flying License:</span> disturbing participants in road / air / maritime traffic with the aircraft, improper parking (ON THE GROUND) of the aircraft, kamikaze, etc.
+- <span style="color:var(--pink);">Sailing License:</span> disturbing participants in maritime traffic, kamikaze, etc.
 
 ## 11. Frisking
 
@@ -430,7 +434,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">14.2.2</span> If a suspect (with the right to surrender) is AFK with wanted status (on ESC), prompt them, notify on [<span style="color:var(--pink);">/d</span>] that they are AFK stating the exact time, including seconds, and <span style="color:var(--pink);">after 3 minutes (180 seconds)</span>, they can be killed.
 
-<span style="color:var(--pink);">14.2.3</span> If the suspect remains motionless when asked to surrender, the officer must wait for 30 seconds, after which they are entitled to kill them.
+<span style="color:var(--pink);">14.2.3</span> If the suspect remains motionless when asked to surrender (provided that they are found standing still and remain still after being warned), the officer must wait for 30 seconds before having the right to kill them.
 
 <span style="color:var(--pink);">14.2.4</span> If the suspect declares that they will not surrender, then the officer has the right to kill them.
 
@@ -563,7 +567,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ### Blacklist Warnings
 
-- <span style="color:orange;">1 warning:</span> excessive severe insults towards a member or the faction, disruption of a member's duty, inappropriate DM/DB, kamikaze, /q on tie.
+- <span style="color:orange;">1 warning:</span> excessive severe insults towards a member or the faction, disruption of a member's duty, inappropriate DM/DB, kamikaze.
 - <span style="color:red;">2 warnings:</span> vulgar language, excessive DM/DB, excessive disruption of a member during their duty or activities, tampering with entrance tests alongside a 3-month ban.
 
 !!! example "Info note"
@@ -588,11 +592,27 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">21.1.2</span> Members with this status are obligated to respect [Leader Rules -> Testing Candidates](../leaders/leader-rules.md/#testing-candidates), and will be sanctioned accordingly for any violations.
 
+<span style="color:var(--pink);">21.1.3</span> Members ranked between 4 and 6 (inclusive) are strictly prohibited from changing a candidate's status to rejected/accepted without the leader's consent. Changing a player's status without the leader's consent is considered favoritism and is punished with a <span style="color:red;">Faction Warn</span> for the first offense, <span style="color:red;">Rank Down</span> if it continues.
+
+<span style="color:var(--pink);">21.1.4</span> Before starting a test, make sure the applicant's communication channels are closed. Once you use [<span style="color:var(--pink);">/ft</span>] on a player, normally, their communication channels are automatically closed. The command [<span style="color:var(--pink);">/togcomms</span>] toggles the communication channels open or closed.
+
+<span style="color:var(--pink);">21.1.5</span> In recruitment scenarios where the candidate can be tested by any tester, a tester is not allowed to conduct tests with a player from the same clan/alliance (<span style="color:red;">sanction: RANK DOWN + Faction Warn</span>). The exception applies to the leader and subleaders, along with any special situations that may arise, determined by leadership, where this may be tolerated, applied immediately depending on the case.
+
+<span style="color:var(--pink);">21.1.6</span> In recruitment scenarios where each candidate is assigned one or more testers, the testers are not allowed to test anyone other than the candidates they have been assigned to. An exception applies to Rank 6, they can test any candidate at any time (<span style="color:red;">sanction: RANK DOWN + removal from the tester position</span>).
+
 ### Jobs
 
 <span style="color:var(--pink);">21.2.1</span> Any legal job can be held except Lawyer (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it persists).
 
 <span style="color:var(--pink);">21.2.2</span> The leader has the right to force members to use a certain job for a specific period of time in order to carry out faction work (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">21.2.3</span> It is forbidden to have materials, drugs, or other illegal items on you (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">21.2.4</span> If you use another job than Detective, you are required to be off-duty.
+
+<span style="color:var(--pink);">21.2.5</span> With the approval of an Admin 4+, you can take on illegal jobs in the case of a special event.
+
+<span style="color:var(--pink);">21.2.6</span> You are not allowed to practice (use [<span style="color:var(--pink);">/work</span>] or other commands related to starting the job) any job other than Detective or Mechanic (strictly for maintaining pursuit vehicles) when you are on duty (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
 ### Ramming
 
@@ -638,7 +658,36 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">21.8.2</span> You can only participate in violent events if you are <span style="color:var(--pink);">OFF DUTY</span>. If you are caught ON DUTY at these events, you risk being sanctioned. When attending a violent event, you are required to take a picture showing the text confirming that you are off duty (<span style="color:red;">sanction: Faction Warning</span>).
 
-## 22. Exceptions
+<span style="color:var(--pink);">21.8.3</span> A police officer can participate in events organized by an ADMIN or events organized by a player such as: Simon Says, trivia, race (as long as they drive correctly), stunt, find the location, deagle event, find and kill event, etc.
 
-<span style="color:var(--pink);">22.1</span> We reserve the right to make exceptions to these rules. In certain cases, the sanctions may be different.<br/>
-<span style="color:var(--pink);">22.2</span> These exceptions can only be made with the permission of an Admin 6.
+<span style="color:var(--pink);">21.8.4</span> When attending a violent event, you are required to take a screenshot showing the text "You are not on duty".
+
+### Release Warrants
+
+<span style="color:var(--pink);">21.9.1</span> Members of rank 3+ can sell warrants (accept lawyers) to lawyers, thereby giving their consent for the release of players from jail.
+
+<span style="color:var(--pink);">21.9.2</span> There is no universal price for [<span style="color:var(--pink);">/lawyer</span>], but each will negotiate their own price with the buyer within the limits set by the script. Anyone who violates the script's limits when selling a warrant will be sanctioned with <span style="color:red;">Faction Warn.</span>
+
+## 22. Fines
+
+<span style="color:var(--pink);">22.1</span> These fines will be awarded in-game using the [<span style="color:var(--pink);">/fines</span>] system only by the leader or subleaders when necessary based on clear evidence. These fines can be paid within a maximum of 48 hours from the time they were received. Members who do not pay the active fines using the [<span style="color:var(--pink);">/fines</span>] command within 48 hours of receiving them will be automatically sanctioned by the server with <span style="color:red;">Faction Warn</span>.
+
+- Illegal parking - <span style="color:var(--green);">30,000$</span>
+- Reckless driving - <span style="color:var(--green);">35,000$</span>
+- Using hydraulics on a public road - <span style="color:var(--green);">100,000$</span>
+- Using NOS - <span style="color:var(--green);">100,000$</span>
+- Exceeding legal speed between 50-100 km/h - pay fine to the police officer in-game
+- Exceeding legal speed over 100 km/h - pay fine to the police officer in-game
+- Headlights off - <span style="color:var(--green);">30,000$</span>
+- Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated
+- Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
+- Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">75,000$</span>
+- Excessive use of emoticons on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
+- Spam on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
+- Vehicle parked in the faction's vehicle spot or blocking entry/exit with them - <span style="color:var(--green);">50,000$</span>
+- Excessive use of the [<span style="color:var(--pink);">/FVS</span>] command when not needed, e.g., activity, parade, checkpoint - <span style="color:var(--green);">75,000$</span>
+
+## 23. Exceptions
+
+<span style="color:var(--pink);">23.1</span> We reserve the right to make exceptions to these rules. In certain cases, the sanctions may be different.<br/>
+<span style="color:var(--pink);">23.2</span> These exceptions can only be made with the permission of an Admin 6.

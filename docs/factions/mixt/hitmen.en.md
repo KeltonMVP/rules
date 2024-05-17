@@ -118,10 +118,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.2</span> After completing a contract, you must wait for a certain period of time (this period depends on the distance and how the contract was executed) before you can take another contract. These waiting periods and execution methods are as follows:
 
-- for contracts executed between <span style="color:var(--pink);">150.0m and 1911.9m,</span> the waiting time is 15 minutes.
-- for contracts executed between <span style="color:var(--pink);">200.0m and 2411.9m,</span> the waiting time is 10 minutes.
-- for contracts executed between <span style="color:var(--pink);">250.0m and 2911.9m</span> or in the case where the target commits suicide (from 150.0m to 2911.9m), the waiting time is 5 minutes.
-- if the contract was executed from a distance <span style="color:var(--pink);">greater than 300m</span> or with a Knife/SD Pistol, the agent can automatically take another contract.
+- for contracts executed between <span style="color:var(--pink);">150.0m and 199.9m,</span> the waiting time is 15 minutes.
+- for contracts executed between <span style="color:var(--pink);">200.0m and 249.9m,</span> the waiting time is 10 minutes.
+- for contracts executed between <span style="color:var(--pink);">250.0m and 299.9m</span> or in the case where the target commits suicide (from 150.0m to 299.9m), the waiting time is 5 minutes.
+- if the contract was executed from a distance <span style="color:var(--pink);">at least equal to 300m</span> or with a Knife/SD Pistol, the agent can automatically take another contract.
 
 ### Leavehit
 

@@ -61,8 +61,6 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.4</span> Membrii care nu asculta de cei de rank superior pot fi sanctionati (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca continua).
 
-<span style="color:var(--pink);">3.5</span> Folosirea comenzii [<span style="color:var(--pink);">/fvr</span>] intr-un mod abuziv (respawnarea masinilor doar pentru a incurca un coleg, spamul cu ea etc.) o sa fie sanctionata cu <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple.
-
 ## 4. Activitate
 
 ### Generalitati Activitate
@@ -88,6 +86,14 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">4.2.3</span> In cazul adminilor de nivel 1-3, daca activitatea obligatorie are loc pe parcursul desfasurarii warurilor, acestia vor fi automat invoiti, cu conditia ca ei sa-si indeplineasca atributiile de admin in ce priveste prinderea codatilor.
 
 <span style="color:var(--pink);">4.2.4</span> In cazul subliderilor, liderul va decide daca doreste sa sanctioneze sau nu absenta acestora de la activitatile obligatorii cand acestia nu au cerere de inactivitate pentru saptamana respectiva.
+
+<span style="color:var(--pink);">4.2.5</span> Cine intarzie la sedinta / antrenament, va veni in Armoury / Sala de sedinte, fara a face galagie pe chat sau pe [<span style="color:var(--pink);">/r</span>].
+
+<span style="color:var(--pink);">4.2.6</span> In timpul sedintelor sau antrenamentelor veti opri telefoanele si veti asculta de lider, sublider sau antrenor, pana cand acesta va da voie sa vorbiti. Pana atunci, sunteti obligati sa nu folositi chatul fara un motiv intemeiat (<span style="color:red;">sanctiune: Avertisment Verbal sau Faction Warn</span>, dupa caz).
+
+<span style="color:var(--pink);">4.2.7</span> In timpul desfasurarii unei activitati, singurele persoane care au voie sa dea aprobari pentru folosirea vehiculelor din garaj sunt conducerea factiunii (<span style="color:red;">sanctiune: Avertisment Verbal sau Faction Warn</span>, dupa caz).
+
+<span style="color:var(--pink);">4.2.8</span> Membrii prezenti la activitati sunt obligati sa respecte indicatiile organizatorului, cat si sa dea dovada de disciplina si respect fata de el. Glumele fara rost la adresa acestuia nu sunt permise (<span style="color:red;">sanctiune: Avertisment Verbal sau Faction Warn</span>, dupa caz).
 
 ### Raport de Activitate
 
@@ -167,7 +173,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.1.2</span> Atunci cand gasiti un vehicul de departament sunteti obligati sa anuntati ca il luati, exemplu: <strong>/d Am gasit un Bullet in zona Bank SF, il iau.</strong>
 
-<span style="color:var(--pink);">6.1.3</span> Folosirea comenzilor [<span style="color:var(--pink);">/fvs</span>] sau [<span style="color:var(--pink);">/fvr</span>] intr-un mod abuziv (spawnat de vehicule cand inca sunt destule sau doar de distractie, pentru a umple garajul, pentru a incurca colegii, a face spam, etc.) nu este permisa (<span style="color:red;">sanctiune: Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple).
+<span style="color:var(--pink);">6.1.3</span> Folosirea comenzilor [<span style="color:var(--pink);">/fvr</span>] si [<span style="color:var(--pink);">/fvs</span>] pentru distractie, a face spam, a incurca un coleg, a umple garajul etc. nu este permisa (<span style="color:red;">sanctiune: Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple).
+
+!!! danger "Important"
+    Se va anunta pe [<span style="color:var(--pink);">/d</span>] atunci cand intentionati sa folositi comanda [<span style="color:var(--pink);">/fvr</span>] si se va astepta <span style="color:var(--pink);">5 secunde</span> inainte de folosire. Nerespectarea acestui lucru va fi sanctionata conform rubricii Amenzi din regulamentul intern.
 
 <span style="color:var(--pink);">6.1.4</span> Membrul unui departament are obligatia ca in cazul in care are masina parcata la HQ-ul altui departament, sa se conformeze rugamintilor colegilor sai sa-si mute masina DOAR in cazuri de necesitate reala (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua). Spre exemplu: Masina este spawnata peste o masina de departament SAU blocheaza intrarea intr-o incapere sau locatie din HQ.
 
@@ -198,7 +207,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">7.3</span> Nu este permisa folosirea armelor fara un motiv bine intemeiat in garajul departamentelor, in special in zonele unde se aresteaza suspectii (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">7.4</span> Jucatorii care nu au voie sa stea pe terenul guvernamental vor fi somati de minim 3 ori si vor avea la dispozitie un minut de la ultima somatie pentru a parasi zona, in caz contrar vor fi sanctionati cu wanted (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">7.4</span> Jucatorii care nu au voie sa stea pe terenul guvernamental vor fi somati de minim 3 ori si vor avea la dispozitie 30 de secunde de la ultima somatie pentru a parasi zona, in caz contrar vor fi sanctionati cu wanted. Daca pleaca dar revin, nu vor mai fi somati din nou ci vor fi sanctionati direct cu wanted (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ## 8. Radarul
 
@@ -273,25 +282,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.1.2</span> Nu este permisa folosirea comenzilor in interiorul arenelor (paintball, gungame, etc) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-### Generalitati Amenzi
-
-<span style="color:var(--pink);">10.2.1</span> Doar membrii departamentelor de politie (LSPD, LVPD, SFPD) pot folosi comanda ticket (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2.2</span> Este interzis sa acordati bani celor care nu pot plati amenda, vor sa iasa pe cautiune sau vor sa iasa cu ajutorul unui avocat (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2.3</span> Daca suspectul spune ca nu accepta amenda, aveti dreptul de a-i acorda Wanted 3 pentru neplata amenda.
-
-<span style="color:var(--pink);">10.2.4</span> In cazul in care jucatorul trebuie sa primeasca doua amenzi si nu le plateste va fi sanctionat cu wanted de neplata amenda o singura data (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">10.2.5</span> Nu este permis sa divizati sanctiunea oferita jucatorilor acordand doar o parte din ea, indiferent de situatie. Spre exemplu, nu este permis sa oferiti unui jucator DOAR amenda, daca sanctiunea prevazuta este de amenda si suspendarea licentei de condus (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.1.3</span> Doar membrii departamentelor de politie (LSPD, LVPD, SFPD) pot acorda amenzi, iar singurul mijloc acceptat este comanda [<span style="color:var(--pink);">/ticket</span>] (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ### Generalitati Confiscare
 
-<span style="color:var(--pink);">10.3.1</span> Nu este permis sa confiscati armele, materialele sau drogurile jucatorilor cu wanted fara drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.1</span> Nu este permis sa confiscati armele, materialele sau drogurile jucatorilor cu wanted fara drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3.2</span> Nu este permis sa confiscati armele jucatorilor fara wanted care ataca politistii, acestia fiind sanctionati cu wanted 3 pentru atacare politist (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.2</span> Nu este permis sa confiscati armele jucatorilor fara wanted care ataca politistii, acestia fiind sanctionati cu wanted 3 pentru atacare politist (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.3.3</span> Nu sanctionati pentru posesie sau folosire droguri fara a avea dovada cu [<span style="color:var(--pink);">/frisk</span>] sau mesajul folosirii drogurilor langa voi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
+<span style="color:var(--pink);">10.2.3</span> Nu sanctionati pentru posesie sau folosire droguri fara a avea dovada cu [<span style="color:var(--pink);">/frisk</span>] sau mesajul folosirii drogurilor langa voi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
 
 ### Confiscarea <span style="color:orange;">Licentei Auto</span>
 
@@ -302,45 +301,50 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - condus cu o alcoolemie de 3.0 - <span style="color:var(--pink);">1 ora</span>
 - folosirea hidraulicelor pe drumuri publice (nu pe camp, in fata casei, parcari, drumuri de nisip, padure, etc.) - <span style="color:var(--pink);">1 ora</span>
 
-<span style="color:var(--pink);">10.4.1</span> Regulile pentru confiscarea licentei auto pentru depasirea limitei de viteza sunt aplicate conform sectiunii [Incalcarea Limitelor de Viteza](#incalcarea-limitelor-de-viteza) a regulamentului.
+<span style="color:var(--pink);">10.3.1</span> Regulile pentru confiscarea licentei auto pentru depasirea limitei de viteza sunt aplicate conform sectiunii [Incalcarea Limitelor de Viteza](#incalcarea-limitelor-de-viteza) a regulamentului.
 
-<span style="color:var(--pink);">10.4.2</span> Daca un jucator este somat sa traga pe dreapta, politistul are obligatia sa-l indrume sa parcheze corespunzator pe partea dreapta, unde are loc si nu incurca ceilalti participanti la trafic (e.g. pe trotuar, pe partea dreapta a autostrazii, pe partea dreapta a tunelului etc.). Daca jucatorul refuza sa parcheze regulamentar, atunci politistul are dreptul sa-l sanctioneze.
+<span style="color:var(--pink);">10.3.2</span> Daca un jucator este somat sa traga pe dreapta, politistul are obligatia sa-l indrume sa parcheze corespunzator pe partea dreapta, unde are loc si nu incurca ceilalti participanti la trafic (e.g. pe trotuar, pe partea dreapta a autostrazii, pe partea dreapta a tunelului etc.). Daca jucatorul refuza sa parcheze regulamentar, atunci politistul are dreptul sa-l sanctioneze.
 
 ### Confiscarea <span style="color:orange;">Licentei de Materiale si Materialelor</span>
 
-<span style="color:var(--pink);">10.5.1</span> Un politist are dreptul sa confiste materialele, licenta de materiale si sa sanctioneze cu amenda jucatorii atunci cand acestia le folosesc pentru crearea sau vinderea diferitelor arme langa ei. In cazul in care un civil foloseste materiale langa ei, politistul are urmatoarele obligatii:
+<span style="color:var(--pink);">10.4.1</span> Un politist are dreptul sa confiste materialele, licenta de materiale si sa sanctioneze cu amenda jucatorii atunci cand acestia le folosesc pentru crearea sau vinderea diferitelor arme langa ei. In cazul in care un civil foloseste materiale langa ei, politistul are urmatoarele obligatii:
 
 - pentru jucatorii de level 1 - 3 <span style="color:var(--pink);">nu se va acorda nicio sanctiune.</span>
 - pentru jucatorii de level 4 - 19 <span style="color:var(--pink);">li se vor confisca materialele.</span>
 - pentru jucatorii de level 20+ <span style="color:var(--pink);">li se vor confisca atat licenta de materiale cat si materialele.</span>
 
-<span style="color:var(--pink);">10.5.2</span> In cazul in care jucatorul in cauza abuzeaza (vinde/creeaza arme de cel putin 3 ori de fata cu politistul), licenta se poate confisca indiferent de nivelul jucatorului.
+<span style="color:var(--pink);">10.4.2</span> In cazul in care jucatorul in cauza abuzeaza (vinde/creeaza arme de cel putin 3 ori de fata cu politistul), licenta se poate confisca indiferent de nivelul jucatorului.
 
-<span style="color:var(--pink);">10.5.3</span> In cazul in care un jucator detine materiale, dar nu si licenta de materiale, acesta va fi sanctionat cu o amenda si ii vor fi confiscate materialele.
+<span style="color:var(--pink);">10.4.3</span> In cazul in care un jucator detine materiale, dar nu si licenta de materiale, acesta va fi sanctionat cu o amenda si ii vor fi confiscate materialele.
 
 ### Confiscarea <span style="color:orange;">Licentei de Arme si Armelor</span>
 
-<span style="color:var(--pink);">10.6.1</span> Licenta de Arme se confisca atunci cand armele sunt folosite in apropierea unui politist cu scopul de a ataca fara motiv un alt jucator.
+<span style="color:var(--pink);">10.5.1</span> Licenta de Arme se confisca atunci cand armele sunt folosite in apropierea unui politist cu scopul de a ataca fara motiv un alt jucator.
 
-<span style="color:var(--pink);">10.6.2</span> Armele se confisca atunci cand acestea sunt tinute la vedere in apropierea unui membru al departamentelor. [exceptie evenimente, antrenamente].
+<span style="color:var(--pink);">10.5.2</span> Armele se confisca atunci cand acestea sunt tinute la vedere in apropierea unui membru al departamentelor. [exceptie evenimente, antrenamente].
 
-<span style="color:var(--pink);">10.6.3</span> Nu aveti voie sa confiscati armele jucatorilor aflati pe un clan turf. Exceptie doar daca exista suspecti cu wanted cu drept de predare pe acel clan turf. Regula se aplica doar in cazul jucatorilor care fac parte dintr-un clan (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.5.3</span> Nu aveti voie sa confiscati armele jucatorilor aflati pe un clan turf. Exceptie doar daca exista suspecti cu wanted cu drept de predare pe acel clan turf. Regula se aplica doar in cazul jucatorilor care fac parte dintr-un clan (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.6.4</span> Nu confiscati arme albe sau obiecte sexuale. Singura exceptie sunt fumigenele de la 24/7 doar daca sunt folosite pentru a crea haos sau lag (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.5.4</span> Nu confiscati arme albe sau obiecte sexuale. Singura exceptie sunt fumigenele de la 24/7 doar daca sunt folosite pentru a crea haos sau lag (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.6.5</span> Este permis sa confiscati armele unui suspect cu drept de predare, daca acesta le tine la vedere sau ataca alti jucatori.
+<span style="color:var(--pink);">10.5.5</span> Este permis sa confiscati armele unui suspect cu drept de predare, daca acesta le tine la vedere sau ataca alti jucatori.
 
-<span style="color:var(--pink);">10.6.6</span> Armele pot fi confiscate de membrii oricarui departament.
+<span style="color:var(--pink);">10.5.6</span> Armele pot fi confiscate de membrii oricarui departament.
 
 ### Confiscarea <span style="color:orange;">Drogurilor</span>
 
-<span style="color:var(--pink);">10.7.1</span> Se confisca atunci cand se gaseste un jucator care sa le aiba in posesia sa, chiar daca jucatorul este AFK (cu sau fara clepsidra).
+<span style="color:var(--pink);">10.6.1</span> Se confisca atunci cand se gaseste un jucator care sa le aiba in posesia sa, chiar daca jucatorul este AFK (cu sau fara clepsidra).
 
-<span style="color:var(--pink);">10.7.2</span> Pot fi confiscate de membrii oricarui departament.
+<span style="color:var(--pink);">10.6.2</span> Pot fi confiscate de membrii oricarui departament.
 
 ### Confiscarea <span style="color:orange;">Licentelor de Zbor, Pescuit, Navigat</span>
 
-<span style="color:var(--pink);">10.8</span> De obicei nu exista motiv pentru confiscarea acestor licente, insa se pot confisca daca politistul gaseste un motiv suficient de bun pentru a face asta.
+<span style="color:var(--pink);">10.7</span> De obicei nu exista motiv pentru confiscarea acestor licente, insa se pot confisca daca politistul gaseste un motiv suficient de bun pentru a face asta.
+
+Cateva exemple:
+
+- <span style="color:var(--pink);">Licenta de Zbor:</span> deranjarea participantilor la traficul rutier / aerian / maritim cu aeronava, parcarea neregulamentara (LA SOL) a aeronavei, kamikaze etc.
+- <span style="color:var(--pink);">Licenta de Navigat:</span> deranjarea participantilor la traficul maritim, kamikaze etc.
 
 ## 11. Friskingul
 
@@ -430,7 +434,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">14.2.2</span> Daca un suspect (cu drept de predare) este AFK on wanted (pe ESC), il somati, anuntati pe [<span style="color:var(--pink);">/d</span>] ca este AFK precizand ora exacta, incluzand secundele, iar <span style="color:var(--pink);">dupa 3 minute (180 secunde)</span> il puteti omori.
 
-<span style="color:var(--pink);">14.2.3</span> Daca suspectul sta nemiscat atunci cand este intrebat daca se preda, politistul trebuie sa astepte 30 de secunde, dupa care are dreptul sa-l omoare.
+<span style="color:var(--pink);">14.2.3</span> Daca suspectul sta nemiscat atunci cand este intrebat daca se preda (cu conditia ca el sa fie gasit stand pe loc si sa ramana pe loc dupa ce a fost somat), politistul trebuie sa astepte 30 de secunde, dupa care are dreptul sa-l omoare.
 
 <span style="color:var(--pink);">14.2.4</span> Daca suspectul spune ca nu se preda, atunci politistul are dreptul sa-l omoare.
 
@@ -563,7 +567,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 ### Avertismente Blacklist
 
-- <span style="color:orange;">1 avertisment:</span> jigniri grave, in exces la adresa membrului sau a factiunii, incurcarea membrului sa-si faca datoria, DM/DB aiurea, kamikaze, /q on tie.
+- <span style="color:orange;">1 avertisment:</span> jigniri grave, in exces la adresa membrului sau a factiunii, incurcarea membrului sa-si faca datoria, DM/DB aiurea, kamikaze.
 - <span style="color:red;">2 avertismente:</span> limbaj vulgar, DM/DB excesiv, deranj excesiv a membrului cand si face datoria sau la activitati, fraudarea testelor de intrare alaturi de o interdictie de 3 luni.
 
 !!! example "Nota informativa"
@@ -588,11 +592,27 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.1.2</span> Membrii cu acest statut au obligatia de a respecta [Regulamentul Liderilor -> Testarea Candidatilor](../leaders/leader-rules.md/#testarea-candidatilor), fiind sanctionati ca atare pentru incalcarea acestuia.
 
+<span style="color:var(--pink);">21.1.3</span> Membrilor cu rank cuprins intre 4 si 6 (inclusiv) le este strict interzis sa modifice statutul candidatului in respins/acceptat fara acordul liderului. Modificarea statutului jucatorului fara acordul liderului se considera favorizare si se pedepseste cu <span style="color:red;">Faction Warn</span> prima data, <span style="color:red;">Rank Down</span> daca continua. 
+
+<span style="color:var(--pink);">21.1.4</span> Inainte de a incepe un test, asigurati-va ca aplicantul are caile de comunicatii inchise. Odata ce folositi [<span style="color:var(--pink);">/ft</span>] pe un jucator, in mod normal, acestea i se inchid automat. Comanda [<span style="color:var(--pink);">/togcomms</span>] inchide sau deschide caile de comunicare.
+
+<span style="color:var(--pink);">21.1.5</span> In cazul recrutarilor in care candidatul poate da test cu orice tester, un tester nu va avea voie sa sustina teste cu un jucator din acelasi clan/alianta cu el (<span style="color:red;">sanctiune: RANK DOWN + Faction Warn</span>). Exceptie fac liderul si subliderii, impreuna cu eventualele situatii speciale ce pot aparea, stabilite de conducere, in care se poate tolera acest lucru, aplicate pe loc in functie de caz.
+
+<span style="color:var(--pink);">21.1.6</span> In cazul recrutarilor in care fiecarui candidat ii este acordat un tester sau mai multi, testerii nu vor avea voie sa dea test cu altcineva decat cu candidatii la care au fost repartizati. Exceptie fac Rank 6, ei pot da test cu orice candidat oricand (<span style="color:red;">sanctiune: RANK DOWN + indepartarea functiei de tester</span>).
+
 ### Joburi
 
 <span style="color:var(--pink);">21.2.1</span> Se poate detine orice tip de job legal, mai putin Lawyer (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
 
 <span style="color:var(--pink);">21.2.2</span> Liderul are dreptul de a forta membrii sa foloseasca un anumit job pentru o durata determinata de timp in scopul realizarii muncii din factiune (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">21.2.3</span> Este interzis sa aveti asupra voastra materiale, droguri sau alte obiecte ilegale (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">21.2.4</span> Daca folositi alt job decat cel de Detectiv, sunteti obligati sa fiti off-duty.
+
+<span style="color:var(--pink);">21.2.5</span> Cu acordul unui Admin 4+ se pot lua si job-uri ilegale in cazul unui eveniment special.
+
+<span style="color:var(--pink);">21.2.6</span> Nu aveti voie sa practicati (sa folositi [<span style="color:var(--pink);">/work</span>] sau alte comenzi aferente pornirii job-ului) alt job in afara de cel de Detectiv sau Mecanic (strict pentru intretinerea masinilor in urmarire) atunci cand sunteti on duty (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 ### Ramming
 
@@ -638,7 +658,36 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.8.2</span> Puteti participa la evenimentele violente DOAR daca sunteti <span style="color:var(--pink);">OFF DUTY</span>. Daca sunteti prinsi ON DUTY la aceste evenimente, riscati sa fiti sanctionati. Cand mergeti la un eveniment violent sunteti obligati sa faceti o poza in care sa va apara textul care confirma ca nu sunteti la datorie (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-## 22. Exceptii
+<span style="color:var(--pink);">21.8.3</span> Un politist poate participa la evenimentele organizate de catre un ADMIN sau la evenimentele organizate de un jucator cum ar fi: simon spune, trivia, race (atata timp cat circula corect), stunt, gaseste locatia, event deagle, event find and kill etc.
 
-<span style="color:var(--pink);">22.1</span> Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
-<span style="color:var(--pink);">22.2</span> Aceste exceptii pot fi facute numai cu permisiunea unui Admin 6.
+<span style="color:var(--pink);">21.8.4</span> Cand mergeti la un eveniment violent sunteti obligati sa faceti o poza in care sa va apara textul "You are not on duty".
+
+### Mandate de Eliberare
+
+<span style="color:var(--pink);">21.9.1</span> Membrii de rank 3+ pot vinde mandate (accept lawyers) avocatilor, astfel dandu-si acordul in vederea scoaterii din jail a unor jucatori.
+
+<span style="color:var(--pink);">21.9.2</span> Nu exista pret universal pentru [<span style="color:var(--pink);">/lawyer</span>], ci fiecare va negocia cu cumparatorul un pret propriu, in limitele stabilite de script. Cine incalca limitele stabilite de script la vanzarea unui mandat va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
+
+## 22. Amenzi
+
+<span style="color:var(--pink);">22.1</span> Aceste amenzi o sa fie acordate in joc folosind sistemul de [<span style="color:var(--pink);">/fines</span>] doar de catre lider sau sublideri atunci cand este necesar in baza unor dovezi clare. Aceste amenzi pot sa fie achitate in maximum 48 de ore de cand au fost primite. Membrii care nu platesc amenzile active prin comanda [<span style="color:var(--pink);">/fines</span>] in maximum 48 de ore de cand le-au primit o sa fie sanctionati automat de catre server cu <span style="color:red;">Faction Warn.</span>
+
+- Parcatul neregulamentar - <span style="color:var(--green);">30,000$</span>
+- Condus neregulamentar - <span style="color:var(--green);">35,000$</span>
+- Folosirea hidraulicelor pe un drum public - <span style="color:var(--green);">100,000$</span>
+- Folosirea de NOS - <span style="color:var(--green);">100,000$</span>
+- Depasire viteza legala intre 50-100 km/h - platiti amenda politistului in joc
+- Depasire viteza legala peste 100 km/h  - platiti amenda politistului in joc
+- Headlights off (faruri oprite) - <span style="color:var(--green);">30,000$</span>
+- Folosirea comenzii [<span style="color:var(--pink);">/FVR</span>] fara a se anunta in prealabil - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> prima abatatere, <span style="color:red;">Faction Warn</span> daca se repeta
+- Folosirea Caps Lock-ului intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
+- Nerespectarea indicatiilor unui rang superior la activitati/antrenamente - <span style="color:var(--green);">75,000$</span>
+- Folosirea unui emoticon intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
+- Spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
+- Masina parcata pe locul vehiculelor factiunii sau blocarea intrarii/iesirii cu acestea - <span style="color:var(--green);">50,000$</span>
+- Folosirea in exces a comenzii [<span style="color:var(--pink);">/FVS</span>] atunci cand nu este nevoie, ex: activitate, parada, filtru - <span style="color:var(--green);">75,000$</span>
+
+## 23. Exceptii
+
+<span style="color:var(--pink);">23.1</span> Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
+<span style="color:var(--pink);">23.2</span> Aceste exceptii pot fi facute numai cu permisiunea unui Admin 6.
