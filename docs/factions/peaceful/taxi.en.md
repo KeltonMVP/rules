@@ -122,7 +122,7 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 
 <span style="color:var(--pink);">4.2</span> It is forbidden to transport the client without [<span style="color:var(--pink);">/fare</span>] or to transport them on top of the taxi vehicle (<span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated).
 
-<span style="color:var(--pink);">4.2</span> It is forbidden to offer money to customers before, during the ride, or to return the money at the end of the ride, as well as to ask for tips from customers (<span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">4.3</span> It is forbidden to offer money to customers before, during the ride, or to return the money at the end of the ride, as well as to ask for tips from customers (<span style="color:red;">Faction Warn</span>).
 
 ## 5. Orders
 

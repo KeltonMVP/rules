@@ -40,11 +40,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/untie <id>]</span> - releases a player from [<span style="color:var(--pink);">/tie</span>].
 - <span style="color:var(--pink);">[/fvs]</span> - spawns a faction vehicle.
 - <span style="color:var(--pink);">[/ftalkpower <Rank 0 - 5>]</span> - applies a restriction on faction chat.
-- <span style="color:var(--pink);">[/shield <Buy/Attach/Remove>]</span> - buys/attaches/removes the protective shield.
+- <span style="color:var(--pink);">[/shield < Buy/Use/Remove >]</span> - buys/attaches/removes the protective shield.
 - <span style="color:var(--pink);">[/tduty]</span> - goes on duty as a Tester.
 - <span style="color:var(--pink);">[/copguns]</span> - sets pre-determined weapons for [<span style="color:var(--pink);">/duty</span>].
-- <span style="color:var(--pink);">[/opencell <cell id>]</span> - opens a cell.
-- <span style="color:var(--pink);">[/closecell <cell id>]</span> - closes a cell.
+- <span style="color:var(--pink);">[/opencell < cell id> ]</span> - opens a cell.
+- <span style="color:var(--pink);">[/closecell < cell id> ]</span> - closes a cell.
 - <span style="color:var(--pink);">[/opencellsall]</span> - opens all cells.
 - <span style="color:var(--pink);">[/closecellsall]</span> - closes all cells.
 

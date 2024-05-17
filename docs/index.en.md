@@ -326,6 +326,7 @@ Examples of non-rp behavior:
 - blocking access points using parked vehicles.
 - diverse abusive actions of disconnecting or respawning in order to escape the punishments you need to receive from police officers (if the player got punished automatically with wanted, admins will not punish them).
 - attacking other players, as a clan member, inside or near clan zones without being directly involved in the conquest/defense of that area; if members of other clans have already initiated a battle for that area, it is prohibited for other individuals who are not part of those clans to intervene (<span style="color:red;">punishment: kick for the first offense, ajail for subsequent offenses</span>).
+- using the [<span style="color:var(--pink);">/spray</span>] command to intentionally block the takeover of territory by other clans without the intention of conquering the territory by the clan that initiated the spray, or an agreement between two clans to swap their territories (<span style="color:red;">punishment: kick for the first offense, ajail for subsequent offenses</span>).
 
 ## 6. Global Chats
 <span style="color:var(--pink);">6.1.1</span> Global chats are those chats that can be seen by all the players of the server (/ad, /live, /e, /news, /gov etc.).

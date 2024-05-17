@@ -122,7 +122,7 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 <span style="color:var(--pink);">4.2</span> Este interzis sa transportati clientul fara [<span style="color:var(--pink);">/fare</span>] sau sa il transportati pe masina de taxi (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> daca se repeta).
 
-<span style="color:var(--pink);">4.2</span> Este interzis sa le oferiti bani clientilor pentru cursa inainte, in timpul comenzii sau sa returnatii banii la final de cursa, cat si sa cereti bacsis clientilor (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">4.3</span> Este interzis sa le oferiti bani clientilor pentru cursa inainte, in timpul comenzii sau sa returnatii banii la final de cursa, cat si sa cereti bacsis clientilor (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ## 5. Comenzi
 

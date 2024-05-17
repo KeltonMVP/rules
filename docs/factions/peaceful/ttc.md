@@ -124,3 +124,19 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 !!! danger "Important"
     Daca sunteti raportat pentru tractare ilegala si nu aveti dovezi, veti fi sanctionat pentru tractare ilegala (<span style="color:red;">sanctiune: demitere</span>).
 
+## 6. Amenzi
+
+Motivele pentru care se va acorda o amenda sunt urmatoarele:
+
+- intarziere sedinta/activitate intre 20 si 30 de minute - <span style="color:orange;">Avertisment Verbal</span> + amenda <span style="color:var(--green);">30,000$</span>
+- vorbit neintrebat in timpul sedintei/activitatii - <span style="color:var(--green);">25,000$</span>
+- caps lock pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">30,000$</span>
+- spam pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">30,000$</span> (prima abatere)
+- apel telefonic in timpul sedintei - <span style="color:var(--green);">25,000$</span>
+- [<span style="color:var(--pink);">/fvr</span>] cand a anuntat alt coleg rank 5+ - <span style="color:var(--green);">50,000$</span>
+- [<span style="color:var(--pink);">/fvr</span>] in mai putin de 5 secunde de cand s-a anuntat pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">25,000$</span>
+- [<span style="color:var(--pink);">/fvr</span>] neanuntat - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea
+- AFK in cabina de spawn (0-2 minute) - <span style="color:var(--green);">25,000$</span>
+- AFK in timpul unei activitati - <span style="color:var(--green);">35,000$</span>
+- parcarea vehiculelor in curtea HQ-ului astfel incat sa incurce circulatia - <span style="color:var(--green);">50,000$</span> la prima abatere, <span style="color:orange;">Avertisment Verbal</span> + <span style="color:var(--green);">50,000$</span> la urmatoarea
+- neanuntare preluare/respawnare Tow Truck - <span style="color:var(--green);">30,000$</span>

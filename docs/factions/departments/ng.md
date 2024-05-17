@@ -40,7 +40,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/untie < id >]</span> - elibereaza un jucator din [<span style="color:var(--pink);">/tie</span>].
 - <span style="color:var(--pink);">[/fvs]</span> - spawnezi un vehicul de factiune.
 - <span style="color:var(--pink);">[/ftalkpower < Rank 0 - 5 >]</span> - aplica o restrictie pe chatul factiunii.
-- <span style="color:var(--pink);">[/shield < Buy/Attach/Remove >]</span> - cumperi/pui/stergi scutul de protectie.
+- <span style="color:var(--pink);">[/shield < Buy/Use/Remove >]</span> - cumperi/pui/stergi scutul de protectie.
 - <span style="color:var(--pink);">[/tduty]</span> - te pui la datorie ca Tester.
 - <span style="color:var(--pink);">[/copguns]</span> - setezi arme prestabilite pentru [<span style="color:var(--pink);">/duty</span>].
 - <span style="color:var(--pink);">[/opencell < id celula >]</span> - deschizi o celula.

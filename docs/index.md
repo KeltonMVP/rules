@@ -327,6 +327,7 @@ Exemple de comportament non-rp:
 - blocarea punctelor de acces folosind vehicule parcate.
 - diverse actiuni abuzive de deconectare sau respawnare pentru a scapa de sanctiunile pe care trebuie sa le primiti de la politisti (daca jucatorul a fost sanctionat automat de server cu wanted, nu va fi sanctionat de admini).
 - atacarea altor jucatori, ca membru de clan, in interiorul sau apropierea zonelor de clan fara sa fii implicat direct in cucerirea/apararea acelei zone; daca membrii altor clanuri au initiat deja o lupta pentru acea zona, este interzisa interventia altor persoane care nu fac parte din respectivele clanuri (<span style="color:red;">sanctiune: kick prima abatere, ajail la urmatoarele</span>).
+- folosirea comenzii [<span style="color:var(--pink);">/spray</span>] pentru a bloca intentionat cucerirea teritoriului de catre alte clanuri, fara intentia de a cuceri teritoriul de catre clanul care a initiat spray-ul, sau intelegerea intre doua clanuri sa-si mute teritoriul intre ele (<span style="color:red;">sanctiune: kick prima abatere, ajail la urmatoarele</span>).
 
 ## 6. Chaturi Globale
 <span style="color:var(--pink);">6.1.1</span> Chaturile globale sunt acele chaturi care pot fi vazute de catre toti jucatorii de pe server (/ad, /live, /e, /news, /gov etc.).

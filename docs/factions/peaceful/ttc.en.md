@@ -124,4 +124,19 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 !!! danger "Important"
     If you are reported for illegal towing and you don't have evidence, you will be sanctioned for illegal towing (<span style="color:red;">sanction: dismissal</span>).
 
+## 6. Fines
 
+The reasons for issuing a fine are as follows:
+
+- late to meeting/activity by 20 to 30 minutes - <span style="color:orange;">Verbal Warning</span> + fine of <span style="color:var(--green);">$30,000</span>
+- speaking out of turn during meeting/activity - <span style="color:var(--green);">$25,000</span>
+- caps lock on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$30,000</span>
+- spamming on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$30,000</span> (first offense)
+- phone call during meeting - <span style="color:var(--green);">$25,000</span>
+- [<span style="color:var(--pink);">/fvr</span>] when another rank 5+ colleague has already announced it - <span style="color:var(--green);">$50,000</span>
+- [<span style="color:var(--pink);">/fvr</span>] less than 5 seconds after it was announced on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$25,000</span>
+- [<span style="color:var(--pink);">/fvr</span>] without announcement - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses
+- AFK in spawn cabin (0-2 minutes) - <span style="color:var(--green);">$25,000</span>
+- AFK during an activity - <span style="color:var(--green);">$35,000</span>
+- parking vehicles in the HQ yard in a way that obstructs traffic - <span style="color:var(--green);">$50,000</span> for the first offense, <span style="color:orange;">Verbal Warning</span> + <span style="color:var(--green);">$50,000</span> for subsequent offenses
+- failure to announce towing/respawning of Tow Truck - <span style="color:var(--green);">$30,000</span>
