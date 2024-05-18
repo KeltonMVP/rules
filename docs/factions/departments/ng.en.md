@@ -47,6 +47,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/closecell < cell id> ]</span> - closes a cell.
 - <span style="color:var(--pink);">[/opencellsall]</span> - opens all cells.
 - <span style="color:var(--pink);">[/closecellsall]</span> - closes all cells.
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

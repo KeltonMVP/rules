@@ -36,6 +36,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Desert Eagle, M4.
     - <span style="color:var(--pink);">[/order 3]</span> - (rank 3 / 5850 mats) Desert Eagle, M4, Rifle.
     - <span style="color:var(--pink);">[/order 4]</span> - (rank 4 / 6500 mats) Desert Eagle, M4, TEC-9, Combat Shotgun, Rifle.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 ## 2. Skinurile Factiunii
 

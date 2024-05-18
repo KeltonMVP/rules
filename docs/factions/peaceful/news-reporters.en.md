@@ -31,6 +31,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/timestamp]</span> - shows the time in chat. This command must always be active.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction's blacklist.
 - <span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

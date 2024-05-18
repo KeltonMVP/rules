@@ -30,6 +30,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/gov < text >]</span> - chatul global guvernamental folosit doar pentru anunturi importante.
 - <span style="color:var(--pink);">[/undercover < ON/OFF >]</span> - iti schimba skinul si devii civil.
 - <span style="color:var(--pink);">[/namecover < ID > < NEW NAME >]</span> - schimbi numele si skinul unui membru FBI, facandu-l totodata civil.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 ## 2. Skinurile Factiunii
 

@@ -47,6 +47,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/closecell < id celula >]</span> - inchizi o celula.
 - <span style="color:var(--pink);">[/opencellsall]</span> - deschizi toate celulele.
 - <span style="color:var(--pink);">[/closecellsall]</span> - inchizi toate celulele.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 ## 2. Skinurile Factiunii
 

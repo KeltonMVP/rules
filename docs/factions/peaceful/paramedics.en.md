@@ -27,6 +27,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/corpse < corpse id >]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.
 - <span style="color:var(--pink);">[/onduty]</span> - shows members on duty.
 - <span style="color:var(--pink);">[/members]</span> - shows the list of all faction members.
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

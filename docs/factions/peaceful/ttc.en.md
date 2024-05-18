@@ -23,6 +23,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all mechanic service calls that can be accepted.
 - <span style="color:var(--pink);">[/dl]</span> - displays the HP of a vehicle, necessary when towing.
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

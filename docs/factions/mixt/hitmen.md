@@ -31,6 +31,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     - <span style="color:var(--pink);">[Ranks]</span> - afiseaza membrii online si rankul acestora.
     - <span style="color:var(--pink);">[Undercover]</span> - iti asigura identitatea secreta pentru realizarea unui contract.
     - <span style="color:var(--pink);">[Logout]</span> - te deconectezi de la laptopul agentiei.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 ## 2. Skinurile Factiunii
 

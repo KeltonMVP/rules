@@ -36,6 +36,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Desert Eagle, M4.
     - <span style="color:var(--pink);">[/order 3]</span> - (rank 3 / 5850 mats) Desert Eagle, M4, Rifle.
     - <span style="color:var(--pink);">[/order 4]</span> - (rank 4 / 6500 mats) Desert Eagle, M4, TEC-9, Combat Shotgun, Rifle.
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

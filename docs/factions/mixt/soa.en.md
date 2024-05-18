@@ -24,6 +24,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/order]</span> - to procure various weapon packages.
 - <span style="color:var(--pink);">[/extort] or [/ext]</span> - to extort a civilian wearing one of the faction skins.
 - <span style="color:var(--pink);">[/imp]</span> - to see online players wearing a Sons of Anarchy skin.
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

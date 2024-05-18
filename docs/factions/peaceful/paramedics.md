@@ -27,6 +27,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/corpse < corpse id >]</span> - cu aceasta comanda incepi sa mergi catre un cadavru pentru a-l ridica. Va aparea un checkpoint pe harta la locatia acestuia.
 - <span style="color:var(--pink);">[/onduty]</span> - arata membrii aflati la datorie.
 - <span style="color:var(--pink);">[/members]</span> - arata lista cu toti membrii factiunii.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 
 ## 2. Skinurile Factiunii

@@ -30,6 +30,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/gov < text >]</span> - governmental global chat used only for important announcements.
 - <span style="color:var(--pink);">[/undercover < ON/OFF >]</span> - change your skin and become a civilian.
 - <span style="color:var(--pink);">[/namecover < ID > < NEW NAME >]</span> - you change the skin and name of an FBI member, also making him a civilian.
+- <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
+- <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
 
 ## 2. Faction Skins
 

@@ -23,6 +23,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii online, iar cei on-duty sunt evidentiati cu verde (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre mecanici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/dl]</span> - afiseaza HP-ul masinii, necesar cand tractati.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 ## 2. Skinurile Factiunii
 

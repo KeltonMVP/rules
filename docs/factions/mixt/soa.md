@@ -24,6 +24,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/order]</span> - pentru a procura diverse pachete de arme.
 - <span style="color:var(--pink);">[/extort] sau [/ext]</span> - pentru a extorca un civil care poarta unul dintre skinurile factiunii.
 - <span style="color:var(--pink);">[/imp]</span> - pentru a vedea jucatorii online care poarta un skin Sons of Anarchy.
+- <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
+- <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
 
 ## 2. Skinurile Factiunii
 
