@@ -203,7 +203,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - the picture must have the target locked.
 - timestamp must be activated, use [<span style="color:var(--pink);">/timestamp</span>] to activate it.
 - you must be aligned with the target on the minimap ([example of correct alignment](https://imgur.com/a/KJrHsqO) / [example of incorrect alignment](https://imgur.com/a/jgKWSvV)).
-- the distance on [<span style="color:var(--pink);">/find</span>] must match the distance in the informational message that the contract was completed (<span style="color:var(--pink);">*</span>).
+- the distance on [<span style="color:var(--pink);">/find</span>] must match the distance in the informational message that the contract was completed (there are some exceptions, see rule <span style="color:var(--pink);">10.2.1</span>).
 
 !!! example "Info Note"
     Here are [some examples](https://imgur.com/a/RkMvfUC) of valid contracts to show how they should look.
@@ -217,6 +217,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">10.3</span> Contracts for the current edition of TSO can be posted <span style="color:var(--pink);">ONLY</span> after the results of the previous edition are posted (<span style="color:red;">sanction: Verbal Warning</span>).
 
 <span style="color:var(--pink);">10.4</span> You can edit your forum post to modify the picture with the contract as long as the forum allows the editing option. If it is not available, you can discuss with the leader to edit your post if they agree.
+
+<span style="color:var(--pink);">10.5</span> You are not allowed to post more than one contract per edition of TSO. In this case, only the first posted contract will be considered.
+
+<span style="color:var(--pink);">10.6</span> TSO starts on Monday at 00:00 and ends on Sunday at 23:59. Only contracts completed and posted within the respective edition's week are considered valid.
 
 ## 11. Others
 

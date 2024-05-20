@@ -191,7 +191,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 10. The Silent One
 
-<span style="color:var(--pink);">10.1</span> The Silent One (TSO) este o competitie <span style="color:var(--pink);">OBLIGATORIE</span> pentru agentii de rank 1-5 ce se desfasoare saptamanal. Participarea se face pe forum in topicul [The Silent One](https://forum.b-zone.ro/topic/31863--).
+<span style="color:var(--pink);">10.1</span> The Silent One (TSO) este o competitie <span style="color:var(--pink);">OBLIGATORIE</span> pentru agentii de rank 1-5 ce se desfasoara saptamanal. Participarea se face pe forum in topicul [The Silent One](https://forum.b-zone.ro/topic/31863--).
 
 <span style="color:var(--pink);">10.1.1</span> Neparticiparea la concurs sau postarea unei poze incorecte se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea.
 
@@ -203,7 +203,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - poza sa fie cu tinta pusa.
 - timestamp-ul trebuie sa fie activat, folositi [<span style="color:var(--pink);">/timestamp</span>] pentru a-l activa.
 - sa fiti pe aceeasi linie pe minimap cu tinta ([asa da](https://imgur.com/a/KJrHsqO) / [asa nu](https://imgur.com/a/jgKWSvV)).
-- distanta de pe [<span style="color:var(--pink);">/find</span>] sa corespunda cu distanta de la mesajul informativ ca ati realizat contractul (<span style="color:var(--pink);">*</span>).
+- distanta de pe [<span style="color:var(--pink);">/find</span>] sa corespunda cu distanta de la mesajul informativ ca ati realizat contractul (exista totusi cateva exceptii, vezi regula <span style="color:var(--pink);">10.2.1</span>).
 
 !!! example "Nota informativa"
     Aveti aici [cateva exemple](https://imgur.com/a/RkMvfUC) de contracte corecte, pentru a va da seama cum ar trebui sa arate.
@@ -217,6 +217,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">10.3</span> Contractele pentru editia curenta de TSO se posteaza <span style="color:var(--pink);">DOAR</span> dupa ce sunt postate rezultatele editiei precedente (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">10.4</span> Puteti edita postarea de pe forum pentru a modifica poza cu contractul, atata timp cat va permite forumul optiunea de editare. Daca aceasta nu e disponibila puteti discuta cu liderul sa va editeze postarea daca doreste.
+
+<span style="color:var(--pink);">10.5</span> Nu aveti voie sa postati mai mult de un contract la o editie de TSO. In acest caz se va lua in considerare doar primul contract postat.
+
+<span style="color:var(--pink);">10.6</span> TSO incepe Luni de la ora 00:00 si se incheie Duminica la ora 23:59. Sunt considerate valide doar contractele efectuate si postate in saptamana editiei respective.
 
 ## 11. Altele
 
