@@ -71,12 +71,12 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.5</span> When the target's house is locked, you can use the command [<span style="color:var(--pink);">/ram</span>] to break in.
 
-<span style="color:var(--pink);">4.6</span> In the case of targets located in HQ / Training Room, you have the option to carry out the contract as follows: use [<span style="color:var(--pink);">/ram</span>] if your target is in the HQ or [<span style="color:var(--pink);">/enter</span>] if the target is in the Training Room and execute the contract. If there is a <span style="color:var(--pink);">meeting / training session</span>, leave the area entirely, make sure nobody sees you, and use [<span style="color:var(--pink);">/leavehit</span>].
+<span style="color:var(--pink);">4.6</span> In the case of targets located in HQ / Training Room, you have the option to carry out the contract as follows: use [<span style="color:var(--pink);">/ram</span>] if your target is in the HQ or [<span style="color:var(--pink);">/enter</span>] if the target is in the Training Room and execute the contract. If there is a <span style="color:var(--pink);">meeting / training session</span>, leave the area entirely, make sure nobody sees you, and use [<span style="color:var(--pink);">leavehit</span>].
 
 <span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you have two options to carry out the contract:
 
 - wait until the target leaves the Bunker and then execute the contract.
-- you can use the command [<span style="color:var(--pink);">/leavehit</span>] and take another contract.
+- you can use the command [<span style="color:var(--pink);">leavehit</span>] and take another contract.
 
 <span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanction: dismissal</span>).
 
@@ -127,12 +127,12 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ### Leavehit
 
-- an agent has the option to use the command [<span style="color:var(--pink);">/leavehit</span>] when they desire, with a cooldown of 5 minutes between each leavehit.
-- upon using the command [<span style="color:var(--pink);">/leavehit</span>], the undercover mode turns OFF. Therefore, before using this command, make sure there is nobody around you who is not part of the agency.
+- an agent has the option to use the command [<span style="color:var(--pink);">leavehit</span>] when they desire, with a cooldown of 5 minutes between each leavehit.
+- upon using the command [<span style="color:var(--pink);">leavehit</span>], the undercover mode turns OFF. Therefore, before using this command, make sure there is nobody around you who is not part of the agency.
 
 ### Gethit
 
-- an agent has the option to use the command [<span style="color:var(--pink);">/gethit</span>] when they want to file their report, not to take advantage of undercover.
+- an agent has the option to use the command [<span style="color:var(--pink);">gethit</span>] when they want to file their report, not to take advantage of undercover.
 
 ## 6. Undercover
 
@@ -143,7 +143,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">6.3</span> Agents are not allowed to abuse Undercover (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for subsequent offenses).
 
 !!! danger "Important"
-    The command <span style="color:var(--pink);">"undercover"</span>, following the acquisition of a contract with [<span style="color:var(--pink);">/gethit</span>], should only be typed when you are sure that there are no other players around you who are not part of the agency and could see you. Of course, after completing the contract, nobody should be around when undercover mode turns OFF (<span style="color:red;">sanction: Faction Warn</span>).
+    The command <span style="color:var(--pink);">"undercover"</span>, following the acquisition of a contract with [<span style="color:var(--pink);">gethit</span>], should only be typed when you are sure that there are no other players around you who are not part of the agency and could see you. Of course, after completing the contract, nobody should be around when undercover mode turns OFF (<span style="color:red;">sanction: Faction Warn</span>).
 
 ### Undercover Abuse
 

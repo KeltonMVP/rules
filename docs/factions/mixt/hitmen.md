@@ -71,12 +71,12 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.5</span> Atunci cand casa in care se afla tinta este incuiata, puteti folosi comanda [<span style="color:var(--pink);">/ram</span>] pentru a intra prin efractie.
 
-<span style="color:var(--pink);">4.6</span> In cazul tintelor aflate in HQ / Training Room, aveti posibilitatea de a efectua contractul in felul urmator: dati [<span style="color:var(--pink);">/ram</span>] daca tinta voastra se afla in HQ sau [<span style="color:var(--pink);">/enter</span>] daca tinta se afla in Training Room si efectuati contractul. In cazul in care este <span style="color:var(--pink);">sedinta / antrenament</span>, parasiti zona complet, asigurati-va ca nu va vede nimeni si dati [<span style="color:var(--pink);">/leavehit</span>].
+<span style="color:var(--pink);">4.6</span> In cazul tintelor aflate in HQ / Training Room, aveti posibilitatea de a efectua contractul in felul urmator: dati [<span style="color:var(--pink);">/ram</span>] daca tinta voastra se afla in HQ sau [<span style="color:var(--pink);">/enter</span>] daca tinta se afla in Training Room si efectuati contractul. In cazul in care este <span style="color:var(--pink);">sedinta / antrenament</span>, parasiti zona complet, asigurati-va ca nu va vede nimeni si dati [<span style="color:var(--pink);">leavehit</span>].
 
 <span style="color:var(--pink);">4.7</span> In cazul tintelor aflate in Bunker, aveti posibilitatea de a efectua contractul in doua moduri:
 
 - asteptati pana cand tinta iese din Bunker si efectuati contractul.
-- se poate folosi comanda [<span style="color:var(--pink);">/leavehit</span>] si sa luati alt contract.
+- se poate folosi comanda [<span style="color:var(--pink);">leavehit</span>] si sa luati alt contract.
 
 <span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanctiune: demitere</span>).
 
@@ -127,12 +127,12 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ### Leavehit
 
-- un agent are posibilitatea sa foloseasca comanda [<span style="color:var(--pink);">/leavehit</span>] cand doreste, cu un cooldown de 5 minute intre fiecare leavehit.
-- in urma utilizarii comenzii [<span style="color:var(--pink);">/leavehit</span>], undercoverul devine OFF. Prin urmare, inainte sa folositi aceasta comanda, asigurati-va ca nu este nimeni in jurul vostru care sa nu faca parte din agentie.
+- un agent are posibilitatea sa foloseasca comanda [<span style="color:var(--pink);">leavehit</span>] cand doreste, cu un cooldown de 5 minute intre fiecare leavehit.
+- in urma utilizarii comenzii [<span style="color:var(--pink);">leavehit</span>], undercoverul devine OFF. Prin urmare, inainte sa folositi aceasta comanda, asigurati-va ca nu este nimeni in jurul vostru care sa nu faca parte din agentie.
 
 ### Gethit
 
-- un agent are posibilitatea sa foloseasca comanda [<span style="color:var(--pink);">/gethit</span>] cand doreste sa-si faca raportul, nicidecum ca sa profite de undercover.
+- un agent are posibilitatea sa foloseasca comanda [<span style="color:var(--pink);">gethit</span>] cand doreste sa-si faca raportul, nicidecum ca sa profite de undercover.
 
 ## 6. Undercover
 
@@ -143,7 +143,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">6.3</span> Agentii nu au voie sa abuzeze de Undercover (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
 !!! danger "Important"
-    Comanda <span style="color:var(--pink);">"undercover"</span>, in urma preluarii unui contract cu [<span style="color:var(--pink);">/gethit</span>], se va tasta doar cand sunteti siguri ca nu exista alti jucatori care nu fac parte din agentie in apropierea voastra care sa va vada. Desigur, in urma efectuarii contractului, de asemenea, nu trebuie ca cineva sa fie in preajma cand undercoverul devine OFF (<span style="color:red;">sanctiune: Faction Warn</span>).
+    Comanda <span style="color:var(--pink);">"undercover"</span>, in urma preluarii unui contract cu [<span style="color:var(--pink);">gethit</span>], se va tasta doar cand sunteti siguri ca nu exista alti jucatori care nu fac parte din agentie in apropierea voastra care sa va vada. Desigur, in urma efectuarii contractului, de asemenea, nu trebuie ca cineva sa fie in preajma cand undercoverul devine OFF (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ### Abuz Undercover
 
