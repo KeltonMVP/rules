@@ -21,7 +21,6 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/fputdrugs]</span> - deposits drugs into the faction's safe.
 - <span style="color:var(--pink);">[/fputmaterials]</span> - deposits materials into the faction's safe.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - displays the list of players on the faction's blacklist.
-- <span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to medics that can be accepted.
 - <span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.
 - <span style="color:var(--pink);">[/corpse < corpse id >]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.
