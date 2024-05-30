@@ -84,6 +84,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.10</span> You are obligated to provide evidence for all tests for the licenses you issue. Failure to provide evidence upon request by the leader or admins will be sanctioned (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
+For your evidence to be considered valid, it must contain the following:
+
+- a screenshot of [<span style="color:var(--pink);">/requestlicense</span>] when the license dialog appears.
+- a screenshot when you announce in the faction chat that you will be offering a license.
+- screenshots of the test being administered.
+- a screenshot showing whether the player passed or failed the tests.
+
+It is recommended to have as many screenshots as possible to demonstrate that you administered the tests correctly.
+
 <span style="color:var(--pink);">4.11</span> When a member takes a client who has not issued [<span style="color:var(--pink);">/needlicense</span>], the member must ask on [<span style="color:var(--pink);">/sx</span>] if the player has been accepted by someone else. If no one responds within 5 seconds, take a screenshot and continue giving tests to that client (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! example "Info note"

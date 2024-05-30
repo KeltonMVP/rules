@@ -74,7 +74,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.7</span> Nu aveti voie sa dati doua sau mai multe teste in acelasi timp (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
-<span style="color:var(--pink);">4.8</span> In cazul in care sunteti la datorie [<span style="color:var(--pink);">/duty</span>] si sunt comenzi disponibile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] sunteti OBLIGATIi sa le acceptati in cazul in care nu aveti client (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">4.8</span> In cazul in care sunteti la datorie [<span style="color:var(--pink);">/duty</span>] si sunt comenzi disponibile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] sunteti OBLIGATI sa le acceptati in cazul in care nu aveti client (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 <span style="color:var(--pink);">4.9</span> Membrii de rank 2+ care sunt la datorie au obligatia de a nu refuza clientii care le solicita acordarea de licente (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -83,6 +83,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     Aveti dreptul de a refuza clientul daca nu sunteti [<span style="color:var(--pink);">/duty</span>].
 
 <span style="color:var(--pink);">4.10</span> Aveti obligatia de a face dovezi la toate testele pentru licentele pe care le acordati. Lipsa dovezilor la cererea liderului sau adminilor se sanctioneaza (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+
+Ca dovezile voastre sa fie considerate valide trebuie sa contina urmatoarele:
+
+- poza la [<span style="color:var(--pink);">/requestlicense</span>] cand apare dialogul cu licente.
+- poza cand anunti pe chatul faciunii ca vei oferi o licenta.
+- poze cu testul sustinut.
+- poza cum ca jucatorul a trecut sau picat testele.
+
+Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sustinut corect testele.
 
 <span style="color:var(--pink);">4.11</span> Cand un membru ia un client care nu a dat [<span style="color:var(--pink);">/needlicense</span>], membrul trebuie sa intrebe pe [<span style="color:var(--pink);">/sx</span>] daca playerul a fost acceptat de altcineva. Daca nu raspunde nimeni in 5 secunde, faceti o poza si continuati sa dati testele cu clientul respectiv (<span style="color:red;">sanctiune: Faction Warn</span>).
 
