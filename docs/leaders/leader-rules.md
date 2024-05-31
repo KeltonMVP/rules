@@ -1209,7 +1209,7 @@ Membrii vor fi sanctionati in urmatorul fel:
 
 <span style="color:var(--pink);">8.4.8</span> Liderii NU au voie sa sanctioneze membrii la war pe motive precum "cine moare fara kill are FW" - "cine moare are FW". Va puteti sanctiona membrii pentru neascultare rank superior doar daca oferiti suficient timp sa ajunga la o pozitie de backup, iar acei membrii continua sa va ignore si sa nu vina la pozitia ceruta de voi (<span style="color:red;">sanctiune: Leader Warn</span>).
 
-<span style="color:var(--pink);">8.4.9</span> Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
+<span style="color:var(--pink);">8.4.9</span> Liderii de Ganguri care au intr-o luna de zile cel putin 10 membri banati pentru coduri de tip aim/norecoil sau adiacente risca sanctiuni grave daca acest numar creste in continuare (<span style="color:red;">sanctiune: Leader Warn</span> sau <span style="color:red;">Demitere</span>).
 
 <span style="color:var(--pink);">8.4.10</span> Liderii de gang au obligatia de a avea minim 3 attack-uri in fiecare saptamana in care se desfasoara wars (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere).
 

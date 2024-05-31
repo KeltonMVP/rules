@@ -1209,7 +1209,7 @@ Members will be sanctioned as follows:
 
 <span style="color:var(--pink);">8.4.8</span> Leaders are NOT allowed to sanction members during wars for reasons such as "who dies without a kill gets FW" - "who dies gets FW." You can sanction members for disobeying a higher rank only if you provide enough time to reach a backup position, and those members continue to ignore you and do not come to the position you requested (<span style="color:red;">sanction: Leader Warn</span>).
 
-<span style="color:var(--pink);">8.4.9</span>Gang Leaders who have at least 10 members banned for cheats in one month risk severe sanctions if this number continues to increase (<span style="color:red;">sanction: Leader Warn</span> or <span style="color:red;">Dismissal</span>).
+<span style="color:var(--pink);">8.4.9</span>Gang Leaders who have at least 10 members banned for cheats of aim, norecoil or adjacent in one month risk severe sanctions if this number continues to increase (<span style="color:red;">sanction: Leader Warn</span> or <span style="color:red;">Dismissal</span>).
 
 <span style="color:var(--pink);">8.4.10</span> Gang Leaders are obligated to have a minimum of 3 attacks each week during war days (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> second offense).
 
