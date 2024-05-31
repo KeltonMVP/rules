@@ -180,7 +180,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">7.9</span> Un politist care sanctioneaza contraventional un jucator este obligat sa-i comunice fapta savarsita, zona aproximativa unde a fost surprins, cat si sanctiunea care o sa fie aplicata. Daca fapta a fost comisa la alta ora sau chiar in alta zi, politistul este obligat sa-i comunice in plus, pe langa toate detaliile mentionate anterior, si ziua si ora cand a fost surprins incalcand legea (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">7.9.1</span> Daca suspectul este sanctionat contraventional in maxim 10 minute de la comiterea faptei, politistul nu mai este obligat sa-i comunice vreun detaliu, fapta fiind suficient de recenta incat jucatorul sa stie ce-a facut. Exceptie de la aceasta regula fac jucatorii aflati in jail (respectand prevederile mentionate la punctul 6.7, respectiv 6.8).
+<span style="color:var(--pink);">7.9.1</span> Daca suspectul este sanctionat contraventional in maxim 10 minute de la comiterea faptei, politistul nu mai este obligat sa-i comunice vreun detaliu, fapta fiind suficient de recenta incat jucatorul sa stie ce-a facut. Exceptie de la aceasta regula fac jucatorii aflati in jail (respectand prevederile mentionate la punctul 7.7, respectiv 7.8).
 
 <span style="color:var(--pink);">7.10</span> Un membru nu are voie sa sanctioneze un membru Tow Truck Company care se afla in procesul de tractare al unei masini si are girofarul aprins (<span style="color:red;">sanctiune: Faction Warn</span>).
 

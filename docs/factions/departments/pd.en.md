@@ -180,7 +180,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">7.9</span> An officer sanctioning a player administratively is obliged to communicate the committed offense, the approximate area where it occurred, and the sanction to be applied. If the offense was committed at a different time or even on a different day, the officer is obliged to communicate, in addition to all the details mentioned earlier, the day and time when the player was caught breaking the law (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">7.9.1</span> If the suspect is administratively sanctioned within 10 minutes of committing the offense, the officer is no longer obliged to communicate any details, as the offense is recent enough for the player to know what they did. An exception to this rule is for players in jail (following the provisions mentioned in points 6.7 and 6.8).
+<span style="color:var(--pink);">7.9.1</span> If the suspect is administratively sanctioned within 10 minutes of committing the offense, the officer is no longer obliged to communicate any details, as the offense is recent enough for the player to know what they did. An exception to this rule is for players in jail (following the provisions mentioned in points 7.7 and 7.8).
 
 <span style="color:var(--pink);">7.10</span> A member is not allowed to sanction a Tow Truck Company member who is in the process of towing a vehicle and has their beacon on (<span style="color:red;">sanction: Faction Warn</span>).
 
