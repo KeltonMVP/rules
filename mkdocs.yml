@@ -39,7 +39,7 @@ theme:
       accent: deep purple
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: Switch to auto mode
 
     # Auto theme
     - media: "(prefers-color-scheme)"
@@ -47,7 +47,7 @@ theme:
       accent: deep purple
       toggle:
         icon: material/brightness-auto
-        name: Switch to auto mode
+        name: Switch to dark mode
 
 # Used plugins
 plugins:
