@@ -23,14 +23,6 @@ theme:
     - search.suggest
 
   palette:
-    # Auto theme
-    - media: "(prefers-color-scheme)"
-      primary: black
-      accent: deep purple
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to dark mode
-
     # Toggle dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -47,7 +39,15 @@ theme:
       accent: deep purple
       toggle:
         icon: material/weather-sunny
-        name: Switch to system preferences
+        name: Switch to dark mode
+
+    # Auto theme
+    - media: "(prefers-color-scheme)"
+      primary: black
+      accent: deep purple
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to auto mode
 
 # Used plugins
 plugins:
