@@ -255,7 +255,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.2.6</span> Fast c-bugul atat la warurile obligatorii cat si la cele optionale va fi sanctionat de catre lider (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.2.7</span> Este interzis sa dai <span style="color:var(--pink);">/eject sau /tog - surfing unui coleg(i)</span> in cadrul war-urilor (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">10.2.7</span> Este interzis sa dai <span style="color:var(--pink);">/eject sau /tog - surfing unui coleg(i)</span> in cadrul warurilor (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">10.2.8</span> In perioada 1-20 a lunii este interzis sa ceri adversarilor sa iti permita sa-ti faci secundele pe turf (<span style="color:red;">sanctiune: Faction Warn</span>).
 

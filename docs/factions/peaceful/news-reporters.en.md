@@ -351,8 +351,6 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.4.3</span> The participation fee for a contest is <span style="color:var(--green);">$20,000 / person</span> (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
-- reporters always benefit from contests at a price of <span style="color:var(--green);">$1 / person</span> (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
-
 <span style="color:var(--pink);">6.4.4</span> The minimum number of participants in a contest is 3, and the maximum is 5 participants (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.5</span> It is not allowed to organize a contest with a player or multiple players on the faction's blacklist (<span style="color:red;">sanction: Faction Warn</span>).

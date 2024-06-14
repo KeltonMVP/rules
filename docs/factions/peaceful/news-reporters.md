@@ -351,8 +351,6 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.4.3</span> Taxa de participare la un concurs este de <span style="color:var(--green);">$20.000 / persoana</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-- reporterii beneficiaza intotdeauna de concursuri la pretul de <span style="color:var(--green);">$1 / persoana</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
-
 <span style="color:var(--pink);">6.4.4</span> Numarul minim de participanti la un concurs este de 3 participanti, iar maximul este de 5 participanti (<span style="color:red;">sanctiune: Faction Warn</span).
 
 <span style="color:var(--pink);">6.4.5</span> Nu este permis sa organizati un concurs cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span).
