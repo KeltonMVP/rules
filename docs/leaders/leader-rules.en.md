@@ -36,6 +36,11 @@
 
 <span style="color:var(--pink);">1.1.4</span> If only 2 candidates obtain the majority of the votes, the poll will be conducted with only 2 candidates. If 4 candidates have a similar number of votes, we will add 4 candidates as much as possible.
 
+<span style="color:var(--pink);">1.1.5</span> Players on the list are allowed to ask faction members to vote for them, but they are not allowed to buy votes or make false promises.
+
+!!! example "Info note"
+	The player who wins the vote will participate in a short interview on Discord with one or more faction managers to get to know the candidate better, understand how well they know the rules, and address any questions they have about the position and similar matters.
+
 ### Function Seniority
 
 <span style="color:var(--pink);">1.2.1</span> The minimum period you must serve as a Leader to avoid receiving <span style="color:red;">FP 300</span> is <span style="color:var(--pink);">4 months</span>.
@@ -1145,6 +1150,8 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 - these punishments will only be removed at the Leader's request and only with the agreement of a faction manager (admin 4+) if they believe the Leader deserves to have their punishment removed.
 
 <span style="color:var(--pink);">8.1.6</span> It is strictly forbidden for a Leader to request various compensations for accepting a player into the faction, passing their test, sparing them from sanctions, promoting them, etc. (<span style="color:red;">sanction: Leader Warn</span> first offense, <span style="color:red;">Dismissal</span> if repeated).
+
+<span style="color:var(--pink);">8.1.7</span> It is strictly forbidden to fraud faction applications (using secondary accounts to apply in order to force the closure of applications or similar situations). If you encounter such cases, contact faction managers to resolve the situation. If you do not do this or it is found that you are involved in the fraud, you will be sanctioned with <span style="color:red;">Dismissal</span>.
 
 ### Member Activity
 

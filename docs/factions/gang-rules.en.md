@@ -161,7 +161,9 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">8.1</span> Any member who accumulates 3/3 Faction Warns will be dismissed with Faction Punish 10.
 
 - the only exception being those who have less than 2 weeks in the faction.
+
 - 3/3 Faction Warns will be granted to all members who must be dismissed without Faction Punish 60 or Faction Punish 0.
+
 - 3/3 Faction Warns will be granted to members who have a minimum of 2 weeks in the faction and have received a ban of 3 days or more.
 
 <span style="color:red;">Faction Punish 60/60:</span>
@@ -174,8 +176,12 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">8.3</span> In special cases, <span style="color:var(--pink);">Faction Punish 60 may be granted to members who have been in the faction for over 2 weeks.</span>
 
 - members banned for cheats or mods with a duration of 30 days will always be dismissed with FP 60/60.
+
 - members with bans who somehow manage to enter a faction will always be dismissed with FP 60/60.
+
 - members who abuse their position (excessive and unjustified fines, completely random multiple attacks, changing the status of multiple candidates without justification, theft from the faction's safe, etc.) will always be dismissed with <span style="color:red;">FP 60/60 and banned for 14 days</span> for this.
+
+- members who fraud faction applications (applying from secondary accounts with the aim of forcing the closure of applications for friends, having friends apply with the same purpose, or other such situations - the sanction is given regardless of the faction you belong to, even if it does not correspond with the one where you committed the fraud, and applies to all accounts where you are a faction member).
 
 !!! danger "Important"
     If you have received a ban of 3 days or more, you will only be able to remain in the faction if you are unbanned through an unban request, not if you purchase an unban with gold.

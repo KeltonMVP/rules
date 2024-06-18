@@ -161,7 +161,9 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 <span style="color:var(--pink);">8.1</span> Orice membru care acumuleaza 3/3 Faction Warns va fi demis cu Faction Punish 10.
 
 - singura exceptie fiind cei care au sub 2 saptamani in factiune.
+
 - se va acorda 3/3 Faction Warns tuturor membrilor care trebuiesc demisi fara Faction Punish 60 sau Faction Punish 0.
+
 - se va acorda 3/3 Faction Warns membrilor care au minim 2 saptamani in factiune si au primit ban 3 sau mai multe zile.
 
 <span style="color:red;">Faction Punish 60/60:</span>
@@ -174,8 +176,12 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 <span style="color:var(--pink);">8.3</span> In cazuri speciale <span style="color:var(--pink);">se poate acorda Faction Punish 60 si membrilor care au peste 2 saptamani in factiune.</span>
 
 - membrii banati pentru coduri sau moduri grave interzise a caror durata e de 30 de zile, vor fi demisi intotdeauna cu FP 60/60.
+
 - membrii cu interdictie care reusesc cumva sa intre intr-o factiune vor fi demisi intotdeauna cu FP 60/60.
+
 - membrii care abuzeaza de functie (amenzi excesive si nejustificate, atacuri multiple complet aiurea, schimbarea statusului la multipli candidati fara justificare, furtul din seiful factiunii, etc.) vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60 cat si banati 14 zile</span> pentru acest lucru.
+
+- membrii care fraudeaza aplicatiile factiunii (aplica de pe secundare cu scopul de a forta inchiderea aplicatiilor pentru prieteni, isi pun prietenii sa aplice tot cu acelasi scop sau alte astfel de situatii - sanctiunea se ofera indiferent de factiunea din care faceti parte, chiar daca nu corespunde cu cea unde fraudati, pe toate conturile unde sunteti membru de factiune).
 
 !!! danger "Important"
     In cazul in care ati primit ban 3 sau mai multe zile veti putea ramane in factiune doar daca sunteti debanati printr-o cerere de unban, nu si daca va cumparati unban cu gold.

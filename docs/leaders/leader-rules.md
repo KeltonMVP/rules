@@ -36,6 +36,11 @@
 
 <span style="color:var(--pink);">1.1.4</span> Daca doar 2 candidati obtin majoritatea voturilor, sondajul va fi efectuat doar cu 2 candidati. Daca 4 candidati au un numar de vot apropiat, vom adauga pe cat posibil 4 candidati.
 
+<span style="color:var(--pink);">1.1.5</span> Jucatorii de pe lista au voie sa roage membrii factiunii sa-i voteze, dar nu au voie sa cumpere voturi sau sa faca promisiuni false.
+
+!!! example "Nota informativa"
+	Jucatorul care a castigat votul va sustine un scurt interviu pe Discord cu unul sau mai multi manageri de factiune pentru a cunoaste mai bine candidatul, cat de bine cunoaste regulamentele, daca are intrebari legate de functie si lucruri de acest gen.
+
 ### Durata Functiei
 
 <span style="color:var(--pink);">1.2.1</span> Perioada minima pe care trebuie sa o aveti ca Lider pentru a nu primi <span style="color:red;">FP 300</span> este de <span style="color:var(--pink);">4 luni de zile.</span>
@@ -1145,6 +1150,8 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 - acestea se vor inlatura numai la cererea Liderului si numai cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie stearsa sanctiunea.
 
 <span style="color:var(--pink);">8.1.6</span> Este strict interzis unui Lider sa ceara diverse compensatii pentru a accepta un jucator in factiune, a-l trece testul, a-l scuti de sanctiuni, a-l promova, etc (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
+
+<span style="color:var(--pink);">8.1.7</span> Este strict interzisa fraudarea aplicatiilor factiunii (apelarea la conturi secundare sa aplice pentru a forta inchiderea aplicatiilor sau situatii similare). In cazul in care dati peste astfel de cazuri, contactati managerii de factiuni pentru solutionarea situatiei. In cazul in care nu faceti asta sau se atesta ca sunteti implicat in fraudare, veti fi sanctionati prin <span style="color:red;">Demitere</span>.
 
 ### Activitatea Membrilor
 

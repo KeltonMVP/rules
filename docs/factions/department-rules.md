@@ -225,6 +225,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">8.1.6</span> Nu aveti voie sa stati AFK cu radarul pornit (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
+<span style="color:var(--pink);">8.1.7</span> Este interzisa plasarea radarului in zonele unde acesta este obstructionat de diferite texturi ale jocului, cum ar fi pereti, poduri, etc. Radarul nu poate fi plasat nici sub, nici deasupra acestor structuri (<span style="color:red;">sanctiune: Faction Warn</span>).
+
 ### Limitele de Viteza
 
 <span style="color:var(--pink);">8.2.1</span> Limita maxima de viteza in orase este de 100 km/h.<br/>
@@ -283,6 +285,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">10.1.2</span> Nu este permisa folosirea comenzilor in interiorul arenelor (paintball, gungame, etc) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">10.1.3</span> Doar membrii departamentelor de politie (LSPD, LVPD, SFPD) pot acorda amenzi, iar singurul mijloc acceptat este comanda [<span style="color:var(--pink);">/ticket</span>] (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">10.1.4</span> Politistii nu au voie sa sanctioneze contraventional organizatorii/ajutoarele de evenimente pentru incalcarea regulilor de circulatie in timpul desfasurarii evenimentelor pe server. Aceasta exceptie este valabila pe durata evenimentului. Tastati comanda [<span style="color:var(--pink);">/event</span>] pentru a verifica daca suspectul vostru este parte din echipa de organizare a vreunui eveniment (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 ### Generalitati Confiscare
 
@@ -416,7 +420,7 @@ Cateva exemple:
 
 <span style="color:var(--pink);">13.2.4</span> In cazul in care un suspect cu wanted are ca pasager un civil care trage in politisti, atacatorul va primi Wanted 6 complice fara somatii.
 
-<span style="color:var(--pink);">13.2.5</span> Daca un jucator intervine atunci cand un politist se afla pe jos in urmarirea unui suspect (il ataca cu pumnii, il calca cu masina in repetate randuri sau lasa masina pe politist, il ataca de aproape cu arma - sa se vada clar ca acel jucator are intentia de a ajuta suspectul) va primi Wanted 6 complice fara somatii.
+<span style="color:var(--pink);">13.2.5</span> Daca un jucator intervine in urmarirea unui suspect (atacand politistul cu pumnii, lasand masina pe politist, atacandu-l de aproape cu arma sau omorand suspectul cu wanted dupa ce acesta a fost somat sa se predea), acesta va primi Wanted 6 complice fara somatii.
 
 ## 14. Tratarea Suspectilor
 
@@ -536,7 +540,9 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 <span style="color:var(--pink);">19.1</span> Orice membru care acumuleaza 3/3 Faction Warns va fi demis cu Faction Punish 10.
 
 - singura exceptie fiind cei care au sub 2 saptamani in factiune.
+
 - se va acorda 3/3 Faction Warns tuturor membrilor care trebuiesc demisi fara Faction Punish 60 sau Faction Punish 0.
+
 - se va acorda 3/3 Faction Warns membrilor care au minim 2 saptamani in factiune si au primit ban 3 sau mai multe zile.
 
 <span style="color:red;">Faction Punish 60/60:</span>
@@ -549,8 +555,12 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 <span style="color:var(--pink);">19.3</span> In cazuri speciale <span style="color:var(--pink);">se poate acorda Faction Punish 60 si membrilor care au peste 2 saptamani in factiune.</span>
 
 - membrii banati pentru coduri sau moduri grave interzise a caror durata e de 30 de zile, vor fi demisi intotdeauna cu FP 60/60.
+
 - membrii cu interdictie care reusesc cumva sa intre intr-o factiune vor fi demisi intotdeauna cu FP 60/60.
+
 - membrii care abuzeaza de functie (isi ofera singuri licentele inainte de-a fi demisi, dau multiple news-uri intentionat aiurea, etc.) vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60 cat si banati 14 zile</span> pentru acest lucru.
+
+- membrii care fraudeaza aplicatiile factiunii (aplica de pe secundare cu scopul de a forta inchiderea aplicatiilor pentru prieteni, isi pun prietenii sa aplice tot cu acelasi scop sau alte astfel de situatii - sanctiunea se ofera indiferent de factiunea din care faceti parte, chiar daca nu corespunde cu cea unde fraudati, pe toate conturile unde sunteti membru de factiune).
 
 !!! danger "Important"
     In cazul in care ati primit ban 3 sau mai multe zile veti putea ramane in factiune doar daca sunteti debanati printr-o cerere de unban, nu si daca va cumparati unban cu gold.

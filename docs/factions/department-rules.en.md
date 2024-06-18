@@ -225,6 +225,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">8.1.6</span> You are not allowed to be AFK with the radar on (<span style="color:red;">sanction: Verbal Warning</span>).
 
+<span style="color:var(--pink);">8.1.7</span> It is forbidden to place the radar in areas where it is obstructed by various game textures, such as walls, bridges, etc. The radar cannot be placed either below or above these structures (<span style="color:red;">sanction: Faction Warn</span>).
+
 ### Speed Limits
 
 <span style="color:var(--pink);">8.2.1</span> The maximum speed limit in cities is 100 km/h.<br/>
@@ -283,6 +285,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">10.1.2</span> Using commands inside arenas (paintball, gungame, etc.) is not allowed (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">10.1.3</span> Only members of the police departments (LSPD, LVPD, SFPD) can issue fines, and the only accepted method is the [<span style="color:var(--pink);">/ticket</span>] command (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">10.1.4</span> Police officers are not allowed to punish event organizers/helpers for traffic violations during the events on the server. This exception is valid for the duration of the event. Use the command [<span style="color:var(--pink);">/event</span>] to check if your suspect is part of an event organizing team (<span style="color:red;">sanction: Faction Warn</span>).
 
 ### Confiscate Overview
 
@@ -416,7 +420,7 @@ Some examples:
 
 <span style="color:var(--pink);">13.2.4</span> If a suspect with wanted status has a civilian passenger who shoots at police officers, the attacker will receive wanted 6 accomplice without warnings.
 
-<span style="color:var(--pink);">13.2.5</span> If a player intervenes when a police officer is on foot chasing a suspect (attacking them with fists, repeatedly running them over with a vehicle, or leaving the vehicle on the officer, attacking them closely with a weapon - it must be clear that the player intends to help the suspect), they will receive wanted 6 accomplice without warnings.
+<span style="color:var(--pink);">13.2.5</span> If a player intervenes in the pursuit of a suspect (by punching the police officer, running over the police officer with a car, attacking them with a weapon at close range, or killing the suspect with a wanted level after they have been ordered to surrender), they will receive Wanted 6 as an accomplice without warnings.
 
 ## 14. Treating Suspects
 
@@ -536,7 +540,9 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">19.1</span> Any member who accumulates 3/3 Faction Warns will be dismissed with Faction Punish 10.
 
 - the only exception being those who have less than 2 weeks in the faction.
+
 - 3/3 Faction Warns will be granted to all members who must be dismissed without Faction Punish 60 or Faction Punish 0.
+
 - 3/3 Faction Warns will be granted to members who have a minimum of 2 weeks in the faction and have received a ban of 3 days or more.
 
 <span style="color:red;">Faction Punish 60/60:</span>
@@ -549,8 +555,12 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">19.3</span> In special cases, <span style="color:var(--pink);">Faction Punish 60 may be granted to members who have been in the faction for over 2 weeks.</span>
 
 - members banned for cheats or mods with a duration of 30 days will always be dismissed with FP 60/60.
+
 - members with bans who somehow manage to enter a faction will always be dismissed with FP 60/60.
+
 - members who abuse their position (granting licenses to themselves before being dismissed, intentionally providing multiple false news, etc.) will always be dismissed with <span style="color:red;">FP 60/60 and banned for 14 days</span> for this.
+
+- members who fraud faction applications (applying from secondary accounts with the aim of forcing the closure of applications for friends, having friends apply with the same purpose, or other such situations - the sanction is given regardless of the faction you belong to, even if it does not correspond with the one where you committed the fraud, and applies to all accounts where you are a faction member).
 
 !!! danger "Important"
     If you have received a ban of 3 days or more, you will only be able to remain in the faction if you are unbanned through an unban request, not if you purchase an unban with gold.
