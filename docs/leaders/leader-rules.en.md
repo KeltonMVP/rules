@@ -130,8 +130,7 @@
 
 <span style="color:var(--pink);">2.1.3</span> Rules for choosing subleaders for <span style="color:orange;">peaceful factions, departments, hitmen:</span>
 
-- you have a maximum of one week from when you received the position to promote <span style="color:var(--pink);">a single subleader</span> from outside the faction or from among members of rank 1-2.
-- subleaders brought in from outside the faction must have had a rank 3 previously in a faction within the last 2 years.
+- you have a maximum of one week from when you received the position to promote <span style="color:var(--pink);">a single subleader</span> from outside the faction (they must have a previous rank 3 in any faction in the past 2 years) or from among any of the faction members.
 - subsequent subleaders will only be promoted from within the faction among members of at least rank 3.
 
 <span style="color:var(--pink);">2.1.4</span> Rules for choosing subleaders for <span style="color:orange;">gangs:</span>

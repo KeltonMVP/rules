@@ -131,8 +131,7 @@ mari de 5 zile.
 
 <span style="color:var(--pink);">2.1.3</span> Reguli alegere sublideri pentru <span style="color:orange;">factiuni pasnice, departamente, hitmen:</span>
 
-- aveti maxim o saptamana de cand ati primit functia sa promovati <span style="color:var(--pink);">un singur sublider</span> din afara factiunii sau dintre membrii de rank 1-2.
-- subliderii adusi din afara factiunii trebuie sa aiba un rank 3 anterior intr-o factiune in ultimii 2 ani de zile.
+- aveti maxim o saptamana de cand ati primit functia sa promovati <span style="color:var(--pink);">un singur sublider</span> din afara factiunii (trebuie sa aiba un rank 3 anterior intr-o factiune in ultimii 2 ani de zile) sau oricare dintre membrii factiunii voastre.
 - urmatorii sublideri vor fi promovati numai din interiorul factiunii dintre membrii de minim rank 3.
 
 <span style="color:var(--pink);">2.1.4</span> Reguli alegere sublideri pentru <span style="color:orange;">ganguri:</span>
