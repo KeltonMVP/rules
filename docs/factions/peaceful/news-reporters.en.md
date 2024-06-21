@@ -61,11 +61,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.2</span> You must always have the [<span style="color:var(--pink);">/timestamp</span>] command activated to prevent mistakes, to provide clear evidence in case of complaints (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">4.3</span> A News Reporters faction member who requests leave from an activity or meeting receives a one-day delay in rank up.
+<span style="color:var(--pink);">4.3</span> Using the [<span style="color:var(--pink);">/tog</span>] command in faction chat is prohibited, except in cases where you are taking a test or have received approval with a valid reason (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.4</span> Using the [<span style="color:var(--pink);">/tog</span>] command in faction chat is prohibited, except in cases where you are taking a test or have received approval with a valid reason (<span style="color:red;">sanction: Faction Warn</span>).
-
-<span style="color:var(--pink);">4.5</span> If a member of the News Reporters faction files complaints in an abusive manner, the member will be warned in advance by the leader to stop sending PMs, and these will be ignored. Subsequent infractions will be penalized with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">dismissal</span> (if necessary).
+<span style="color:var(--pink);">4.4</span> If a member of the News Reporters faction files complaints in an abusive manner, the member will be warned in advance by the leader to stop sending PMs, and these will be ignored. Subsequent infractions will be penalized with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">dismissal</span> (if necessary).
 
 ## 5. The [/news] Command
 

@@ -61,11 +61,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.2</span> Trebuie sa aveti mereu comanda [<span style="color:var(--pink);">/timestamp</span>] activata pentru a preveni greselile, pentru a realiza dovezi clare in cazul reclamatilor (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">4.3</span> Un membru al factiunii News Reporters care solicita invoire de la o activitate sau sedinta primeste o zi intarziere la rank up.
+<span style="color:var(--pink);">4.3</span> Este interzis sa folositi comanda [<span style="color:var(--pink);">/tog</span>] pe chatul factiunii, exceptand cazurile in care dati test sau ati primit aprobare cu un motiv intemeiat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.4</span> Este interzis sa folositi comanda [<span style="color:var(--pink);">/tog</span>] pe chatul factiunii, exceptand cazurile in care dati test sau ati primit aprobare cu un motiv intemeiat (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">4.5</span> In cazul in care un membru al factiunii News Reporters deschide reclamatii in mod abuziv, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si acestea ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">demitere</span> (daca este cazul).
+<span style="color:var(--pink);">4.4</span> In cazul in care un membru al factiunii News Reporters deschide reclamatii in mod abuziv, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si acestea ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">demitere</span> (daca este cazul).
 
 ## 5. Comanda [/news]
 
