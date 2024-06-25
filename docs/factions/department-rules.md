@@ -558,7 +558,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 - membrii cu interdictie care reusesc cumva sa intre intr-o factiune vor fi demisi intotdeauna cu FP 60/60.
 
-- membrii care abuzeaza de functie (isi ofera singuri licentele inainte de-a fi demisi, dau multiple news-uri intentionat aiurea, etc.) vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60 cat si banati 14 zile</span> pentru acest lucru.
+- membrii care abuzeaza de functie (ofera wanted nejustificat intentionat mai multor jucatori, confisca nejustificat intentionat de la mai multi jucatori, omoara nejustificat intentionat multipli jucatori cu drept de predare, se foloseste de aeronave pentru a distruge/omori intentionat multiple vehicule/jucatori, spameaza cu sau fara jigniri/injuraturi pe [<span style="color:var(--pink);">/gov</span>], etc.) vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60 cat si banati 14 zile</span> pentru acest lucru.
 
 - membrii care fraudeaza aplicatiile factiunii (aplica de pe secundare cu scopul de a forta inchiderea aplicatiilor pentru prieteni, isi pun prietenii sa aplice tot cu acelasi scop sau alte astfel de situatii - sanctiunea se ofera indiferent de factiunea din care faceti parte, chiar daca nu corespunde cu cea unde fraudati, pe toate conturile unde sunteti membru de factiune).
 

@@ -558,7 +558,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 - members with bans who somehow manage to enter a faction will always be dismissed with FP 60/60.
 
-- members who abuse their position (granting licenses to themselves before being dismissed, intentionally providing multiple false news, etc.) will always be dismissed with <span style="color:red;">FP 60/60 and banned for 14 days</span> for this.
+- members who abuse their position (intentionally unjustifiably giving wanted status to multiple players, intentionally unjustifiably confiscating from multiple players, intentionally unjustifiably killing multiple players with the right to surrender, using aircraft to intentionally destroy/kill multiple vehicles/players, spamming with or without insults/swear words on [<span style="color:var(--pink);">/gov</span>], etc.) will always be dismissed with <span style="color:red;">FP 60/60 and banned for 14 days</span> for this.
 
 - members who fraud faction applications (applying from secondary accounts with the aim of forcing the closure of applications for friends, having friends apply with the same purpose, or other such situations - the sanction is given regardless of the faction you belong to, even if it does not correspond with the one where you committed the fraud, and applies to all accounts where you are a faction member).
 
