@@ -61,8 +61,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - 30 taxiuri tip Premier/Taxi - Rank 0.
 - 25 taxiuri tip Cabbie - Rank 1.
-- 5 taxiuri de tip Huntley - Rank 3.
-- 5 taxiuri de tip Tahoma - Rank 3.
+- 5 taxiuri de tip Tahoma - Rank 2.
+- 5 taxiuri de tip Huntley - Rank 2.
 - 5 taxiuri de tip Alpha - Rank 3.
 - 5 taxiuri tip Sultan - Rank 3.
 - 1 vehicul de tip Maverick - Rank 4.

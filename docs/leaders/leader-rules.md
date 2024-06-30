@@ -1203,7 +1203,9 @@ Membrii vor fi sanctionati in urmatorul fel:
 
 <span style="color:var(--pink);">8.4.2</span> Liderii care accepta in mod constient persoane care folosesc coduri o sa fie sanctionati cu <span style="color:red;">Leader Warn sau Demitere</span>, in functie de caz.
 
-<span style="color:var(--pink);">8.4.3</span> Liderii si subliderii au obligatia de a se prezenta la 3 din 5 zile de waruri. Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
+<span style="color:var(--pink);">8.4.3</span> Liderii si subliderii au obligatia de a fi prezenti la minim 3 zile de waruri pe saptamana, indiferent ca atacati sau aparati. Puteti sa va invoiti atat voi cat si subliderii la cel mult 2 zile de waruri, dar tot aveti obligatia de a fi prezenti la minimul de 3 zile cerut.<br/>
+
+Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
 
 <span style="color:var(--pink);">8.4.4</span> Membrii care fac parte dintr-un gang si intre timp primesc <span style="color:var(--pink);">interdictie</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60</span>. Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. Liderii care vor accepta jucatori cu interdictie vor fi sanctionati cu <span style="color:red;">Leader Warn</span>, chiar si de la prima abatere.
 

@@ -61,8 +61,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - 30 Premier/Taxi type taxis - Rank 0.
 - 25 Cabbie type taxis - Rank 1.
-- 5 Huntley type taxis - Rank 3.
-- 5 Tahoma type taxis - Rank 3.
+- 5 Tahoma type taxis - Rank 2.
+- 5 Huntley type taxis - Rank 2.
 - 5 Alpha type taxis - Rank 3.
 - 5 Sultan type taxis - Rank 3.
 - 1 Maverick type vehicle - Rank 4.

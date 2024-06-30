@@ -1203,7 +1203,9 @@ Members will be sanctioned as follows:
 
 <span style="color:var(--pink);">8.4.2</span> Leaders who knowingly accept individuals using cheats will be sanctioned with <span style="color:red;">Leader Warn or Dismissal</span>, depending on the case.
 
-<span style="color:var(--pink);">8.4.3</span> Leaders and subleaders are obligated to attend 3 out of 5 war days per week. Subleaders can use their <span style="color:var(--pink);">2 weekly absences</span> for exemption, while Leaders must post in the specific Staff discord channel for an absence request (sanction: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">dismissal</span> if it continues).
+<span style="color:var(--pink);">8.4.3</span> Leaders and Subleaders are required to be present for at least 3 days of wars per week, whether attacking or defending. Both you and the Subleaders can take leave for up to 2 days of wars, but you are still required to meet the minimum of 3 days.<br/>
+
+Subleaders can use the <span style="color:var(--pink);">2 weekly leaves</span> to take leave, and Leaders must post in the specific channel on the Staff Discord (penalty: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues).
 
 <span style="color:var(--pink);">8.4.4</span> Members who are part of a gang and meanwhile receive an <span style="color:var(--pink);">interdiction</span> will always be dismissed with <span style="color:red;">FP 60/60</span>. Players who receive an interdiction will be able to be accepted into another gang after a minimum of one month from receiving the ban. Leaders who accept players with interdictions will be sanctioned with <span style="color:red;">Leader Warn</span>, even for the first offense.
 
