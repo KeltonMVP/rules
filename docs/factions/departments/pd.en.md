@@ -57,10 +57,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - 23 Police Car - Rank 1.
 - 8 HPV - Rank 1.
+- 2 Predator - Rank 1.
 - 5 Police Ranger - Rank 2.
 - 3 NRG-500 - Rank2.
 - 1 Police Maverick - Rank 2.
-- 2 Predator - Rank 2.
 - 7 Police Infernus - Rank 3
 - 3 Enforcer - Rank 4.
 
