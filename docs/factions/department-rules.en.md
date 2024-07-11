@@ -430,6 +430,8 @@ Some examples:
 
 <span style="color:var(--pink);">14.1.3</span> Once a suspect is apprehended, you are obligated to transport them immediately to the nearest police station. Anyone who unnecessarily delays, stops for no reason, or drives extremely slowly to mock them will be sanctioned. Suspects apprehended near or in Jail can be arrested directly there (<span style="color:red;">sanction: Faction Warn</span>).
 
+<span style="color:var(--pink);">14.1.4</span> You are not allowed to kill players who are wearing a prisoner skin if they have not yet received wanted for escaping (<span style="color:red;">sanction: Faction Warn</span>).
+
 ### Suspects Processing
 
 <span style="color:var(--pink);">14.2.1</span> Before killing a player with wanted status who has the right to surrender, they must be prompted to surrender at least <span style="color:var(--pink);">3 times</span> (within a maximum interval of 5 minutes from the first prompt), and if the player remains stationary, a minimum of 30 seconds must be waited before killing them (<span style="color:red;">sanction: Faction Warn</span>).

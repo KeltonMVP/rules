@@ -430,6 +430,8 @@ Cateva exemple:
 
 <span style="color:var(--pink);">14.1.3</span> Odata preluat un suspect, aveti obligatia de a-l transporta imediat la cel mai apropiat sediu de politie. Cine il plimba inutil, se opreste degeaba sau conduce extraordinar de incet pentru a-si bate joc de el va fi sanctionat. Suspectii preluati langa sau in Jail pot fi arestati direct acolo (<span style="color:red;">sanctiune: Faction Warn</span>).
 
+<span style="color:var(--pink);">14.1.4</span> Nu aveti voie sa omorati jucatorii ce poarta skin de detinut daca acestia nu au primit inca wanted pentru evadare (<span style="color:red;">sanctiune: Faction Warn</span>).
+
 ### Procesare Suspecti
 
 <span style="color:var(--pink);">14.2.1</span> Inainte de a omori un jucator cu wanted care are drept de predare acesta trebuie sa fie somat de <span style="color:var(--pink);">minim 3 ori</span> sa se predea (intr-un interval de maxim 5 minute de la prima somatie), iar in cazul in care jucatorul sta pe loc se asteapta minim 30 de secunde inainte de a-l omori (<span style="color:red;">sanctiune: Faction Warn</span>).
