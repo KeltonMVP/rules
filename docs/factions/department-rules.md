@@ -8,6 +8,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 1. Comportament si Limbaj
 
+!!! warning "Important"
+    Limbajul care incalca regulile de mai jos este sanctionabil inclusiv daca este adresat cu buna stiinta de pe conturi secundare asupra <span style="color:var(--pink);">colegilor de factiune.</span>
+
 <span style="color:var(--pink);">1.1</span> Exemple de limbaj <span style="color:var(--pink);">fata de colegi sanctionabil</span> cu <span style="color:red;">Faction Warn:</span>
 
 - ratat, sugaci, handicapat, tampit, idiot, cretin sau alte forme de jigniri usoare.

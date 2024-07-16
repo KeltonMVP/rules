@@ -8,6 +8,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 1. Behaviour and Language
 
+!!! warning "Important"
+    Language that violates the rules below is punishable even if it is knowingly addressed from secondary accounts to <span style="color:var(--pink);">faction colleagues.</span>
+
 <span style="color:var(--pink);">1.1</span> Examples of language <span style="color:var(--pink);">towards colleagues punishable</span> with <span style="color:red;">Faction Warn:</span>
 
 - failure, suckers, handicapped, stupid, idiot, moron or other forms of mild insults.
