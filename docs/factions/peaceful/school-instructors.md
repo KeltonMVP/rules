@@ -107,7 +107,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 ## 5. Clientii
 
-<span style="color:var(--pink);">5.1</span> Atunci cand luati un client pentru licente sunteti obligati sa anuntati pe chatul factiunii in felul urmator:
+<span style="color:var(--pink);">5.1</span> Membrii de rank 1-4 atunci cand iau un client pentru licente sunt obligati sa anunte pe chatul factiunii in felul urmator:
 
 - Nume (ID) la mine pentru x licente / toate licentele (unde x este numele licentei).
 

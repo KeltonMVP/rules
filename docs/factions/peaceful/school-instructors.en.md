@@ -107,7 +107,7 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 ## 5. Clients
 
-<span style="color:var(--pink);">5.1</span> When taking a client for licenses, you are obligated to announce on the faction chat in the following manner:
+<span style="color:var(--pink);">5.1</span> Rank 1-4 members when taking a client for licenses are obligated to announce on the faction chat in the following manner:
 
 - Nume (ID) with me for x licenses / all licenses (where x is the name of the license).
 
