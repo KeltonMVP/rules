@@ -119,7 +119,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3</span> Pentru a intra in FBI trebuie sa aveti skill 5 detective.
 
-<span style="color:var(--pink);">5.4</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">5.4</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 48 de ore primeste <span style="color:red;">Faction Warn.</span>
 
 <span style="color:var(--pink);">5.5</span> Orice membru FBI are obligatia de a avea pe Website scurtatura cate profilul sau de forum. Aveti la dispozitie 48h din momentul intrarii in factiune sa faceti asta. Cine nu are aceasta scurtatura catre profilul de forum dupa cele 48h o sa fie sanctionat cu <span style="color:red;">Avertisment Verbal</span>, iar dupa 24h daca situatia nu va fi remediata se va acorda <span style="color:red;">Faction Warn.</span>
 

@@ -121,7 +121,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.4</span> When a police officer violates traffic rules (driving against traffic, using nos, etc.), they are to be fined directly in-game by a PD member or if reported on the website, fined by the Leader, and if not paid within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
 
-<span style="color:var(--pink);">5.5</span> Every FBI member is obligated to have a shortcut to their forum profile on the website. You have 48 hours from joining the faction to do this. Failure to have this shortcut to the forum profile after the 48 hours will result in a <span style="color:red;">Verbal Warning</span>, and if not remedied within 24 hours, a <span style="color:red;">Faction Warn</span> will be issued.
+<span style="color:var(--pink);">5.5</span> Every FBI member is obligated to have a shortcut to their forum profile on the website. You have 48 hours from joining the faction to do this. Failure to have this shortcut to the forum profile after the 48 hours will result in a <span style="color:red;">Verbal Warning</span>, and if not remedied within 48 hours, a <span style="color:red;">Faction Warn</span> will be issued.
 
 <span style="color:var(--pink);">5.6</span> You are not allowed to practice (use [<span style="color:var(--pink);">/work</span>] or other related job start commands, including farming) any other job besides Detective or Mechanic (strictly for vehicle maintenance during pursuits) while on duty (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 

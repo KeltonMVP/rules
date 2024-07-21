@@ -83,7 +83,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.4</span> FBI / National Guard members will be able to pursue suspects in civilian vehicles. If they are pursuing surrendering suspects, they must respect traffic rules, but if the pursued suspects do not surrender, they can violate those rules (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.5</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they should be fined directly in-game by a PD member or if reported on the website, fined by the Leader. If they fail to pay the fine within 24 hours, they receive a <span style="color:red;">Faction Warn</span>.
+<span style="color:var(--pink);">3.5</span> When a police officer violates traffic rules (driving against traffic, using nitro, etc.), they should be fined directly in-game by a PD member or if reported on the website, fined by the Leader. If they fail to pay the fine within 48 hours, they receive a <span style="color:red;">Faction Warn</span>.
 
 ## 4.1. The Jail
 

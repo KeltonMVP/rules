@@ -83,7 +83,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.4</span> Membrii FBI / National Guard vor putea urmari suspectii si in masini de civil. In cazul in care merg dupa suspecti ce au drept de predare, trebuie sa respecte regulile de circulatie, iar in cazul in care suspecti urmariti nu au drept de predare, pot incalca acele reguli (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.5</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 24 de ore primeste <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">3.5</span> Atunci cand un politist incalca regulile de circulatie (merge pe contra-sens, foloseste nos etc), acesta sa fie sanctionat cu o amenda direct in joc de catre membrul PD sau daca e reclamat pe website, cu o amenda de catre Lider, iar in cazul in care n-o achita in 48 de ore primeste <span style="color:red;">Faction Warn.</span>
 
 ## 4. Jailul
 
