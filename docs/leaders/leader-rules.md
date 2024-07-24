@@ -526,7 +526,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 				6
 			</td>
 			<td class="table-center-rows">
-				0
+				-
 			</td>
 			<td class="table-center-rows">
 				-

@@ -526,7 +526,7 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 				6
 			</td>
 			<td class="table-center-rows">
-				0
+				-
 			</td>
 			<td class="table-center-rows">
 				-
