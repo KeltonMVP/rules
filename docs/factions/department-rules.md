@@ -411,6 +411,8 @@ Cateva exemple:
 
 <span style="color:var(--pink);">13.1.16</span> Inaintea acordarii de wanted pentru apel nefondat, sunteti obligati sa anuntati pe [<span style="color:var(--pink);">/d</span>] acest lucru, sub forma: nefondat ID/nume (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
+<span style="color:var(--pink);">13.1.17</span> Atunci cand incercati sa preluati un suspect in vehiculul de munca <span style="color:var(--pink);">si sunteti obstructionati</span> de catre alti civili, aveti dreptul de a-i <span style="color:var(--pink);">soma de 3 ori</span> sa elibereze spatiu din apropierea vehiculului. Daca nu se conformeaza, civili vor fi sanctionati cu wanted pentru <span style="color:var(--pink);">Neconformare Ordin.</span> In cazul in care aveti spatiu in vehicul, acestia vor fi somati sa se predea. In cazul in care nu exista spatiu, vor fi somati din nou de 3 ori sa elibereze spatiul din apropierea vehiculului iar daca nu se conformeaza pot fi omorati cu wantedul pe care-l au.
+
 ### Acordarea de Complice
 
 <span style="color:var(--pink);">13.2.1</span> Daca un jucator cu wanted (cu drept de predare) este pasager intr-un vehicul, va fi somat corespunzator, iar daca soferul nu ii da [<span style="color:var(--pink);">/eject</span>], atunci soferul va fi sanctionat cu wanted 6 „complice” fara alte somatii. ATENTIE! Pasagerul cu wanted NU isi pierde dreptul de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
