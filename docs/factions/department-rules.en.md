@@ -261,11 +261,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">9.1.5</span> Players are summoned, whether wanted or not, using the [<span style="color:var(--pink);">/ms</span>] command. This command automatically detects if the player is wanted, sending a specific message for each situation. If the player does not have surrender rights or is too far away, the officer will receive a specific message and will not allow the summons.
 
-<span style="color:var(--pink);">9.1.7</span> In dialogue and on-foot pursuit of a suspect, summons addressed through [<span style="color:var(--pink);">/say</span>], [<span style="color:var(--pink);">/s</span>], [<span style="color:var(--pink);">/b</span>] are considered valid. If in the given situation it cannot be interpreted that they are interacting with someone else, the officer no longer has the obligation to mention the player's name.
+<span style="color:var(--pink);">9.1.6</span> In dialogue and on-foot pursuit of a suspect, summons addressed through [<span style="color:var(--pink);">/say</span>], [<span style="color:var(--pink);">/s</span>], [<span style="color:var(--pink);">/b</span>] are considered valid. If in the given situation it cannot be interpreted that they are interacting with someone else, the officer no longer has the obligation to mention the player's name.
 
-<span style="color:var(--pink);">9.1.8</span> Do not spam when summoning a player. Offering 6 or more unjustified summons to a player is considered spam. There must be at least 3 seconds between summons (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">9.1.7</span> Do not spam when summoning a player. Offering 6 or more unjustified summons to a player is considered spam. There must be at least 3 seconds between summons (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">9.1.9</span> The police officer is obligated to yield a suspect to another officer if the latter has summoned them earlier (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">9.1.8</span> The police officer is obligated to yield a suspect to another officer if the latter has summoned them earlier (<span style="color:red;">sanction: Faction Warn</span>).
 
 ### Approaching Summoned Players
 

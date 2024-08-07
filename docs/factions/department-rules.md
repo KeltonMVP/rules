@@ -261,7 +261,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">9.1.5</span> Somarea jucatorilor, cu wanted si fara wanted, se face folosind comanda [<span style="color:var(--pink);">/ms</span>]. Aceasta detecteaza in mod automat daca jucatorul are wanted, trimitand un mesaj specific pentru fiecare situatie. In cazul in care jucatorul nu are drept de predare sau daca este prea departe, politistul va primi un mesaj specific si nu-l va lasa sa dea somatia.
 
-<span style="color:var(--pink);">9.1.5</span> In dialogul si in urmarirea pe jos a unui suspect sunt considerate somatii valabile inclusiv cele adresate prin [<span style="color:var(--pink);">/say</span>], [<span style="color:var(--pink);">/s</span>], [<span style="color:var(--pink);">/b</span>]. Daca in situatia data nu se poate interpreta ca interactioneaza cu altcineva, politistul nu mai are obligatia de a mentiona numele jucatorului.
+<span style="color:var(--pink);">9.1.6</span> In dialogul si in urmarirea pe jos a unui suspect sunt considerate somatii valabile inclusiv cele adresate prin [<span style="color:var(--pink);">/say</span>], [<span style="color:var(--pink);">/s</span>], [<span style="color:var(--pink);">/b</span>]. Daca in situatia data nu se poate interpreta ca interactioneaza cu altcineva, politistul nu mai are obligatia de a mentiona numele jucatorului.
 
 <span style="color:var(--pink);">9.1.7</span> Nu faceti spam cand somati un jucator. Oferind 6 sau mai multe somatii nejustificate unui jucator se considera spam. Intre somatii trebuie sa existe minim 3 secunde (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
