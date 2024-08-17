@@ -128,7 +128,7 @@
 
     For example, if you promoted a subleader on October 1st, another one on October 4th, and another one on October 8th, the next date you can appoint another subleader is November 1st, the second one on November 4th, and the third one on November 8th.
 
-<span style="color:var(--pink);">2.1.3</span> Rules for choosing subleaders for <span style="color:orange;">peaceful factions, departments, hitmen:</span>
+<span style="color:var(--pink);">2.1.3</span> Rules for choosing subleaders for <span style="color:orange;">peaceful factions, departments, mixt:</span>
 
 - you have a maximum of one week from when you received the position to promote <span style="color:var(--pink);">a single subleader</span> from outside the faction (they must have a previous rank 3 in any faction in the past 2 years) or from among any of the faction members.
 - subsequent subleaders will only be promoted from within the faction among members of at least rank 3.

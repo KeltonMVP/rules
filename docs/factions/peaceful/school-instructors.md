@@ -113,7 +113,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 !!! example "Exemple"
     Xulescu (367) la mine pentru toate licentele.<br/>
-    Yulescu (102) la mine pentru Flying, Sailing, Weapon Licenses.
+    Yulescu (102) la mine pentru licentele de Flying, Sailing, Weapon Licenses.
 
     Cine nu respecta aceasta regula va fi sanctionat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -121,7 +121,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 !!! example "Exemple"
     Xulescu (257) la mine pentru toate licentele, Nivel 50+.<br/>
-    Yulescu (341) la mine pentru Flying, Sailing, Weapon Licenses, Nivel 50+.
+    Yulescu (341) la mine pentru licentele de Flying, Sailing, Weapon Licenses, Nivel 50+.
 
 <span style="color:var(--pink);">5.3</span> Anuntati licentele cu numele lor complet si corect: Fishing, Sailing, Flying, Weapon, Materials Licenses. NU prescurtati, NU le anuntati in Romana (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -131,10 +131,10 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 <span style="color:var(--pink);">5.6</span> Daca clientul pica testul trebuie sa ii explicati unde a gresit. Il puteti sfatui sa verifice pe forum topicul [Testul Fiecarei Licente](https://forum.b-zone.ro/topic/246142--) pentru a fi mai pregatit pe viitor.
 
-<span style="color:var(--pink);">5.7</span> In cazul in care clientul este AFK, il asteptati 5 minute si intre timp strangeti dovezi, iar daca nu revine in game puteti sa amanati testele de licente/comanda.
+<span style="color:var(--pink);">5.7</span> In cazul in care clientul este AFK, il asteptati 5 minute si intre timp strangeti dovezi, iar daca nu revine in game puteti sa ii picati testele de licente / anulati comanda.
 
 !!! example "Exemplu"
-    Xulescu (ID) amana testul pentru Weapon License (AFK).
+    Xulescu (ID) a picat testul pentru Weapon License (AFK).
 
 <span style="color:var(--pink);">5.8</span> Este interzis sa furati clienti. In cazul in care gasiti un jucator pe strada/CNN/etc., intrebati pe [<span style="color:var(--pink);">/sx</span>] daca l-a acceptat cineva (<span style="color:red;">sanctiune: Faction Warn</span>).
 

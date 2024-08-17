@@ -214,6 +214,8 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">9.1.4</span> Jucatorii aflati pe blacklist pot fi omorati constant [exceptie la departamente] pana cand platesc blacklistul, exceptand in Safe Zone si la activitati importante precum evenimente, targuri, joburi legale, licitatii etc.
 
+<span style="color:var(--pink);">9.1.5</span> Pentru actiunile de DM/DB jucatorul va putea fi pus pe blacklist doar daca acesta nu a fost deja sanctionat prin [<span style="color:var(--pink);">/emergency</span>] sau reclamat in cadrul factiunii si sanctionat pentru asta, pentru a evita sanctionarea dubla a jucatorilor. (<span style="color:red;">sanctiuni: Faction Warn prima</span> abatere, <span style="color:red;">Rank Down</span> daca continua).
+
 ### Avertismente Blacklist
 
 - <span style="color:orange;">1 avertisment:</span> jigniri grave, in exces la adresa membrului sau a factiunii, incurcarea membrului sa-si faca datoria, DM/DB aiurea, kamikaze, /q on tie.

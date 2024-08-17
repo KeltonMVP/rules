@@ -214,6 +214,8 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">9.1.4</span> Players on the blacklist can be constantly killed [exception for departments] until they pay the blacklist fee, except in Safe Zones and during important activities such as events, markets, legal jobs, auctions, etc.
 
+<span style="color:var(--pink);">9.1.5</span> For DM/DB actions, a player can only be blacklisted if they have not already been sanctioned through [<span style="color:var(--pink);">/emergency</span>] or reported within the faction and punished for it, to avoid double penalization of players. (<span style="color:red;">sanctions: Faction Warn for the first offense</span>, <span style="color:red;">Rank Down</span> if it continues).
+
 ### Blacklist Warnings
 
 - <span style="color:orange;">1 warning:</span> excessive severe insults towards a member or the faction, disruption of a member's duty, inappropriate DM/DB, kamikaze, /q on tie.

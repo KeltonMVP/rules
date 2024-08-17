@@ -582,8 +582,8 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ### Blacklist Warnings
 
-- <span style="color:orange;">1 warning:</span> excessive severe insults towards a member or the faction, disruption of a member's duty, inappropriate DM/DB, kamikaze.
-- <span style="color:red;">2 warnings:</span> vulgar language, excessive DM/DB, excessive disruption of a member during their duty or activities, tampering with entrance tests alongside a 3-month ban.
+- <span style="color:orange;">1 warning:</span> excessive severe insults towards a member or the faction, disruption of a member's duty.
+- <span style="color:red;">2 warnings:</span> vulgar language, excessive disruption of a member during their duty or activities, tampering with entrance tests alongside a 3-month ban.
 
 !!! example "Info note"
     Blacklisting will not be granted to departments for things that can be sanctioned with a wanted status. </br>

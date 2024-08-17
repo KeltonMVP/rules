@@ -129,7 +129,7 @@ mari de 5 zile.
 
     De exemplu, ai promovat un sublider pe 01.10, unul in data de 04.10 si unul in data de 08.10. Urmatoarea data cand poti acorda un alt sublider este 01.11, al doilea pe 04.11 si al treilea pe 08.11.
 
-<span style="color:var(--pink);">2.1.3</span> Reguli alegere sublideri pentru <span style="color:orange;">factiuni pasnice, departamente, hitmen:</span>
+<span style="color:var(--pink);">2.1.3</span> Reguli alegere sublideri pentru <span style="color:orange;">factiuni pasnice, departamente, mixte:</span>
 
 - aveti maxim o saptamana de cand ati primit functia sa promovati <span style="color:var(--pink);">un singur sublider</span> din afara factiunii (trebuie sa aiba un rank 3 anterior intr-o factiune in ultimii 2 ani de zile) sau oricare dintre membrii factiunii voastre.
 - urmatorii sublideri vor fi promovati numai din interiorul factiunii dintre membrii de minim rank 3.
