@@ -113,7 +113,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 !!! example "Exemple"
     Xulescu (367) la mine pentru toate licentele.<br/>
-    Yulescu (102) la mine pentru licentele de Flying, Sailing, Weapon Licenses.
+    Yulescu (102) la mine pentru licentele de Flying, Sailing, Weapon.
 
     Cine nu respecta aceasta regula va fi sanctionat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -121,7 +121,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 !!! example "Exemple"
     Xulescu (257) la mine pentru toate licentele, Nivel 50+.<br/>
-    Yulescu (341) la mine pentru licentele de Flying, Sailing, Weapon Licenses, Nivel 50+.
+    Yulescu (341) la mine pentru licentele de Flying, Sailing, Weapon, Nivel 50+.
 
 <span style="color:var(--pink);">5.3</span> Anuntati licentele cu numele lor complet si corect: Fishing, Sailing, Flying, Weapon, Materials Licenses. NU prescurtati, NU le anuntati in Romana (<span style="color:red;">sanctiune: Faction Warn</span>).
 
