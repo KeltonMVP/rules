@@ -103,7 +103,7 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 
 <span style="color:var(--pink);">3.12</span> Try as much as possible to be in a taxi near payday, so you don't lose the taxi (at payday, faction vehicles are automatically respawned).
 
-<span style="color:var(--pink);">3.13</span> The accepted colors for painting the taxi are: yellow, white, black, or moon color (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">3.13</span> The accepted colors for painting the taxi are: yellow, white, black, or monthly color (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">3.14</span> It is forbidden to put <span style="color:var(--pink);">NOS, HYDRAULICS, PAINTJOB</span> on taxis (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -245,7 +245,7 @@ When issuing a fine, you are required to post it on the forum within 48 hours in
 
 <span style="color:var(--pink);">10.2</span> The Leader chooses which rank 4+ member to assign as a tester. Getting rank 4 does not guarantee obtaining the tester role.
 
-<span style="color:var(--pink);">10.3</span> Faction testers are strictly prohibited from marking accepted players to "Under Testing" status after they pass the tests, meaning they are not allowed to invite them (from rank 0 to rank 1) (<span style="color:red;">sanction: Faction Warn + removal of Tester status</span>).
+<span style="color:var(--pink);">10.3</span> Faction testers are strictly prohibited from marking accepted players to "Passed the Test" status after they pass the tests, meaning they are not allowed to invite them (from rank 0 to rank 1) (<span style="color:red;">sanction: Faction Warn + removal of Tester status</span>).
 
 <span style="color:var(--pink);">10.4</span> The tester must mark the candidate as Failed in the event the candidate fails any of the tests during the entry test.
 

@@ -279,15 +279,11 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.5.4</span> For level 1-3 admins, if the mandatory activity takes place during wars, they will be automatically excused, provided they fulfill their admin duties regarding catching coders.
 
-### Absences
-
-<span style="color:var(--pink);">10.6</span> If a mandatory activity is organized within the faction, the only place where you can request absence is on the RPG website through an absence request.
-
 ### Fines
 
-<span style="color:var(--pink);">10.7</span> If you have an unpaid fine, you have 48 hours to make the payment directly in-game using the command [<span style="color:var(--pink);">/fines</span>]. Otherwise, you will be sanctioned with a <span style="color:red;">Faction Warn</span>. Fines are to be paid only from your own funds by the member in question.
+<span style="color:var(--pink);">10.6</span> If you have an unpaid fine, you have 48 hours to make the payment directly in-game using the command [<span style="color:var(--pink);">/fines</span>]. Otherwise, you will be sanctioned with a <span style="color:red;">Faction Warn</span>. Fines are to be paid only from your own funds by the member in question.
 
 ### Exceptions
 
-<span style="color:var(--pink);">10.8</span> We reserve the right to make exceptions to these rules. In certain cases, the sanctions may be different.<br/>
+<span style="color:var(--pink);">10.7</span> We reserve the right to make exceptions to these rules. In certain cases, the sanctions may be different.<br/>
 These exceptions can only be made with the permission of an Admin 6.

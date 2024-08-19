@@ -279,15 +279,11 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.5.4</span> In cazul adminilor de nivel 1-3, daca activitatea obligatorie are loc pe parcursul desfasurarii warurilor, acestia vor fi automat invoiti, cu conditia ca ei sa-si indeplineasca atributiile de admin in ce priveste prinderea codatilor.
 
-### Invoiri
-
-<span style="color:var(--pink);">10.6</span> In cazul in care se organizeaza o activitate obligatorie in cadrul factiunii, singurul loc in care puteti sa va invoiti este pe website-ul RPG printr-o cerere de invoire.
-
 ### Amenzi
 
-<span style="color:var(--pink);">10.7</span> In cazul in care figurati cu o amenda neplatita, aveti la dispozitie 48 de ore pentru a efectua plata, direct din joc prin comanda [<span style="color:var(--pink);">/fines</span>], in caz contrat veti fi sanctionat cu <span style="color:red;">Faction Warn.</span> Amenzile se platesc numai din banii proprii, de catre membrul in cauza.
+<span style="color:var(--pink);">10.6</span> In cazul in care figurati cu o amenda neplatita, aveti la dispozitie 48 de ore pentru a efectua plata, direct din joc prin comanda [<span style="color:var(--pink);">/fines</span>], in caz contrat veti fi sanctionat cu <span style="color:red;">Faction Warn.</span> Amenzile se platesc numai din banii proprii, de catre membrul in cauza.
 
 ### Exceptii
 
-<span style="color:var(--pink);">10.8</span> Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
+<span style="color:var(--pink);">10.7</span> Ne rezervam dreptul de a avea exceptii de la aceste reguli. In anumite cazuri sanctiunile pot fi diferite.<br/>
 Aceste exceptii pot fi facute numai cu permisiunea unui Admin 6.
