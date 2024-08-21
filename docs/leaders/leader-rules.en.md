@@ -351,6 +351,16 @@ Violation of the above rule will be sanctioned (<span style="color:red;">sanctio
 
 Violation of all the above rules will be penalized (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
 
+### Resignation Requests
+
+<span style="color:var(--pink);">5.3.1</span> All resignation requests must receive a response within a maximum of 48 hours from the time they are submitted, except when the Leader has an inactivity request. In such cases, the Leader will have 24 hours after the end of the inactivity period to respond.
+
+<span style="color:var(--pink);">5.3.2</span> The language and content of the resignation request must be appropriate. If the member insults, mocks, or uses inappropriate language in the resignation request, they will be dismissed with <span style="color:var(--pink);">Faction Punish 60/60.</span>
+
+<span style="color:var(--pink);">5.3.3</span> Members with a resignation request are exempt from mandatory faction activities if the request was made before these activities (meetings, trainings, events, wars, etc.).
+
+Violation of any of the above rules will result in penalties (<span style="color:red;">penalty: Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
+
 ## 6. Complaints and Activity Report
 
 ### Website Complaints

@@ -352,6 +352,16 @@ Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sancti
 
 Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
+### Cererile de Demisie
+
+<span style="color:var(--pink);">5.3.1</span> Toate cererile de demisie trebuie sa primeasca un raspuns in cel mult 48 de ore de la deschiderea acestora, exceptie atunci cand Liderul are cerere de inactivitate, moment in care acesta va avea la dispozitie 24 de ore de la expirarea inactivitatii sa raspunda.
+
+<span style="color:var(--pink);">5.3.2</span> Limbajul cat si continutul cererii de demisie trebuie sa fie unul adecvat. Daca membrul jigneste, face misto, insulta, etc. in cererea de demisie, acesta va fi demis cu <span style="color:var(--pink);">Faction Punish 60/60.</span>
+
+<span style="color:var(--pink);">5.3.3</span> Membrii cu cerere de demisie sunt scutiti de prezenta la activitatile obligatorii din cadrul factiunii daca au creat cererea inaintea acestora (sedinte, antrenamente, evenimente, waruri, etc.).
+
+Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
+
 ## 6. Reclamatii si Raport de Activitate
 
 ### Reclamatii Website
