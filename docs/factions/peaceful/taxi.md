@@ -10,7 +10,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - <span style="color:var(--pink);">[/fare < pret >]</span> - devii on duty.
 - <span style="color:var(--pink);">[/accept taxi < Nume/ID >]</span> - accepti o comanda.
-- <span style="color:var(--pink);">[/cancel taxi < Nume/ID >]</span> - anulezi o comanda. Aceasta comanda poate fi folosita numai in cazuri speciale (taxi in flacari, ramai fara benzina, clientul a gasit deja o masina, iti cere clientul) si doar cu dovada.
+- <span style="color:var(--pink);">[/cancel taxi < Nume/ID >]</span> - anulezi o comanda.
 - <span style="color:var(--pink);">[/servicecalls]</span> - vezi comenzile nepreluate.
 - <span style="color:var(--pink);">[/f < text >]</span> - vorbesti pe chatul companiei.
 - <span style="color:var(--pink);">[/tx < text >]</span> - vorbesti pe chatul dintre companiile de taxi.

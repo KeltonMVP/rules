@@ -10,7 +10,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - <span style="color:var(--pink);">[/fare < price >]</span> - become on duty.
 - <span style="color:var(--pink);">[/accept taxi < Name/ID >]</span> - accept an order.
-- <span style="color:var(--pink);">[/cancel taxi < Name/ID >]</span> - cancel an order. This command can only be used in special cases (taxi on fire, run out of gas, the client has already found another car, the client asks you to) and only with evidence.
+- <span style="color:var(--pink);">[/cancel taxi < Name/ID >]</span> - cancel an order.
 - <span style="color:var(--pink);">[/servicecalls]</span> - see unclaimed orders.
 - <span style="color:var(--pink);">[/f < text >]</span> - talk on the company's chat.
 - <span style="color:var(--pink);">[/tx < text >]</span> - talk on the taxi companies' chat.
