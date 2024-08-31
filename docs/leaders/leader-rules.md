@@ -329,8 +329,7 @@ Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sancti
 - la stergerea unei sanctiuni, a unei promovari, demiteri, etc. se va tine cont si de ora la care a fost primita sanctiunea, invite-ul.
 - orice membru care nu paraseste factiunea prin cerere de demisie ci o paraseste fiind sanctionat de Lider o va parasi cu Faction Punish 10 sau 60 in functie de situatie.
 - membrii care nu aduc suficiente contributii unei factiuni si tot ceea ce fac e sa tina locul ocupat trebuie demisi, in caz contrar Liderii vor fi sanctionati.
-- membrii care primesc ban 3 zile sau mai mult de la admini trebuiesc demisi din factiune, in caz contrar veti fi sanctionati.
-    - trebuie sa tineti respectivii membri in factiune timp de 48 de ore pana cand fac cerere de unban si primesc un raspuns. Vor ramane in factiune doar daca primesc unban de la admini, nu daca isi cumpara unban.
+- membrii care primesc ban 3 zile sau mai mult de la admini vor fi demisi automat de sistem daca isi cumpara unban sau daca raman banati.
 
 <span style="color:var(--pink);">5.2.3</span> DM-ul se va sanctiona doar atunci cand exista dovezi clare (de preferat video / mai multe poze) care sa ateste ca jucatorul respectiv a facut DM. Mesajul informativ de daune nu este suficient pentru sanctionarea DM-ului (nici cel care specifica cine te-a omorat si de la ce distanta a facut asta).
 

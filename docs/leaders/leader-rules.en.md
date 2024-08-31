@@ -328,8 +328,7 @@ Violation of the above rule will be sanctioned (<span style="color:red;">sanctio
 - when deleting a sanction, a promotion, dismissal, etc., the time at which the sanction was received and the invitation will also be taken into account.
 - any member who does not leave the faction by resignation but leaves it being sanctioned by the Leader will leave with Faction Punish 10 or 60 depending on the situation.
 - members who do not make sufficient contributions to a faction and all they do is occupy space must be dismissed, otherwise the Leaders will be sanctioned.
-- members who receive a ban of 3 days or more from admins must be dismissed from the faction, otherwise you will be sanctioned.
-    - you must keep those members in the faction for 48 hours until they request an unban and receive a response. They will remain in the faction only if they receive an unban from admins, not if they purchase an unban.
+- members who receive a ban of 3 days or more from admins will be automatically kicked if they buy unban or if they remain banned.
 
 <span style="color:var(--pink);">5.2.3</span> DM will be sanctioned only when there is clear evidence (preferably video / multiple screenshots) to prove that the player in question DMed. The informative damage message is not sufficient for dming sanctions (nor the one specifying who killed you and from what distance they did it).
 
