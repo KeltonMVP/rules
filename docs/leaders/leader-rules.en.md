@@ -358,6 +358,8 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 
 <span style="color:var(--pink);">5.3.3</span> Members with a resignation request are exempt from mandatory faction activities if the request was made before these activities (meetings, trainings, events, wars, etc.).
 
+<span style="color:var(--pink);">5.3.4</span> It is forbidden to accept resignation requests in the last 2 days of the month for members who are supposed to be sanctioned for their monthly activity. They must first receive their sanction, after which they will be allowed to leave the faction.
+
 Violation of any of the above rules will result in penalties (<span style="color:red;">penalty: Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
 
 ## 6. Complaints and Activity Report

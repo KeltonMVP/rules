@@ -359,6 +359,8 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 
 <span style="color:var(--pink);">5.3.3</span> Membrii cu cerere de demisie sunt scutiti de prezenta la activitatile obligatorii din cadrul factiunii daca au creat cererea inaintea acestora (sedinte, antrenamente, evenimente, waruri, etc.).
 
+<span style="color:var(--pink);">5.3.4</span> Este interzisa acceptarea cererilor de demisie in ultimele 2 zile de sfarsit de luna in cazul membrilor care ar trebui sa fie sanctionati pentru activitatea lunara. Mai intai trebuie sa-si primeasca sanctiunea, dupa care vor putea parasi factiunea.
+
 Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
 ## 6. Reclamatii si Raport de Activitate
