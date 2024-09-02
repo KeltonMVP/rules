@@ -48,11 +48,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 </figure>
 
 - 26 FBI Rancher - Rank 1.
-- 5 FBI Truck - Rank 4.
-- 3 NRG - Rank 3.
+- 1 Police Maverick - Rank 1.
+- 5 FBI Truck - Rank 2.
+- 3 NRG - Rank 2.
 - 7 Bullet - Rank 3.
 - 3 SWAT - Rank 4.
-- 1 Police Maverick - Rank 4.
 
 <span style="color:var(--pink);">3.1</span> You are not allowed to use "<span style="color:var(--pink);">SWAT</span>" vehicles to spray players or to keep them on the ground. Anyone who violates this rule is sanctioned with a <span style="color:red;">Verbal Warning</span> or a <span style="color:red;">Faction Warn</span>, depending on the case. In the case of protests or players disrupting traffic, you are allowed to use water to calm them down.
 

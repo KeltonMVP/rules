@@ -48,11 +48,11 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 </figure>
 
 - 26 FBI Rancher - Rank 1.
-- 5 FBI Truck - Rank 4.
-- 3 NRG - Rank 3.
+- 1 Police Maverick - Rank 1.
+- 5 FBI Truck - Rank 2.
+- 3 NRG - Rank 2.
 - 7 Bullet - Rank 3.
 - 3 SWAT - Rank 4.
-- 1 Police Maverick - Rank 4.
 
 <span style="color:var(--pink);">3.1</span> Nu aveti voie sa folositi vehiculele de tip "<span style="color:var(--pink);">SWAT</span>" pentru a stropi jucatorii, pentru a ii tine la pamant. Cine nu respecta regula este sanctionat cu <span style="color:red;">Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span>, in functie de caz. In cazul protestelor sau jucatori care incurca traficul, aveti voie sa folositi apa pentru a ii calma.
 
