@@ -47,7 +47,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 ## 2. Deathmatch (DM) si Drive-By (DB)
 
 <span style="color:var(--pink);">2.1</span> Este interzis DM-ul sau DB-ul fara motiv intemeiat (<span style="color:red;">sanctiune: Faction Warn</span>).<br/>
-<span style="color:var(--pink);">2.2</span> In cazul in care sunteti atacati strangeti mai intai dovezi, dupa care va puteti apara.
+<span style="color:var(--pink);">2.2</span> In cazul in care sunteti atacati strangeti mai intai dovezi, dupa care va puteti apara.<br/>
+<span style="color:var(--pink);">2.3</span> In cazul DM-ului/DB-ului intre gangsteri, se permite maxim 3 killuri intr-un interval de 30 de minute (exceptand zonele de clanuri, respectand regulile de mai jos).
 
 !!! danger "Important"
     Membrii clanurilor oficiale au voie sa atace membrii altor clanuri oficiale in interiorul sau apropierea zonelor de clan doar atunci cand sunt implicati in cucerirea/apararea acelei zone. Daca membrii altor clanuri au initiat deja o lupta pentru acea zona, este interzisa interventia altor persoane care nu fac parte din respectivele clanuri.

@@ -47,7 +47,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 ## 2. Deathmatch (DM) and Drive-By (DB)
 
 <span style="color:var(--pink);">2.1</span> It is forbidden to DM or DB without justified reason (<span style="color:red;">sanction: Faction Warn</span>).<br/>
-<span style="color:var(--pink);">2.2</span> If you are attacked, gather evidence first, then you can defend yourself.
+<span style="color:var(--pink);">2.2</span> If you are attacked, gather evidence first, then you can defend yourself.<br/>
+<span style="color:var(--pink);">2.3</span> For DM/DB between gangsters, you are allowed a maximum of 3 kills during a 30 minute period (excepting clan zones, following the rules below).
 
 !!! danger "Important"
     Members of official clans are allowed to attack members of other official clans inside or near clan areas only when they are involved in conquering/defending that area. If members of other clans have already initiated a battle for that area, the intervention of other individuals not belonging to those clans is prohibited.
