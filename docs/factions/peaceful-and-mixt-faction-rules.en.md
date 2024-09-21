@@ -164,7 +164,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">7.4</span> The request for promotion (rank up) is allowed, provided you are not insistent and do not spam the leader (<span style="color:red;">penalty: Faction Warn</span>).
 
 !!! example "Info note"
-    If you are demoted from Subleader, you will receive a rank based on your total seniority in the faction. For the next promotion, counting will start from the moment you lost the Subleader position.
+    If you are demoted from Subleader, you will receive a rank based on your total seniority in the faction. For the next promotion of the former subleader to rank 2-5, the counting will start from the last promotion before receiving the subleader rank.
 
     For further details about demotion from Subleader and subsequent promotion, you can access [Leaders' Regulation -> Subleader Replacement](../leaders/leader-rules.md/#replacing-subleaders).
 

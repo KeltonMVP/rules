@@ -468,7 +468,7 @@ Some examples:
 <span style="color:var(--pink);">15.3</span> The Subleader rank is assigned by the leader when they deem it appropriate, respecting [Leader Rules -> Choosing Subleaders](../leaders/leader-rules.md/#choosing-subleaders).
 
 !!! example "Info note"
-    If you are demoted from Subleader, you will receive a rank based on your total seniority in the faction. For the next promotion, counting will start from the moment you lost the Subleader position.
+    If you are demoted from Subleader, you will receive a rank based on your total seniority in the faction. For the next promotion of the former subleader to rank 2-5, the counting will start from the last promotion before receiving the subleader rank.
 
     For further details about demotion from Subleader and subsequent promotion, you can access [Leaders' Regulation -> Replacing Subleaders](../leaders/leader-rules.md/#replacing-subleaders).
 

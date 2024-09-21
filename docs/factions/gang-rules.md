@@ -150,7 +150,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 <span style="color:var(--pink);">7.4</span> Rankul de Sublider este atribuit de catre lider atunci cand acesta considera ca meritati, respectand [Regulamentul Liderilor -> Alegerea Subliderilor](../leaders/leader-rules.md/#alegerea-subliderilor).
 
 !!! example "Nota informativa"
-    In cazul in care sunteti degradat de la Sublider, veti primi rankul in functie de vechimea totala in factiune. Pentru urmatoarea promovare va incepe numaratoarea din momentul in care ati ramas fara Sublider.
+    In cazul in care sunteti degradat de la Sublider, veti primi rankul in functie de vechimea totala in factiune. Pentru urmatoarea promovare a fostului sublider la rank 2-5 va incepe numaratoarea de la ultima promovare inainte de-a primi sublider.
 
     Pentru detalii suplimentare despre degradarea de la Sublider si promovarea ulterioara, puteti accesa [Regulamentul Liderilor -> Inlocuirea Subliderilor](../leaders/leader-rules.md/#inlocuirea-subliderilor).
 
