@@ -78,9 +78,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.1.2</span> Detalii despre comanda [<span style="color:var(--pink);">/news</span>]:
 
-- orice anunt incomplet / gresit va fi sanctionat - <span style="color:var(--green);">$25,000</span> / <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn.</span>
+- orice anunt incomplet / gresit va fi sanctionat - <span style="color:var(--green);">$50,000</span> / <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn.</span>
 
-- cand publicati un anunt, anuntati pe chatul factiunii [<span style="color:var(--pink);">/f</span>] cu 5 - 20 de secunde inainte de publicarea acestuia pe [<span style="color:var(--pink);">/news</span>] - <span style="color:var(--green);">$25,000</span> / <span style="color:orange;">Avertisment Verbal.</span>
+- cand publicati un anunt, anuntati pe chatul factiunii [<span style="color:var(--pink);">/f</span>] cu 5 - 20 de secunde inainte de publicarea acestuia pe [<span style="color:var(--pink);">/news</span>] - <span style="color:var(--green);">$50,000</span> / <span style="color:orange;">Avertisment Verbal.</span>
 
 - toate anunturile se publica la un interval de 3 minute, respectandu-se pauza de un minut intre anunturile colegilor - <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn.</span>
 
@@ -131,7 +131,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3.2</span> Membrii factiunii News Reporters isi rezerva dreptul de a ignora anunturile jucatorilor aflati pe blacklistul factiunii in cadrul sesiunii de anunturi gratuite.
 
-<span style="color:var(--pink);">5.3.3</span> Lista membrilor ce doresc sa participe la anunturile gratuite se va face intotdeauna la ora xx:55:00 (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">5.3.3</span> Lista membrilor ce doresc sa participe la anunturile gratuite se va face intotdeauna dupa ora xx:55:00 (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 - reporterii sunt obligati sa dea un mesaj de genul pe chatul factiunii [<span style="color:var(--pink);">/f</span>] "<span style="color:var(--pink);">Cine doreste sa participe la Anunturile Gratuite sa tasteze [/f]</span>".
 - lista va fi compusa din un membru care va fi desemnat sa dea <span style="color:var(--pink);">start + stop</span> la sesiune, si colegii ce vor ajuta.
@@ -165,8 +165,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     Incalcarea regulilor de mai sus va fi sanctionata (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
     Numele celui ce a trimis [/sms] va fi scris exact cum apare in joc (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).<br/>
-    Inainte de a publica un anunt, sunteti obligati sa verificati jucatorul care va trimite [/sms] (<span style="color:red;">sanctiune: Faction Warn</span>).<br/>
-    Numele vehiculelor si afacerilor vor fi scrise intotdeauna cu litera mare (<span style="color:red;">sanctiune:</span> <span style="color:green;">$25,000</span> / <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn</span>).
+    Inainte de a publica un anunt, sunteti obligati sa verificati jucatorul care va trimite [/sms] (<span style="color:red;">sanctiune: <span style="color:orange;">Avertisment Verbal</span> / Faction Warn</span>).<br/>
+    Numele vehiculelor si afacerilor vor fi scrise intotdeauna cu litera mare (<span style="color:red;">sanctiune:</span> <span style="color:green;">$50,000</span> / <span style="color:orange;">Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">5.3.7</span> Sunt permise urmatoarele abrevieri:
 
@@ -181,7 +181,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - model de inceput pentru anunturile gratuite cand sunt maxim 4 reporteri: <span style="color:var(--pink);">Anunturile gratuite au inceput, [/sms 120], [/sms 250], [/sms 340], [/sms 490].</span>
 - model de inceput pentru anunturile gratuite cand sunt 5 reporteri: <span style="color:var(--pink);">Anunturi gratuite, [/sms 120], [/sms 250], [/sms 340], [/sms 490], [/sms 510].</span>
 
-<span style="color:var(--pink);">5.3.10</span> In timpul sesiunii de anunturi gratuite vorbesc pe chatul factiunii [<span style="color:var(--pink);">/f</span>] doar cei care sustin sesiunea (<span style="color:red;">sanctiune:</span> <span style="color:green;">$25,000</span> / <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">5.3.10</span> In timpul sesiunii de anunturi gratuite vorbesc pe chatul factiunii [<span style="color:var(--pink);">/f</span>] doar cei care sustin sesiunea (<span style="color:red;">sanctiune:</span> <span style="color:green;">$50,000</span> / <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn</span>).
 
 <span style="color:var(--pink);">5.3.11</span> Este interzis ca un reporter sa dea pe [<span style="color:var(--pink);">/news</span>] de mai multe ori acelasi anunt de la un jucator, anuntul fiind identic (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
@@ -193,7 +193,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3.15</span> Reporterii au dreptul de a-si promova bunurile printr-un singur anunt in timpul unei sesiuni de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.16</span> Un reporter are dreptul de a oferi un singur anunt pentru un coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">5.3.16</span> Un reporter are dreptul de a oferi un singur anunt pentru un singur un coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 ### Anunturi Roleplay
 
@@ -277,6 +277,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - puteti scrie enunturi pe mai multe randuri atunci cand sunteti pe [<span style="color:var(--pink);">/live</span>], dar acest lucru trebuie semnalat prin [<span style="color:var(--pink);">...</span>] la finalul primului rand si la inceputul urmatorului rand (<span style="color:red;">sanctiune:</span> <span style="color:green;">$25,000</span> / <span style="color:orange;">Avertisment Verbal</span> / <span style="color:red;">Faction Warn</span>).
 
+<span style="color:var(--pink);">6.1.4</span> Lipsa unei dovezi cu [<span style="color:var(--pink);">/livemembers</span>] pentru orice tip de emisie se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
+
 ### Interviuri
 
 <span style="color:var(--pink);">6.2.1</span> Interviurile reprezinta un serviciu oferit de factiunea News Reporters. Interviurile sunt compuse astfel: intrebari din viata reala, intrebari din viata virtuala si intrebari din partea publicului. Interviurile pot fi sustinute doar de membrii factiunii News Reporters cu rank 3+ in factiune.
@@ -305,15 +307,18 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - fara batjocura si luat la misto.
 
 !!! danger "Important"
+    Lipsa clarificarii regulilor impuse pe [<span style="color:var(--pink);">/l</span>] invitatilor se sanctioneaza cu <span style="color:red;">Avertisment Verba</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
     Sunteti obligati sa opriti cat mai repede interviul daca invitatii incep sa nu mai respecte regulile impuse (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 <span style="color:var(--pink);">6.2.10</span> Aveti 48 de ore la dispozitie ca sa postati evidenta unui interviu dupa incheierea acestuia in topicul specific (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 <span style="color:var(--pink);">6.2.11</span> Daca un invitat este scos din interviu de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in interviu (<span style="color:red;">sanctiune: Faction Warn</span>).
 
+<span style="color:var(--pink);">6.2.12</span> Lipsa unei dovezi cu minim 3 si maxim 5 poze din timpul interviului se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
+
 ### Emisiuni
 
-<span style="color:var(--pink);">6.3.1</span> Emisiunile reprezinta un serviciu oferit de factiunea News Reporters. Emisiunile pot aborda diferite teme, ca de exemplu: Am / N-am sau Smash or Pass. Emisiunile pot fi sustinute doar de membrii factiunii News Reporters cu rank 4+ in factiune.
+<span style="color:var(--pink);">6.3.1</span> Emisiunile reprezinta un serviciu oferit de factiunea News Reporters. Emisiunile pot aborda diferite teme, ca de exemplu: Am / N-am sau Smash or Pass. Emisiunile pot fi sustinute doar de membrii factiunii News Reporters cu rank 4+ in factiune si care detin functia de Reporter Calificat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.3.2</span> Pentru mai multe informatii despre emisiuni, puteti accesa topicul [News Reporters - Detalii transmisii in direct](https://forum.b-zone.ro/topic/242420--).
 
@@ -321,9 +326,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - reporterii beneficiaza intotdeauna de emisiuni la pretul de <span style="color:var(--green);">$1 / persoana</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.3.4</span> Numarul maxim de participanti la o emisiune este de 3 participanti (<span style="color:red;">sanctiune: Faction Warn</span).
+<span style="color:var(--pink);">6.3.4</span> Numarul maxim de participanti la o emisiune este de 3 participanti (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.3.5</span> Nu este permis sa sustineti o emisiune cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span).
+<span style="color:var(--pink);">6.3.5</span> Nu este permis sa sustineti o emisiune cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.3.6</span> Durata maxima pe care o poate avea o emisiune este de 60 minute (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
@@ -339,19 +344,21 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.3.8</span> Aveti 48 de ore la dispozitie ca sa postati evidenta unei emisiuni dupa incheierea acesteia in topicul specific (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.3.9</span> Daca un invitat este scos din emisiune de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in emisiune (<span style="color:red;">sanctiune: Faction Warn</span).
+<span style="color:var(--pink);">6.3.9</span> Daca un invitat este scos din emisiune de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in emisiune (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.3.10</span> Lipsa unei dovezi cu titlul emisiunii organizate se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
 
 ### Concursuri
 
-<span style="color:var(--pink);">6.4.1</span> Concursurile reprezinta un serviciu oferit de factiunea News Reporters. Concursurile pot aborda diferite teme, ca de exemplu: Tari & Capitale, Automobile sau Istorie. Concursurile pot fi sustinute doar de membrii factiunii News Reporters cu rank 3+ in factiune.
+<span style="color:var(--pink);">6.4.1</span> Concursurile reprezinta un serviciu oferit de factiunea News Reporters. Concursurile pot aborda diferite teme, ca de exemplu: Tari & Capitale, Automobile sau Istorie. Concursurile pot fi sustinute doar de membrii factiunii News Reporters cu rank 3+ in factiune si care detin functia de Reporter Calificat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.2</span> Pentru mai multe informatii despre concursuri, puteti accesa topicul [News Reporters - Detalii transmisii in direct](https://forum.b-zone.ro/topic/242420--).
 
 <span style="color:var(--pink);">6.4.3</span> Taxa de participare la un concurs este de <span style="color:var(--green);">$20.000 / persoana</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.4.4</span> Numarul minim de participanti la un concurs este de 3 participanti, iar maximul este de 5 participanti (<span style="color:red;">sanctiune: Faction Warn</span).
+<span style="color:var(--pink);">6.4.4</span> Numarul minim de participanti la un concurs este de 3 participanti, iar maximul este de 5 participanti (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.4.5</span> Nu este permis sa organizati un concurs cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span).
+<span style="color:var(--pink);">6.4.5</span> Nu este permis sa organizati un concurs cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.6</span> Durata maxima pe care o poate avea un concurs este de 60 minute (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
@@ -367,15 +374,20 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.4.8</span> Aveti 48 de ore la dispozitie ca sa postati evidenta unui concurs dupa incheierea acestuia in topicul specific (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.4.9</span> Daca un invitat este scos din concurs de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in emisiune (<span style="color:red;">sanctiune: Faction Warn</span).
+<span style="color:var(--pink);">6.4.9</span> Daca un invitat este scos din concurs de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in emisiune (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.10</span> Premiul unui concurs reprezinta 80% din suma totala a banilor platiti de participanti (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+
+!!! danger "Important"
+    Lipsa unei dovezi care atesta acordarea premiului participantului castigator duce la sanctionarea voastra cu <span style="color:red;">Faction Warn</span>.
 
 <span style="color:var(--pink);">6.4.11</span> Membrii News Reporters nu pot participa la concursurile organizate de colegii lor (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.12</span> In timpul concursului sunteti obligati sa contorizati toate raspunsurile corecte intr-un clasament (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.12.1</span> Contorizarea gresita a unui raspuns corect se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele. 
+
+<span style="color:var(--pink);">6.4.13</span> Lipsa unei dovezi cu titlul concursului organizat se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele. 
 
 ## 7. Ziare
 

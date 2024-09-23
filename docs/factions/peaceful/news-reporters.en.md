@@ -78,9 +78,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.1.2</span> - Details about the [<span style="color:var(--pink);">/news</span>] command:
 
-- any incomplete / incorrect announcement will be penalized - <span style="color:var(--green);">$25,000</span> / <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn.</span>
+- any incomplete / incorrect announcement will be penalized - <span style="color:var(--green);">$50,000</span> / <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn.</span>
 
-- when publishing an announcement, notify on the faction chat [<span style="color:var(--pink);">/f</span>] 5 - 20 seconds before publishing it on [<span style="color:var(--pink);">/news</span>] - <span style="color:var(--green);">$25,000</span> / <span style="color:orange;">Verbal Warning.</span>
+- when publishing an announcement, notify on the faction chat [<span style="color:var(--pink);">/f</span>] 5 - 20 seconds before publishing it on [<span style="color:var(--pink);">/news</span>] - <span style="color:var(--green);">$50,000</span> / <span style="color:orange;">Verbal Warning.</span>
 
 - all announcements are published at a 3-minute interval, with a one-minute break between colleagues' announcements - <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn.</span
 
@@ -131,7 +131,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3.2</span> Members of the News Reporters faction reserve the right to ignore announcements from players on the faction blacklist during free announcement sessions.
 
-<span style="color:var(--pink);">5.3.3</span> The list of members wishing to participate in free announcements will always be made at xx:55:00 (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">5.3.3</span> The list of members wishing to participate in free announcements will always be made after xx:55:00 (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
 - reporters are required to give a message like the following on the faction chat [<span style="color:var(--pink);">/f</span>] "<span style="color:var(--pink);">Anyone willing to participate in Free Announcements please type [/f]</span>".
 - the list will be composed of one member designated to give <span style="color:var(--pink);">start + stop</span> for the session, and colleagues who will assist.
@@ -165,8 +165,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     Violation of the above rules will be penalized (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
     The name of the sender of [/sms] will be written exactly as it appears in-game (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).<br/>
-    Before publishing an announcement, you are required to verify the player who will send [/sms] (<span style="color:red;">sanction: Faction Warn</span>).<br/>
-    Vehicle names and businesses will always be capitalized (<span style="color:red;">sanction:</span> <span style="color:green;">$25,000</span> / <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn</span>).
+    Before publishing an announcement, you are required to verify the player who will send [/sms] (<span style="color:red;">sanction: <span style="color:orange;">Verbal Warning</span> / Faction Warn</span>).<br/>
+    Vehicle names and businesses will always be capitalized (<span style="color:red;">sanction:</span> <span style="color:green;">$50,000</span> / <span style="color:orange;">Verbal Warning</span>).
 
 <span style="color:var(--pink);">5.3.7</span> The following abbreviations are allowed:
 
@@ -181,7 +181,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - starting model for free announcements when there are a maximum of 4 reporters: <span style="color:var(--pink);">Free announcements have begun, [/sms 120], [/sms 250], [/sms 340], [/sms 490].</span>
 - starting model for free announcements when there are 5 reporters: <span style="color:var(--pink);">Free announcements, [/sms 120], [/sms 250], [/sms 340], [/sms 490], [/sms 510].</span>
 
-<span style="color:var(--pink);">5.3.10</span> During the free announcement session, only those supporting the session speak on the faction chat [<span style="color:var(--pink);">/f</span>] (<span style="color:red;">sanction:</span> <span style="color:green;">$25,000</span> / <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">5.3.10</span> During the free announcement session, only those supporting the session speak on the faction chat [<span style="color:var(--pink);">/f</span>] (<span style="color:red;">sanction:</span> <span style="color:green;">$50,000</span> / <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn</span>).
 
 <span style="color:var(--pink);">5.3.11</span> It is prohibited for a reporter to post the same announcement from a player multiple times on [<span style="color:var(--pink);">/news</span>], with the announcement being identical (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
@@ -193,7 +193,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3.15</span> Reporters have the right to promote their goods through a single announcement during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.16</span> A reporter is entitled to provide only one announcement for a faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">5.3.16</span> A reporter is entitled to provide only one announcement for a single faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
 ### Roleplay News
 
@@ -277,6 +277,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - you can write statements on multiple lines when you are on [<span style="color:var(--pink);">/live</span>], but this must be indicated by [<span style="color:var(--pink);">...</span>] at the end of the first line and at the beginning of the next line (<span style="color:red;">sanction:</span> <span style="color:green;">$25,000</span> / <span style="color:orange;">Verbal Warning</span> / <span style="color:red;">Faction Warn</span>).
 
+<span style="color:var(--pink);">6.1.4</span> Lack of proof with [<span style="color:var(--pink);">/livemembers</span>] for any type of show will be sanctioned with a <span style="color:red;">Verbal Warning</span> on the first offense, and a <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
 ### Interviews
 
 <span style="color:var(--pink);">6.2.1</span> Interviews represent a service offered by the News Reporters faction. Interviews are composed of real-life questions, virtual-life questions, and questions from the audience. Interviews can only be conducted by News Reporters faction members with a rank of 3+ in the faction.
@@ -305,15 +307,18 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - no mockery or teasing.
 
 !!! danger "Important"
+    Lack of clarification for the [<span style="color:var(--pink);">/l</span>] rules for your guests is punished with <span style="color:red;">Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
     You are required to stop the interview as soon as the guests start to disrespect the imposed rules (<span style="color:red;">sanction: Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
 <span style="color:var(--pink);">6.2.10</span> You have 48 hours to post evidence of an interview after its conclusion in the specific topic (<span style="color:red;">sanction: Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
 <span style="color:var(--pink);">6.2.11</span> If a guest is removed from the interview by an Admin for a reason related to the [<span style="color:var(--pink);">/l</span>] command, they cannot be re-invited to the interview (<span style="color:red;">sanction: Faction Warn</span>).
 
+<span style="color:var(--pink);">6.2.12</span> Lack of proof with a minimum of 3 and a maximum of 5 pictures from the interview will be sanctioned with a <span style="color:red;">Verbal Warning</span> on the first offense, and a <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
 ### Shows
 
-<span style="color:var(--pink);">6.3.1</span> Shows represent a service offered by the News Reporters faction. Shows can cover various topics, such as: Yes/No or Smash or Pass. Shows can only be hosted by News Reporters faction members with a rank of 4 or higher.
+<span style="color:var(--pink);">6.3.1</span> Shows represent a service offered by the News Reporters faction. Shows can cover various topics, such as: Yes/No or Smash or Pass. Shows can only be hosted by News Reporters faction members with a rank of 4+ who also have the Qualified Reported role (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.3.2</span> For more information about shows, you can access the topic [News Reporters - Live Broadcast Details](https://forum.b-zone.ro/topic/242420--).
 
@@ -341,9 +346,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.3.9</span> If a guest is removed from a show by an Admin for a reason related to the [<span style="color:var(--pink);">/l</span>] command, they cannot be re-invited to the show (<span style="color:red;">sanction: Faction Warn</span>).
 
+<span style="color:var(--pink);">6.3.10</span> Lack of proof with the title of the organized show will be sanctioned with a <span style="color:red;">Verbal Warning</span> on the first offense, and a <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
 ### Contests
 
-<span style="color:var(--pink);">6.4.1</span> Contests represent a service offered by the News Reporters faction. Contests can address various themes, such as Countries & Capitals, Automobiles, or History. Contests can only be conducted by News Reporters faction members with a rank of 3+ in the faction.
+<span style="color:var(--pink);">6.4.1</span> Contests represent a service offered by the News Reporters faction. Contests can address various themes, such as Countries & Capitals, Automobiles, or History. Contests can only be conducted by News Reporters faction members with a rank of 3+ in the faction who also have the Qualified Reporter role (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.2</span> For more information about contests, you can access the topic [News Reporters - Live Broadcast Details](https://forum.b-zone.ro/topic/242420--).
 
@@ -371,11 +378,16 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.4.10</span> The prize for a contest represents 80% of the total amount of money paid by participants (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
+!!! danger "Important"
+    Lack of proof that shows awarding the prize to the winning participant gets punished with a <span style="color:red;">Faction Warn</span>.
+
 <span style="color:var(--pink);">6.4.11</span> News Reporters members cannot participate in contests organized by their colleagues (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.12</span> During the contest, you are required to tally all correct answers in a ranking (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4.12.1</span> Incorrect tallying of a correct answer is sanctioned with a <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
+<span style="color:var(--pink);">6.4.13</span> Lack of proof with the title of the organized contest will be sanctioned with a <span style="color:red;">Verbal Warning</span> on the first offense, and a <span style="color:red;">Faction Warn</span> for subsequent offenses.
 
 ## 7. Newspapers
 
