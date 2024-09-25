@@ -123,6 +123,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.16</span> You are obligated when towing a vehicle to have evidence with [<span style="color:var(--pink);">/dl</span>] turned on that you have correctly towed it, evidence that may be requested by a rank 6 (<span style="color:red;">sanction: Faction Warn</span>).
 
+<span style="color:var(--pink);">5.17</span> Subleaders or the Leader can request proof at any time for a towed vehicle. If you do not have proof, you will be <span style="color:red;">sanctioned with a Faction Warn</span>.
+
 !!! danger "Important"
     If you are reported for illegal towing and you don't have evidence, you will be sanctioned for illegal towing (<span style="color:red;">sanction: dismissal</span>).
 

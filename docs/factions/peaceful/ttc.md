@@ -123,6 +123,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.16</span> Aveti obligatia atunci cand tractati un vehicul sa aveti dovezi cu [<span style="color:var(--pink);">/dl</span>] pornit cum ca ati efectuat corect tractarea, dovezile putand fi solocitate de un rank 6 (<span style="color:red;">sanctiune: Faction Warn</span>).
 
+<span style="color:var(--pink);">5.17</span> Subliderii sau Liderul va pot cere oricand dovezi pentru o masina tractata, in cazul in care nu aveti dovezi veti fi <span style="color:red;">sanctionati cu Faction Warn</span>.
+
 !!! danger "Important"
     Daca sunteti raportat pentru tractare ilegala si nu aveti dovezi, veti fi sanctionat pentru tractare ilegala (<span style="color:red;">sanctiune: demitere</span>).
 
