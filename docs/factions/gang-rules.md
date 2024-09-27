@@ -273,6 +273,27 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.2.9</span> Este interzis sa stati in apa la distante unde nu puteti fi nimeriti de adversari pentru a castiga la influenta. Membrii care se afla in apa <span style="color:var(--pink);">mai mult de 60 de secunde</span> une nu pot incasa damage vor fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
+<span style="color:var(--pink);">10.2.10</span> Pe toata durata warurilor la care participati aveti obligatia sa ascultati de coordonator (Lider, Sublider, cel mai mare rank superior) (<span style="color:orange;">sanctiune: amenda 100.000$</span> prima abatere, <span style="color:red;">amenda 100.000$ sau Faction Warn</span> la urmatoarele).
+
+!!! danger "Informatii suplimentare"
+    - coordonatorul are dreptul de a alege pentru urmatoarele abateri daca ofera tot amenda sau Faction Warn.
+    - daca coordonatorul alege sa ofere Faction Warn la a doua abatere, va oferi aceeasi sanctiune tuturor in acea zi de waruri.
+    - abaterile se reseteaza la fiecare zi diferita de waruri, cu o exceptie:
+        - jucatorii care au multiple abateri repetate (minim 3 zile) intr-o saptamana de waruri pot fi sanctionati direct cu Faction Warn.
+    - coordonatorul are obligatia de a avea dovezi clare pentru sanctiunile oferite, pe care sa le pastreze minim 5 zile.
+
+    Aplicarea incorecta a sanctiunilor sau lipsa dovezilor va fi sanctionata cu un <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
+
+!!! example "Exemple de neascultare la war"
+    - cand jucatorul ignora backup-ul si mesajele sa se prezinte in acea zona, el mergand intr-o zona diferita fara aprobarea coordonatorului si fara vreo justificare.
+    - cand jucatorul ignora pastrarea unei anumite zone stabilite de coordonator si se muta din acea zona intr-o alta zona neaprobata si fara vreo justificare.
+    - cand se cere in mod explicit sa nu fie respawnate vehiculele de la factiune pentru pastrarea unei baricade iar jucatorul le respawneaza, stricand planul tactic.
+    - cand se cere ca fiecare sa mearga cu un vehicul separat, daca exista posibilitatea, pentru a forma un plan tactic iar jucatorul ignora asta si merge impreuna cu un alt coleg.
+    - in situatii critice precum finalul unui war foarte strans (7-7), atunci cand jucatorul se duce in adversari si rezulta in moartea nejustificata a acestuia.
+
+    !!! danger "Atentie"
+        Pot exista anumite situatii care sunt justificate pentru jucatori, precum situatii in care adversarul face push, situatii in care accesul la o zona e blocat, situatii in care un coleg cauzeaza probleme altora. Asadar inainte de a acorda sanctiuni verificati daca a existat sau nu justificare pentru actiunile jucatorului.
+
 ### Absenta Waruri Obligatorii
 
 Cand gangul are <span style="color:var(--green);">4 waruri:</span>

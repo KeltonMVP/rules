@@ -1224,13 +1224,11 @@ Subleaders can use the <span style="color:var(--pink);">2 weekly leaves</span> t
 
 <span style="color:var(--pink);">8.4.6</span> In case the subleader receives a ban for cheats (<span style="color:var(--pink);">Aimbot/Norecoil</span>), you will be sanctioned with a <span style="color:red;">Verbal Warning</span> for the first offense, and a <span style="color:red;">Leader Warn</span> for subsequent offenses.
 
-<span style="color:var(--pink);">8.4.7</span> With every vote you bring to the player whose interdiction request is made, you are obliged to bring an argument for that vote.
+<span style="color:var(--pink);">8.4.7</span> With every vote you bring to the player whose interdiction request is made, you are obliged to bring an argument for that vote
 
-<span style="color:var(--pink);">8.4.8</span> Leaders are NOT allowed to sanction members during wars for reasons such as "who dies without a kill gets FW" - "who dies gets FW." You can sanction members for disobeying a higher rank only if you provide enough time to reach a backup position, and those members continue to ignore you and do not come to the position you requested (<span style="color:red;">sanction: Leader Warn</span>).
+<span style="color:var(--pink);">8.4.8</span>Gang Leaders who have at least 10 members banned for cheats of aim, norecoil or adjacent in one month risk severe sanctions if this number continues to increase (<span style="color:red;">sanction: Leader Warn</span> or <span style="color:red;">Dismissal</span>).
 
-<span style="color:var(--pink);">8.4.9</span>Gang Leaders who have at least 10 members banned for cheats of aim, norecoil or adjacent in one month risk severe sanctions if this number continues to increase (<span style="color:red;">sanction: Leader Warn</span> or <span style="color:red;">Dismissal</span>).
-
-<span style="color:var(--pink);">8.4.10</span> Gang Leaders are obligated to have a minimum of 3 attacks each week during war days (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> second offense).
+<span style="color:var(--pink);">8.4.9</span> Gang Leaders are obligated to have a minimum of 3 attacks each week during war days (<span style="color:red;">sanction: Verbal Warning</span> first offense, <span style="color:red;">Leader Warn</span> second offense).
 
 #### <span style="color:#3baad5;">Absences</span>
 

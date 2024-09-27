@@ -273,6 +273,27 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.2.9</span> It is forbidden to stay in the water at distances where you cannot be hit by opponents to gain influence. Members who are in the water for <span style="color:var(--pink);">more than 60 seconds</span> and cannot receive damage will be sanctioned with <span style="color:red;">Faction Warn.</span>
 
+<span style="color:var(--pink);">10.2.10</span> Throughout the duration of wars in which you participate, you are obligated to follow the coordinator's instructions (Leader, Subleader, or highest-ranking superior) (<span style="color:orange;">sanction: fine of $100,000</span> for the first offense, <span style="color:red;">fine of $100,000 or Faction Warn</span> for subsequent offenses).
+
+!!! danger "Additional Information"
+    - the coordinator has the right to choose, for future offenses, whether to issue a fine or a Faction Warn.
+    - if the coordinator chooses to issue a Faction Warn on the second offense, the same penalty must be given to all participants on that war day.
+    - offenses reset each war day, with one exception:
+      - players who commit repeated offenses (minimum of 3 days) within a week of wars may be directly sanctioned with a Faction Warn.
+    - the coordinator is required to have clear evidence for any sanctions issued, and these must be kept for at least 5 days.
+    
+    Incorrect application of sanctions or lack of evidence will result in a <span style="color:red;">Verbal Warning</span> for the first offense, and <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
+!!! example "Examples of Disobedience in Wars"
+    - when a player ignores the backup request and messages to get in a designated area, instead going to a different zone without the coordinator's approval or any justification.
+    - when a player ignores holding a specific area assigned by the coordinator and moves to another area without approval or justification
+    - when there is an explicit request not to respawn faction vehicles to maintain a barricade, and the player respawns them, ruining the tactical plan.
+    - when it's requested that everyone uses separate vehicles (if possible) to form a tactical plan, but the player ignores this and shares a vehicle with a teammate.
+    - in critical situations, such as a close war (7-7), when a player engages with the enemies and unjustifiably dies.
+    
+    !!! danger "Attention"
+        There may be situations where players are justified, such as when the enemy pushes, when access to a zone is blocked, or when a teammate causes issues for others. Therefore, before issuing sanctions, ensure that the player's actions were or were not justified.
+
 ### Absence Mandatory Wars
 
 When the gang has <span style="color:var(--green);">4 wars:</span>
