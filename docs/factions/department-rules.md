@@ -583,7 +583,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 ### Avertismente Blacklist
 
 - <span style="color:orange;">1 avertisment:</span> jigniri grave, in exces la adresa membrului sau a factiunii, incurcarea membrului sa-si faca datoria.
-- <span style="color:red;">2 avertismente:</span> limbaj vulgar, deranj excesiv a membrului cand si face datoria sau la activitati, fraudarea testelor de intrare alaturi de o interdictie de 3 luni.
+- <span style="color:red;">2 avertismente:</span> limbaj vulgar, deranj excesiv a membrului cand isi face datoria sau la activitati, fraudarea testelor de intrare alaturi de o interdictie de 3 luni.
 
 !!! example "Nota informativa"
     Nu se va acorda blacklist la departamente pentru lucruri care se pot sanctiona cu wanted.</br>
