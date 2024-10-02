@@ -397,7 +397,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">7.3</span> In topicul intitulat [News Reporters - Ghidul reporterului](https://forum.b-zone.ro/topic/429781--) aveti informatii despre cum se scrie un ziar.
 
-<span style="color:var(--pink);">7.4</span> Ziarele se vand intotdeauna la pretul de <span style="color:var(--green);">$50</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">7.4</span> Ziarele se vand intotdeauna la pretul de <span style="color:var(--green);">$1.000</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 <span style="color:var(--pink);">7.5</span> Doar reporterii de rank 2+ pot scrie ziare (<span style="color:red;">sanctiune: Faction Warn</span>).
 

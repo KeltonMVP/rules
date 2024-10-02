@@ -397,7 +397,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">7.3</span> In the topic titled [News Reporters - Reporter's Guide](https://forum.b-zone.ro/topic/429781--) you have information on how to write a newspaper.
 
-<span style="color:var(--pink);">7.4</span> Newspapers are always sold at the price of <span style="color:var(--green);">$50</span> (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">7.4</span> Newspapers are always sold at the price of <span style="color:var(--green);">$1.000</span> (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
 <span style="color:var(--pink);">7.5</span> Only reporters of rank 2+ can write newspapers (<span style="color:red;">sanction: Faction Warn</span>).
 
