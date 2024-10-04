@@ -1785,7 +1785,7 @@
 <ul>
 <li><span style="color:var(--pink);">[/r]</span> - pentru a putea discuta cu membrii factiunii (Radio Chat).</li>
 <li><span style="color:var(--pink);">[/heal &lt; ID &gt; &lt; suma &gt;]</span> - pentru a da viata playerilor care va cer ajutorul. Trebuie sa fiti neaparat in ambulanta, Ranger sau Raindance (elicopterul factiunii).</li>
-<li><span style="color:var(--pink);">[/rehab &lt; ID &gt; &lt; suma &gt;]</span> - pentru a scapa un jucator de dependenta de droguri, se foloseste aceasta comanda atat in ambulanta cat si in Raindance sau Ranger.</li>
+<li><span style="color:var(--pink);">[/rehab &lt; ID &gt; &lt; procentaj &gt; &lt; suma &gt;]</span> - pentru a scapa un jucator de dependenta de droguri (procentajul trebuie sa fie multiplu de 10), se foloseste aceasta comanda atat in ambulanta cat si in Raindance sau Ranger.</li>
 <li><span style="color:var(--pink);">[/accept &lt; medic &gt; &lt; ID &gt;]</span> - pentru a accepta un apel. Va va aparea un checkpoint rosu pe harta, acolo se afla pacientul.</li>
 <li><span style="color:var(--pink);">[/cancel &lt; medic &gt; &lt; ID &gt;]</span> - pentru a anula un apel. Checkpointul setat va disparea. Atentie: Se foloseste cu un motiv intemeiat si mereu insotita de dovezi (SS ori video)</li>
 <li><span style="color:var(--pink);">[/duty]</span> - pentru a putea lua comenzi (daca esti off-duty nu poti lua comenzi).</li>
@@ -1799,6 +1799,7 @@
 <li><span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre medici ce pot fi acceptate.</li>
 <li><span style="color:var(--pink);">[/corpses]</span> - afiseaza o lista cu toate cadavrele ce pot fi ridicate.</li>
 <li><span style="color:var(--pink);">[/corpse &lt; corpse id &gt;]</span> - cu aceasta comanda incepi sa mergi catre un cadavru pentru a-l ridica. Va aparea un checkpoint pe harta la locatia acestuia.</li>
+<li><span style="color:var(--pink);">[/cancel corpse]</span> - anularea preluarii unui cadavru.</li>
 <li><span style="color:var(--pink);">[/onduty]</span> - arata membrii aflati la datorie.</li>
 <li><span style="color:var(--pink);">[/members]</span> - arata lista cu toti membrii factiunii.</li>
 <li><span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.</li>
@@ -1861,9 +1862,10 @@ Membrii de rank superior nu au voie sa oblige ceilalti membri de rank inferior s
 <p><span style="color:var(--pink);">6.5</span> Daca un pacient nu specifica ce serviciu doreste dupa ce i s-a solicitat de 3 ori, Paramedicul are dreptul de a folosi comanda [<span style="color:var(--pink);">/eject</span>] pe jucatorul respectiv. Este necesar sa aveti dovezi (<span style="color:orange;">sanctiune: amenda 25,000$</span>).</p>
 <p><span style="color:var(--pink);">6.6</span> Este interzis sa faceti spam cu mesaje informative despre serviciile Paramedics (maxim de 3 ori) (<span style="color:red;">sanctiune: Avertisment Verbal + Amenda</span>).</p>
 <p><span style="color:var(--pink);">6.7</span> Nu aveti voie sa parcati ambulanta in apropierea "<span style="color:var(--pink);">i</span>"-ului de la bizuri, blocand sau ingreunand circulatia / intrarea / utilizarea serviciilor bizului respectiv, exemplu oferit la CNN LS, <a href="https://imgur.com/a/r0xeeFy">click</a> (<span style="color:red;">sanctiune: Avertisment Verbal</span>).</p>
-<p><span style="color:var(--pink);">6.8</span> Este permisa anularea unei comenzi daca respectivul se afla intr-o zona inaccesibila (aveti nevoie de dovezi) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).</p>
+<p><span style="color:var(--pink);">6.8</span> Este permisa anularea unei comenzi sau a preluarii unui cadavru daca acesta se afla intr-o zona inaccesibila (aveti nevoie de dovezi) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).</p>
 <p><span style="color:var(--pink);">6.9</span> Daca un membru acorda serviciul gresit sau nesolicitat unui jucator, aceasta atrage dupa sine sanctiuni (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).</p>
 <p><span style="color:var(--pink);">6.10</span> Neoferirea sau refuzul neintemeiat oferirii unui serviciu cerut de client atrage dupa sine sanctiuni (<span style="color:red;">sanctiune: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">6.11</span> Pentru acordarea serviciului de rehab jucatorilor cu un procentaj mai mare de 10% dependenta, este interzis sa utilizati o alta suma decat cea rezultata din multiplicarea tarifului standard pentru rehab (<span style="color:red;">sanctiune: Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span>, in functie de gravitate).</p>
 <div class="admonition example">
 <p class="admonition-title">Nota informativa</p>
 <p>In fiecare duminica, in jurul orelor 23:45 - 00:15, sistemul va face totalizarea rapoartelor, asta insemnand ca se aduna toate punctele care sunt valide.<br/>
@@ -1877,12 +1879,14 @@ Paramedicul saptamanii are raportul injumatatit + 75,000$.</p>
 </ul>
 <p>Pentru <span style="color:var(--pink);">/rehab:</span></p>
 <ul>
-<li><span style="color:var(--green);">1,000$</span> - colegilor Paramedici</li>
-<li><span style="color:var(--green);">3,000$</span> - celorlalti jucatori</li>
+<li><span style="color:var(--green);">1$</span> - colegilor Paramedici</li>
+<li><span style="color:var(--green);">1,500$</span> - celorlalti jucatori maxim 10% dependenta (<span style="color:var(--pink);">TARIF STANDARD</span>)</li>
+<li><span style="color:var(--green);">3,000$ - 15,000$</span> - celorlalti jucatori pentru dependenta mai mare de 10% (<span style="color:var(--pink);">TARIF MULTIPLICAT</span>)</li>
 </ul>
 <div class="admonition danger">
 <p class="admonition-title">Important</p>
-<p>Aliatii vor primi serviciile la un pret normal, dar cu returnarea baniilor cheltuiti!</p>
+<p>Pentru mai multe informatii vizitati topicul de pe forum pentru <a href="https://forum.b-zone.ro/topic/479943--/">Acordarea de Rehab</a>.<br/>
+Aliatii vor primi serviciile la un pret normal, dar cu returnarea baniilor cheltuiti!</p>
 </div>
 <h3 id="sistemul-de-cadavre">Sistemul de Cadavre<a class="headerlink" href="#sistemul-de-cadavre" title="Permanent link">&para;</a></h3>
 <ul>
@@ -1999,7 +2003,7 @@ Nu mai sunteti obligati sa le inapoiati banii membrilor aliati daca acestia refu
     <span class="md-icon" title="Ultima actualizare">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">25 mai 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">4 octombrie 2024</span>
   </span>
 
     

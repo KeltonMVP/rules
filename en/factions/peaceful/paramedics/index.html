@@ -1784,10 +1784,10 @@
 <h2 id="1-faction-commands">1. Faction Commands<a class="headerlink" href="#1-faction-commands" title="Permanent link">&para;</a></h2>
 <ul>
 <li><span style="color:var(--pink);">[/r]</span> - to communicate with faction members (Radio Chat).</li>
-<li><span style="color:var(--pink);">[/heal <ID> <amount>]</span> - to heal players who request your help. You must be in an ambulance, Ranger, or Raindance (faction helicopter).</li>
-<li><span style="color:var(--pink);">[/rehab <ID> <amount>]</span> - to help a player overcome drug addiction. This command is used in both ambulances and Raindance or Ranger helicopters.</li>
-<li><span style="color:var(--pink);">[/accept <medic> <ID>]</span> - to accept a call. A red checkpoint will appear on your map, indicating the patient's location.</li>
-<li><span style="color:var(--pink);">[/cancel <medic> <ID>]</span> - to cancel a call. The set checkpoint will disappear. Note: Use this command with a valid reason and always provide evidence (screenshots or video).</li>
+<li><span style="color:var(--pink);">[/heal &lt; ID &gt; &lt; amount &gt;]</span> - to heal players who request your help. You must be in an ambulance, Ranger, or Raindance (faction helicopter).</li>
+<li><span style="color:var(--pink);">[/rehab &lt; ID &gt; &lt; percentage &gt; &lt; amount &gt;]</span> - to help a player overcome drug addiction (the percentage must be a multiple of 10). This command is used in both ambulances and Raindance or Ranger helicopters.</li>
+<li><span style="color:var(--pink);">[/accept &lt; medic &gt; &lt; ID &gt;]</span> - to accept a call. A red checkpoint will appear on your map, indicating the patient's location.</li>
+<li><span style="color:var(--pink);">[/cancel &lt; medic &gt; &lt; ID &gt;]</span> - to cancel a call. The set checkpoint will disappear. Note: Use this command with a valid reason and always provide evidence (screenshots or video).</li>
 <li><span style="color:var(--pink);">[/duty]</span> - to start taking orders (you cannot take orders if you are off-duty).</li>
 <li><span style="color:var(--pink);">[/clothes]</span> - to change your skin inside the clothes store, HQ or house.</li>
 <li><span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.</li>
@@ -1799,6 +1799,7 @@
 <li><span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to medics that can be accepted.</li>
 <li><span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.</li>
 <li><span style="color:var(--pink);">[/corpse &lt; corpse id &gt;]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.</li>
+<li><span style="color:var(--pink);">[/cancel corpse]</span> - cancel taking over a corpse.</li>
 <li><span style="color:var(--pink);">[/onduty]</span> - shows members on duty.</li>
 <li><span style="color:var(--pink);">[/members]</span> - shows the list of all faction members.</li>
 <li><span style="color:var(--pink);">[/ft]</span> - list of online candidates.</li>
@@ -1861,9 +1862,10 @@ Higher-ranked members are not allowed to compel lower-ranked members to do thing
 <p><span style="color:var(--pink);">6.5</span> If a patient fails to specify the desired service after being asked 3 times, the Paramedic has the right to use the [<span style="color:var(--pink);">/eject</span>] command on that player. Evidence is required (<span style="color:orange;">sanction: fine $25,000</span>).</p>
 <p><span style="color:var(--pink);">6.6</span> It is prohibited to spam informative messages about Paramedics services (maximum of 3 times) (<span style="color:red;">sanction: Verbal Warning + Fine</span>).</p>
 <p><span style="color:var(--pink);">6.7</span> You are not allowed to park the ambulance near the "<span style="color:var(--pink);">i</span>" of businesses, blocking or obstructing traffic / entry / use of the services of that business, example provided at CNN LS, <a href="https://imgur.com/a/r0xeeFy">click</a> (<span style="color:red;">sanction: Verbal Warning</span>).</p>
-<p><span style="color:var(--pink);">6.8</span> Canceling an order is permitted if the individual is in an inaccessible area (evidence required) (<span style="color:red;">sanction: Verbal Warning</span>).</p>
+<p><span style="color:var(--pink);">6.8</span> The cancellation of an order or the retrieval of a body is allowed if it is located in an inaccessible area (you need proof) (<span style="color:red;">sanction: Verbal Warning</span>).</p>
 <p><span style="color:var(--pink);">6.9</span> If a member provides the wrong or unsolicited service to a player, it will result in sanctions (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).</p>
 <p><span style="color:var(--pink);">6.10</span> Failure to provide or unjustified refusal to provide a requested service to a client will result in sanctions (<span style="color:red;">sanction: Faction Warn</span>).</p>
+<p><span style="color:var(--pink);">6.11</span> For granting rehab services to players with an addiction percentage higher than 10%, it is prohibited to use any amount other than that resulting from the multiplication of the standard rehab fee (<span style="color:red;">sanction: Verbal Warning</span> or <span style="color:red;">Faction Warn</span>, depending on the severity).</p>
 <div class="admonition example">
 <p class="admonition-title">Info note</p>
 <p>Every Sunday, around 23:45 - 00:15, the system will totalize up the reports, meaning that all valid points will be added together.<br/>
@@ -1877,12 +1879,14 @@ Paramedic of the week receives half of their report + $75,000.</p>
 </ul>
 <p>For <span style="color:var(--pink);">/rehab:</span></p>
 <ul>
-<li><span style="color:var(--green);">1,000$</span> - Paramedic colleagues</li>
-<li><span style="color:var(--green);">3,000$</span> - other players</li>
+<li><span style="color:var(--green);">1$</span> - Paramedic colleagues</li>
+<li><span style="color:var(--green);">1,500$</span> - other players for a maximum of 10% addiction (<span style="color:var(--pink);">STANDARD FEE</span>)</li>
+<li><span style="color:var(--green);">3,000$ - 15,000$</span> - other players for an addiction higher than 10% (<span style="color:var(--pink);">MULTIPLIED FEE</span>)</li>
 </ul>
 <div class="admonition danger">
 <p class="admonition-title">Important</p>
-<p>Allies will receive services at a normal price, but with the return of the money spent!</p>
+<p>For more information visit the forum topic <a href="https://forum.b-zone.ro/topic/479943--/">Rehab Service</a>.<br/>
+Allies will receive services at a normal price, but with the return of the money spent!</p>
 </div>
 <h3 id="corpses-system">Corpses System<a class="headerlink" href="#corpses-system" title="Permanent link">&para;</a></h3>
 <ul>
@@ -1999,7 +2003,7 @@ You are no longer obliged to refund allied faction members if they refuse.</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 25, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">October 4, 2024</span>
   </span>
 
     
