@@ -10,7 +10,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - <span style="color:var(--pink);">[/r]</span> - pentru a putea discuta cu membrii factiunii (Radio Chat).
 - <span style="color:var(--pink);">[/heal < ID > < suma >]</span> - pentru a da viata playerilor care va cer ajutorul. Trebuie sa fiti neaparat in ambulanta, Ranger sau Raindance (elicopterul factiunii).
-- <span style="color:var(--pink);">[/rehab < ID > < suma >]</span> - pentru a scapa un jucator de dependenta de droguri, se foloseste aceasta comanda atat in ambulanta cat si in Raindance sau Ranger.
+- <span style="color:var(--pink);">[/rehab < ID > < procentaj > < suma >]</span> - pentru a scapa un jucator de dependenta de droguri (procentajul trebuie sa fie multiplu de 10), se foloseste aceasta comanda atat in ambulanta cat si in Raindance sau Ranger.
 - <span style="color:var(--pink);">[/accept < medic > < ID >]</span> - pentru a accepta un apel. Va va aparea un checkpoint rosu pe harta, acolo se afla pacientul.
 - <span style="color:var(--pink);">[/cancel < medic > < ID >]</span> - pentru a anula un apel. Checkpointul setat va disparea. Atentie: Se foloseste cu un motiv intemeiat si mereu insotita de dovezi (SS ori video)
 - <span style="color:var(--pink);">[/duty]</span> - pentru a putea lua comenzi (daca esti off-duty nu poti lua comenzi).
@@ -24,6 +24,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre medici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/corpses]</span> - afiseaza o lista cu toate cadavrele ce pot fi ridicate.
 - <span style="color:var(--pink);">[/corpse < corpse id >]</span> - cu aceasta comanda incepi sa mergi catre un cadavru pentru a-l ridica. Va aparea un checkpoint pe harta la locatia acestuia.
+- <span style="color:var(--pink);">[/cancel corpse]</span> - anularea preluarii unui cadavru.
 - <span style="color:var(--pink);">[/onduty]</span> - arata membrii aflati la datorie.
 - <span style="color:var(--pink);">[/members]</span> - arata lista cu toti membrii factiunii.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
@@ -126,11 +127,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.7</span> Nu aveti voie sa parcati ambulanta in apropierea "<span style="color:var(--pink);">i</span>"-ului de la bizuri, blocand sau ingreunand circulatia / intrarea / utilizarea serviciilor bizului respectiv, exemplu oferit la CNN LS, [click](https://imgur.com/a/r0xeeFy) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">6.8</span> Este permisa anularea unei comenzi daca respectivul se afla intr-o zona inaccesibila (aveti nevoie de dovezi) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">6.8</span> Este permisa anularea unei comenzi sau a preluarii unui cadavru daca acesta se afla intr-o zona inaccesibila (aveti nevoie de dovezi) (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">6.9</span> Daca un membru acorda serviciul gresit sau nesolicitat unui jucator, aceasta atrage dupa sine sanctiuni (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 <span style="color:var(--pink);">6.10</span> Neoferirea sau refuzul neintemeiat oferirii unui serviciu cerut de client atrage dupa sine sanctiuni (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.11</span> Pentru acordarea serviciului de rehab jucatorilor cu un procentaj mai mare de 10% dependenta, este interzis sa utilizati o alta suma decat cea rezultata din multiplicarea tarifului standard pentru rehab (<span style="color:red;">sanctiune: Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span>, in functie de gravitate).
 
 !!! example "Nota informativa"
     In fiecare duminica, in jurul orelor 23:45 - 00:15, sistemul va face totalizarea rapoartelor, asta insemnand ca se aduna toate punctele care sunt valide.<br/>
@@ -145,10 +148,12 @@ Pentru <span style="color:var(--pink);">heal:</span>
 
 Pentru <span style="color:var(--pink);">/rehab:</span>
 
-- <span style="color:var(--green);">1,000$</span> - colegilor Paramedici
-- <span style="color:var(--green);">3,000$</span> - celorlalti jucatori
+- <span style="color:var(--green);">1$</span> - colegilor Paramedici
+- <span style="color:var(--green);">1,500$</span> - celorlalti jucatori maxim 10% dependenta (<span style="color:var(--pink);">TARIF STANDARD</span>)
+- <span style="color:var(--green);">3,000$ - 15,000$</span> - celorlalti jucatori pentru dependenta mai mare de 10% (<span style="color:var(--pink);">TARIF MULTIPLICAT</span>)
 
 !!! danger "Important"
+    Pentru mai multe informatii vizitati topicul de pe forum pentru [Acordarea de Rehab](https://forum.b-zone.ro/topic/479943--/).<br/>
     Aliatii vor primi serviciile la un pret normal, dar cu returnarea baniilor cheltuiti!
 
 ### Sistemul de Cadavre

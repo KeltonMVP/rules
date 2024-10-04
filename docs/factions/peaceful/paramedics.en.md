@@ -9,10 +9,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 ## 1. Faction Commands
 
 - <span style="color:var(--pink);">[/r]</span> - to communicate with faction members (Radio Chat).
-- <span style="color:var(--pink);">[/heal <ID> <amount>]</span> - to heal players who request your help. You must be in an ambulance, Ranger, or Raindance (faction helicopter).
-- <span style="color:var(--pink);">[/rehab <ID> <amount>]</span> - to help a player overcome drug addiction. This command is used in both ambulances and Raindance or Ranger helicopters.
-- <span style="color:var(--pink);">[/accept <medic> <ID>]</span> - to accept a call. A red checkpoint will appear on your map, indicating the patient's location.
-- <span style="color:var(--pink);">[/cancel <medic> <ID>]</span> - to cancel a call. The set checkpoint will disappear. Note: Use this command with a valid reason and always provide evidence (screenshots or video).
+- <span style="color:var(--pink);">[/heal < ID > < amount >]</span> - to heal players who request your help. You must be in an ambulance, Ranger, or Raindance (faction helicopter).
+- <span style="color:var(--pink);">[/rehab < ID > < percentage > < amount >]</span> - to help a player overcome drug addiction (the percentage must be a multiple of 10). This command is used in both ambulances and Raindance or Ranger helicopters.
+- <span style="color:var(--pink);">[/accept < medic > < ID >]</span> - to accept a call. A red checkpoint will appear on your map, indicating the patient's location.
+- <span style="color:var(--pink);">[/cancel < medic > < ID >]</span> - to cancel a call. The set checkpoint will disappear. Note: Use this command with a valid reason and always provide evidence (screenshots or video).
 - <span style="color:var(--pink);">[/duty]</span> - to start taking orders (you cannot take orders if you are off-duty).
 - <span style="color:var(--pink);">[/clothes]</span> - to change your skin inside the clothes store, HQ or house.
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
@@ -24,6 +24,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to medics that can be accepted.
 - <span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.
 - <span style="color:var(--pink);">[/corpse < corpse id >]</span> - with this command, you begin to move towards a corpse to pick it up. A checkpoint will appear on the map at its location.
+- <span style="color:var(--pink);">[/cancel corpse]</span> - cancel taking over a corpse.
 - <span style="color:var(--pink);">[/onduty]</span> - shows members on duty.
 - <span style="color:var(--pink);">[/members]</span> - shows the list of all faction members.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
@@ -125,11 +126,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.7</span> You are not allowed to park the ambulance near the "<span style="color:var(--pink);">i</span>" of businesses, blocking or obstructing traffic / entry / use of the services of that business, example provided at CNN LS, [click](https://imgur.com/a/r0xeeFy) (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">6.8</span> Canceling an order is permitted if the individual is in an inaccessible area (evidence required) (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">6.8</span> The cancellation of an order or the retrieval of a body is allowed if it is located in an inaccessible area (you need proof) (<span style="color:red;">sanction: Verbal Warning</span>).
 
 <span style="color:var(--pink);">6.9</span> If a member provides the wrong or unsolicited service to a player, it will result in sanctions (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
 <span style="color:var(--pink);">6.10</span> Failure to provide or unjustified refusal to provide a requested service to a client will result in sanctions (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">6.11</span> For granting rehab services to players with an addiction percentage higher than 10%, it is prohibited to use any amount other than that resulting from the multiplication of the standard rehab fee (<span style="color:red;">sanction: Verbal Warning</span> or <span style="color:red;">Faction Warn</span>, depending on the severity).
 
 !!! example "Info note"
     Every Sunday, around 23:45 - 00:15, the system will totalize up the reports, meaning that all valid points will be added together.<br/>
@@ -144,10 +147,12 @@ For <span style="color:var(--pink);">heal:</span>
 
 For <span style="color:var(--pink);">/rehab:</span>
 
-- <span style="color:var(--green);">1,000$</span> - Paramedic colleagues
-- <span style="color:var(--green);">3,000$</span> - other players
+- <span style="color:var(--green);">1$</span> - Paramedic colleagues
+- <span style="color:var(--green);">1,500$</span> - other players for a maximum of 10% addiction (<span style="color:var(--pink);">STANDARD FEE</span>)
+- <span style="color:var(--green);">3,000$ - 15,000$</span> - other players for an addiction higher than 10% (<span style="color:var(--pink);">MULTIPLIED FEE</span>)
 
 !!! danger "Important"
+    For more information visit the forum topic [Rehab Service](https://forum.b-zone.ro/topic/479943--/).<br/>
     Allies will receive services at a normal price, but with the return of the money spent!
 
 ### Corpses System
