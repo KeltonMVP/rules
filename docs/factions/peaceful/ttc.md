@@ -105,7 +105,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.7</span> Autovehiculele, avioanele si elicopterele factiunilor sau a joburilor secundare necesita [<span style="color:var(--pink);">/dl</span>] sub 1000HP pentru a putea fi tractate si introduse in checkpoint. Aceste vehicule au regim special si se pot tracta din orice loc, excluse sunt HQ-urile sau locurile special amenajate.
 
-<span style="color:var(--pink);">5.8</span> Avioanele si elicopterele civile pot fi tractate din orice loc, in afara de aeroporturi sau locuri special amenajate pentru acest tip de vehicule.
+<span style="color:var(--pink);">5.8</span> Avioanele si elicopterele pot fi tractate din orice loc, in afara de aeroporturi sau locuri special amenajate pentru acest tip de vehicule.
 
 <span style="color:var(--pink);">5.9</span> Masinile mari (autobuze, camioane, avioane etc.) nu le veti putea tracta normal, ci va trebui sa le apucati de la mijloc pentru ca acestea sa poata intra in carlig.
 

@@ -105,7 +105,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.7</span> Faction and secondary job vehicles, planes, and helicopters require [<span style="color:var(--pink);">/dl</span>] under 1000HP to be towed and entered into the checkpoint. These vehicles have special regulations and can be towed from any location, excluding HQs or specially designated areas.
 
-<span style="color:var(--pink);">5.8</span> Civilian planes and helicopters can be towed from any location, except airports or specially designated areas for these types of vehicles.
+<span style="color:var(--pink);">5.8</span> Planes and helicopters can be towed from any location, except airports or specially designated areas for these types of vehicles.
 
 <span style="color:var(--pink);">5.9</span> Large vehicles (buses, trucks, planes, etc.) cannot be towed normally, you will need to grab them from the middle for them to fit into the hook.
 
