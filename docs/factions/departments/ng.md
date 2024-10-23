@@ -237,7 +237,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">8.2</span> Membrii National Guard pot da [<span style="color:var(--pink);">/frisk</span>] si confiscate weapons / drugs in jail si pe teren. Acestia nu au voie sa execute controale de rutina (sa traga pe dreapta jucatori) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">8.3</span> Membrii National Guard nu au voie sa ceara licentele unui jucator [<span style="color:var(--pink);">/reuestlicenses</span>] deoarece nu au voie sa faca controale de rutina (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">8.3</span> Membrii National Guard nu au voie sa ceara licentele unui jucator [<span style="color:var(--pink);">/requestlicenses</span>] deoarece nu au voie sa faca controale de rutina (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">8.4</span> In cazul in care suspectati un jucator ca ar avea droguri, aveti obligatia de a folosi inainte de toate [<span style="color:var(--pink);">/frisk</span>] pe aceasta, ulterior putand folosi [<span style="color:var(--pink);">/confiscate</span>]. In cazul unei reclamatii este necesar sa prezentati dovada ce contine [<span style="color:var(--pink);">/frisk</span>] (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> daca se mai repeta).
 
