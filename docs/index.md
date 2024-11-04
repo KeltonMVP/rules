@@ -304,7 +304,10 @@ Exemple de limbaj nesanctionabil (<span style="color:red;">exceptie fata de admi
 ### Nume Proprietati
 <span style="color:var(--pink);">4.5.1</span> Jucatorii care folosesc texte jignitoare, vulgare sau inselatoare pe proprietatile detinute (masini, bizuri, case) vor fi sanctionati cu <span style="color:red;">warn.</span> 
 
-<span style="color:var(--pink);">4.5.2</span> In cazul vehiculelor, risca sa fie sanctionati inclusiv jucatorii de la bord care nu le detin, in functie de situatie. Daca refuza sa schimbe textul vor fi sanctionati cu <span style="color:red;">ban 3 zile</span> pana cand fac asta.
+<span style="color:var(--pink);">4.5.2</span> In cazul vehiculelor, risca sa fie sanctionati inclusiv jucatorii de la bord care nu le detin, in functie de situatie.
+
+!!! danger "Important"
+    Daca refuza sa schimbe textul vor fi sanctionati cu <span style="color:red;">ban 3 zile</span> pana cand fac asta.
 
 ### Spamming
 <span style="color:var(--pink);">4.6.1</span> Este interzis sa repetati acelasi mesaj de 6 ori sau sa umpleti chatul fara rost (<span style="color:red;">sanctiune: mute 15 minute</span>).

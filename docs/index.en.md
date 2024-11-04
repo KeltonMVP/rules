@@ -303,7 +303,10 @@ Examples of unpunishable language (<span style="color:red;">exception towards ad
 ### Property Name
 <span style="color:var(--pink);">4.5.1</span> Players that use offensive, vulgar or deceiving texts on owned properties (cars, businesses, houses) will be punished with <span style="color:red;">warn.</span> 
 
-<span style="color:var(--pink);">4.5.2</span> In the case of vehicles, players on board who do not own them may also risk being sanctioned, depending on the situation. If they refuse to change the text they will get <span style="color:red;">banned 3 days</span> until they do so.
+<span style="color:var(--pink);">4.5.2</span> In the case of vehicles, players on board who do not own them may also risk being sanctioned, depending on the situation.
+
+!!! danger "Important"
+    If they refuse to change the text they will get <span style="color:red;">banned 3 days</span> until they do so.
 
 ### Spamming
 <span style="color:var(--pink);">4.6.1</span> It is forbidden to repeat the same message 6 times or fill the chat for no reason (<span style="color:red;">punishment: mute 15 minutes</span>).
