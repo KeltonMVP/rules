@@ -49,7 +49,7 @@ Pe langa acest regulament, primarul are obligatia de a respecta inclusiv [Regula
 
 <span style="color:var(--pink);">4.4</span> Dupa expirarea inactivitatii primarul are la dispozitie <span style="color:var(--pink);">24 de ore</span> sa se conecteze pe server sau <span style="color:red;">va fi demis.</span>
 
-<span style="color:var(--pink);">4.5</span> Primnarul nu are un raport de activitate stabilit, dar are obligatia de a organiza diferite evenimente de amploare si activitati alaturi de jucatori.
+<span style="color:var(--pink);">4.5</span> Primarul nu are un raport de activitate stabilit, dar are obligatia de a organiza diferite evenimente de amploare si activitati alaturi de jucatori.
 
 ## 5. Altele
 
