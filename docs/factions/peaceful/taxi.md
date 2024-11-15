@@ -136,9 +136,11 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 <span style="color:var(--pink);">5.5</span> In timpul unei comenzi nu aveti voie sa vorbiti la telefon sau prin mesaje. Daca e ceva urgent intrebati clientul daca va da voie (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.6</span> In timpul unei comenzi nu aveti voie sa dati [<span style="color:var(--pink);">/q</span>] sau crash intentionat (<span style="color:red;">sanctiune: Faction Warn</span>).
-
 <span style="color:var(--pink);">5.5.1</span> In caz ca explodati taxiul, indiferent de motiv sau in caz ca luati crash si aveti client in masina, obligatia voastra este sa va conectati pe joc cat mai repede posibil si sa contactati clientul prin [<span style="color:var(--pink);">/sms</span>] sau prin alte mijloace, intrebandu-l daca mai doreste sa reluati cursa. In caz de reclamatie aveti obligatia de a avea dovezi din momentul discutiei cu clientul (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.5.2</span> Taximetristul trebuie sa se asigure ca are suficient combustibil pentru a ajunge la destinatie (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.6</span> In timpul unei comenzi nu aveti voie sa dati [<span style="color:var(--pink);">/q</span>] sau crash intentionat (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.7</span> Un taximetrist are dreptul sa anuleze o comanda [<span style="color:var(--pink);">/cancel taxi</span>] unui client atunci cand:
 
@@ -152,7 +154,9 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 Lipsa dovezilor in cazul reclamatiilor pentru [<span style="color:var(--pink);">/cancel taxi</span>] aiurea, se va <span style="color:red;">sanctiona cu Faction Warn.</span>
 
-<span style="color:var(--pink);">5.8</span> Membrii Taxi isi rezerva dreptul de a opri la un Pay'n'Spray (PNS), care se afla in drum spre destinatia dorita de client, numai pe baza unei dovezi clare, in care se vede ca taxiul condus scoate fum. Nu aveti﻿ voie sa ocoliti pentru a ajunge la un Pay'n'Spray sau sa faceti asta fara o dovada concreta (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.8.1</span> Membrii Taxi isi rezerva dreptul de a opri la un Pay'n'Spray (PNS), care se afla in drum spre destinatia dorita de client, numai pe baza unei dovezi clare, in care se vede ca taxiul condus scoate fum. Nu aveti voie sa ocoliti pentru a ajunge la un Pay'n'Spray sau sa faceti asta fara o dovada concreta (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.8.2</span> Membrii Taxi isi rezerva dreptul de a opri la o benzinarie sau la cineva care le poate oferi refill, care se afla in drum spre destinatia dorita de client, numai pe baza unei dovezi clare, in care se vede ca taxiul are nivelul de combustibil de culoarea rosie (sub 30%). Nu aveti voie sa ocoliti pentru a ajunge la punctul de refill sau sa faceti asta fara o dovada concreta (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.9</span> Membrii Taxi sunt obligati sa nu porneasca de pe loc pana cand clientul nu a urcat in masina si pana cand acesta nu zice o locatie finala sau un punct de reper (daca taximetristul a parcat ilegal taxiul, acesta poate parca regulamentar in cel mai apropiat loc posibil, asta numai dupa ce clientul a urcat) (<span style="color:red;">sanctiune: Faction Warn</span>).
 

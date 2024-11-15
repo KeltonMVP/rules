@@ -136,9 +136,11 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 
 <span style="color:var(--pink);">5.5</span> During an order, you are not allowed to talk on the phone or through messages. If it's urgent, ask the client for permission (<span style="color:red;">Faction Warn</span>).
 
-<span style="color:var(--pink);">5.6</span> During an order, you are not allowed to use [<span style="color:var(--pink);">/q</span>] or intentionally crash (<span style="color:red;">Faction Warn</span>).
-
 <span style="color:var(--pink);">5.5.1</span> In case you explode the taxi, regardless of the reason, or if you experience a crash with a client in the car, your obligation is to reconnect to the game as soon as possible and contact the client via [<span style="color:var(--pink);">/sms</span>] or other means, asking if they still want to continue the ride. In case of a complaint, you are required to have evidence from the moment of the discussion with the client (<span style="color:red;">Faction Warn</span>).
+
+<span style="color:var(--pink);">5.5.2</span> The taxi driver must ensure that he has enough fuel to reach the destination (<span style="color:red;">Faction Warn</span>).
+
+<span style="color:var(--pink);">5.6</span> During an order, you are not allowed to use [<span style="color:var(--pink);">/q</span>] or intentionally crash (<span style="color:red;">Faction Warn</span>).
 
 <span style="color:var(--pink);">5.7</span> A taxi driver has the right to cancel an order [<span style="color:var(--pink);">/cancel taxi</span>] for a client when:
 
@@ -152,7 +154,9 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 
 Failure to provide evidence in cases of complaints regarding [<span style="color:var(--pink);">/cancel taxi</span>] without valid reason will result in <span style="color:red;">Faction Warn</span> sanction.
 
-<span style="color:var(--pink);">5.8</span> Taxi members reserve the right to stop at a Pay'n'Spray (PNS) on the way to the client's desired destination, based only on clear evidence showing smoke coming out of the driven taxi. You are not allowed to detour to reach a Pay'n'Spray or do so without concrete evidence (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.8.1</span> Taxi members reserve the right to stop at a Pay'n'Spray (PNS) on the way to the client's desired destination, based only on clear evidence showing smoke coming out of the driven taxi. You are not allowed to detour to reach a Pay'n'Spray or do so without concrete evidence (<span style="color:red;">sanction: Faction Warn</span>).
+
+<span style="color:var(--pink);">5.8.2</span> Taxi members reserve the right to stop at a gas station or at someone who can offer refill, on the way to the client's desired destination, based only on clear evidence showing the fuel level being on red (under 30%) of the driven taxi. You are not allowed to detour to reach refill location or do so without concrete evidence (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.9</span> Taxi members are obligated not to start moving until the client has entered the vehicle and until they have provided a final destination or a landmark (if the taxi driver has illegally parked the taxi, they may park legally in the nearest possible spot, but only after the client has entered) (<span style="color:red;">sanction: Faction Warn</span>).
 
