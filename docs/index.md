@@ -7,6 +7,10 @@
 !!! example "Nota informativa"
     Toate sanctiunile vor fi acordate conform nivelului real al jucatorului (adica se calculeaza toate punctele de respect ale jucatorului pentru a-i determina nivelul real).
 
+!!! danger "Important"
+    Nu se vor acorda multiple sanctiuni pentru acelasi tip de fapta savarsita la o diferenta de timp mai mica de 15 minute intre fapte.<br/>
+    De exemplu: daca un jucator este raportat pentru fast c-bug la o diferenta mai mica de 15 minute intre fapte/dovezi, va primi un singur warn.
+
 ### Afaceri cu Conturi/Bunuri
 
 <span style="color:var(--pink);">1.2.1</span> Nu sunt permise afacerile sau tentativele de afaceri cu bunuri reale pe bunuri in joc (<span style="color:red;">sanctiune: ban permanent</span>).

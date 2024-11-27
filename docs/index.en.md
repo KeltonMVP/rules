@@ -7,6 +7,10 @@
 !!! example "Info note"
     All punishments will be given depending on the real level of the player (meaning we will calculate the respect points of the player to determinate their real level).
 
+!!! danger "Important"  
+    Multiple sanctions will not be applied for the same type of offense committed within a time difference of less than 15 minutes between incidents.  
+    For example: if a player is reported for fast c-bug within a time difference of less than 15 minutes between offenses/evidence, they will receive only one warning.
+
 ### Accounts/Goods Businesses
 
 <span style="color:var(--pink);">1.2.1</span> We do not allow businesses or attempts of businesses with real goods for game goods (<span style="color:red;">punishment: permanent ban</span>).
