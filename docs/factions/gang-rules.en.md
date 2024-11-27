@@ -268,7 +268,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 <span style="color:var(--pink);">10.2.6</span> Performing fast c-bug both in mandatory and optional wars will be sanctioned by the leader (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! danger "Important"  
-    The player will be penalized only once for fast c-bug within a time difference of 10 minutes based on evidence. If the player has two complaints on the same day, at the same hour, and with a difference of no more than 10 minutes between the evidence, they will be penalized only once.
+    The player will be penalized only once for fast c-bug within a time difference of 15 minutes based on evidence. If the player has two complaints on the same day, at the same hour, and with a difference of no more than 15 minutes between the evidence, they will be penalized only once.
 
 <span style="color:var(--pink);">10.2.7</span> It is prohibited to use <span style="color:var(--pink);">/eject or /tog - surfing on colleague(s)</span> during wars (<span style="color:red;">sanction: Verbal Warning</span>).
 

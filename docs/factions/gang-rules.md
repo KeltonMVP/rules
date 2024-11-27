@@ -268,7 +268,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 <span style="color:var(--pink);">10.2.6</span> Fast c-bugul atat la warurile obligatorii cat si la cele optionale va fi sanctionat de catre lider (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 !!! danger "Important"
-    Jucatorul va fi sanctionat o singura data pentru fast c-bug in decursul unei diferente de 10 minute pe dovezi. Daca jucatorul are doua reclamatii in aceeasi zi, aceeasi ora si cu o diferenta de cel mult 10 minute intre dovezi, va fi sanctionat o singura data.
+    Jucatorul va fi sanctionat o singura data pentru fast c-bug in decursul unei diferente de 15 minute pe dovezi. Daca jucatorul are doua reclamatii in aceeasi zi, aceeasi ora si cu o diferenta de cel mult 15 minute intre dovezi, va fi sanctionat o singura data.
 
 <span style="color:var(--pink);">10.2.7</span> Este interzis sa dai <span style="color:var(--pink);">/eject sau /tog - surfing unui coleg(i)</span> in cadrul warurilor (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
