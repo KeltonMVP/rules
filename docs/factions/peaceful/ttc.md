@@ -25,6 +25,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/dl]</span> - afiseaza HP-ul masinii, necesar cand tractati.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
 - <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
+- <span style="color:var(--pink);">[/repair < nume/ID > < pret >]</span> - parametrii sunt optionali. Folosirea comenzii fara parametri repara vehiculul vostru, folosirea cu parametri ofera repair unui alt jucator.
+- <span style="color:var(--pink);">[/refill < nume/ID > < pret >]</span> - parametrii sunt optionali. Folosirea comenzii fara parametri alimenteaza vehiculul vostru, folosirea cu parametri ofera combustibil unui alt jucator.
+- <span style="color:var(--pink);">[/refillgascan < nume/ID > < pret >]</span> - umple canistra unui alt jucator.
+- <span style="color:var(--pink);">[/sellkit < nume/ID > < repair/fuel > < pret >]</span> - vinde unui jucator un kit de reparatie sau de alimentare.
 
 ## 2. Skinurile Factiunii
 
@@ -66,13 +70,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.6</span> In timpul sedintelor / activitatilor obligatorii membrilor le este stric interzis sa stea AFK (clepsidra sau [/sleep]) fara acordul organizatorului. Cine este prins AFK fara acord o sa fie sanctionat astfel: <span style="color:red;">0-2 minute Avertisment Verbal, peste 3 minute Faction Warn.</span>
 
-<span style="color:var(--pink);">4.7</span> Oferirea de [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>] dar si [<span style="color:var(--pink);">/refillgascan</span>], este activitatea secundara exercitata toti membrii factiunii. Deasemenea aceste servicii fac parte din raportul saptamanal. Oferirea acestor servicii se face respectand urmatoarele preturi: 
+<span style="color:var(--pink);">4.7</span> Oferirea de [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refillgascan</span>], [<span style="color:var(--pink);">/sellkit</span>] este activitatea secundara exercitata toti membrii factiunii. Deasemenea aceste servicii fac parte din raportul saptamanal. Oferirea acestor servicii se face respectand urmatoarele preturi: 
 
 - [<span style="color:var(--pink);">/refill</span>] - 50$
 - [<span style="color:var(--pink);">/repair</span>] - 50$ 
 - [<span style="color:var(--pink);">/refillgascan</span>] - 20$
+- [<span style="color:var(--pink);">/sellkit repair</span>] - 4000$
+- [<span style="color:var(--pink);">/sellkit fuel</span>] - 8000$
 
-<span style="color:var(--pink);">4.7.1</span> Colegilor de factiune / membrilor din factiunea partenera se ofera [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refill</span>] si [<span style="color:var(--pink);">/refillgascan</span>] pe suma <span style="color:var(--green);">maxima de 1$.</span>
+<span style="color:var(--pink);">4.7.1</span> Colegilor de factiune / membrilor din factiunea partenera se ofera [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/refillgascan</span>] si [<span style="color:var(--pink);">/sellkit</span>] pe suma <span style="color:var(--green);">maxima de 1$.</span>
 
 !!! danger "Important"
     Cine ofera cu o suma mai mare decat cele precizate mai sus este sanctionat astfel: prima data <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea.

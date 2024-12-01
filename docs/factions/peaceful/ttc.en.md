@@ -25,6 +25,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/dl]</span> - displays the HP of a vehicle, necessary when towing.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
 - <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
+- <span style="color:var(--pink);">[/repair < name/ID > < price >]</span> - parameters are optional. Using the command without parameters repairs your vehicle; using it with parameters repairs another player's vehicle.  
+- <span style="color:var(--pink);">[/refill < name/ID > < price >]</span> - parameters are optional. Using the command without parameters refuels your vehicle; using it with parameters refuels another player's vehicle.  
+- <span style="color:var(--pink);">[/refillgascan < name/ID > < price >]</span> - fills another player's gas can.  
+- <span style="color:var(--pink);">[/sellkit < name/ID > < repair/fuel > < price >]</span> - sells a repair or refuel kit to another player.  
 
 ## 2. Faction Skins
 
@@ -66,13 +70,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.6</span> During meetings / mandatory activities, members are strictly forbidden from being AFK (idle or [/sleep]) without the organizer's consent. Anyone caught AFK without consent will be sanctioned as follows: <span style="color:red;">0-2 minutes Verbal Warning, over 3 minutes Faction Warn.</span>
 
-<span style="color:var(--pink);">4.7</span> Offering [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>], and [<span style="color:var(--pink);">/refillgascan</span>] is the secondary activity performed by all faction members. These services are also part of the weekly report. Offering these services is done respecting the following prices:
+<span style="color:var(--pink);">4.7</span> Offering [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refillgascan</span>], [<span style="color:var(--pink);">/sellkit</span>] is the secondary activity performed by all faction members. These services are also part of the weekly report. Offering these services is done respecting the following prices:
 
 - [<span style="color:var(--pink);">/refill</span>] - 50$
 - [<span style="color:var(--pink);">/repair</span>] - 50$ 
 - [<span style="color:var(--pink);">/refillgascan</span>] - 20$
+- [<span style="color:var(--pink);">/sellkit repair</span>] - 4000$
+- [<span style="color:var(--pink);">/sellkit fuel</span>] - 8000$
 
-<span style="color:var(--pink);">4.7.1</span> Faction colleagues / members from partner factions are offered [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refill</span>], and [<span style="color:var(--pink);">/refillgascan</span>] for a <span style="color:var(--green);">maximum amount of 1$.</span>
+<span style="color:var(--pink);">4.7.1</span> Faction colleagues / members from partner factions are offered [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/refillgascan</span>], [<span style="color:var(--pink);">/sellkit</span>] for a <span style="color:var(--green);">maximum amount of 1$.</span>
 
 !!! danger "Important"
     Anyone offering more than the specified amounts above will be sanctioned as follows: first offense <span style="color:red;">Verbal Warning</span>, and next offense <span style="color:red;">Faction Warn</span>.
