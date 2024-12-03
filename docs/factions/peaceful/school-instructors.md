@@ -56,6 +56,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.5</span> Membrii ce dispun de masini personale sunt rugati sa circule, ba chiar sa incerce sa vanda licente cu masinile lor personale, deoarece factiunea nu dispune de prea multe masini, pentru toti membrii.
 
+<span style="color:var(--pink);">3.6</span> Inainte de a folosi comanda [<span style="color:var(--pink);">/fvr</span>], fiecare membru trebuie sa anunte pe chatul [<span style="color:var(--pink);">/sx</span>] cu minim 5 secunde in avans.
+
 ## 4. Licentele
 
 <span style="color:var(--pink);">4.1</span> Nu aveti voie sa dati licente fara testele corespunzatoare (exceptie facand la jucatorii de level mai mare de 50+) (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).

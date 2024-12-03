@@ -56,6 +56,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.5</span> Members with personal vehicles are asked to drive, and even try to sell licenses with their personal vehicles, as the faction does not have too many vehicles for all members.
 
+<span style="color:var(--pink);">3.6</span> Before using [<span style="color:var(--pink);">/fvr</span>], each member must announce on [<span style="color:var(--pink);">/sx</span>] at least 5 seconds in advance.
+
 ## 4. Licenses
 
 <span style="color:var(--pink);">4.1</span> You are not allowed to issue licenses without the appropriate tests (except for players above level 50+) (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
