@@ -144,7 +144,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.5</span> Orice politist care va fi prins incalcand regulile de circulatie va plati amenda corespunzatoare.
 
-<span style="color:var(--pink);">6.5.1</span> Orice politist reclamat pentru incalcarea regulilor de circulatie va plati o amenda care va fi specificata pe forum, in topicul de Amenzi, in care gasiti aceasta problema mai detaliata. In cazul in care acesta nu o achita in 48h, primeste <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">6.5.1</span> Orice politist reclamat pentru incalcarea regulilor de circulatie va plati o amenda care va fi specificata pe forum, in topicul de Sanctiuni, in care gasiti aceasta problema mai detaliata. In cazul in care acesta nu o achita in 48h, primeste <span style="color:red;">Faction Warn.</span>
 
 <span style="color:var(--pink);">6.5.2</span> Membrii de departament nu au voie sa conduca abuziv si sa deranjeze cu intentie ceilalti participanti ai traficului (exemple: intratul intentionat de multiple ori in alti soferi, blocarea drumului, etc.) (<span style="color:red;">sanctiune: Faction Warn</span>).
 

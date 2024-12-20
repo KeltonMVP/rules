@@ -144,7 +144,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.5</span> Any officer caught violating traffic rules will pay the corresponding fine.
 
-<span style="color:var(--pink);">6.5.1</span> Any officer reported for violating traffic rules will pay a fine specified on the forum, in the Fines topic, where you can find this issue detailed. If they do not pay it within 48 hours, they receive a <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">6.5.1</span> Any officer reported for violating traffic rules will pay a fine specified on the forum, in the Punishments topic, where you can find this issue detailed. If they do not pay it within 48 hours, they receive a <span style="color:red;">Faction Warn.</span>
 
 <span style="color:var(--pink);">6.5.2</span> Department members are not allowed to drive recklessly and intentionally disturb other traffic participants (examples: intentionally hitting other drivers multiple times, blocking the road, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
