@@ -156,7 +156,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3.6</span> Intr-o sesiune de anunturi gratuite, nu sunt permise anunturile despre:
 
-- bunuri personale ce nu pot fi obtinute prin comanda [<span style="color:var(--pink);">/trade</span>], exceptii: licente, mandate de eliberare si ziare.
+- bunuri personale ce nu pot fi obtinute prin comanda [<span style="color:var(--pink);">/trade</span>], exceptii: licente, mandate de eliberare, kituri si ziare.
 - bunuri personale ilegale, ce pot fi sau nu pot fi obtinute prin comanda [<span style="color:var(--pink);">/trade</span>], precum: droguri, arme si materiale.
 - promovarea unor evenimente organizate prin [<span style="color:var(--pink);">/requestevent</span>] sau prin alte metode.
 - activitati precum [<span style="color:var(--pink);">/rob</span>] sau [<span style="color:var(--pink);">/bunker</span>].

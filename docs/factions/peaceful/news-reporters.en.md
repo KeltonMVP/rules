@@ -156,7 +156,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3.6</span> In a free announcement session, announcements about the following are not allowed:
 
-- personal items that cannot be obtained through the command [<span style="color:var(--pink);">/trade</span>], exceptions: licenses, release warrants, and newspapers.
+- personal items that cannot be obtained through the command [<span style="color:var(--pink);">/trade</span>], exceptions: licenses, release warrants, kits, and newspapers.
 - illegal personal items, whether obtainable or not through the command [<span style="color:var(--pink);">/trade</span>], such as drugs, weapons, and materials.
 - promotion of events organized through [<span style="color:var(--pink);">/requestevent</span>] or other methods.
 - activities such as [<span style="color:var(--pink);">/rob</span>] or [<span style="color:var(--pink);">/bunker</span>].
