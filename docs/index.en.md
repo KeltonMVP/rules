@@ -21,6 +21,12 @@
 
 <span style="color:var(--pink);">1.2.4</span> We do not allow businesses or attempts of businesses with accounts for real or game goods (<span style="color:red;">punishment: permanent ban without the right to buy shop unban</span>).
 
+<span style="color:var(--pink);">1.2.5</span> Vouchers are the only items that can be sold both for other in-game items using the command [<span style="color:var(--pink);">/trade</span>] and for items outside the game.
+
+<span style="color:var(--pink);">1.2.5.1</span> In the case of selling them for items outside the server, the staff assumes no responsibility for possible scams. Our recommendation is to verify whether the person in question is trustworthy. Often, individuals who are part of the community staff are held accountable for such matters, thus reducing the chance of fraud.
+
+<span style="color:var(--pink);">1.2.5.2</span> Deals involving Vouchers that aim to deceive the staff and mask an illegal transaction will continue to be penalized according to the rules above. The Vouchers you sell and the items you receive in exchange in the game must have a rational balance between their values. You cannot sell a 200 Gold voucher for $10,000,000 or other values that make no sense.
+
 !!! danger "Important"
 
     The second offence is punished <span style="color:red;">directly with permanent ban without the right to buy shop unban</span>.

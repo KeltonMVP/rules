@@ -21,6 +21,12 @@
 
 <span style="color:var(--pink);">1.2.4</span> Nu sunt permise afacerile sau tentativele de afaceri de conturi pe bunuri reale sau bunuri in joc (<span style="color:red;">sanctiune: ban permanent fara a putea cumpara unban din shop</span>).
 
+<span style="color:var(--pink);">1.2.5</span> Voucherele sunt singurele bunuri care pot fi vandute atat pe alte bunuri in joc prin comanda [<span style="color:var(--pink);">/trade</span>] cat si bunuri in afara jocului.
+
+<span style="color:var(--pink);">1.2.5.1</span> In cazul vanzarii acestora pe bunuri in afara serverului, stafful nu isi asuma nicio responsabilitate pentru posibilele inselatorii. Recomandarea noastra este de a va interesa daca persoana respectiva este de incredere, de multe ori persoanele care fac parte din stafful comunitatii sunt trase la raspundere si pentru astfel de lucruri, asadar sansa de inselatorie este mai mica.
+
+<span style="color:var(--pink);">1.2.5.2</span> Afacerile cu Vouchere care au ca scop incercarea de pacalire a staffului si mascarea unei afaceri ilegale vor fi in continuare sanctionate conform regulilor de mai sus. Voucherele pe care le vindeti si bunurile pe care le primiti la schimb in joc trebuie sa aiba un echilibru rational intre valori, nu puteti vinde un voucher de 200 Gold pe $10.000.000 sau alte valori care nu au niciun sens.
+
 !!! danger "Important"
 
     A doua abatere se sanctioneaza direct <span style="color:red;">cu ban permanent fara a putea cumpara unban din shop</span>.
