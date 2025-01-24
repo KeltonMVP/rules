@@ -441,6 +441,10 @@ Exemple de comportament non-rp:
 
     <span style="color:var(--pink);">Incalcari Repetate de Regulament:</span> incalcarea intentionata si repetata a regulilor, fara vreo intentie de incetare si respetare a acestora.
 
+### Abuzul parcelelor la farmer
+
+<span style="color:var(--pink);">7.12.1</span> Se considera inchiriere abuziva a 3 sau mai multe parcele publice in acelasi timp, de pe multiple conturi detinute de aceeasi persoana, si se va sanctiona cu <span style="color:red;">ban 3 zile</span> la prima abatere, iar la urmatoarele cu <span style="color:red;">ban 3 zile plus resetarea skillului de farmer la 1</span>, pe conturile de pe care a avut loc abuzul.
+
 ## 8. Website
 
 ### Dovezi

@@ -440,6 +440,10 @@ Examples of non-rp behavior:
 
     <span style="color:var(--pink);">Repeated Rule Violations:</span> intentionally and repeatedly violating the rules, with no intention of stopping or respecting them.
 
+### Abuse of parcels in Farmer
+
+<span style="color:var(--pink);">7.12.1</span> Renting 3 or more public parcels at the same time from multiple accounts owned by the same person is considered abusive renting and will be sanctioned with <span style="color:red;">a 3-day ban</span> on the first offense, and for the next with <span style="color:red;">a 3-day ban plus resetting the farmer skill to level 1</span>, on the accounts where the abuse occurred.
+
 ## 8. Website
 
 ### Proofs
