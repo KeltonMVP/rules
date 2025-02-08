@@ -247,7 +247,7 @@ Exemple de moduri nepermise:
 
 Exemple de abuzuri <span style="color:red;">sanctionabile cu warn din prima:</span>
 
-- fast c-bug sau alte anulari de animatii abuzive; clip informativ: [click](https://www.youtube.com/watch?v=H_QNG3cLrXE).
+- fast c-bug sau alte anulari de animatii abuzive; clip informativ: [click](https://www.youtube.com/watch?v=N6ZUHwILEzM).
 - folosirea unor animatii care-ti permit sa nu pierzi HP cand te arunci de pe cladiri.
 - folosirea unor buguri de textura cand ai wanted (sau nu) si te ascunzi de politie ori de un hitman.
 - buguri cu care iti dai unfreeze/untie.

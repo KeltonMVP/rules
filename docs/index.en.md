@@ -246,7 +246,7 @@ Examples of unallowed mods:
 
 Abuse examples <span style="color:red;">punishable with warn from the first offence:</span>
 
-- fast c-bug or other abusive animation cancellations; informative clip: [click](https://www.youtube.com/watch?v=H_QNG3cLrXE).
+- fast c-bug or other abusive animation cancellations; informative clip: [click](https://www.youtube.com/watch?v=N6ZUHwILEzM).
 - using certain animations that allow you not to lose HP when falling off a building.
 - using certain texture bugs when you have wanted (or not) and hiding from the police or hitmen.
 - bugs that allow you to get unfreeze/untie.
