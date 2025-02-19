@@ -63,7 +63,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.2</span> The weapons you can use to carry out a contract are: <span style="color:var(--pink);">Sniper, SD Pistol, and Knife.</span>
 
-<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage / Training Room or City Hall. You are not allowed to perform contracts in <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage / Training Room or City Hall. (<span style="color:red;">sanction: dismissal</span>).
 
 <span style="color:var(--pink);">4.4.1</span> Completing contracts with weapons other than those mentioned above, or using SD Pistol and Knife when the target is not inside a house / faction HQ / clan HQ / business / PD Garage or City Hall will result in <span style="color:red;">your dismissal with 60 FP.</span>
 
@@ -78,7 +78,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - wait until the target leaves the Bunker and then execute the contract.
 - you can use the command [<span style="color:var(--pink);">leavehit</span>] and take another contract.
 
-<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
 
 <span style="color:var(--pink);">4.9</span> Contracts cannot be executed on targets who are using [<span style="color:var(--pink);">/sleep</span>].
 

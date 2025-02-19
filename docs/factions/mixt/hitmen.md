@@ -63,7 +63,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.2</span> Armele cu care puteti efectua un contract sunt: <span style="color:var(--pink);">Sniper, SD Pistol si Knife (cutit).</span>
 
-<span style="color:var(--pink);">4.3</span> Puteti efectua un contract folosind Knife sau SD Pistol doar atunci cand tinta se afla in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD / Training Room sau Primarie. Nu aveti voie sa faceti contracte in <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.3</span> Puteti efectua un contract folosind Knife sau SD Pistol doar atunci cand tinta se afla in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD / Training Room sau Primarie. (<span style="color:red;">sanctiune: demitere</span>).
 
 <span style="color:var(--pink);">4.4.1</span> Finalizarea contractelor cu alte arme decat cele mentionate mai sus, ori folosirea armelor SD Pistol si Knife cand tinta nu este in casa / HQ-ul unei factiuni / HQ-ul unui clan / biz / Garaj PD sau Primarie va duce la <span style="color:red;">demiterea voastra cu 60 FP.</span>
 
@@ -78,7 +78,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - asteptati pana cand tinta iese din Bunker si efectuati contractul.
 - se poate folosi comanda [<span style="color:var(--pink);">leavehit</span>] si sa luati alt contract.
 
-<span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span> (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
 
 <span style="color:var(--pink);">4.9</span> Nu se pot efectua contracte pe tintele care sunt pe [<span style="color:var(--pink);">/sleep</span>]. 
 
