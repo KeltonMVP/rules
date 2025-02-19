@@ -131,6 +131,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.17</span> Subliderii sau Liderul va pot cere oricand dovezi pentru o masina tractata, in cazul in care nu aveti dovezi veti fi <span style="color:red;">sanctionati cu Faction Warn</span>.
 
+<span style="color:var(--pink);">5.18</span> Nu puteti fi sanctionati de membrii PD atat timp cat aveti girofarul pornit si realizati o tractare. Nu abuzati de asta pentru a merge pe contrasens. In caz de orice reclamatie trebuie sa aveti si dovezi din perspectiva voastra.
+
 !!! danger "Important"
     Daca sunteti raportat pentru tractare ilegala si nu aveti dovezi, veti fi sanctionat pentru tractare ilegala (<span style="color:red;">sanctiune: demitere</span>).
 

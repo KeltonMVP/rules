@@ -131,6 +131,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.17</span> Subleaders or the Leader can request proof at any time for a towed vehicle. If you do not have proof, you will be <span style="color:red;">sanctioned with a Faction Warn</span>.
 
+<span style="color:var(--pink);">5.18</span> You cannot be sanctioned by PD members as long as your siren is on and you are performing a tow. Do not abuse this to drive against traffic. In case of any complaint, you must have evidence from your perspective.
+
 !!! danger "Important"
     If you are reported for illegal towing and you don't have evidence, you will be sanctioned for illegal towing (<span style="color:red;">sanction: dismissal</span>).
 
