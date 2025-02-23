@@ -60,7 +60,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.3</span> Atunci cand gasiti o masina dintr-un departament: Infernus, Turismo, Bullet, NRG-500, Maverick sa anuntati ca o luati, exemplu: "[<span style="color:var(--pink);">/d</span>] Am gasit un Bullet in zona Fort Carson, il iau." (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.4</span> Bullet-urile si Nrg-urile pot fi folosite de catre membrii cu Rank 3+, acestia sunt obligati sa anunte pe [<span style="color:var(--pink);">/r</span>].
+<span style="color:var(--pink);">3.4</span> Bullet-urile pot fi folosite de catre membrii cu Rank 3+, acestia sunt obligati sa anunte pe [<span style="color:var(--pink);">/r</span>].
 
 <span style="color:var(--pink);">3.5</span> Tancul cu apa poate fi folosit de membrii de Rank 4.
 

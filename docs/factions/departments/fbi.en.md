@@ -60,7 +60,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">3.3</span> When you find a department vehicle: Infernus, Turismo, Bullet, NRG-500, Maverick, announce that you're taking it, for example: "[<span style="color:var(--pink);">/d</span>] Found a Bullet in the Fort Carson area, taking it." (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">3.4</span> Bullets and NRGs can be used by members with Rank 3+. They are required to announce it on [<span style="color:var(--pink);">/r</span>].
+<span style="color:var(--pink);">3.4</span> Bullets can be used by members with Rank 3+. They are required to announce it on [<span style="color:var(--pink);">/r</span>].
 
 <span style="color:var(--pink);">3.5</span> The water tank can be used by Rank 4 members.
 
