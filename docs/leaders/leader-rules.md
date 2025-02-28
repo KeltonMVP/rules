@@ -147,19 +147,14 @@ mari de 5 zile.
 
 ### Inlocuirea Subliderilor
 
-<span style="color:var(--pink);">2.2.1</span> Un Lider poate inlatura gradul subliderului atunci cand considera ca nu mai are nevoie de serviciile sale si-l va degrada acordandu-i rankul in functie de vechimea sa in factiune si de regulile cu privire la acordarea rankului unui membru.
+<span style="color:var(--pink);">2.2.1</span> Un Lider poate inlatura gradul subliderului atunci cand considera ca nu mai are nevoie de serviciile sale si-l va degrada acordandu-i rankul in functie de vechimea sa in factiune, de numarul de bonusuri deblocate si de regulile cu privire la acordarea rankului unui membru.
 
-<span style="color:var(--pink);">2.2.2</span> Pentru urmatoarea promovare a fostului sublider la rank 2-5 va incepe numaratoarea de la ultima promovare inainte de-a primi sublider (asadar nu se reseteaza vechimea pentru rankul anterior detinut).
+!!! danger "Nota informativa"
+	Ca lider puteti vedea pe website pe profilul jucatorului in tabul de Faction un camp denumit <span style="color:var(--pink);">Possible Rank</span> care va indica rankul pe care trebuie sa-l oferiti cand degradati Subliderul.
 
-!!! example "Exemple de degradare a subliderului"
-    - in exemplul nostru subliderul are o vechime in factiune de 55 de zile intr-un departament si trebuie degradat.
-    - Liderul va trebui sa verifice regulamentul de promovare al tipului de factiune din care face parte, mai exact capitolul [Promovare Membri si Locuri Factiuni.](#7-promovare-membri-si-locuri-factiuni)
-    - mai apoi va trebui sa adune numarul minim de zile de asteptare pentru fiecare rank dupa cum urmeaza:
-        - pentru rank 2: 14 zile.
-        - pentru rank 3: 21 de zile + cele 14 zile de la rank 2, in total 35 de zile.
-        - pentru rank 4: 30 de zile + cele 35 de zile de la rank 3, in total 65 de zile.
-    - asadar subliderul nostru are vechimea necesara pentru rank 3 in cazul in care n-a primit niciun Faction Warn.
-    - fiecare Faction Warn adauga 14 zile suplimentare de asteptare.
+	Daca jucatorul are mai mult de jumatatea timpului de asteptare pentru rankul urmator, sistemul este facut sa faca rotunjirea la rankul superior. Daca vechimea jucatorului e mai mica de jumatatea timpului pana la urmatorul rank, jucatorul va primi rankul inferior.
+
+<span style="color:var(--pink);">2.2.2</span> Urmatoarea promovare a fostului sublider va avea loc normal, ca si la orice alt membru. Calculul pentru urmatorul rank incepe de la data cand a primit demote.
 
 ## 3. Subforumul Factiunii
 
@@ -402,6 +397,8 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 <span style="color:var(--pink);">7.2</span> Adminii vor face promovari doar atunci cand Liderul factiunii le cere asta.
 
 <span style="color:var(--pink);">7.3</span> Numarul de zile de promovare reprezinta numarul de zile pe care trebuie sa-l astepte un membru de la ultima promovare pentru a dobandi noul rank.
+
+<span style="color:var(--pink);">7.3.1</span> Membrii pot sa-si reduca numarul de zile deblocand bonusuri prin raportul de activitate. Bonusul poate fi deblocat intre rank 1 - rank 5 si fiecare bonus deblocat scade cate 3 zile din duratele de promovare si de stergere a unui Faction Warn.
 
 <span style="color:var(--pink);">7.4</span> Membrii care acumuleaza vechimea de rank 2 si rank 3 trebuie sa primeasca la timp rank up daca Liderul acestora nu are dovezi in care comportamentul lor nu ar fi fost unul tocmai corespunzator sau acestia nu au fost destul de activi (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> la urmatoarea).
 

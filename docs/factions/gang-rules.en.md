@@ -88,11 +88,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ### Activity Report
 
-<span style="color:var(--pink);">4.2</span> In the case of gangs, the activity report consists of attendance at mandatory wars during the week (Monday-Friday).<br/>
+<span style="color:var(--pink);">4.2.1</span> In the case of gangs, the activity report consists of attendance at mandatory wars during the week (Monday-Friday).<br/>
 For more details, visit the section on [War Rules](#10-war-rules).
 
 !!! example "Information Note"
     Players with accepted requests for inactivity or absence are exempt from attending wars.
+
+<span style="color:var(--pink);">4.2.2</span> You can unlock a bonus by obtaining a certain number of seconds in the obligatory wars from Monday to Friday. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.  
+
+<span style="color:var(--pink);">4.2.2.1</span> The number of seconds required for the bonus will be displayed on [<span style="color:var(--pink);">/raport</span>]. Only bonuses unlocked after the date of the last promotion or after receiving a Faction Warn will provide a deduction in days.
 
 ### Hours Played
 

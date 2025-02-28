@@ -112,6 +112,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.3.6</span> Nu se accepta invoiri la raport prin PM. Singura modalitate de a fi invoiti e cererea de inactivitate pe RPG.
 
+<span style="color:var(--pink);">4.3.7</span> Puteti debloca un bonus in urma efectuarii unui raport mai mare decat minimul cerut, bonus care va aduce suma de $100,000 si o reducere a perioadei de promovare cat si a perioadei de stergere a unui Faction Warn cu 3 zile pentru fiecare bonus deblocat.
+
+<span style="color:var(--pink);">4.3.7.1</span> Numarul de puncte necesare pentru bonus va fi afisat pe [<span style="color:var(--pink);">/raport</span>]. Doar bonusurile deblocate dupa data ultimei promovari sau dupa data Faction Warnului primit ofera zile de deducere.
+
 !!! example "Nota informativa"
     Sunt scutiti de efectuarea raportului membrii cu cereri de inactivitate sau membrii nou intrati in factiune (mai putin cei care intra la inceput de saptamana).
 

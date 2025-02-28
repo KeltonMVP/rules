@@ -88,11 +88,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ### Raport de Activitate
 
-<span style="color:var(--pink);">4.2</span> In cazul gangurilor, raportul de activitate consta in prezenta la warurile obligatorii din timpul saptamanii (Luni-Vineri).<br/>
+<span style="color:var(--pink);">4.2.1</span> In cazul gangurilor, raportul de activitate consta in prezenta la warurile obligatorii din timpul saptamanii (Luni-Vineri).<br/>
 Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](#10-regulament-waruri).
 
 !!! example "Nota informativa"
     Sunt scutiti de prezenta la waruri jucatorii cu cereri de inactivitate sau de absenta acceptate.
+
+<span style="color:var(--pink);">4.2.2</span> Puteti debloca un bonus in urma acumularii unui numar stabilit de secunde la warurile obligatorii de Luni pana Vineri, bonus care va aduce suma de $100,000 si o reducere a perioadei de promovare cat si a perioadei de stergere a unui Faction Warn cu 3 zile pentru fiecare bonus deblocat.
+
+<span style="color:var(--pink);">4.2.2.1</span> Numarul de secunde necesare pentru bonus va fi afisat pe [<span style="color:var(--pink);">/raport</span>]. Doar bonusurile deblocate dupa data ultimei promovari sau dupa data Faction Warnului primit ofera zile de deducere.
 
 ### Ore Jucate
 

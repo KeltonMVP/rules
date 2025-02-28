@@ -112,6 +112,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.3.6</span> Leave requests via PM are not accepted for the activity report. The only way to be excused is by submitting an inactivity request on RPG.
 
+<span style="color:var(--pink);">4.3.7</span> You can unlock a bonus by completing a report that exceeds the minimum requirement. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.  
+
+<span style="color:var(--pink);">4.3.7.1</span> The number of points required for the bonus will be displayed on [<span style="color:var(--pink);">/raport</span>]. Only bonuses unlocked after the date of the last promotion or after receiving a Faction Warn will provide a deduction in days.
+
 !!! example "Info note"
     Members with inactivity requests or newly joined members are exempt from fulfilling the report (except for those who join at the beginning of the week).
 

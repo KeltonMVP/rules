@@ -146,19 +146,14 @@
 
 ### Replacing Subleaders
 
-<span style="color:var(--pink);">2.2.1</span> A Leader can remove the subleader rank when they consider that they no longer need their services and will demote them, granting them a rank based on their seniority in the faction and the rules regarding the granting of ranks to a member.
+<span style="color:var(--pink);">2.2.1</span> A Leader can remove the subleader's rank when they consider their services are no longer needed and will demote them by granting a rank based on their seniority in the faction, the number of unlocked bonuses, and the rules regarding rank assignment for a member.
 
-<span style="color:var(--pink);">2.2.2</span> For the next promotion of the former subleader to rank 2-5, the counting will start from the last promotion before receiving the subleader rank (thus, the seniority for the previously held rank is not reset).
+!!! danger "Informational Note"
+	As a leader, you can view a field called <span style="color:var(--pink);">Possible Rank</span> in the Faction tab on the player's profile on the website, which indicates the rank you should assign when demoting the subleader.
 
-!!! example "Examples of demoting subleaders"
-    - in our example, the subleader has a seniority in the faction of 55 days in a department and needs to be demoted.
-    - the Leader will need to check the promotion regulations of the faction type they belong to, specifically chapter [Member Promotion and Faction Slots.](#7-member-promotion-and-faction-slots)
-    - then they will need to add up the minimum waiting days for each rank as follows:
-        - for rank 2: 14 days.
-        - for rank 3: 21 days + the 14 days from rank 2, totaling 35 days.
-        - for rank 4: 30 days + the 35 days from rank 3, totaling 65 days.
-    - so our subleader has the required seniority for rank 3 if they have not received any Faction Warn.
-    - each Faction Warn adds an additional 14 days of waiting.
+	If the player has completed more than half of the waiting time for the next rank, the system is designed to round up to the higher rank. If the player's seniority is less than half the time required for the next rank, they will receive the lower rank.  
+
+<span style="color:var(--pink);">2.2.2</span> The former subleader's next promotion will take place normally, just like any other member. The calculation for the next rank starts from the date they were demoted.
 
 ## 3. Faction Subforum
 
@@ -402,6 +397,8 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 <span style="color:var(--pink);">7.2</span> Admins will only make promotions when requested by the faction Leader.
 
 <span style="color:var(--pink);">7.3</span> The number of promotion days represents the number of days a member must wait from the last promotion to gain the new rank.
+
+<span style="color:var(--pink);">7.3.1</span> Members can reduce their number of days by unlocking bonuses through the activity report. The bonus can be unlocked between rank 1 - rank 5, and each unlocked bonus decreases the promotion and Faction Warn removal durations by 3 days.
 
 <span style="color:var(--pink);">7.4</span> Members who accumulate the seniority of ranks 2 and 3 must receive timely rank-ups if their Leader does not have evidence that their behavior has not been quite appropriate or if they have not been active enough (<span style="color:red;">sanction: Leader Warn</span> for the first offense, <span style="color:red;">Dismissal</span> for subsequent offenses).
 

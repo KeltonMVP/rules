@@ -93,6 +93,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.2.3</span> Fraudarea sau ajutarea unui coleg sa fraudeze raportul de activitate este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
 
+<span style="color:var(--pink);">4.2.4</span> Puteti debloca un bonus in urma efectuarii unui raport mai mare decat minimul cerut, bonus care va aduce suma de $100,000 si o reducere a perioadei de promovare cat si a perioadei de stergere a unui Faction Warn cu 3 zile pentru fiecare bonus deblocat.
+
+<span style="color:var(--pink);">4.2.4.1</span> Numarul de puncte necesare pentru bonus va fi afisat pe [<span style="color:var(--pink);">/raport</span>]. Doar bonusurile deblocate dupa data ultimei promovari sau dupa data Faction Warnului primit ofera zile de deducere.
+
 !!! example "Nota informativa"
     Sunt scutiti de efectuarea raportului membrii cu cereri de inactivitate sau membrii nou intrati in factiune (mai putin cei care intra la inceput de saptamana).
 
