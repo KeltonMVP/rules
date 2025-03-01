@@ -892,7 +892,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 				21
 			</td>
 			<td class="table-center-rows">
-				14
+				18
 			</td>
 			<td class="table-center-rows">
 				30
@@ -912,7 +912,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 				28
 			</td>
 			<td class="table-center-rows">
-				21
+				25
 			</td>
 			<td class="table-center-rows">
 				30
@@ -932,7 +932,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 				-
 			</td>
 			<td class="table-center-rows">
-				30
+				50
 			</td>
 			<td class="table-center-rows">
 				30
@@ -952,7 +952,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 				-
 			</td>
 			<td class="table-center-rows">
-				44
+				120
 			</td>
 			<td class="table-center-rows">
 				30
