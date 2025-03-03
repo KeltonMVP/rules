@@ -199,10 +199,14 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.2.2</span> Members of Rank 5+ do not need to request approval, but they must provide a reason on [<span style="color:var(--pink);">/d</span>] before using them (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated).
 
-<span style="color:var(--pink);">6.2.3</span> You are allowed to use National Guard aircraft (<span style="color:var(--pink);">Hydra, Hunter, Rustler</span>) for airborne suspect or suspects without surrender rights who are on a building with limited space, accessible only by parachute, for example: [the tall towers in LS and SF](https://imgur.com/a/os4ChB0), [the high balconies near the Dealership apartments](https://imgur.com/fQK6mqr), [the lighthouse in LS](https://imgur.com/wAVY7gZ).
+<span style="color:var(--pink);">6.2.3</span> You are allowed to use (to move with them or to fire with them) National Guard aircraft (<span style="color:var(--pink);">Hydra, Hunter, Rustler</span>) for airborne suspect or suspects without surrender rights who are on a building with limited space, accessible only by parachute, for example: [the tall towers in LS and SF](https://imgur.com/a/os4ChB0), [the high balconies near the Dealership apartments](https://imgur.com/fQK6mqr), [the lighthouse in LS](https://imgur.com/wAVY7gZ).
 
 !!! danger "Important"
-    Attention, the locations listed above serve only as examples, as a basis for interpreting the rule above, but are not limited to those locations (<span style="color:red;">sanction: Rank Down</span> for the first offense, <span style="color:red;">dismissal</span> if it continues).
+    Attention, the locations listed above serve only as examples, as a basis for interpreting the rule above, but are not limited to those locations. 
+    
+    Moving with these in other circumstances will be sanctioned with <span style="color:red;">Faction Warn</span>, while unintentional and improper discharge of fire in other circumstances will be sanctioned with <span style="color:red;">Rank Down</span> for the first offense, and <span style="color:red;">dismissal</span> if it continues.  
+
+    Intentional and abusive discharge of fire will be sanctioned according to rule <span style="color:var(--pink);">6.1.6</span>.
 
 ## 7. Government Territory
 

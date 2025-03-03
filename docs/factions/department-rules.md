@@ -199,10 +199,14 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.2.2</span> Membrii de Rank 5+ nu trebuie sa ceara aprobare, insa trebuie sa ofere un motiv pe [<span style="color:var(--pink);">/d</span>] inainte de a le folosi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
 
-<span style="color:var(--pink);">6.2.3</span> Va este permis sa folositi aeronavele din National Guard (<span style="color:var(--pink);">Hydra, Hunter, Rustler</span>) pentru suspectii aerieni sau suspectii fara drept de predare care se afla pe o cladire cu spatiu redus, accesibila doar cu parasuta, exemplu: [turnurile inalte din LS si SF](https://imgur.com/a/os4ChB0), [balcoanele inalte de la apartamentele de langa Dealership](https://imgur.com/fQK6mqr), [farul din LS](https://imgur.com/wAVY7gZ).
+<span style="color:var(--pink);">6.2.3</span> Va este permis sa folositi aeronavele (sa va deplasati cu ele sau sa trageti cu ele) din National Guard (<span style="color:var(--pink);">Hydra, Hunter, Rustler</span>) pentru suspectii aerieni sau suspectii fara drept de predare care se afla pe o cladire cu spatiu redus, accesibila doar cu parasuta, exemplu: [turnurile inalte din LS si SF](https://imgur.com/a/os4ChB0), [balcoanele inalte de la apartamentele de langa Dealership](https://imgur.com/fQK6mqr), [farul din LS](https://imgur.com/wAVY7gZ).
 
 !!! danger "Important"
-    Atentie, locatiile enumerate mai sus servesc doar ca exemplu, ca baza pentru interpretarea regulii de mai sus, insa nu se limiteaza doar la acele locatii (<span style="color:red;">sanctiune: Rank Down</span> la prima abatere, <span style="color:red;">demitere</span> daca va continua).
+    Atentie, locatiile enumerate mai sus servesc doar ca exemplu, ca baza pentru interpretarea regulii de mai sus, insa nu se limiteaza doar la acele locatii. 
+
+    Deplasarea cu acestea in alte circumstante se va sanctiona cu <span style="color:red;">Faction Warn</span>, in timp ce deschiderea gresita a focului in mod neintentionat si in alte circumstante se va sanctiona cu <span style="color:red;">Rank Down</span> la prima abatere, <span style="color:red;">demitere</span> daca continua.
+
+    Deschiderea intentionata a focului intr-un mod abuziv va fi sanctionata conform regulii <span style="color:var(--pink);">6.1.6</span>.
 
 ## 7. Terenul Guvernamental
 
