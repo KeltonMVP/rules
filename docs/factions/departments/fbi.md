@@ -32,6 +32,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/namecover < ID > < NEW NAME >]</span> - schimbi numele si skinul unui membru FBI, facandu-l totodata civil.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
 - <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
+- <span style="color:var(--pink);">[/beacon]</span> - porneste/opreste sirena fara a mai apasa pe H.
 
 ## 2. Skinurile Factiunii
 
