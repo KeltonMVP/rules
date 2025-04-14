@@ -139,6 +139,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.2</span> Nu aveti voie sa amendati un jucator caruia i-ati acordat wanted 2 "<span style="color:var(--pink);">Neconformare Ordin</span>". Aceasta regula se aplica si in cazul jucatorilor care parasesc server-ul si primesc automat wanted 2 "<span style="color:var(--pink);">Deconectare in urmarire</span>" (<span style="color:red;">sanctiune: Faction Warn</span>).
 
+<span style="color:var(--pink);">6.2.1</span> Jucatorii de nivel 4-7 care primesc wanted pentru "<span style="color:var(--pink);">Neconformare Ordin</span>" sau "<span style="color:var(--pink);">Deconectare in urmarire</span>" isi pierd dreptul de a alege ce sanctiune contraventionala vor primi.
+
 <span style="color:var(--pink);">6.3</span> Nu aveti voie sa amendati jucatorii aflati in Jail (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4</span> Daca jucatorul are nivel 7 dar nivelul real este mai mare decat 7 (Are RP pentru level 8+), acesta nu va mai avea voie sa aleaga intre amenda si confiscarea licentei, ci va fi sanctionat prin amenda si confiscarea licentei.
@@ -160,6 +162,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 ## 7. Condusul
 
 <span style="color:var(--pink);">7.1</span> Se considera condus neregulamentar atunci cand jucatorul trece cu vehiculul pe sensul opus de mers pentru minim 3 secunde. Daca jucatorul nu revine pe sensul corect de mers in aceste secunde, politistul are dreptul sa-l traga pe dreapta si sa-l sanctioneze. Aceasta regula se aplica si daca jucatorul foloseste nisipul, iarba sau alte texturi alaturate drumului. Nu se pot folosi sa se evite sensul corect de mers.
+
+!!! example "Exceptii"
+    Se face exceptie la regula de mai sus (7.1) si va fi sanctionat jucatorul daca acesta produce un accident in care implica un alt participant la trafic.
 
 <span style="color:var(--pink);">7.2</span> Se considera condus regulamentar atunci cand acesta este in totalitate pe banda sa sau chiar cand trece foarte putin pe banda opusa.
 

@@ -139,6 +139,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.2</span> You are not allowed to fine a player to whom you have given a wanted level 2 "<span style="color:var(--pink);">Disobeying Orders</span>". This rule also applies to players who leave the server and automatically receive wanted level 2 "<span style="color:var(--pink);">Disconnected While Wanted</span>" (<span style="color:red;">sanction: Faction Warn</span>).
 
+<span style="color:var(--pink);">6.2.1</span> Players of level 4-7 who receive a wanted level for "<span style="color:var(--pink);">Disobeying Orders</span>" or "<span style="color:var(--pink);">Disconnected While Wanted</span>" lose the right to choose which penalty they will receive.
+
 <span style="color:var(--pink);">6.3</span> You are not allowed to fine players in Jail (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">6.4</span> If a player is level 7 but their actual level is higher than 7 (they have RP for level 8+), they will not be allowed to choose between the fine and license confiscation but will be sanctioned by a fine and license confiscation.
@@ -160,6 +162,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 ## 7. Driving
 
 <span style="color:var(--pink);">7.1</span> Driving is considered improper when the player drives on the opposite lane for at least 3 seconds. If the player does not return to the correct lane during these seconds, the officer has the right to pull them over and sanction them. This rule also applies if the player uses the sand, grass, or other textures alongside the road. They cannot be used to avoid the correct lane.
+
+!!! example "Exceptions"
+    An exception is made to the rule above (7.1), and the player will be sanctioned if they cause an accident involving another traffic participant.
 
 <span style="color:var(--pink);">7.2</span> Driving is considered proper when it stays entirely within their lane or even when it slightly crosses onto the opposite lane.
 
