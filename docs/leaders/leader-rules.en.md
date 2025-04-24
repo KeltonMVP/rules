@@ -66,6 +66,13 @@
 
 <span style="color:var(--pink);">1.3.1</span> Leaders are required to have a minimum of 25 real hours played per month (hours without sleep) (<span style="color:red;">sanction: Leader Warn for the first offense, Dismissal if repeated</span>).
 
+!!! danger "Important"
+	In the case of an inactivity request, the minimum number of required hours for that month will decrease by 1 hour for every two days of inactivity.
+
+	If the number of inactivity days is odd, the reduction in hours will be rounded up. For example, for 3 days of inactivity, 2 hours will be deducted; for 5 days, 3 hours will be deducted; for 7 days, 4 hours will be deducted, and so on.
+
+	If the inactivity period spans the end of one month and the beginning of another, the number of inactivity days will be calculated separately for each month, and the corresponding number of hours will be deducted from each. For example, if the leader has 6 days of inactivity, with 4 at the end of one month (April) and 2 at the beginning of the next (May), they will need to complete a minimum of 23 hours for the previous month (April) and 24 hours for the following month (May).
+
 <span style="color:var(--pink);">1.3.2</span> Leaders who have not logged into the game for at least 3 days without having an inactivity request or notifying the staff about the situation will be sanctioned with <span style="color:red;">Verbal Warning</span> for the first offense, and if repeated with <span style="color:red;">3/3 Leader Warns.</span>
 
 <span style="color:var(--pink);">1.3.3</span> Leaders who do not have at least one week of seniority cannot make inactivity requests.
@@ -354,6 +361,8 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 <span style="color:var(--pink);">5.3.3</span> Members with a resignation request are exempt from mandatory faction activities if the request was made before these activities (meetings, trainings, events, wars, etc.).
 
 <span style="color:var(--pink);">5.3.4</span> It is forbidden to accept resignation requests in the last 2 days of the month for members who are supposed to be sanctioned for their monthly activity. They must first receive their sanction, after which they will be allowed to leave the faction.
+
+<span style="color:var(--pink);">5.3.5</span> It is forbidden to accept resignation requests from members who have active complaints (either on the website or in private messages sent to the leader). All active complaints must be addressed first, all penalties that the member is supposed to receive must be applied (including those not related to the complaints), and only then can the resignation request be processed.
 
 Violation of any of the above rules will result in penalties (<span style="color:red;">penalty: Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for subsequent offenses).
 

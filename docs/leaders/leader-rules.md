@@ -66,6 +66,13 @@
 
 <span style="color:var(--pink);">1.3.1</span> Liderii sunt obligati sa aiba un minim de 25 de ore reale jucate pe luna (ore fara sleep) (<span style="color:red;">sanctiune: Leader Warn la prima abatere, Demitere daca se repeta</span>).
 
+!!! danger "Important"
+	In cazul unei cereri de inactivitate, numarul minim de ore in luna respectiva va scadea cu 1 ora pentru fiecare doua zile de inactivitate.
+
+	Daca inactivitatea este pe un numar impar de zile, se face rotunjire prin adaos la numarul de ore care vine scazut. De exemplu pentru 3 zile de inactivitate se scad 2 ore, pentru 5 zile de inactivitate se scad 3 ore, pentru 7 zile de inactivitate se scad 4 ore si asa mai departe.
+
+	Daca cererea de inactivitatea cuprinde finalul unei luni si incepetul celeilalte, se va calcula pentru fiecare luna in parte zilele de inactivitate si din acestea se va scadea numarul aferent de ore. De exemplu daca liderul are o inactivitate de 6 zile, dintre care 4 la finalul unei luni (Aprilie) si 2 la inceputul celeilalte (Mai), va avea de facut un minim 23 de ore pentru luna anterioara (Aprilie) si 24 de ore pentru luna urmatoare (Mai).
+
 <span style="color:var(--pink);">1.3.2</span> Liderii care nu s-au conectat pe joc de cel putin 3 zile fara a avea o cerere de inactivitate sau a anunta stafful despre situatie vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere iar daca se repeta cu <span style="color:red;">3/3 Leader Warnuri.</span>
 
 <span style="color:var(--pink);">1.3.3</span> Liderii care nu au minim o saptamana vechime nu pot face cereri de inactivitate.
@@ -355,6 +362,8 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 <span style="color:var(--pink);">5.3.3</span> Membrii cu cerere de demisie sunt scutiti de prezenta la activitatile obligatorii din cadrul factiunii daca au creat cererea inaintea acestora (sedinte, antrenamente, evenimente, waruri, etc.).
 
 <span style="color:var(--pink);">5.3.4</span> Este interzisa acceptarea cererilor de demisie in ultimele 2 zile de sfarsit de luna in cazul membrilor care ar trebui sa fie sanctionati pentru activitatea lunara. Mai intai trebuie sa-si primeasca sanctiunea, dupa care vor putea parasi factiunea.
+
+<span style="color:var(--pink);">5.3.5</span> Este interzisa acceptarea cererilor de demisie a membrilor care au reclamatii active (website sau mesaje private trimise liderului). Se raspunde mai intai tuturor reclamatiilor active, se ofera toate sanctiunile pe care trebuie sa le primeasca membrul (inclusiv sanctiuni pe care trebuie sa le primeasca din afara reclamatiilor) si apoi se raspunde cererii de demisie.
 
 Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> la urmatoarele).
 
