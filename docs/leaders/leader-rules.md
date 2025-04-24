@@ -71,7 +71,7 @@
 
 	Daca inactivitatea este pe un numar impar de zile, se face rotunjire prin adaos la numarul de ore care vine scazut. De exemplu pentru 3 zile de inactivitate se scad 2 ore, pentru 5 zile de inactivitate se scad 3 ore, pentru 7 zile de inactivitate se scad 4 ore si asa mai departe.
 
-	Daca cererea de inactivitatea cuprinde finalul unei luni si incepetul celeilalte, se va calcula pentru fiecare luna in parte zilele de inactivitate si din acestea se va scadea numarul aferent de ore. De exemplu daca liderul are o inactivitate de 6 zile, dintre care 4 la finalul unei luni (Aprilie) si 2 la inceputul celeilalte (Mai), va avea de facut un minim 23 de ore pentru luna anterioara (Aprilie) si 24 de ore pentru luna urmatoare (Mai).
+	Daca cererea de inactivitate cuprinde finalul unei luni si inceputul celeilalte, se va calcula pentru fiecare luna in parte zilele de inactivitate si din acestea se va scadea numarul aferent de ore. De exemplu daca liderul are o inactivitate de 6 zile, dintre care 4 la finalul unei luni (Aprilie) si 2 la inceputul celeilalte (Mai), va avea de facut un minim 23 de ore pentru luna anterioara (Aprilie) si 24 de ore pentru luna urmatoare (Mai).
 
 <span style="color:var(--pink);">1.3.2</span> Liderii care nu s-au conectat pe joc de cel putin 3 zile fara a avea o cerere de inactivitate sau a anunta stafful despre situatie vor fi sanctionati cu <span style="color:red;">Avertisment Verbal</span> la prima abatere iar daca se repeta cu <span style="color:red;">3/3 Leader Warnuri.</span>
 
@@ -342,7 +342,7 @@ Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sancti
 
 - daca Liderul are cerere de inactivitate trebuie sa posteze sanctiunile pe forum in cel mult 24 de ore dupa ce-i expira cererea.
 
-<span style="color:var(--pink);">5.2.5</span> Jucatorii cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
+<span style="color:var(--pink);">5.2.5</span> Jucatorilor cu conturi multiple (cei care detin mai multe conturi) nu li se permite sa fie cu mai mult de un cont in aceeasi factiune.
 
 <span style="color:var(--pink);">5.2.6</span> Trei zile diferite (IN ULTIMELE 7 ZILE) de loguri (SA:MP Login) sunt suficiente ca sa determinam ca 2 membri din aceeasi factiune isi impart contul frecvent. In aceasta situatie vom considera ca sunt jucatori cu conturi multiple in aceeasi factiune.
 
