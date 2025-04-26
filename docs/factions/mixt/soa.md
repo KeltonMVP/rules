@@ -22,6 +22,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/work]</span> - pentru a incepe furtul unei motociclete personale sau de politie.
 - <span style="color:var(--pink);">[/picklock]</span> - pentru a urca intr-o motocicleta personala incuiata.
 - <span style="color:var(--pink);">[/order]</span> - pentru a procura diverse pachete de arme.
+    - <span style="color:var(--pink);">[/order 1]</span> - (rank 0 / 350 mats) Brass Knuckles, Desert Eagle.
+    - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Brass Knuckles, Desert Eagle, M4.
+    - <span style="color:var(--pink);">[/order 3]</span> - (rank 3 / 5850 mats) Brass Knuckles, Desert Eagle, M4, Rifle.
+    - <span style="color:var(--pink);">[/order 4]</span> - (rank 4 / 6500 mats) Brass Knuckles, Desert Eagle, M4, Uzi, Sawn-off Shotgun, Rifle.
 - <span style="color:var(--pink);">[/extort] sau [/ext]</span> - pentru a extorca un civil care poarta unul dintre skinurile factiunii.
 - <span style="color:var(--pink);">[/imp]</span> - pentru a vedea jucatorii online care poarta un skin Sons of Anarchy.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
