@@ -65,6 +65,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.4</span> If a member of the News Reporters faction files complaints in an abusive manner, the member will be warned in advance by the leader to stop sending PMs, and these will be ignored. Subsequent infractions will be penalized with a <span style="color:red;">Faction Warn</span> and even <span style="color:red;">dismissal</span> (if necessary).
 
+<span style="color:var(--pink);">4.5</span> The [<span style="color:var(--pink);">/ftalkpower</span>] command can be used by any rank 5+ member, with a proper reason and without abusing it (<span style="color:red;">sanction: Faction Warn</span>).
+
 ## 5. The [/news] Command
 
 ### Specifications

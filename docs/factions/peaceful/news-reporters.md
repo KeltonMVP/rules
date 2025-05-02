@@ -65,6 +65,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.4</span> In cazul in care un membru al factiunii News Reporters deschide reclamatii in mod abuziv, membrul va fi avertizat in prealabil de catre lider sa inceteze cu PM-urile si acestea ii vor fi ignorate, urmatoarele abateri urmand sa fie sanctionate cu <span style="color:red;">Faction Warn</span> si chiar <span style="color:red;">demitere</span> (daca este cazul).
 
+<span style="color:var(--pink);">4.5</span> Comanda [<span style="color:var(--pink);">/ftalkpower</span>] poate fi folosita de orice membru rank 5+, cu motiv intemeiat si fara abuzarea acesteia (<span style="color:red;">sanctiune: Faction Warn</span>).
+
 ## 5. Comanda [/news]
 
 ### Specificatii
