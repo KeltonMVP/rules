@@ -174,7 +174,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">8.9</span> Membrii de Rank 5 sunt obligati sa anunte printr-un mesaj pe chat-ul departamentului [<span style="color:var(--pink);">/r</span>] atunci cand folosesc comanda [<span style="color:var(--pink);">/namecover</span>] pentru fiecare membru (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
-<span style="color:var(--pink);">8.10</span> Ca membru FBI, aveti dreptul sa detineti in permanenta maxim 50 de grame de droguri. Atentie, drogurile sunt destinate folosirii doar in cazul in care sunteti intr-o misiune namecover, ca civil (exemplu: pentru castigarea increderii suspectului) (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">8.10</span> Ca membru FBI aveti dreptul sa detineti maxim 50 de grame de droguri si doar pe perioada desfasurarii raportului namecover. Drogurile pot fi folosite doar cand va aflati intr-o misiune namecover, ca civil (exemplu: pentru castigarea increderii suspectului). Cand terminati misiunea, drogurile trebuiesc depozitate in seiful factiunii, seiful propriu sau aruncate (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">8.11</span> Intr-o misiune Namecover va este strict interzis sa folositi vreun mod pe skin (cskin etc.) (<span style="color:red;">sanctiune: Faction Warn</span>).
 

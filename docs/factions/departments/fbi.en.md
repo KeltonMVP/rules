@@ -174,7 +174,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">8.9</span> Rank 5 members are required to announce through a message on the department chat [<span style="color:var(--pink);">/r</span>] when they use the [<span style="color:var(--pink);">/namecover</span>] command for each member (<span style="color:red;">sanction: Verbal Warning</span>).
 
-<span style="color:var(--pink);">8.10</span> As an FBI member, you are allowed to possess a maximum of 50 grams of drugs at all times. However, drugs are only intended for use when you are on a namecover mission, as a civilian (example: to gain the trust of the suspect) (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">8.10</span> As an FBI member you are allowed to possess a maximum of 50 grams of drugs, and only during the execution of a namecover report. Drugs may be used only when you are on a namecover mission, acting as a civilian (example: to gain the suspect's trust). Once the mission is completed, the drugs must be deposited in the faction safe, your personal safe, or discarded (<span style="color:red;">penalty: Faction Warn</span>).
 
 <span style="color:var(--pink);">8.11</span> In a namecover mission, it is strictly forbidden to use any skin mod (cskin, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
