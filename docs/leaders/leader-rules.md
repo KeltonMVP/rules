@@ -66,6 +66,8 @@
 
 <span style="color:var(--pink);">1.3.1</span> Liderii sunt obligati sa aiba un minim de 25 de ore reale jucate pe luna (ore fara sleep) (<span style="color:red;">sanctiune: Leader Warn la prima abatere, Demitere daca se repeta</span>).
 
+- abaterile se reseteaza la 6 luni de zile de la primirea sanctiunii.
+
 !!! danger "Important"
 	In cazul unei cereri de inactivitate, numarul minim de ore in luna respectiva va scadea cu 1 ora pentru fiecare doua zile de inactivitate.
 
@@ -1161,9 +1163,11 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 
 <span style="color:var(--pink);">8.1.4</span> Liderilor le este permis sa joace pe alte conturi pe acelasi server cu aprobare de la managerii de factiuni (adminii 4+).
 
-<span style="color:var(--pink);">8.1.5</span> Un Leader Warn la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte sanctiuni intre timp.
+<span style="color:var(--pink);">8.1.5</span> Un Leader Warn sau Avertisment Verbal la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte sanctiuni intre timp.
 	
-- acestea se vor inlatura numai la cererea Liderului si numai cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie stearsa sanctiunea.
+- acestea se vor inlatura numai <span style="color:var(--pink);">la cererea Liderului</span> si <span style="color:var(--pink);">numai</span> cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie stearsa sanctiunea.
+
+- primirea unei alte sanctiuni, Avertisment Verbal sau Leader Warn, va aduce o intarziere de 7 zile la stergerea sanctiunii mai vechi.
 
 <span style="color:var(--pink);">8.1.6</span> Este strict interzis unui Lider sa ceara diverse compensatii pentru a accepta un jucator in factiune, a-l trece testul, a-l scuti de sanctiuni, a-l promova, etc (<span style="color:red;">sanctiune: Leader Warn</span> prima abatere, <span style="color:red;">Demitere</span> daca continua).
 

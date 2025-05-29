@@ -66,6 +66,8 @@
 
 <span style="color:var(--pink);">1.3.1</span> Leaders are required to have a minimum of 25 real hours played per month (hours without sleep) (<span style="color:red;">sanction: Leader Warn for the first offense, Dismissal if repeated</span>).
 
+- offenses reset after 6 months since receiving the punishment.
+
 !!! danger "Important"
 	In the case of an inactivity request, the minimum number of required hours for that month will decrease by 1 hour for every two days of inactivity.
 
@@ -1161,9 +1163,11 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 
 <span style="color:var(--pink);">8.1.4</span> Leaders are permitted to play on other accounts on the same server with approval from faction managers (admins 4+).
 
-<span style="color:var(--pink);">8.1.5</span> A Leader Warn in the Leader position can be removed after <span style="color:var(--pink);">at least one month</span> from receiving it if no further punishments have been issued in the meantime.
+<span style="color:var(--pink);">8.1.5</span> A Leader Warn or a Verbal Warning in the Leader position can be removed after <span style="color:var(--pink);">at least one month</span> from receiving it if no further punishments have been issued in the meantime.
 	
-- these punishments will only be removed at the Leader's request and only with the agreement of a faction manager (admin 4+) if they believe the Leader deserves to have their punishment removed.
+- these punishments will only be removed <span style="color:var(--pink);">at the Leader's request</span> and <span style="color:var(--pink);">only</span> with the agreement of a faction manager (admin 4+) if they believe the Leader deserves to have their punishment removed.
+
+- receiving another punishment, Verbal Warning or Leader Warn, will increase the removal time of the old punishment by 7 days.
 
 <span style="color:var(--pink);">8.1.6</span> It is strictly forbidden for a Leader to request various compensations for accepting a player into the faction, passing their test, sparing them from sanctions, promoting them, etc. (<span style="color:red;">sanction: Leader Warn</span> first offense, <span style="color:red;">Dismissal</span> if repeated).
 

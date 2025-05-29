@@ -691,6 +691,11 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">21.9.2</span> There is no universal price for [<span style="color:var(--pink);">/lawyer</span>], but each will negotiate their own price with the buyer within the limits set by the script. Anyone who violates the script's limits when selling a warrant will be sanctioned with <span style="color:red;">Faction Warn.</span>
 
+### Activity in Jail
+
+<span style="color:var(--pink);">21.10.1</span> Members who carry out their activity inside the Jail are required to know and follow the [General Jail Rules](../departments/ng/#general-jail-rules).
+
+
 ## 22. Fines
 
 <span style="color:var(--pink);">22.1</span> These fines will be awarded in-game using the [<span style="color:var(--pink);">/fines</span>] system only by the leader or subleaders when necessary based on clear evidence. These fines can be paid within a maximum of 48 hours from the time they were received. Members who do not pay the active fines using the [<span style="color:var(--pink);">/fines</span>] command within 48 hours of receiving them will be automatically sanctioned by the server with <span style="color:red;">Faction Warn</span>.

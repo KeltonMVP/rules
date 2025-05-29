@@ -691,6 +691,10 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.9.2</span> Nu exista pret universal pentru [<span style="color:var(--pink);">/lawyer</span>], ci fiecare va negocia cu cumparatorul un pret propriu, in limitele stabilite de script. Cine incalca limitele stabilite de script la vanzarea unui mandat va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
 
+### Activitatea in Jail
+
+<span style="color:var(--pink);">21.10.1</span> Membrii care isi desfasoara activitatea in interiorul Jailului au obligatia de a cunoaste si de a respecta [Regulile Generale ale Jailului](../departments/ng/#reguli-generale-jail).
+
 ## 22. Amenzi
 
 <span style="color:var(--pink);">22.1</span> Aceste amenzi o sa fie acordate in joc folosind sistemul de [<span style="color:var(--pink);">/fines</span>] doar de catre lider sau sublideri atunci cand este necesar in baza unor dovezi clare. Aceste amenzi pot sa fie achitate in maximum 48 de ore de cand au fost primite. Membrii care nu platesc amenzile active prin comanda [<span style="color:var(--pink);">/fines</span>] in maximum 48 de ore de cand le-au primit o sa fie sanctionati automat de catre server cu <span style="color:red;">Faction Warn.</span>
