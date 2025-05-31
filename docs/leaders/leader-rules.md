@@ -13,6 +13,9 @@
 - membrii care au acumulat o vechime considerabila (rank 4+) in alte factiuni de acelasi tip au a treia prioritate.
 - tot ceea ce nu se incadreaza in ceea ce e mentionat mai sus au ultima prioritate.
 
+!!! example "Nota informativa"
+	Cautam in principiu jucatori cu cel putin 100 de zile vechime in factiune (pe langa rank 4+). Aceasta cifra poate fi scazuta in situatiile in care nu se gasesc destui candidati care sa indeplineasca acest criteriu.
+
 <span style="color:var(--green);">Criterii de baza cautate:</span>
 
 - sa nu aiba vreo interdictie, inclusiv pe conturi secundare.

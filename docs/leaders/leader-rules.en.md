@@ -13,6 +13,9 @@
 - members who have accumulated considerable seniority (rank 4+) in other factions of the same type have the third priority.
 - anything that does not fit into the above-mentioned criteria has the last priority.
 
+!!! example "Info note"
+	We are searching for players with at least 100 days in the faction (besides the rank 4+). This number can be lower if there aren't enough candidates who fulfill this criteria.
+
 <span style="color:var(--green);">Base criteria we're looking for:</span>
 
 - not to have any bans, including on secondary accounts.
