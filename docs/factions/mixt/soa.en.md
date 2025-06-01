@@ -22,10 +22,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/work]</span> - to start stealing a personal or police motorcycle.
 - <span style="color:var(--pink);">[/picklock]</span> - to break into a locked personal motorcycle.
 - <span style="color:var(--pink);">[/order]</span> - to procure various weapon packages.
-    - <span style="color:var(--pink);">[/order 1]</span> - (rank 0 / 350 mats) Brass Knuckles, Desert Eagle.
-    - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Brass Knuckles, Desert Eagle, M4.
-    - <span style="color:var(--pink);">[/order 3]</span> - (rank 3 / 5850 mats) Brass Knuckles, Desert Eagle, M4, Rifle.
-    - <span style="color:var(--pink);">[/order 4]</span> - (rank 4 / 6500 mats) Brass Knuckles, Desert Eagle, M4, Uzi, Sawn-off Shotgun, Rifle.
+    - <span style="color:var(--pink);">[/order 1]</span> - (rank 0 / 350 mats) Desert Eagle.
+    - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Desert Eagle, M4.
+    - <span style="color:var(--pink);">[/order 3]</span> - (rank 3 / 5850 mats) Desert Eagle, M4, Rifle.
+    - <span style="color:var(--pink);">[/order 4]</span> - (rank 4 / 6500 mats) Desert Eagle, M4, Uzi, Sawn-off Shotgun, Rifle.
 - <span style="color:var(--pink);">[/extort] or [/ext]</span> - to extort a civilian wearing one of the faction skins.
 - <span style="color:var(--pink);">[/imp]</span> - to see online players wearing a Sons of Anarchy skin.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
