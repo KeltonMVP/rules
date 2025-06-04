@@ -16,6 +16,12 @@
 !!! example "Nota informativa"
 	Cautam in principiu jucatori cu cel putin 100 de zile vechime in factiune (pe langa rank 4+). Aceasta cifra poate fi scazuta in situatiile in care nu se gasesc destui candidati care sa indeplineasca acest criteriu.
 
+	Activitatea minima pe care o cerem e luata pe ultimele 3 luni de zile, respectiv <span style="color:var(--pink);">LUNA CURENTA + CELE DOUA LUNI anterioare</span> ei:<br/>
+
+	- pentru cele doua luni finalizate cerem minim 25 de ore jucate in fiecare luna, iar daca jucatorul a avut cerere de inactivitate aprobata vom scadea din cele 25 de ore minime cate 50 de minute pentru fiecare zi de inactivitate aprobata (Exemplu: Jucatorul are inactivitate 1 saptamana, vom scadea astfel 350 minute sau 5.83 ore din minimul de 25, astfel ca noul minim pe acea luna este de 19 ore aproximativ)<br/>
+	
+	- pentru luna in curs vom inmulti cifra zilei curente cu 50 de minute pentru a obtine un minim (Exemplu: Ne aflam in data de 15, minimul ar fi 750 minute sau 12.5 ore jucate). Daca jucatorul are inactivitate acceptata, vom proceda ca mai sus si vom scadea zilele de inactivitate pentru a obtine un nou minim.
+
 <span style="color:var(--green);">Criterii de baza cautate:</span>
 
 - sa nu aiba vreo interdictie, inclusiv pe conturi secundare.

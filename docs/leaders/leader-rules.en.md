@@ -16,6 +16,12 @@
 !!! example "Info note"
 	We are searching for players with at least 100 days in the faction (besides the rank 4+). This number can be lower if there aren't enough candidates who fulfill this criteria.
 
+	The minimum activity we require is based on the last 3 months, namely the <span style="color:var(--pink);">CURRENT MONTH + THE TWO PREVIOUS MONTHS</span>:<br/>
+
+	- for the two completed months, we require a minimum of 25 hours played in each month, and if the player had an approved inactivity request, we will deduct 50 minutes from the 25-hour minimum for each day of approved inactivity (Example: The player was inactive for 1 week, so we will deduct 350 minutes or 5.83 hours from the 25-hour minimum, resulting in a new minimum of approximately 19 hours for that month)<br/>
+
+	- for the current month, we will multiply the current day's number by 50 minutes to obtain a minimum (Example: Today is the 15th, so the minimum would be 750 minutes or 12.5 hours played). If the player has approved inactivity, we will proceed as above and subtract the inactivity days to get a new minimum.
+
 <span style="color:var(--green);">Base criteria we're looking for:</span>
 
 - not to have any bans, including on secondary accounts.
