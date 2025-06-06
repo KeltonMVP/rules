@@ -109,8 +109,8 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 ## 4. Tarif [/fare]
 
-- <span style="color:var(--green);">30$</span> in intervalul orar 08:00 - 20:00 (tarif de zi) - [<span style="color:var(--pink);">/fare 30</span>]
-- <span style="color:var(--green);">50$</span> in intervalul orar 20:00 - 08:00 (tarif de noapte) - [<span style="color:var(--pink);">/fare 50</span>]
+- <span style="color:var(--green);">35$</span> in intervalul orar 08:00 - 20:00 (tarif de zi) - [<span style="color:var(--pink);">/fare 30</span>]
+- <span style="color:var(--green);">55$</span> in intervalul orar 20:00 - 08:00 (tarif de noapte) - [<span style="color:var(--pink);">/fare 50</span>]
 - <span style="color:var(--green);">1$</span> colegilor (LS/LV/SF Taxi), indiferent de ora inclusiv celor de Rank 0 Candidate - [<span style="color:var(--pink);">/fare 1</span>]
 
 !!! danger "Important"
