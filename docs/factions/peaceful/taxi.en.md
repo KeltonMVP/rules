@@ -109,8 +109,8 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 
 ## 4. Fare [/fare]
 
-- <span style="color:var(--green);">$35</span> during the hours of 08:00 - 20:00 (daytime rate) - [<span style="color:var(--pink);">/fare 30</span>]
-- <span style="color:var(--green);">$55</span> during the hours of 20:00 - 08:00 (nighttime rate) - [<span style="color:var(--pink);">/fare 50</span>]
+- <span style="color:var(--green);">$35</span> during the hours of 08:00 - 20:00 (daytime rate) - [<span style="color:var(--pink);">/fare 35</span>]
+- <span style="color:var(--green);">$55</span> during the hours of 20:00 - 08:00 (nighttime rate) - [<span style="color:var(--pink);">/fare 55</span>]
 - <span style="color:var(--green);">$1</span> for colleagues (LS/LV/SF Taxi), regardless of the hour, including those of Rank 0 Candidate - [<span style="color:var(--pink);">/fare 1</span>]
 
 !!! danger "Important"
