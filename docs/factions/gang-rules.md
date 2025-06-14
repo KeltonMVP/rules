@@ -249,6 +249,9 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.1.10</span> In absenta liderului, subliderii sunt obligati sa faca evidenta warurilor in decurs a 48 de ore daca nu au inactivitate, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
+!!! danger "Important"
+    Evidenta incompleta sau facuta gresit neintentionat va fi sanctionata cu <span style="color:red;">Faction Warn</span>, in timp ce omiterea intentionata a mai multor jucatori din evidenta pentru a-i scapa de sanctiuni va fi sanctionata cu <span style="color:red;">rank down</span> sau <span style="color:red;">demitere</span> in functie de gravitate si numarul de jucatori omisi.
+
 !!! example "Nota informativa"
     Numarul de secunde pentru prezenta la Waruri poate fi modificat de catre lider in functie de Regulamentul [Liderilor -> Secundele la Waruri](../leaders/leader-rules.md#secundele-la-waruri).
 

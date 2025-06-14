@@ -247,7 +247,10 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.1.9</span> During wars, you must have <span style="color:var(--pink);">at least $10,000 cash</span>; otherwise, you will be punished with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.10</span> In the absence of the leader, sub-leaders are required to keep track of wars within 48 hours if they are not inactive; otherwise, you will be punished with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.10</span> In the absence of the leader, subleaders are required to keep track of wars within 48 hours if they are not inactive, otherwise they will be punished with <span style="color:red;">Faction Warn.</span>
+
+!!! danger "Important"
+    An incomplete or incorrectly made war record will be punished with a <span style="color:red;">Faction Warn</span>, while intentionally omitting multiple players from the record to help them avoid sanctions will be punished with a <span style="color:red;">rank down</span> or <span style="color:red;">dismissal</span>, depending on the severity and the number of omitted players.
 
 !!! example "Info note"
     The number of seconds for attendance at Wars can be modified by the leader according to the [Leader Rules -> War Seconds](../leaders/leader-rules.md#war-seconds) regulation.
