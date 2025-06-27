@@ -162,14 +162,14 @@ Lipsa dovezilor in cazul reclamatiilor pentru [<span style="color:var(--pink);">
 
 <span style="color:var(--pink);">5.10</span> Aveti dreptul sa refuzati o comanda daca locatia ceruta de client nu este trecuta la locatii importante pe forum, nu se afla pe [<span style="color:var(--pink);">/gps</span>], clientul nu va spune un punct de reper sau ID de casa/biz (de exemplu daca va spune ca vrea la Verdant Meadows nu sunteti obligati sa il duceti, dar daca va spune ca vrea pe aeroport parasit lv la biz rent plane trebuie sa il duceti) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.11</span> Taximetristul este obligat sa roage de <span style="color:var(--pink);">minim 3 ori</span> clientul sa zica locatia (<span style="color:var(--pink);">si in engleza</span>), daca dupa cele 3 intrebari (minim 5 secunde intre ele, 15 secunde de la ultima) clientul nu zice nimic (o locatie), taximetristul ii poate da [<span style="color:var(--pink);">/eject</span>] (<span style="color:red;">sanctiune: Faction Warn</span>). <strong>Puteti scrie in aceeasi propozitie de exemplu:  RO: Unde doresti sa mergi? / EN: Where do you want to go?</strong>
+<span style="color:var(--pink);">5.11</span> Taximetristul este obligat sa roage <span style="color:var(--pink);">minim o data</span> clientul sa zica locatia (<span style="color:var(--pink);">si in engleza</span>), daca dupa 30 de secunde de la intrebare clientul nu zice nimic (o locatie), taximetristul ii poate da [<span style="color:var(--pink);">/eject</span>] (<span style="color:red;">sanctiune: Faction Warn</span>). <strong>Puteti scrie in aceeasi propozitie de exemplu:  RO: Unde doresti sa mergi? / EN: Where do you want to go?</strong>
 
 <span style="color:var(--pink);">5.12</span> Un taximetrist are dreptul sa dea afara [<span style="color:var(--pink);">/eject</span>] un client din masina atunci cand: 
 
 - acesta il insulta sau acuza sub orice forma verbala jignitoare.
 - acesta doreste sa fie plimbat, cand sunt alte comenzi de indeplinit.
 - acesta refuza sa specifice o locatie exacta ori id-ul unei case sau biz.
-- acesta nu spune nimic cand este intrebat de 3 ori la rand, atat in romana cat si in engleza, unde doreste sa mearga.
+- acesta nu spune nimic cand este intrebat de locatia unde vrea sa fie dus, atat in romana cat si in engleza.
 - acesta este AFK atunci cand se ajunge la destinatie.
 - acesta urca cu arma in mana si trage cu aceasta din masina (H), dupa ce ati dat [<span style="color:var(--pink);">/eject</span>] il rugati sa urce iar in taxi fara a mai face acest lucru. Daca acesta refuza sa urce sau repeta acest lucru, puteti da [<span style="color:var(--pink);">/eject</span>] si sa preluati alte comenzi (dovezi cu refuzul sau incalcare repetata).
 - acesta urca in taxi si taximetristul are deja acceptata o comanda. Necesita dovada (SS) pentru a demonstra ca aveati comanda in acel timp.

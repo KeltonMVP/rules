@@ -162,14 +162,14 @@ Failure to provide evidence in cases of complaints regarding [<span style="color
 
 <span style="color:var(--pink);">5.10</span> You have the right to refuse a order if the location requested by the client is not listed as important locations on the forum, is not available on [<span style="color:var(--pink);">/gps</span>], the client does not provide a landmark or house/biz ID (for example, if they say they want to go to Verdant Meadows, you are not obligated to take them, but if they say they want to go to the deserted airport lv at the biz rent plane, you must take them) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.11</span> The taxi driver is required to ask the client at least <span style="color:var(--pink);">3 times</span> for the location (<span style="color:var(--pink);">also in Romanian</span>), if after these 3 questions (with at least 5 seconds between them, 15 seconds since the last one) the client does not say anything (a location), the taxi driver can use [<span style="color:var(--pink);">/eject</span>] (<span style="color:red;">sanction: Faction Warn</span>). <strong>You can write in the same sentence for example: RO: Unde vrei sa mergi? / EN: Where do you want to go?</strong>
+<span style="color:var(--pink);">5.11</span> The taxi driver is required to ask the client at least <span style="color:var(--pink);">once</span> for the location (<span style="color:var(--pink);">also in Romanian</span>), if after 30 seconds since the question was asked the client does not say anything (a location), the taxi driver can use [<span style="color:var(--pink);">/eject</span>] (<span style="color:red;">sanction: Faction Warn</span>). <strong>You can write in the same sentence for example: RO: Unde vrei sa mergi? / EN: Where do you want to go?</strong>
 
 <span style="color:var(--pink);">5.12</span> A taxi driver has the right to kick out [<span style="color:var(--pink);">/eject</span>] a client from the vehicle when:
 
 - they insult or accuse you in any derogatory verbal form.
 - they want to be driven around when there are other orders to fulfill.
 - they refuse to specify an exact location or the ID of a house or business.
-- they say nothing when asked three times in a row, both in Romanian and in English, where they want to go.
+- they say nothing when asked where they want to go, both in Romanian and in English.
 - they are AFK when the destination is reached.
 - they get into the taxi with a weapon in hand and shoot from the vehicle (H), after you have used [<span style="color:var(--pink);">/eject</span>] ask them to get back into the taxi without doing this again. If they refuse to get in or repeat this behavior, you can use [<span style="color:var(--pink);">/eject</span>] and take other orders (provide evidence of refusal or repeated violation).
 - they get into the taxi and the taxi driver already has another order accepted. It requires proof (SS) to demonstrate that you had an order at that time.
