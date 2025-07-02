@@ -134,7 +134,7 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 
 <span style="color:var(--pink);">5.4</span> Este interzis sa deranjati in orice mod, de la efectuarea raportului pe colegii vostri, indiferent din ce companie taxi sunt (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">5.5</span> In timpul unei comenzi nu aveti voie sa vorbiti la telefon sau prin mesaje. Daca e ceva urgent intrebati clientul daca va da voie (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.5</span> In timpul unei comenzi nu aveti voie sa vorbiti la telefon sau prin mesaje. Daca e ceva urgent intrebati clientul daca va da voie (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> daca se repeta).
 
 <span style="color:var(--pink);">5.5.1</span> In caz ca explodati taxiul, indiferent de motiv sau in caz ca luati crash si aveti client in masina, obligatia voastra este sa va conectati pe joc cat mai repede posibil si sa contactati clientul prin [<span style="color:var(--pink);">/sms</span>] sau prin alte mijloace, intrebandu-l daca mai doreste sa reluati cursa. In caz de reclamatie aveti obligatia de a avea dovezi din momentul discutiei cu clientul (<span style="color:red;">sanctiune: Faction Warn</span>).
 

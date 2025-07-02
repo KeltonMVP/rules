@@ -134,7 +134,7 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 
 <span style="color:var(--pink);">5.4</span> It is forbidden to disturb in any way, from making reports on your colleagues, regardless of which taxi company they belong to (<span style="color:red;">Faction Warn</span>).
 
-<span style="color:var(--pink);">5.5</span> During an order, you are not allowed to talk on the phone or through messages. If it's urgent, ask the client for permission (<span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">5.5</span> During an order, you are not allowed to talk on the phone or through messages. If it's urgent, ask the client for permission (<span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated).
 
 <span style="color:var(--pink);">5.5.1</span> In case you explode the taxi, regardless of the reason, or if you experience a crash with a client in the car, your obligation is to reconnect to the game as soon as possible and contact the client via [<span style="color:var(--pink);">/sms</span>] or other means, asking if they still want to continue the ride. In case of a complaint, you are required to have evidence from the moment of the discussion with the client (<span style="color:red;">Faction Warn</span>).
 
