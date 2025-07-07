@@ -238,3 +238,5 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - being late for 30+ minutes - <span style="color:red;">Faction Warn (FW)</span>
 
 <span style="color:var(--pink);">11.5</span> Deathmatching without having a contract will be sanctioned with <span style="color:red;">Faction Warn.</span>
+
+<span style="color:var(--pink);">11.6</span> The faction chat can be disabled/enabled only with the approval of a Subleader or the Leader (<span style="color:red;">sanction: Faction Warn</span>).

@@ -238,3 +238,5 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - intarziere de 30+ minute - <span style="color:red;">Faction Warn (FW)</span>
 
 <span style="color:var(--pink);">11.5</span> Deathmatch-ul fara a avea contract va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
+
+<span style="color:var(--pink);">11.6</span> Se poate dezactiva/activa chatul factiunii doar cu acordul unui Sublider sau al Liderului (<span style="color:red;">sanctiune: Faction Warn</span>).
