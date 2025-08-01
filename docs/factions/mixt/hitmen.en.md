@@ -63,9 +63,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.2</span> The weapons you can use to carry out a contract are: <span style="color:var(--pink);">Sniper, SD Pistol, and Knife.</span>
 
-<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage / Training Room or City Hall. (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.3</span> You can carry out a contract using a Knife or SD Pistol only when the target is inside a house / faction HQ / clan HQ / business / PD Garage / Training Room / City Hall or Bunker. (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">4.4.1</span> Completing contracts with weapons other than those mentioned above, or using SD Pistol and Knife when the target is not inside a house / faction HQ / clan HQ / business / PD Garage or City Hall will result in <span style="color:red;">your dismissal with 60 FP.</span>
+<span style="color:var(--pink);">4.4.1</span> Completing contracts with weapons other than those mentioned above, or using SD Pistol and Knife when the target is not inside a house / faction HQ / clan HQ / business / PD Garage / City Hall or Bunker will result in <span style="color:red;">your dismissal with 60 FP.</span>
 
 <span style="color:var(--pink);">4.4</span> If your target is in a house with their back against the wall or is moving, making it impossible to complete the contract with a Knife, you are permitted to use the SD PISTOL. Anyone caught abusing this weapon will be sanctioned with a <span style="color:red;">Faction Warn</span> on the first offense and <span style="color:red;">dismissal with 60 FP</span> if repeated.
 
@@ -73,10 +73,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.6</span> In the case of targets located in HQ / Training Room, you have the option to carry out the contract as follows: use [<span style="color:var(--pink);">/ram</span>] if your target is in the HQ or [<span style="color:var(--pink);">/enter</span>] if the target is in the Training Room and execute the contract. If there is a <span style="color:var(--pink);">meeting / training session</span>, leave the area entirely, make sure nobody sees you, and use [<span style="color:var(--pink);">leavehit</span>].
 
-<span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you have two options to carry out the contract:
-
-- wait until the target leaves the Bunker and then execute the contract.
-- you can use the command [<span style="color:var(--pink);">leavehit</span>] and take another contract.
+<span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you can carry out the contract only if you are not wanted.
 
 <span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
 
