@@ -308,7 +308,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 ### Confiscarea <span style="color:orange;">Licentei Auto</span>
 
 - depasire viteza legala intre 50-100km/h - <span style="color:var(--pink);">1 ora</span>
-- condus neregulamentar, deranj trafic, parcare neregulamentara sau folosire NOS (in miscare pe un drum public) - <span style="color:var(--pink);">1 ora</span>
+- condus neregulamentar, deranj trafic, parcare neregulamentara, izbirea/impingerea/blocarea intentionata a radarului politiei sau folosire NOS (in miscare pe un drum public) - <span style="color:var(--pink);">1 ora</span>
 - depasire viteza legala peste 100km/h - <span style="color:var(--pink);">2 ore</span>
 - repetarea unei fapte precizata anterior in timp ce are deja suspend primit (in minutele ramase dupa suspend) - <span style="color:var(--pink);">3 ore</span>
 - condus cu o alcoolemie de 3.0 - <span style="color:var(--pink);">1 ora</span>

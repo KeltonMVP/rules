@@ -308,7 +308,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 ### Confiscating the <span style="color:orange;">Driving License</span>
 
 - speeding between 50-100 km/h over the limit - <span style="color:var(--pink);">1 hour</span>
-- reckless driving, disturbing traffic, illegal parking, or using NOS (while moving on a public road) - <span style="color:var(--pink);">1 hour</span>
+- reckless driving, disturbing traffic, illegal parking, slamming/pushing/blocking intentionally the police radar or using NOS (while moving on a public road) - <span style="color:var(--pink);">1 hour</span>
 - speeding over 100 km/h over the limit - <span style="color:var(--pink);">2 hours</span>
 - repeating a previously specified offense while already under a received suspension (within the remaining minutes of the suspension) - <span style="color:var(--pink);">3 hours</span>
 - driving with a blood alcohol concentration of 3.0 - <span style="color:var(--pink);">1 hour</span>
