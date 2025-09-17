@@ -146,7 +146,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 ## 6. Chatul Factiunii
 
-<span style="color:var(--pink);">6.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 30.000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">6.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 30.000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> in functie de gravitate).
 
 <span style="color:var(--pink);">6.2</span> Nu aveti voie sa dati [<span style="color:var(--pink);">/TOG</span>] la chatul factiuni. Exceptie facand membrii Rank 4+ care dau test de intrare in factiune cu candidatii sau cu aprobarea unui Rank 6+ (<span style="color:red;">sanctiune: Faction Warn</span>).
 

@@ -146,7 +146,7 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 ## 6. Faction Chat
 
-<span style="color:var(--pink);">6.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $30,000</span>, <span style="color:red;">Faction Warn</span> second offense).
+<span style="color:var(--pink);">6.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $30,000</span>, <span style="color:red;">Faction Warn</span> depending on severity).
 
 <span style="color:var(--pink);">6.2</span> You are not allowed to use [<span style="color:var(--pink);">/TOG</span>] in faction chat. Exception being Rank 4+ members conducting entrance tests with candidates or with approval from Rank 6+ members (<span style="color:red;">sanction: Faction Warn</span>).
 
