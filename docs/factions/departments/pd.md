@@ -208,6 +208,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">9.3</span> Inainte de a pune radar intr-o anumita zona trebuie sa intrebati de 3 ori pe [<span style="color:var(--pink);">/d</span>], cu minim 10 secunde intre ele, daca zona este libera, iar daca zona nu este din orasul vostru sa cereti permisiunea unui rank 4+ din acel oras, pe [<span style="color:var(--pink);">/d</span>]. Daca nu primiti niciun raspuns, dupa 1 minut puteti amplasa radarul. Daca sunteti refuzat (cu un motiv intemeiat) trebuie sa asteptati 5 minute pana la urmatoarea cerere.
 
+!!! danger "Important"
+    Regula de mai sus nu se aplica atunci cand un coleg anunta pe [<span style="color:var(--pink);">/d</span>] eliberarea unei zone si aveti dovada cu acest anunt, iar voi preluati respectiva zona.
+
 <span style="color:var(--pink);">9.3.1</span> Sunteti obligati sa aveti dovezi cu privire la acordul primit sau in lipsa acestuia, cu acele 3 intrebari pe [/d]. In caz ca nu aveti, veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
 <span style="color:var(--pink);">9.3.2</span> Daca un rank mai mic de 4 va ofera dreptul de a pune radar in alt oras, ignorati-l si continuati sa intrebati pe [<span style="color:var(--pink);">/d</span>] pana cand acumulati 3 solicitari, in caz contrar riscati sa fiti sanctionati ca si cum n-ati avea dovada pentru radar.

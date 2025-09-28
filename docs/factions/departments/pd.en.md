@@ -208,6 +208,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">9.3</span> Before placing a radar in a specific area, you must ask 3 times on [<span style="color:var(--pink);">/d</span>], with a minimum of 10 seconds between each, if the area is clear. If the area is not within your city, you must request permission from a rank 4+ member from that city on [<span style="color:var(--pink);">/d</span>]. If you don't receive an answer, you may place the radar after 1 minute. If you are refused (with a valid reason), you must wait 5 minutes before making another request.
 
+!!! danger "Important"
+    The above rule does not apply when a colleague announces on [<span style="color:var(--pink);">/d</span>] that an area has been cleared and you have proof of this announcement, and you take over that area.
+
 <span style="color:var(--pink);">9.3.1</span> You are required to have evidence of the agreement received or, in its absence, with those 3 inquiries on [<span style="color:var(--pink);">/d</span>]. If you do not have it, you will be sanctioned with <span style="color:red;">Faction Warn.</span>
 
 <span style="color:var(--pink);">9.3.2</span> If a rank lower than 4 grants you the right to place a radar in another city, ignore it and continue to ask on [<span style="color:var(--pink);">/d</span>] until you accumulate 3 requests; otherwise, you risk being penalized as if you did not have evidence for the radar.
