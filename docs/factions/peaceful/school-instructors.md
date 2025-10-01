@@ -133,7 +133,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 <span style="color:var(--pink);">5.6</span> Daca clientul pica testul trebuie sa ii explicati unde a gresit. Il puteti sfatui sa verifice pe forum topicul [Testul Fiecarei Licente](https://forum.b-zone.ro/topic/246142--) pentru a fi mai pregatit pe viitor.
 
-<span style="color:var(--pink);">5.7</span> In cazul in care clientul este AFK, il asteptati 5 minute si intre timp strangeti dovezi, iar daca nu revine in game puteti sa ii picati testele de licente / anulati comanda.
+<span style="color:var(--pink);">5.7</span> In cazul in care clientul este AFK, il asteptati 5 minute si intre timp strangeti dovezi, iar daca nu revine in game puteti sa ii picati testele de licente / anulati comanda (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 !!! example "Exemplu"
     Xulescu (ID) a picat testul pentru Weapon License (AFK).

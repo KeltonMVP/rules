@@ -133,7 +133,7 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 <span style="color:var(--pink);">5.6</span> If the client fails the test, you must explain where they went wrong. You can advise them to check the forum topic [Testul Fiecarei Licente](https://forum.b-zone.ro/topic/246142--) to be better prepared in the future.
 
-<span style="color:var(--pink);">5.7</span> If the client is AFK, wait for them for 5 minutes and gather evidence in the meantime, and if they do not return in the game, you can fail the license tests / cancel the command.
+<span style="color:var(--pink);">5.7</span> If the client is AFK, wait for them for 5 minutes and gather evidence in the meantime, and if they do not return in the game, you can fail the license tests / cancel the command (<span style="color:red;">sanction: Faction Warn</span>).
 
 !!! example "Exemple"
     Xulescu (ID) failed the test for Weapon License (AFK).
