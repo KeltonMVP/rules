@@ -30,8 +30,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/imp]</span> - to see online players wearing a Sons of Anarchy skin.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
 - <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
-- <span style="color:var(--pink);">[/fq]</span> - shows the quota of I/E vehicles that must be reached.  
-- <span style="color:var(--pink);">[/selledrugs]</span> - allows the sale of improved drugs.  
+- <span style="color:var(--pink);">[/fq]</span> - shows the quota of I/E vehicles that must be reached.
+- <span style="color:var(--pink);">[/selledrugs]</span> - allows the sale of improved drugs.
 - <span style="color:var(--pink);">[/useedrugs]</span> - allows the use of improved drugs.
 
 ## 2. Faction Skins
@@ -146,7 +146,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">9.1</span> The leader and subleaders are the only ones who can assign plots and rotate them among faction members.
 
-!!! tip "Useful information"  
+!!! tip "Useful information"
     At each Payday, members with plots are informed about their current status.
 
     Any member with at least rank 4 can water the plot even if they do not own it.
@@ -159,7 +159,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.1</span> The minimum selling price per gram is <span style="color:var(--pink);">$200</span> during the week (<span style="color:var(--pink);">Monday-Friday</span>) and at least <span style="color:var(--pink);">$100</span> on the weekend. Selling at a lower price leads to sanctions (<span style="color:red">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.2</span> The maximum quantity that can be sold in a single transaction is 1,000 grams, and the maximum amount allowed by the script is $50,000.
+<span style="color:var(--pink);">10.2</span> The maximum quantity that can be sold in a single transaction is 1,000 grams, and the maximum amount allowed by the script is $100,000.
 
 <span style="color:var(--pink);">10.3</span> To earn a point in the report from the sale of improved drugs, the following conditions must be met:
 

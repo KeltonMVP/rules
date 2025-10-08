@@ -18,7 +18,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fgetdrugs]</span> - cu ajutorul acestei comenzi puteti lua droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fgetmaterials]</span> - cu ajutorul acestei comenzi puteti lua materiale in seiful factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
-- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii. 
+- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii.
 - <span style="color:var(--pink);">[/work]</span> - pentru a incepe furtul unei motociclete personale sau de politie.
 - <span style="color:var(--pink);">[/picklock]</span> - pentru a urca intr-o motocicleta personala incuiata.
 - <span style="color:var(--pink);">[/order]</span> - pentru a procura diverse pachete de arme.
@@ -159,7 +159,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.1</span> Pretul minim de vanzare per gram este de <span style="color:var(--pink);">$200</span> pe parcursul saptamanii (<span style="color:var(--pink);">Luni-Vineri</span>) si de minim <span style="color:var(--pink);">$100</span> in weekend. Vanzarea la un pret mai mic duce la sanctiuni (<span style="color:red">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.2</span> Cantitatea maxima ce poate fi vanduta intr-o singura tranzactie este de 1,000 grame iar suma maxima permisa de script este de $50,000.
+<span style="color:var(--pink);">10.2</span> Cantitatea maxima ce poate fi vanduta intr-o singura tranzactie este de 1,000 grame iar suma maxima permisa de script este de $100,000.
 
 <span style="color:var(--pink);">10.3</span> Pentru a primi punct la raport din vanzarea de droguri imbunatatite trebuie sa fie indeplinite urmatoarele conditii:
 
