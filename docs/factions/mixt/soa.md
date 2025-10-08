@@ -30,6 +30,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/imp]</span> - pentru a vedea jucatorii online care poarta un skin Sons of Anarchy.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
 - <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
+- <span style="color:var(--pink);">[/fq]</span> - arata cota vehiculelor de I/E care trebuie atinsa.
+- <span style="color:var(--pink);">[/selledrugs]</span> - permite vanzarea de droguri imbunatatite.
+- <span style="color:var(--pink);">[/useedrugs]</span> - permite folosirea de droguri imbunatatite.
 
 ## 2. Skinurile Factiunii
 
@@ -114,7 +117,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">7.3</span> Nu aveti voie sa extorcati colegii de factiune de pe conturi secundare (<span style="color:red">sanctiune: Faction Warn</span> la cel care extorcheaza si la cel care ajuta daca exista dovezi).
 
-<span style="color:var(--pink);">7.4</span> Nu aveti voie sa atacati jucatorii pe care ii extorcati. Extorcarea se poate finaliza cu succes si fara a face DM, , exceptand atunci cand voi sunteti atacati primii, putand sa va aparati <span style="color:red">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">7.4</span> Nu aveti voie sa atacati jucatorii pe care ii extorcati. Extorcarea se poate finaliza cu succes si fara a face DM, exceptand atunci cand voi sunteti atacati primii, putand sa va aparati (<span style="color:red">sanctiune: Faction Warn</span>).
+
+!!! info "Nota Informativa"
+    Daca jucatorul extorcat va omoara, va primi inapoi toate bunurile furate.
 
 ## 8. Amenzi
 
@@ -135,3 +141,46 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">8.8</span> Daca folositi comanda [<span style="color:var(--pink);">/fvr</span>] fara sa anuntati - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertiment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de gravitate, intamplari
 
 <span style="color:var(--pink);">8.9</span> Daca folositi comanda [<span style="color:var(--pink);">/fvr</span>] dupa ce un coleg de rank 5+ a anuntat deja acest lucru - <span style="color:var(--green);">50,000$</span>
+
+## 9. Drugs Lab
+
+<span style="color:var(--pink);">9.1</span> Liderul si subliderii sunt singurii care pot atribui parcele si le pot roti intre membrii factiunii.
+
+!!! tip "Informatii utile"
+    La fiecare Payday membrii cu parcele sunt informati despre starea curenta a acesteia.
+
+    Orice membru de minim rank 4 poate uda parcela chiar daca nu ii apartine.
+
+    Udarea parcelei scade timpul de crestere cu cate 1 ora. Udarea se poate face o data la fiecare 4 ore.
+
+    Parcela ajunsa la maturitate ofera un timp de 12 ore in care proprietarul poate sa culeaga plantele, altfel acestea se ofilesc si progresul se reseteaza.
+
+## 10. Droguri Imbunatatite
+
+<span style="color:var(--pink);">10.1</span> Pretul minim de vanzare per gram este de <span style="color:var(--pink);">$200</span> pe parcursul saptamanii (<span style="color:var(--pink);">Luni-Vineri</span>) si de minim <span style="color:var(--pink);">$100</span> in weekend. Vanzarea la un pret mai mic duce la sanctiuni (<span style="color:red">sanctiune: Faction Warn</span>).
+
+<span style="color:var(--pink);">10.2</span> Cantitatea maxima ce poate fi vanduta intr-o singura tranzactie este de 1,000 grame iar suma maxima permisa de script este de $50,000.
+
+<span style="color:var(--pink);">10.3</span> Pentru a primi punct la raport din vanzarea de droguri imbunatatite trebuie sa fie indeplinite urmatoarele conditii:
+
+- Minim 5 grame de droguri vandute.
+- Cumparatorul sa aiba IP diferit de vanzator.
+- Cumparatorul sa nu fie membru SoA.
+- Sa fi trecut minim 10 minute de la ultima tranzactie valida cu acel cumparator.
+
+## 11. Sistemul de Import/Export
+
+<span style="color:var(--pink);">11.1</span> Sistemul de Import/Export se va reseta saptamanal Duminica la ora 23:00.
+
+<span style="color:var(--pink);">11.2</span> Conditii pentru un vehicul sa fie eligibil la import/export:
+
+- vehiculul trebuie sa fie personal (nu vehicule de politie, RC-uri, vehicule inchiriate, vehicule de clan, factiune, etc.).
+- proprietarul sa nu fie membru SoA, coleg de clan cu tine sau sa imparta adresa ta IP.
+- furturile repetate ale aceluiasi vehicul sunt ignorate.
+
+<span style="color:var(--pink);">11.3</span> La finalizarea cotei import/export se activeaza un buff aleatoriu pentru restul timpului ramas din saptamana:
+
+- 10% randament al drogurilor imbunatatite.
+- 6 ore mai putin pentru cresterea plantelor in Drugs Lab.
+- 2 minute mai putin de asteptat la Car Jacker (timpul standard fiind 4 minute).
+- 50% sansa de evitare a Wantedului in timpul muncii la Car Jacker.
