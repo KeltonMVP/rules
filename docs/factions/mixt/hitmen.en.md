@@ -75,7 +75,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you can carry out the contract only if you are not wanted.
 
-<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span>, <span style="color:var(--pink);">Caligula’s LV</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
 
 <span style="color:var(--pink);">4.9</span> Contracts cannot be executed on targets who are using [<span style="color:var(--pink);">/sleep</span>].
 

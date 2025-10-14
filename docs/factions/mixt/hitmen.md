@@ -75,7 +75,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.7</span> In cazul tintelor aflate in Bunker, aveti posibilitatea de a efectua contractul doar daca nu aveti wanted.
 
-<span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
+<span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span>, <span style="color:var(--pink);">Caligula’s LV</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
 
 <span style="color:var(--pink);">4.9</span> Nu se pot efectua contracte pe tintele care sunt pe [<span style="color:var(--pink);">/sleep</span>]. 
 
