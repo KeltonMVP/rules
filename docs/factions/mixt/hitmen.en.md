@@ -30,6 +30,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
         - Order 3: (rank 2+) Knife, SD Pistol, MP5, AK47, Sniper.
     - <span style="color:var(--pink);">[Ranks]</span> - displays online members and their ranks.
     - <span style="color:var(--pink);">[Undercover]</span> - ensures your secret identity for contract execution.
+    - <span style="color:var(--pink);">[Coverskin]</span> - select an undercover skin for contract execution.
     - <span style="color:var(--pink);">[Logout]</span> - logs you out from the agency's laptop.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
 - <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
