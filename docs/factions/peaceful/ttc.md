@@ -9,18 +9,19 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 ## 1. Comenzile Factiunii
 
 - <span style="color:var(--pink);">[/f]</span> - pentru a putea discuta cu membrii factiunii.
-- <span style="color:var(--pink);">[/accept < mechanic > < ID >]</span> - pentru a accepta un apel. Va va aparea un checkpoint rosu pe harta, acolo se afla jucatorul care are nevoie de mecanic.
+- <span style="color:var(--pink);">[/accept < towtruck > < ID >]</span> - pentru a accepta un apel. Va va aparea un checkpoint rosu pe harta, acolo se afla jucatorul care are nevoie de mecanic.
 - <span style="color:var(--pink);">[/duty]</span> - pentru a putea folosi vehiculele factiunii.
 - <span style="color:var(--pink);">[/tow]</span> - tractezi un vehicul.
 - <span style="color:var(--pink);">[/towpoints]</span> - verifici cate puncte de tractare ai disponibile.
 - <span style="color:var(--pink);">[/clothes]</span> - pentru a schimba skinul in magazinele de haine, in HQ sau in casa.
+- <span style="color:var(--pink);">[/fvr]</span> - cu ajutorul acestei comenzi se respawneaza toate masinile factiunii (rank 5+).
 - <span style="color:var(--pink);">[/fvs]</span> - pentru a spawna un vehicul al factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
 - <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
 - <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii. 
-- <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii online, iar cei on-duty sunt evidentiati cu verde (Rank 3+).
+- <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii on-duty.
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre mecanici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/dl]</span> - afiseaza HP-ul masinii, necesar cand tractati.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
