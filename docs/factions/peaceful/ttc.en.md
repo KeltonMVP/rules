@@ -9,18 +9,19 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 ## 1. Faction Commands
 
 - <span style="color:var(--pink);">[/f]</span> - to be able to discuss with faction members.
-- <span style="color:var(--pink);">[/accept < mechanic > < ID >]</span> - to accept a call. You will see a red checkpoint on the map, where the player in need of a mechanic is located.
+- <span style="color:var(--pink);">[/accept < towtruck > < ID >]</span> - to accept a call. You will see a red checkpoint on the map, where the player in need of a mechanic is located.
 - <span style="color:var(--pink);">[/duty]</span> - to be able to use faction vehicles.
 - <span style="color:var(--pink);">[/tow]</span> - tow a vehicle.
 - <span style="color:var(--pink);">[/towpoints]</span> - check how many towing points you have available.
 - <span style="color:var(--pink);">[/clothes]</span> - to change your skin at clothing stores, HQ, or at home.
+- <span style="color:var(--pink);">[/fvr]</span> - with this command, all faction vehicles respawn (rank 5+).
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/timestamp]</span> - shows the time in chat. This command must always be active.
 - <span style="color:var(--pink);">[/fdeposit]</span> - add a sum of money to the faction safe.
 - <span style="color:var(--pink);">[/fputdrugs]</span> - deposit drugs into the faction safe.
 - <span style="color:var(--pink);">[/fputmaterials]</span> - deposit materials into the faction safe.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction blacklist.
-- <span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).
+- <span style="color:var(--pink);">[/onduty]</span> - displays a list of all on-duty members.
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all mechanic service calls that can be accepted.
 - <span style="color:var(--pink);">[/dl]</span> - displays the HP of a vehicle, necessary when towing.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
