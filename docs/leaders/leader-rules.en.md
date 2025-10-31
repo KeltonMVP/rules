@@ -169,7 +169,7 @@
 !!! danger "Informational Note"
 	As a leader, you can view a field called <span style="color:var(--pink);">Possible Rank</span> in the Faction tab on the player's profile on the website, which indicates the rank you should assign when demoting the subleader.
 
-	If the player has completed more than half of the waiting time for the next rank, the system is designed to round up to the higher rank. If the player's seniority is less than half the time required for the next rank, they will receive the lower rank.  
+	If the player has completed more than half of the waiting time for the next rank, the system is designed to round up to the higher rank. If the player's seniority is less than half the time required for the next rank, they will receive the lower rank.
 
 <span style="color:var(--pink);">2.2.2</span> The former subleader's next promotion will take place normally, just like any other member. The calculation for the next rank starts from the date they were demoted.
 
@@ -280,9 +280,9 @@ Violation of the above rules will be sanctioned with <span style="color:red;">Ve
 - each accepted player must be given sufficient time to take the tests and have someone to take them with, <span style="color:var(--pink);">having a maximum of 72 hours from the acceptance of the application.</span> It is preferable to specify a contact person and a time slot for them to appear (<span style="color:red;">sanction: Leader Warn or Faction Warn if they are a tester</span>).
 
 !!! danger "Important"
-    In case the test is conducted incorrectly, <span style="color:red;">the tester receives a faction warn</span> and the candidate must retake the tests with another tester.
+    In case the test is conducted incorrectly, <span style="color:red;">the tester receives a faction warn</span> and the candidate must retake the tests with another tester and different set of questions.
 
-    In situations where the candidate is active on the server but fails to find any tester to conduct the tests because they are inactive, the testing duration will be extended, and the Leader will be held accountable.  
+    In situations where the candidate is active on the server but fails to find any tester to conduct the tests because they are inactive, the testing duration will be extended, and the Leader will be held accountable.
 
 #### <span style="color:#3baad5;">Theoretical Test</span>
 
@@ -383,17 +383,17 @@ Violation of any of the above rules will result in penalties (<span style="color
 
 <span style="color:var(--pink);">6.1.1</span> Leaders are obligated to respond to all complaints addressed to their members within 48 hours of their opening.
 
-<span style="color:var(--pink);">6.1.2</span> If the Leader has an inactivity request, they will have 24 hours from the expiration of 
+<span style="color:var(--pink);">6.1.2</span> If the Leader has an inactivity request, they will have 24 hours from the expiration of
 the request to respond to complaints.
 
 <span style="color:var(--pink);">6.1.3</span> In the event that the Leader has doubts about the complaint and seeks help from the admins without receiving a response from them within those 48 hours, then that respective duration no longer applies.
 
 <span style="color:var(--pink);">6.1.4</span> The complaint from a member with an inactivity request will remain open until 24 hours after the expiration of the request.
-    
+
 - during this time, the Leader is not allowed to promote the member or accept their resignation request.
 
 <span style="color:var(--pink);">6.1.5</span> The evidence in complaints must be valid, meaning: they must belong to the person making the complaint, not be older than 3 days, and include the name of the complainant, the server, as well as the date and time.
-    
+
 - complaints without valid evidence will be ignored.
 - complaints without evidence will be ignored.
 - complaints can be resubmitted with valid evidence.
@@ -1173,7 +1173,7 @@ Violation of all the above rules will be penalized (<span style="color:red;">san
 <span style="color:var(--pink);">8.1.4</span> Leaders are permitted to play on other accounts on the same server with approval from faction managers (admins 4+).
 
 <span style="color:var(--pink);">8.1.5</span> A Leader Warn or a Verbal Warning in the Leader position can be removed after <span style="color:var(--pink);">at least one month</span> from receiving it if no further punishments have been issued in the meantime.
-	
+
 - these punishments will only be removed <span style="color:var(--pink);">at the Leader's request</span> and <span style="color:var(--pink);">only</span> with the agreement of a faction manager (admin 4+) if they believe the Leader deserves to have their punishment removed.
 
 - receiving another punishment, Verbal Warning or Leader Warn, will increase the removal time of the old punishment by 7 days.
@@ -1222,7 +1222,7 @@ Members will be sanctioned as follows:
 
 !!! danger "Important"
 	  An activity with mandatory attendance to which these sanctions apply must last between 40 and 60 minutes.
-  
+
     Activities with mandatory attendance must be announced at least one week in advance (forum post, FMOTD), and the only way for members to be excused is through an open leave request on the website in advance.
 
 <span style="color:var(--pink);">8.3.4</span> If a Leader wants to organize an activity with mandatory attendance, they must have a well-founded reason (ex: a meeting after a new Leader has been promoted, after major rule changes, etc.) and request approval from a faction manager (admin 4+).

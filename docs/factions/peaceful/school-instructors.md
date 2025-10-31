@@ -23,7 +23,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
 - <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
-- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii. 
+- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii.
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii online, iar cei on-duty sunt evidentiati cu verde (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre instructori ce pot fi acceptate.
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
@@ -56,7 +56,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">3.5</span> Membrii ce dispun de masini personale sunt rugati sa circule, ba chiar sa incerce sa vanda licente cu masinile lor personale, deoarece factiunea nu dispune de prea multe masini, pentru toti membrii.
 
-<span style="color:var(--pink);">3.6</span> Inainte de a folosi comanda [<span style="color:var(--pink);">/fvr</span>], fiecare membru trebuie sa anunte pe chatul [<span style="color:var(--pink);">/sx</span>] cu minim 5 secunde in avans.
+<span style="color:var(--pink);">3.6</span> Inainte de a folosi comanda [<span style="color:var(--pink);">/fvr</span>], fiecare membru trebuie sa anunte pe chatul [<span style="color:var(--pink);">/sx</span>] cu minim 10 secunde in avans (<span style="color:red;">sanctiune: Amenda $50,000 + Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de abateri).
 
 ## 4. Licentele
 
@@ -81,7 +81,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">4.9</span> Membrii de rank 2+ care sunt la datorie au obligatia de a nu refuza clientii care le solicita acordarea de licente (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 !!! danger "Important"
-    Veti fi sanctionati daca parasiti intentionat serverul cand un jucator va cere licente si sunteti la datorie.<br/> 
+    Veti fi sanctionati daca parasiti intentionat serverul cand un jucator va cere licente si sunteti la datorie.<br/>
     Aveti dreptul de a refuza clientul daca nu sunteti [<span style="color:var(--pink);">/duty</span>].
 
 <span style="color:var(--pink);">4.10</span> Aveti obligatia de a face dovezi la toate testele pentru licentele pe care le acordati. Lipsa dovezilor la cererea liderului sau adminilor se sanctioneaza (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
@@ -201,4 +201,3 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 !!! danger "Important"
     Candidatii care nu respecta aceste reguli vor fi <span style="color:red;">sanctionati prin picarea testelor.</span>
-

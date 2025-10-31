@@ -19,7 +19,7 @@
 	Activitatea minima pe care o cerem e luata pe ultimele 3 luni de zile, respectiv <span style="color:var(--pink);">LUNA CURENTA + CELE DOUA LUNI anterioare</span> ei:<br/>
 
 	- pentru cele doua luni finalizate cerem minim 25 de ore jucate in fiecare luna, iar daca jucatorul a avut cerere de inactivitate aprobata vom scadea din cele 25 de ore minime cate 50 de minute pentru fiecare zi de inactivitate aprobata (Exemplu: Jucatorul are inactivitate 1 saptamana, vom scadea astfel 350 minute sau 5.83 ore din minimul de 25, astfel ca noul minim pe acea luna este de 19 ore aproximativ)<br/>
-	
+
 	- pentru luna in curs vom inmulti cifra zilei curente cu 50 de minute pentru a obtine un minim (Exemplu: Ne aflam in data de 15, minimul ar fi 750 minute sau 12.5 ore jucate). Daca jucatorul are inactivitate acceptata, vom proceda ca mai sus si vom scadea zilele de inactivitate pentru a obtine un nou minim.
 
 <span style="color:var(--green);">Criterii de baza cautate:</span>
@@ -41,7 +41,7 @@
 
 <span style="color:var(--pink);">1.1.2</span> De indata ce lista este finalizata si exista suficienti candidati, vor exista doua sondaje. Un prim sondaj in care vor vota toti adminii.
 
-<span style="color:var(--pink);">1.1.3</span> In functie de rezultat, primii 3 cei mai votati candidati vor ajunge la un sondaj secundar care va fi facut pentru membrii factiunii la care se cauta Lider. 
+<span style="color:var(--pink);">1.1.3</span> In functie de rezultat, primii 3 cei mai votati candidati vor ajunge la un sondaj secundar care va fi facut pentru membrii factiunii la care se cauta Lider.
 
 <span style="color:var(--pink);">1.1.4</span> Daca doar 2 candidati obtin majoritatea voturilor, sondajul va fi efectuat doar cu 2 candidati. Daca 4 candidati au un numar de vot apropiat, vom adauga pe cat posibil 4 candidati.
 
@@ -90,7 +90,7 @@
 
 <span style="color:var(--pink);">1.3.4</span> Cererile de inactivitate se vor face in canalul dedicat de pe discordul staffului.
 
-<span style="color:var(--pink);">1.3.5</span> Liderii care nu au minim o luna vechime nu vor putea face cereri de inactivitate mai 
+<span style="color:var(--pink);">1.3.5</span> Liderii care nu au minim o luna vechime nu vor putea face cereri de inactivitate mai
 mari de 5 zile.
 
 <span style="color:var(--pink);">1.3.6</span> Liderii au dreptul la cel mult 14 zile de inactivitate o data la 60 de zile.
@@ -272,16 +272,16 @@ Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Av
 
 <span style="color:var(--pink);">4.5</span> Cei acceptati pentru teste vor sustine un test de cunoastere a regulamentului general si a regulamentului intern.
 
-- testerii au obligatia de a tine o evidenta cu dovezi foto sau video pe parcursul testelor teoretice <span style="color:var(--pink);">timp de 7 zile.</span> 
-    - aceasta evidenta trebuie sa contina dovezi cu toate persoanele testate, a intrebarilor adresate acestora si a raspunsurilor oferite de ele. 
-    - dovezile nu le vor publica niciunde decat la cererea unui Lider sau admin. 
+- testerii au obligatia de a tine o evidenta cu dovezi foto sau video pe parcursul testelor teoretice <span style="color:var(--pink);">timp de 7 zile.</span>
+    - aceasta evidenta trebuie sa contina dovezi cu toate persoanele testate, a intrebarilor adresate acestora si a raspunsurilor oferite de ele.
+    - dovezile nu le vor publica niciunde decat la cererea unui Lider sau admin.
     - in cazul in care se solicita aceste dovezi si nu exista, membrul responsabil cu testul <span style="color:red;">primeste rank down iar cel testat trebuie sa redea testele.</span>
 - testerii trebuie sa prezinte regulamentul testului inainte de a-l sustine cu jucatorul si sa se asigure ca acesta l-a inteles cat si care sunt situatiile in care poate pica testul.
 - nu trebuie sa existe discriminari sau diferentieri de niciun fel intre jucatorii cu acelasi nivel de experienta ori a jucatorilor straini.
 - fiecarui jucator acceptat trebuie sa i se ofere suficient timp sa sustina testele si sa aiba cu cine sa le sustina, <span style="color:var(--pink);">avand cel mult 72 de ore de la acceptarea aplicatiei.</span> De preferat precizati-le o persoana de contact si un interval orar la care se pot prezenta (<span style="color:red;">sanctiune: Leader Warn sau Faction Warn daca e tester</span>).
 
 !!! danger "Important"
-    In cazul in care testul este dat in mod incorect, <span style="color:red;">testerul primeste faction warn</span> iar cel testat trebuie sa redea testele cu un alt tester.
+    In cazul in care testul este dat in mod incorect, <span style="color:red;">testerul primeste faction warn</span> iar cel testat trebuie sa redea testele cu un alt tester si alt set de intrebari.
 
     In situatiile in care candidatul este activ pe server dar nu reuseste sa gaseasca niciun tester pentru a sustine testele deoarece acestia sunt inactivi, i se va prelungi durata pentru testare iar Liderul va fi tras la raspundere.
 
@@ -389,7 +389,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 <span style="color:var(--pink);">6.1.3</span> In situatia in care Liderul are nelamuriri legate de reclamatie si apeleaza la ajutorul adminilor fara a primi un raspuns din partea acestora in acele 48 de ore atunci respectiva durata nu se mai aplica.
 
 <span style="color:var(--pink);">6.1.4</span> Reclamatia membrului cu cerere de inactivitate va ramane deschisa pana la 24 de ore de la expirarea cererii.
-  
+
 - in tot acest timp Liderul nu are voie sa promoveze membrul sau sa-i accepte cererea de demisie.
 
 <span style="color:var(--pink);">6.1.5</span> Dovezile din reclamatii trebuie sa fie valide, asta inseamna: sa apartina persoanei care face reclamatia, sa nu fie mai vechi de 3 zile, sa aiba pe ele numele reclamantului, serverul cat si data si ora.
@@ -1173,7 +1173,7 @@ Incalcarea tuturor regulilor de mai sus se sanctioneaza (<span style="color:red;
 <span style="color:var(--pink);">8.1.4</span> Liderilor le este permis sa joace pe alte conturi pe acelasi server cu aprobare de la managerii de factiuni (adminii 4+).
 
 <span style="color:var(--pink);">8.1.5</span> Un Leader Warn sau Avertisment Verbal la functia de Lider poate fi inlaturat dupa <span style="color:var(--pink);">minim o luna de zile</span> de la primirea acestuia in cazul in care n-ati mai primit alte sanctiuni intre timp.
-	
+
 - acestea se vor inlatura numai <span style="color:var(--pink);">la cererea Liderului</span> si <span style="color:var(--pink);">numai</span> cu acordul unui manager de factiune (admin 4+) daca acesta considera ca Liderului merita sa-i fie stearsa sanctiunea.
 
 - primirea unei alte sanctiuni, Avertisment Verbal sau Leader Warn, va aduce o intarziere de 7 zile la stergerea sanctiunii mai vechi.
@@ -1209,7 +1209,7 @@ Membrii vor fi sanctionati in urmatorul fel:
 
 ### Activitatile Organizate
 
-<span style="color:var(--pink);">8.3.1</span> Micile greseli ce pot aparea in momentul in care un membru dintr-o factiune face o invoire (numarul invoirii, rank-ul detinut etc.) nu o sa se sanctioneze din prima cu respingerea invoirii. 
+<span style="color:var(--pink);">8.3.1</span> Micile greseli ce pot aparea in momentul in care un membru dintr-o factiune face o invoire (numarul invoirii, rank-ul detinut etc.) nu o sa se sanctioneze din prima cu respingerea invoirii.
 
 <span style="color:var(--pink);">8.3.2</span> La prima abatere membru va fi <span style="color:var(--pink);">mustrat</span> (adica ii aduceti la cunostinta greseala, fara sanctiune), la a doua abatere sanctionat cu <span style="color:red;">Avertisment Verbal</span> si de la a treia abatere sanctionat cu <span style="color:red;">Faction Warn</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> urmatoarele)
 
@@ -1263,7 +1263,7 @@ Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanal
 
 #### <span style="color:#3baad5;">Secundele la Waruri</span>
 
-<span style="color:var(--pink);">8.6.1</span> Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula: 
+<span style="color:var(--pink);">8.6.1</span> Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula:
 
 - pentru warurile din orasul gangului limita poate fi impusa intre <span style="color:var(--green);">500 - 800 secunde.</span>
 - pentru warurile din celelalte orase limita poate fi impusa intre <span style="color:var(--green);">300 - 600 secunde.</span>
