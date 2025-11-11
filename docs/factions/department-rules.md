@@ -147,7 +147,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 !!! example "Nota informativa"
     Membrii cu cerere de inactivitate acceptata au voie sa se conecteze pe server si sa joace. Acestia vor fi scutiti de raportul de activitate.<br/>
-    <span style="color:var(--pink);">Cererile de inactivitate nu pot fi facute pentru saptamana de raport in curs, doar pentru saptamanile urmatoare.</span> 
+    <span style="color:var(--pink);">Cererile de inactivitate nu pot fi facute pentru saptamana de raport in curs, doar pentru saptamanile urmatoare.</span>
 
 ## 5. Chatul Departamentelor
 
@@ -183,7 +183,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">6.1.3</span> Folosirea comenzilor [<span style="color:var(--pink);">/fvr</span>] si [<span style="color:var(--pink);">/fvs</span>] pentru distractie, a face spam, a incurca un coleg, a umple garajul etc. nu este permisa (<span style="color:red;">sanctiune: Faction Warn</span> sau <span style="color:red;">Rank Down</span> pentru abuzuri grave/abateri multiple).
 
 !!! danger "Important"
-    Se va anunta pe [<span style="color:var(--pink);">/d</span>] atunci cand intentionati sa folositi comanda [<span style="color:var(--pink);">/fvr</span>] si se va astepta <span style="color:var(--pink);">5 secunde</span> inainte de folosire. Nerespectarea acestui lucru va fi sanctionata conform rubricii Amenzi din regulamentul intern.
+    Se va anunta pe [<span style="color:var(--pink);">/d</span>] atunci cand intentionati sa folositi comanda [<span style="color:var(--pink);">/fvr</span>] si se va astepta <span style="color:var(--pink);">10 secunde</span> inainte de folosire. Nerespectarea acestui lucru va fi sanctionata conform rubricii Amenzi din regulamentul intern.
 
 <span style="color:var(--pink);">6.1.4</span> Membrul unui departament are obligatia ca in cazul in care are masina parcata la HQ-ul altui departament, sa se conformeze rugamintilor colegilor sai sa-si mute masina DOAR in cazuri de necesitate reala (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua). Spre exemplu: Masina este spawnata peste o masina de departament SAU blocheaza intrarea intr-o incapere sau locatie din HQ.
 
@@ -202,7 +202,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">6.2.3</span> Va este permis sa folositi aeronavele (sa va deplasati cu ele sau sa trageti cu ele) din National Guard (<span style="color:var(--pink);">Hydra, Hunter, Rustler</span>) pentru suspectii aerieni sau suspectii fara drept de predare care se afla pe o cladire cu spatiu redus, accesibila doar cu parasuta, exemplu: [turnurile inalte din LS si SF](https://imgur.com/a/os4ChB0), [balcoanele inalte de la apartamentele de langa Dealership](https://imgur.com/fQK6mqr), [farul din LS](https://imgur.com/wAVY7gZ).
 
 !!! danger "Important"
-    Atentie, locatiile enumerate mai sus servesc doar ca exemplu, ca baza pentru interpretarea regulii de mai sus, insa nu se limiteaza doar la acele locatii. 
+    Atentie, locatiile enumerate mai sus servesc doar ca exemplu, ca baza pentru interpretarea regulii de mai sus, insa nu se limiteaza doar la acele locatii.
 
     Deplasarea cu acestea in alte circumstante se va sanctiona cu <span style="color:red;">Faction Warn</span>, in timp ce deschiderea gresita a focului in mod neintentionat si in alte circumstante se va sanctiona cu <span style="color:red;">Rank Down</span> la prima abatere, <span style="color:red;">demitere</span> daca continua.
 
@@ -615,7 +615,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.1.2</span> Membrii cu acest statut au obligatia de a respecta [Regulamentul Liderilor -> Testarea Candidatilor](../leaders/leader-rules.md/#testarea-candidatilor), fiind sanctionati ca atare pentru incalcarea acestuia.
 
-<span style="color:var(--pink);">21.1.3</span> Membrilor cu rank cuprins intre 4 si 6 (inclusiv) le este strict interzis sa modifice statutul candidatului in respins/acceptat fara acordul liderului. Modificarea statutului jucatorului fara acordul liderului se considera favorizare si se pedepseste cu <span style="color:red;">Faction Warn</span> prima data, <span style="color:red;">Rank Down</span> daca continua. 
+<span style="color:var(--pink);">21.1.3</span> Membrilor cu rank cuprins intre 4 si 6 (inclusiv) le este strict interzis sa modifice statutul candidatului in respins/acceptat fara acordul liderului. Modificarea statutului jucatorului fara acordul liderului se considera favorizare si se pedepseste cu <span style="color:red;">Faction Warn</span> prima data, <span style="color:red;">Rank Down</span> daca continua.
 
 <span style="color:var(--pink);">21.1.4</span> Inainte de a incepe un test, asigurati-va ca aplicantul are caile de comunicatii inchise. Odata ce folositi [<span style="color:var(--pink);">/ft</span>] pe un jucator, in mod normal, acestea i se inchid automat. Comanda [<span style="color:var(--pink);">/togcomms</span>] inchide sau deschide caile de comunicare.
 

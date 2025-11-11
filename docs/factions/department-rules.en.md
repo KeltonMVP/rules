@@ -112,7 +112,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.3.6</span> Leave requests via PM are not accepted for the activity report. The only way to be excused is by submitting an inactivity request on RPG.
 
-<span style="color:var(--pink);">4.3.7</span> You can unlock a bonus by completing a report that exceeds the minimum requirement. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.  
+<span style="color:var(--pink);">4.3.7</span> You can unlock a bonus by completing a report that exceeds the minimum requirement. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.
 
 <span style="color:var(--pink);">4.3.7.1</span> The number of points required for the bonus will be displayed on [<span style="color:var(--pink);">/raport</span>]. Only bonuses unlocked after the date of the last promotion or after receiving a Faction Warn will provide a deduction in days.
 
@@ -183,7 +183,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">6.1.3</span> Using the commands [<span style="color:var(--pink);">/fvr</span>] and [<span style="color:var(--pink);">/fvs</span>] for fun, spamming, disturbing a colleague, filling the garage, etc., is not allowed (<span style="color:red;">sanction: Faction Warn</span> or <span style="color:red;">Rank Down</span> for serious abuse/multiple offenses).
 
 !!! danger "Important"
-    It must be announced on [<span style="color:var(--pink);">/d</span>] when you intend to use the [<span style="color:var(--pink);">/fvr</span>] command, and you must wait <span style="color:var(--pink);">5 seconds</span> before using it. Failure to comply will be sanctioned according to the Fines section of the internal regulations.
+    It must be announced on [<span style="color:var(--pink);">/d</span>] when you intend to use the [<span style="color:var(--pink);">/fvr</span>] command, and you must wait <span style="color:var(--pink);">10 seconds</span> before using it. Failure to comply will be sanctioned according to the Fines section of the internal regulations.
 
 <span style="color:var(--pink);">6.1.4</span> A member of a department is obligated, if their car is parked at another department's HQ, to comply with their colleagues' requests to move their car ONLY in cases of real necessity (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated). For example: The car is spawned over a department vehicle OR it blocks the entrance to a room or location in the HQ.
 
@@ -202,9 +202,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">6.2.3</span> You are allowed to use (to move with them or to fire with them) National Guard aircraft (<span style="color:var(--pink);">Hydra, Hunter, Rustler</span>) for airborne suspect or suspects without surrender rights who are on a building with limited space, accessible only by parachute, for example: [the tall towers in LS and SF](https://imgur.com/a/os4ChB0), [the high balconies near the Dealership apartments](https://imgur.com/fQK6mqr), [the lighthouse in LS](https://imgur.com/wAVY7gZ).
 
 !!! danger "Important"
-    Attention, the locations listed above serve only as examples, as a basis for interpreting the rule above, but are not limited to those locations. 
-    
-    Moving with these in other circumstances will be sanctioned with <span style="color:red;">Faction Warn</span>, while unintentional and improper discharge of fire in other circumstances will be sanctioned with <span style="color:red;">Rank Down</span> for the first offense, and <span style="color:red;">dismissal</span> if it continues.  
+    Attention, the locations listed above serve only as examples, as a basis for interpreting the rule above, but are not limited to those locations.
+
+    Moving with these in other circumstances will be sanctioned with <span style="color:red;">Faction Warn</span>, while unintentional and improper discharge of fire in other circumstances will be sanctioned with <span style="color:red;">Rank Down</span> for the first offense, and <span style="color:red;">dismissal</span> if it continues.
 
     Intentional and abusive discharge of fire will be sanctioned according to rule <span style="color:var(--pink);">6.1.6</span>.
 
