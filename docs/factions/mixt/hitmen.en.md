@@ -76,7 +76,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you can carry out the contract only if you are not wanted.
 
-<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span>, <span style="color:var(--pink);">Caligula’s LV</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
+<span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span>, <span style="color:var(--pink);">Caligula's LV</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
 
 <span style="color:var(--pink);">4.9</span> Contracts cannot be executed on targets who are using [<span style="color:var(--pink);">/sleep</span>].
 
@@ -95,6 +95,12 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">4.16</span> An agent is not allowed to reveal their identity while <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.17</span> You are allowed to have colleagues with you on G during contracts.
+
+<span style="color:var(--pink);">4.18</span> With the weapons <span style="color:var(--pink);">MP5, M4, AK-47</span> you can open fire on people who attack you while executing a contract (<span style="color:red;">sanction: Faction Warn</span>).
+
+!!! example "Info Note"
+    You have the right to retaliate only if you receive the message to give them wanted through the command [<span style="color:var(--pink);">/emergency</span>].<br/>
+    If you are attacked by the target and it is impossible to execute the contract silently with <span style="color:var(--pink);">Sniper / Knife / SD-Pistol</span>, you have the right to use any weapon from <span style="color:var(--pink);">order</span> to assassinate them.
 
 ### Identity Disclosure + Sanction
 
@@ -191,7 +197,12 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.1</span> The Silent One (TSO) is a <span style="color:var(--pink);">MANDATORY</span> competition for agents ranked 1-5 that takes place weekly. Participation is done on the forum in the topic [The Silent One](https://forum.b-zone.ro/topic/31863--).
 
-<span style="color:var(--pink);">10.1.1</span> Failure to participate in the contest or posting an incorrect picture will be sanctioned with a <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
+<span style="color:var(--pink);">10.1.1</span> Failure to participate in the contest, multiple posting, posting an incorrect picture, non-compliant name or posting before the winner of the previous edition is announced will be sanctioned with a <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
+
+!!! example "Info Note"
+    You are not allowed to post more than one contract per edition of TSO. In this case, your participation is cancelled for that week.<br/>
+    The name in the forum post must match the name in the picture you post for the TSO contest.<br/>
+    Contracts for the current TSO edition can be posted ONLY after the results of the previous edition are posted.
 
 <span style="color:var(--pink);">10.1.2</span> For members with optional reports or inactivity, participation in TSO is optional.
 
@@ -212,13 +223,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.2.3</span> Informative damage is not mandatory but is recommended to have it activated.
 
-<span style="color:var(--pink);">10.3</span> Contracts for the current edition of TSO can be posted <span style="color:var(--pink);">ONLY</span> after the results of the previous edition are posted (<span style="color:red;">sanction: Verbal Warning</span>).
+<span style="color:var(--pink);">10.3</span> You can edit your forum post to modify the picture with the contract as long as the forum allows the editing option. If it is not available, you can discuss with the leader to edit your post if they agree.
 
-<span style="color:var(--pink);">10.4</span> You can edit your forum post to modify the picture with the contract as long as the forum allows the editing option. If it is not available, you can discuss with the leader to edit your post if they agree.
+<span style="color:var(--pink);">10.4</span> TSO starts on Monday at 00:00 and ends on Sunday at 23:59. Only contracts completed and posted within the respective edition's week are considered valid.
 
-<span style="color:var(--pink);">10.5</span> You are not allowed to post more than one contract per edition of TSO. In this case, only the first posted contract will be considered.
-
-<span style="color:var(--pink);">10.6</span> TSO starts on Monday at 00:00 and ends on Sunday at 23:59. Only contracts completed and posted within the respective edition's week are considered valid.
+<span style="color:var(--pink);">10.5</span> The sanction of type <span style="color:red;">Verbal Warning</span> within the contest expires 4 months after receiving it.
 
 ## 11. Others
 

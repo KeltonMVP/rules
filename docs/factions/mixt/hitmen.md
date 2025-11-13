@@ -18,7 +18,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fgetdrugs]</span> - cu ajutorul acestei comenzi puteti lua droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fgetmaterials]</span> - cu ajutorul acestei comenzi puteti lua materiale in seiful factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
-- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii. 
+- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii.
 - <span style="color:var(--pink);">[/tog Hitman Contracts]</span> - activeaza/dezactiveaza mesajele legate de contracte.
 - <span style="color:var(--pink);">[/portable]</span> - deschizi laptopul agentiei (trebuie sa fii conectat pentru a putea folosi comenzi specifice).
     - <span style="color:var(--pink);">[MyContract]</span> - arata detalii cu privire la tinta, precum: nume, ID, nivel, factiune daca e cazul, job, timpul de inchisoare daca e cazul.
@@ -78,11 +78,11 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.8</span> Agentilor le este strict interzis efectuarea contractelor in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span>, <span style="color:var(--pink);">Caligula’s LV</span> sau <span style="color:var(--pink);">orice fel de arena</span> (Paintball, Gungame, Pubg, Race Arena etc.) (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">4.9</span> Nu se pot efectua contracte pe tintele care sunt pe [<span style="color:var(--pink);">/sleep</span>]. 
+<span style="color:var(--pink);">4.9</span> Nu se pot efectua contracte pe tintele care sunt pe [<span style="color:var(--pink);">/sleep</span>].
 
 <span style="color:var(--pink);">4.10</span> Efectuarea contractelor la evenimente importante organizate de admini este strict interzisa (<span style="color:red;">sanctiune: demitere</span>).
 
-<span style="color:var(--pink);">4.11</span> Atunci cand aveti un contract nu aveti voie sa fiti insotiti de persoane care nu fac parte din Agentie.                         
+<span style="color:var(--pink);">4.11</span> Atunci cand aveti un contract nu aveti voie sa fiti insotiti de persoane care nu fac parte din Agentie.
 
 <span style="color:var(--pink);">4.12</span> Contractele efecutate cu Sniper de la o distanta mai mica de 150 metri vor fi sanctionate cu <span style="color:red;">Faction Warn.</span>
 
@@ -95,6 +95,12 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">4.16</span> Un agent nu are voie sa-si dezvaluie identitatea cat timp are <span style="color:var(--pink);">UNDERCOVER ON</span> (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.17</span> Va este permis ca in timpul contractelor sa aveti cu voi colegi pe G.
+
+<span style="color:var(--pink);">4.18</span> Cu armele <span style="color:var(--pink);">MP5, M4, Ak-47</span> puteti deschide focul asupra persoanelor care va ataca in timp ce efectuati un contract (<span style="color:red;">sanctiune: Faction Warn</span>).
+
+!!! example "Nota informativa"
+    Aveti dreptul de a riposta doar in cazul in care va apare mesajul sa-i acordati wanted prin comanda [<span style="color:var(--pink);">/emergency</span>].<br/>
+    In cazul in care sunteti atacat de tinta si va este imposibila efectuarea contractului intr-un mod silentios cu <span style="color:var(--pink);">Sniper / Knife / SD-Pistol</span>, aveti dreptul de a folosi orice arma din <span style="color:var(--pink);">order</span> pentru asasinarea acesteia.
 
 ### Dezvaluire Identitate + Sanctiune
 
@@ -110,7 +116,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ### Nedezvaluire Identitate
 
-- folosirea comenzii [<span style="color:var(--pink);">/eject</span>] cand un jucator se urca neinvitat in vehiculul factiunii cu care efectuati contractul.   
+- folosirea comenzii [<span style="color:var(--pink);">/eject</span>] cand un jucator se urca neinvitat in vehiculul factiunii cu care efectuati contractul.
 
 ## 5. Leavehit si Gethit
 
@@ -191,7 +197,12 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.1</span> The Silent One (TSO) este o competitie <span style="color:var(--pink);">OBLIGATORIE</span> pentru agentii de rank 1-5 ce se desfasoara saptamanal. Participarea se face pe forum in topicul [The Silent One](https://forum.b-zone.ro/topic/31863--).
 
-<span style="color:var(--pink);">10.1.1</span> Neparticiparea la concurs sau postarea unei poze incorecte se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea.
+<span style="color:var(--pink);">10.1.1</span> Neparticiparea la concurs, postarea multipla, postarea unei poze incorecte, nume neconform sau postarea inainte de anuntarea castigatorului editiei trecute se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea.
+
+!!! example "Nota informativa"
+    Nu aveti voie sa postati mai mult de un contract la o editie de TSO. In acest caz participarea voastra este anulata pe saptamana respectiva.<br/>
+    Numele din postarea de pe forum trebuie sa corespunda cu numele din poza postata de catre voi la concursul TSO.<br/>
+    Contractele pentru editia curenta de TSO se posteaza DOAR dupa ce sunt postate rezultatele editiei precedente.
 
 <span style="color:var(--pink);">10.1.2</span> Pentru membrii cu raport optional sau inactivitate, participarea la TSO este optionala.
 
@@ -212,13 +223,11 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.2.3</span> Damage-ul informativ nu este obligatoriu, insa este recomandat sa-l aveti activat.
 
-<span style="color:var(--pink);">10.3</span> Contractele pentru editia curenta de TSO se posteaza <span style="color:var(--pink);">DOAR</span> dupa ce sunt postate rezultatele editiei precedente (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
+<span style="color:var(--pink);">10.3</span> Puteti edita postarea de pe forum pentru a modifica poza cu contractul, atata timp cat va permite forumul optiunea de editare. Daca aceasta nu e disponibila puteti discuta cu liderul sa va editeze postarea daca doreste.
 
-<span style="color:var(--pink);">10.4</span> Puteti edita postarea de pe forum pentru a modifica poza cu contractul, atata timp cat va permite forumul optiunea de editare. Daca aceasta nu e disponibila puteti discuta cu liderul sa va editeze postarea daca doreste.
+<span style="color:var(--pink);">10.4</span> TSO incepe Luni de la ora 00:00 si se incheie Duminica la ora 23:59. Sunt considerate valide doar contractele efectuate si postate in saptamana editiei respective.
 
-<span style="color:var(--pink);">10.5</span> Nu aveti voie sa postati mai mult de un contract la o editie de TSO. In acest caz se va lua in considerare doar primul contract postat.
-
-<span style="color:var(--pink);">10.6</span> TSO incepe Luni de la ora 00:00 si se incheie Duminica la ora 23:59. Sunt considerate valide doar contractele efectuate si postate in saptamana editiei respective.
+<span style="color:var(--pink);">10.5</span> Sanctiunea de tip <span style="color:red;">Avertisment Verbal</span> in cadrul concursului expira la 4 luni de la primirea acesteia.
 
 ## 11. Altele
 
