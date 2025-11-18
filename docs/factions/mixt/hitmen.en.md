@@ -74,7 +74,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.6</span> In the case of targets located in HQ / Training Room, you have the option to carry out the contract as follows: use [<span style="color:var(--pink);">/ram</span>] if your target is in the HQ or [<span style="color:var(--pink);">/enter</span>] if the target is in the Training Room and execute the contract. If there is a <span style="color:var(--pink);">meeting / training session</span>, leave the area entirely, make sure nobody sees you, and use [<span style="color:var(--pink);">leavehit</span>].
 
-<span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you can carry out the contract only if you are not wanted.
+<span style="color:var(--pink);">4.7</span> In the case of targets located in the Bunker, you can penetrate it using the command [<span style="color:var(--pink);">/ram</span>] if you are not wanted.
 
 <span style="color:var(--pink);">4.8</span> Agents are strictly prohibited from executing contracts in <span style="color:var(--pink);">Jail</span>, <span style="color:var(--pink);">Poker</span>, <span style="color:var(--pink);">Caligula's LV</span> or <span style="color:var(--pink);">any kind of arena</span> (Paintball, Gungame, Pubg, Race Arena, etc.) (<span style="color:red;">sanction: dismissal</span>).
 
@@ -235,7 +235,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">11.2</span> It is recommended that agents take a picture after each completed contract to avoid conflicts, or in case they are reported.
 
-<span style="color:var(--pink);">11.3</span> The use of silent weapons, Sniper and Knife for self-defense (against COPS) will be punished with <span style="color:red;">dismissal with FP.</span>
+<span style="color:var(--pink);">11.3</span> The use of silent weapons (Sniper and/or Knife) for self-defense (against COPS) will be punished with <span style="color:red;">dismissal.</span>
 
 <span style="color:var(--pink);">11.4</span> Absence from activities or meetings without permission will be sanctioned with <span style="color:red;">Faction Warn.</span> being late to activities or meetings is sanctioned as follows:
 
