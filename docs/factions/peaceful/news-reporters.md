@@ -29,7 +29,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fgetdrugs]</span> - cu ajutorul acestei comenzi puteti lua droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fgetmaterials]</span> - cu ajutorul acestei comenzi puteti lua materiale in seiful factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
-- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii. 
+- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii.
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii online, iar cei on-duty sunt evidentiati cu verde (Rank 3+).
 - <span style="color:var(--pink);">[/ft]</span> - lista candidatilor online.
 - <span style="color:var(--pink);">[/togcomms]</span> - (de)blocarea cailor de comunicare ale candidatului.
@@ -196,6 +196,16 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 <span style="color:var(--pink);">5.3.15</span> Reporterii au dreptul de a-si promova bunurile printr-un singur anunt in timpul unei sesiuni de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 <span style="color:var(--pink);">5.3.16</span> Un reporter are dreptul de a oferi un singur anunt pentru un singur un coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+
+<span style="color:var(--pink);">5.3.17</span> Sunteti obligati sa aveti dovada oricarui mesaj primit de la un jucator pentru a trimite un anunt gratuit:
+
+- dovada trebuie sa fie strict din joc, iar mesajul trebuie sa fie trimis doar dupa inceputul sesiunii de anunturi gratuite respective.
+- se accepta dovezi cu mesaje primite atat pe [<span style="color:var(--pink);">/sms</span>], cat si pe alte chaturi, precum [<span style="color:var(--pink);">/c</span>], [<span style="color:var(--pink);">/wt</span>], [<span style="color:var(--pink);">/f</span>], [<span style="color:var(--pink);">/ac</span>], etc.
+- dovada trebuie sa nu fie editata si sa aiba in compozitia ei: data si ora, adresa serverului, numele reporterului.
+- dovezile trebuie sa le aveti la indemana timp de 7 zile, timp in care acestea va pot fi solicitate, in cazurl oricarei suspiciuni.
+
+!!! danger "Important"
+    Lipsa dovezilor de la o sesiune de anunturi gratuite este sanctionata cu demitere, pentru fraudare a raportului.
 
 ### Anunturi Roleplay
 
@@ -387,9 +397,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.4.12</span> In timpul concursului sunteti obligati sa contorizati toate raspunsurile corecte intr-un clasament (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.4.12.1</span> Contorizarea gresita a unui raspuns corect se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele. 
+<span style="color:var(--pink);">6.4.12.1</span> Contorizarea gresita a unui raspuns corect se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
 
-<span style="color:var(--pink);">6.4.13</span> Lipsa unei dovezi cu titlul concursului organizat se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele. 
+<span style="color:var(--pink);">6.4.13</span> Lipsa unei dovezi cu titlul concursului organizat se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
 
 ## 7. Ziare
 

@@ -197,6 +197,16 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3.16</span> A reporter is entitled to provide only one announcement for a single faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
+<span style="color:var(--pink);">5.3.17</span> You are required to have proof of any message received from a player to send a free announcement:
+
+- the proof must be strictly from the game, and the message must be sent only after the start of the respective free announcement session.
+- proofs with messages received on both [<span style="color:var(--pink);">/sms</span>] and other chats, such as [<span style="color:var(--pink);">/c</span>], [<span style="color:var(--pink);">/wt</span>], [<span style="color:var(--pink);">/f</span>], [<span style="color:var(--pink);">/ac</span>], etc., are accepted.
+- the proof must not be edited and must include: date and time, server address, reporter's name.
+- you must have the proofs at hand for 7 days, during which they can be requested in case of any suspicion.
+
+!!! danger "Important"
+    Lack of proof from a free announcement session is sanctioned with dismissal for report fraud.
+
 ### Roleplay News
 
 <span style="color:var(--pink);">5.4.1</span> Roleplay announcements are those announcements through which we promote advancements in positions (including the subleader position), updates, and events within the community, territorial achievements within gangs, and much more.
