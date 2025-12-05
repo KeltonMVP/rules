@@ -202,7 +202,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - the proof must be strictly from the game, and the message must be sent only after the start of the respective free announcement session.
 - proofs with messages received on both [<span style="color:var(--pink);">/sms</span>] and other chats, such as [<span style="color:var(--pink);">/c</span>], [<span style="color:var(--pink);">/wt</span>], [<span style="color:var(--pink);">/f</span>], [<span style="color:var(--pink);">/ac</span>], etc., are accepted.
 - the proof must not be edited and must include: date and time, server address, reporter's name.
-- you must have the proofs at hand for 7 days, during which they can be requested in case of any suspicion.
+- you must have the proofs at hand for 3 days, during which they can be requested in case of any suspicion.
 
 !!! danger "Important"
     Lack of proof from a free announcement session is sanctioned with dismissal for report fraud.

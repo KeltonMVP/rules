@@ -202,7 +202,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - dovada trebuie sa fie strict din joc, iar mesajul trebuie sa fie trimis doar dupa inceputul sesiunii de anunturi gratuite respective.
 - se accepta dovezi cu mesaje primite atat pe [<span style="color:var(--pink);">/sms</span>], cat si pe alte chaturi, precum [<span style="color:var(--pink);">/c</span>], [<span style="color:var(--pink);">/wt</span>], [<span style="color:var(--pink);">/f</span>], [<span style="color:var(--pink);">/ac</span>], etc.
 - dovada trebuie sa nu fie editata si sa aiba in compozitia ei: data si ora, adresa serverului, numele reporterului.
-- dovezile trebuie sa le aveti la indemana timp de 7 zile, timp in care acestea va pot fi solicitate, in cazurl oricarei suspiciuni.
+- dovezile trebuie sa le aveti la indemana timp de 3 zile, timp in care acestea va pot fi solicitate, in cazul oricarei suspiciuni.
 
 !!! danger "Important"
     Lipsa dovezilor de la o sesiune de anunturi gratuite este sanctionata cu demitere, pentru fraudare a raportului.
