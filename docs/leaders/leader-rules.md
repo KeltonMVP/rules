@@ -301,7 +301,7 @@ Incalcarea regulilor de mai sus va fi sanctionata cu <span style="color:red;">Av
 
 #### <span style="color:#3baad5;">Testul Practic</span>
 
-<span style="color:var(--pink);">4.7.1</span> Se va sustine si test practic in cazul in care se considera necesar, aici nefiind nevoie de o evidenta din partea testerului. In cazul in care jucatorul doreste sa raporteze proba practica trebuie sa aiba el singur dovezi.
+<span style="color:var(--pink);">4.7.1</span> Se va sustine si test practic in cazul in care se considera necesar, testerul fiind obligat sa detina dovada video timp de 3 zile, pe care o va pune la dispozitia liderului sau adminilor seniori la cererea acestora. Totusi, in cazul in care jucatorul doreste sa raporteze proba practica, trebuie sa aiba el singur dovezi.
 
 <span style="color:var(--pink);">4.7.2</span> Decizia de a sustine sau nu testele practice poate fi facuta doar de catre Lider, trebuind sa fie justificata unui manager de factiuni. Mai mult, trebuie sa fie aplicata in mod egal tuturor candidatilor din respectiva sesiune de recrutare. De exemplu daca Liderul decide sa nu se sustina test practic cu un candidat dintr-o sesiune, atunci toti candidatii acceptati in respectiva sesiune trebuie sa beneficieze si ei de acelasi tratament.
 

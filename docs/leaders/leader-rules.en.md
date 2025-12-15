@@ -300,7 +300,7 @@ Violation of the above rules will be sanctioned with <span style="color:red;">Ve
 
 #### <span style="color:#3baad5;">Practical Test</span>
 
-<span style="color:var(--pink);">4.7.1</span> A practical test will be conducted if deemed necessary, with no need for evidence from the tester. If a player wishes to report the practical test, they must provide their own evidence.
+<span style="color:var(--pink);">4.7.1</span> A practical test will be conducted if deemed necessary, with the tester being required to maintain video evidence for 3 days, which they must make available to the leader or senior admins upon request. However, if the player wishes to report the practical test, they must have their own evidence.
 
 <span style="color:var(--pink);">4.7.2</span> The decision to conduct practical tests can only be made by the Leader and must be justified to a faction manager. Furthermore, it must be applied equally to all candidates in the respective recruitment session. For example, if the Leader decides not to conduct a practical test with a candidate from a session, then all candidates accepted in that session must also receive the same treatment.
 
