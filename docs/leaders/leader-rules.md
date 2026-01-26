@@ -344,7 +344,7 @@ Incalcarea regulii de mai sus va fi sanctionata (<span style="color:red;">sancti
 - membrii care nu aduc suficiente contributii unei factiuni si tot ceea ce fac e sa tina locul ocupat trebuie demisi, in caz contrar Liderii vor fi sanctionati.
 - membrii care primesc ban 3 zile sau mai mult de la admini vor fi demisi automat de sistem daca isi cumpara unban sau daca raman banati.
 
-<span style="color:var(--pink);">5.2.3</span> DM-ul se va sanctiona doar atunci cand exista dovezi clare (de preferat video / mai multe poze) care sa ateste ca jucatorul respectiv a facut DM. Mesajul informativ de daune nu este suficient pentru sanctionarea DM-ului (nici cel care specifica cine te-a omorat si de la ce distanta a facut asta).
+<span style="color:var(--pink);">5.2.3</span> DM-ul se va sanctiona doar atunci cand exista dovezi clare (de preferat video / mai multe poze) care sa ateste ca jucatorul respectiv a facut DM. Mesajul informativ de daune nu este suficient pentru sanctionarea DM-ului (nici cel care specifica cine te-a omorat si de la ce distanta a facut asta), exceptand pentru membrii departamentelor.
 
 !!! example "Nota informativa"
     Inainte de a sanctiona cel mai bine este sa va consultati cu un admin de nivel 4+ daca nu sunteti siguri.

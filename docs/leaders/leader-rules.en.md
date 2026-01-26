@@ -343,7 +343,7 @@ Violation of the above rule will be sanctioned (<span style="color:red;">sanctio
 - members who do not make sufficient contributions to a faction and all they do is occupy space must be dismissed, otherwise the Leaders will be sanctioned.
 - members who receive a ban of 3 days or more from admins will be automatically kicked if they buy unban or if they remain banned.
 
-<span style="color:var(--pink);">5.2.3</span> DM will be sanctioned only when there is clear evidence (preferably video / multiple screenshots) to prove that the player in question DMed. The informative damage message is not sufficient for dming sanctions (nor the one specifying who killed you and from what distance they did it).
+<span style="color:var(--pink);">5.2.3</span> DM will be sanctioned only when there is clear evidence (preferably video / multiple screenshots) to prove that the player in question DMed. The informative damage message is not sufficient for dming sanctions (nor the one specifying who killed you and from what distance they did it), except for department members.
 
 !!! example "Info note"
     Before sanctioning, it's best to consult with an admin of level 4+ if you're unsure.

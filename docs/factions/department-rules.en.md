@@ -421,6 +421,12 @@ Some examples:
 
 <span style="color:var(--pink);">13.1.17</span> When attempting to apprehend a suspect in the work vehicle <span style="color:var(--pink);">and you are obstructed</span> by other civilians, you have the right to <span style="color:var(--pink);">summon them 3 times</span> on [<span style="color:var(--pink);">/m</span>] to clear the space around the vehicle. If they do not comply, the civilians will be sanctioned with wanted for <span style="color:var(--pink);">Disobeying Orders.</span> If there is space in the vehicle, they will be ordered to surrender. If there is no space, they will be summoned again 3 times on [<span style="color:var(--pink);">/m</span>] to clear the space around the vehicle, and if they do not comply, they can be killed with the wanted level they have.
 
+<span style="color:var(--pink);">13.1.18</span> Department members have the right to give wanted to a player who DMs them exclusively based on the damage information message, as soon as it appears in the chat, with the following conditions:
+
+- respect the situations where wanted is permitted.
+- evidence must be taken immediately after the message appears in the chat, without page-up.
+- wanted must be given on the spot, not later.
+
 ### Accomplice Wanted
 
 <span style="color:var(--pink);">13.2.1</span> If a player with wanted status (with the right to surrender) is a passenger in a vehicle, they will be summoned, and if the driver does not [<span style="color:var(--pink);">/eject</span>], then the driver will be sanctioned with wanted 6 "accomplice" without further warnings. ATTENTION! The passenger with wanted status does NOT lose their right to surrender (<span style="color:red;">sanction: Faction Warn</span>).
