@@ -32,37 +32,29 @@ Ocazional, se realizeaza sedinte intre membrii factiunii pentru a avea loc dezba
 
 <figure markdown="span">
   ![Skin 268](/images/wiki/skins/268.png){ width="250" }
-  <figcaption>Skin 268</figcaption>
+  <figcaption>Tow Company Owner (Leader) / Under Boss (6)</figcaption>
 </figure>
-
-**Tow Company Owner (Leader) / Under Boss (6)**
 
 ### Skin ID 42 - Rang 5 si 4
 
 <figure markdown="span">
   ![Skin 42](/images/wiki/skins/42.png){ width="250" }
-  <figcaption>Skin 42</figcaption>
+  <figcaption>Manager (5) / Supervisor (4)</figcaption>
 </figure>
-
-**Manager (5) / Supervisor (4)**
 
 ### Skin ID 50 - Rang 3 si 2
 
 <figure markdown="span">
   ![Skin 50](/images/wiki/skins/50.png){ width="250" }
-  <figcaption>Skin 50</figcaption>
+  <figcaption>Senior Mechanic (3) / Mechanic (2)</figcaption>
 </figure>
-
-**Senior Mechanic (3) / Mechanic (2)**
 
 ### Skin ID 8 - Rang 1
 
 <figure markdown="span">
   ![Skin 8](/images/wiki/skins/8.png){ width="250" }
-  <figcaption>Skin 8</figcaption>
+  <figcaption>Trainee (1)</figcaption>
 </figure>
-
-**Trainee (1)**
 
 ### Skin ID 233 - Feminin
 
@@ -84,7 +76,7 @@ Ocazional, se realizeaza sedinte intre membrii factiunii pentru a avea loc dezba
 - Culoarea: ID 1 & 102
 - Numarul de vehicule: 12
 - Viteza maxima: 160 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Utility
 
@@ -97,7 +89,7 @@ Ocazional, se realizeaza sedinte intre membrii factiunii pentru a avea loc dezba
 - Culoarea: ID 1 & 102
 - Numarul de vehicule: 1
 - Viteza maxima: 121 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Maverick
 
@@ -110,7 +102,7 @@ Ocazional, se realizeaza sedinte intre membrii factiunii pentru a avea loc dezba
 - Culoarea: ID 1 & 102
 - Numarul de vehicule: 1
 - Viteza maxima: 180 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -208,8 +200,6 @@ Prin aceasta comanda poti vinde sau repara un kit de reparatie/alimentare unui j
 Prin aceasta comanda poti umple canistra de combustibil unui jucator pentru a o putea folosi ulterior.
 
 ## Legaturi utile
-
-### RPG server 1(RPG1)
 
 - [Aplica in Tow Truck Company](http://www.rpg.b-zone.ro/factions/apply/ttc)
 - [Membrii Tow Truck Company](http://www.rpg.b-zone.ro/factions/members/ttc)

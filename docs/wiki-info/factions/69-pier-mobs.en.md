@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -37,38 +32,30 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 
 ### Skin ID 46 - Leader / Rank 6
 
-*Coronas (Leader) / Regional Officer (6)*
-
 <figure markdown="span">
   ![Skin 46](/images/wiki/skins/46.png){ width="250" }
-  <figcaption>Skin 46</figcaption>
+  <figcaption>Coronas (Leader) / Regional Officer (6)</figcaption>
 </figure>
 
 ### Skin ID 116 - Rank 5 and 4
 
-*Enforcer (5) / Cacique (4)*
-
 <figure markdown="span">
   ![Skin 116](/images/wiki/skins/116.png){ width="250" }
-  <figcaption>Skin 116</figcaption>
+  <figcaption>Enforcer (5) / Cacique (4)</figcaption>
 </figure>
 
 ### Skin ID 115 - Rank 3 and 2
 
-*Inca (3) / Mummy (2)*
-
 <figure markdown="span">
   ![Skin 115](/images/wiki/skins/115.png){ width="250" }
-  <figcaption>Skin 115</figcaption>
+  <figcaption>Inca (3) / Mummy (2)</figcaption>
 </figure>
 
 ### Skin ID 114 - Rank 1
 
-*Primitive (1)*
-
 <figure markdown="span">
   ![Skin 114](/images/wiki/skins/114.png){ width="250" }
-  <figcaption>Skin 114</figcaption>
+  <figcaption>Primitive (1)</figcaption>
 </figure>
 
 ### Skin ID 216 - Female
@@ -90,7 +77,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 492
 * Color: ID 166
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Greenwood)
+* Available in Dealership: Yes
 
 ### Huntley
 
@@ -102,7 +89,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 579
 * Color: ID 166
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Available in Dealership: Yes
 
 ### Slamvan
 
@@ -114,7 +101,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 535
 * Color: ID 166
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Slamvan)
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -126,7 +113,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 487
 * Color: ID 166
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -138,7 +125,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 521
 * Color: ID 166
 * Number of vehicles: 2
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -150,7 +137,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 409
 * Color: ID 166
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -206,11 +193,11 @@ earning = (6300 + random(15)) * (2 + coeficient_earning + coeficient_best)
 
 earning = (6300 + random(15)) * (2,1 + coeficient_earning + coeficient_best)
 
-Not3:
+**Note:**
 
-*random(15) represents a random number from 1 to 15.*
-*coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
-*coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
+- *random(15) represents a random number from 1 to 15.*
+- *coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
+- *coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
 
 ## Specific Commands
 
@@ -225,12 +212,12 @@ To change your skin depending on the rank held, any member of a faction can use 
 ### /order
 
 The command is used by the mafiosi of the servers to order a certain package of weapons (the weapon packages are available depending on the rank of the mafioso). A single parameter is used in completing the command, the ID of the weapon package.
-Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.
+*Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.*
 
 ### /backup & /cbackup
 
 In case a member of a mafia needs help, they can use /backup to ask for help from other members of the mafia. To cancel the help request, use the /cbackup command.
-Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
+*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /tie & /untie
 
@@ -263,12 +250,10 @@ Through this command those who are designated with the function of tester by the
 
 ## Useful Links
 
-### RPG server 1(RPG1)
-
-[Apply to 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/apply/69pier)
-[Members 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/members/69pier)
-[Complaints 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/reports/69pier)
-[Activity Reports 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/factio69piereports/69pier)
-[Logs 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/logs/69pier)
-[Applications List 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/applications/69pier)
-[Wars Page](http://www.rpg.b-zone.ro/wars/)
+- [Apply to 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/apply/69pier)
+- [Members 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/members/69pier)
+- [Complaints 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/reports/69pier)
+- [Activity Reports 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/factio69piereports/69pier)
+- [Logs 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/logs/69pier)
+- [Applications List 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/applications/69pier)
+- [Wars Page](http://www.rpg.b-zone.ro/wars/)

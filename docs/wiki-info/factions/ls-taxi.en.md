@@ -73,7 +73,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 30
 - Maximum speed: 145 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Cabbie
 
@@ -86,7 +86,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 25
 - Maximum speed: 142 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Sultan
 
@@ -99,7 +99,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 5
 - Maximum speed: 169 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Maverick
 
@@ -112,7 +112,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 1
 - Maximum speed: 180 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Huntley
 
@@ -125,7 +125,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 5
 - Maximum speed: 158 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Alpha
 
@@ -138,7 +138,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 5
 - Maximum speed: 169 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Tahoma
 
@@ -151,7 +151,7 @@ When a taxi driver uses the /fare command to activate their duty function, they 
 - Color: ID 6
 - Number of vehicles: 5
 - Maximum speed: 160 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ## Salary
 

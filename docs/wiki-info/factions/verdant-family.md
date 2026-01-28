@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -35,38 +30,30 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 ### Skin ID 126 - Lider / Sublider
 
-*Capo Crimini (Leader) / Consigliere (6)*
-
 <figure markdown="span">
   ![Skin 126](/images/wiki/skins/126.png){ width="250" }
-  <figcaption>Skin 126</figcaption>
+  <figcaption>Capo Crimini (Leader) / Consigliere (6)</figcaption>
 </figure>
 
 ### Skin ID 125 - Rang 5 si 4
 
-*Vicario (5) / Caporegime (4)*
-
 <figure markdown="span">
   ![Skin 125](/images/wiki/skins/125.png){ width="250" }
-  <figcaption>Skin 125</figcaption>
+  <figcaption>Vicario (5) / Caporegime (4)</figcaption>
 </figure>
 
 ### Skin ID 127 - Rang 3 si 2
 
-*Sgarrista (3) / Soldato (2)*
-
 <figure markdown="span">
   ![Skin 127](/images/wiki/skins/127.png){ width="250" }
-  <figcaption>Skin 127</figcaption>
+  <figcaption>Sgarrista (3) / Soldato (2)</figcaption>
 </figure>
 
 ### Skin ID 124 - Rang 1
 
-*Picciotto (1)*
-
 <figure markdown="span">
   ![Skin 124](/images/wiki/skins/124.png){ width="250" }
-  <figcaption>Skin 124</figcaption>
+  <figcaption>Picciotto (1)</figcaption>
 </figure>
 
 ### Skin ID 12 - Feminin
@@ -88,7 +75,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 405
 * Culoarea: ID 0
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sentinel)
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -100,7 +87,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 579
 * Culoarea: ID 0
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Disponibil in Dealership: Da
 
 ### Hustler
 
@@ -112,7 +99,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 545
 * Culoarea: ID 0
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Hustler)
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -124,7 +111,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 487
 * Culoarea: ID 0
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -136,7 +123,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 521
 * Culoarea: ID 0
 * Numarul de vehicule: 2
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -148,7 +135,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 409
 * Culoarea: ID 0
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -204,11 +191,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Nota:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -223,12 +210,12 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 in cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -261,12 +248,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in Verdant Family](http://www.rpg.b-zone.ro/factions/apply/verdant)
-[Membrii Verdant Family](http://www.rpg.b-zone.ro/factions/members/verdant)
-[Reclamatii Verdant Family](http://www.rpg.b-zone.ro/factions/reports/verdant)
-[Rapoarte de activitate Verdant Family](http://www.rpg.b-zone.ro/factions/factioverdanteports/verdant)
-[Loguri Verdant Family](http://www.rpg.b-zone.ro/factions/logs/verdant)
-[Lista cu aplicatii Verdant Family](http://www.rpg.b-zone.ro/factions/applications/verdant)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in Verdant Family](http://www.rpg.b-zone.ro/factions/apply/verdant)
+- [Membrii Verdant Family](http://www.rpg.b-zone.ro/factions/members/verdant)
+- [Reclamatii Verdant Family](http://www.rpg.b-zone.ro/factions/reports/verdant)
+- [Rapoarte de activitate Verdant Family](http://www.rpg.b-zone.ro/factions/factioverdanteports/verdant)
+- [Loguri Verdant Family](http://www.rpg.b-zone.ro/factions/logs/verdant)
+- [Lista cu aplicatii Verdant Family](http://www.rpg.b-zone.ro/factions/applications/verdant)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

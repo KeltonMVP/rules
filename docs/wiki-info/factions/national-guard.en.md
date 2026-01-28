@@ -20,21 +20,15 @@ After you manage to advance in rank, namely rank 2+, you will have the opportuni
 
 ### Skin ID 179 - Leader / Rank 6
 
-<figure markdown="span">![Skin 179](/images/wiki/skins/179.png){ width="250" }<figcaption>Skin 179</figcaption></figure>
-
-**General (Leader) / Colonel (6)**
+<figure markdown="span">![Skin 179](/images/wiki/skins/179.png){ width="250" }<figcaption>General (Leader) / Colonel (6)</figcaption></figure>
 
 ### Skin ID 287 - Rank 5, 4, 3 and 2
 
-<figure markdown="span">![Skin 287](/images/wiki/skins/287.png){ width="250" }<figcaption>Skin 287</figcaption></figure>
-
-**Major (5) / Captain (4) / First Lieutenant (3) / Second Lieutenant (2)**
+<figure markdown="span">![Skin 287](/images/wiki/skins/287.png){ width="250" }<figcaption>Major (5) / Captain (4) / First Lieutenant (3) / Second Lieutenant (2)</figcaption></figure>
 
 ### Skin ID 285 - Rank 1
 
-<figure markdown="span">![Skin 285](/images/wiki/skins/285.png){ width="250" }<figcaption>Skin 285</figcaption></figure>
-
-**Private (1)**
+<figure markdown="span">![Skin 285](/images/wiki/skins/285.png){ width="250" }<figcaption>Private (1)</figcaption></figure>
 
 ### Skin ID 298 - Female
 
@@ -46,91 +40,91 @@ After you manage to advance in rank, namely rank 2+, you will have the opportuni
 
 <figure markdown="span">![Vehicle 425](/images/wiki/vehicles/425.png){ width="250" }<figcaption>Vehicle 425</figcaption></figure>
 
-**Vehicle: ID 425**
-**Color: ID 42**
-**Number of vehicles: 2**
-**Maximum speed: 212 KM/h**
-**Available in DealerShip: No**
+* Vehicle: ID 425
+* Color: ID 42
+* Number of vehicles: 2
+* Maximum speed: 212 KM/h
+* Available in Dealership: No
 
 ### NRG-500
 
 <figure markdown="span">![Vehicle 522](/images/wiki/vehicles/522.png){ width="250" }<figcaption>Vehicle 522</figcaption></figure>
 
-**Vehicle: ID 522**
-**Color: ID 42**
-**Number of vehicles: 3**
-**Maximum speed: 191 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#NRG-500)**
+* Vehicle: ID 522
+* Color: ID 42
+* Number of vehicles: 3
+* Maximum speed: 191 KM/h
+* Available in Dealership: Yes
 
 ### Police Car
 
 <figure markdown="span">![Vehicle 598](/images/wiki/vehicles/598.png){ width="250" }<figcaption>Vehicle 598</figcaption></figure>
 
-**Vehicle: ID 598**
-**Color: ID 42**
-**Number of vehicles: 17**
-**Maximum speed: 175 KM/h**
-**Available in DealerShip: No**
+* Vehicle: ID 598
+* Color: ID 42
+* Number of vehicles: 17
+* Maximum speed: 175 KM/h
+* Available in Dealership: No
 
 ### Hydra
 
 <figure markdown="span">![Vehicle 520](/images/wiki/vehicles/520.png){ width="250" }<figcaption>Vehicle 520</figcaption></figure>
 
-**Vehicle: ID 520**
-**Color: ID 1**
-**Number of vehicles: 2**
-**Maximum speed: 270 KM/h**
-**Available in DealerShip: No**
+* Vehicle: ID 520
+* Color: ID 1
+* Number of vehicles: 2
+* Maximum speed: 270 KM/h
+* Available in Dealership: No
 
 ### Turismo
 
 <figure markdown="span">![Vehicle 451](/images/wiki/vehicles/451.png){ width="250" }<figcaption>Vehicle 451</figcaption></figure>
 
-**Vehicle: ID 451**
-**Color: ID 42**
-**Number of vehicles: 5**
-**Maximum speed: 193 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Turismo)**
+* Vehicle: ID 451
+* Color: ID 42
+* Number of vehicles: 5
+* Maximum speed: 193 KM/h
+* Available in Dealership: Yes
 
 ### Patriot
 
 <figure markdown="span">![Vehicle 470](/images/wiki/vehicles/470.png){ width="250" }<figcaption>Vehicle 470</figcaption></figure>
 
-**Vehicle: ID 470**
-**Color: ID 42**
-**Number of vehicles: 20**
-**Maximum speed: 157 KM/h**
-**Available in DealerShip: No**
+* Vehicle: ID 470
+* Color: ID 42
+* Number of vehicles: 20
+* Maximum speed: 157 KM/h
+* Available in Dealership: No
 
 ### Rustler
 
 <figure markdown="span">![Vehicle 476](/images/wiki/vehicles/476.png){ width="250" }<figcaption>Vehicle 476</figcaption></figure>
 
-**Vehicle: ID 476**
-**Color: ID 42**
-**Number of vehicles: 2**
-**Maximum speed: 247 KM/h**
-**Available in DealerShip: [Shop Only](https://wiki.b-zone.ro/index.php?title=Shop_Vehicles#Patriot)**
+* Vehicle: ID 476
+* Color: ID 42
+* Number of vehicles: 2
+* Maximum speed: 247 KM/h
+* Available in Dealership: Shop
 
 ### Barracks
 
 <figure markdown="span">![Vehicle 433](/images/wiki/vehicles/433.png){ width="250" }<figcaption>Vehicle 433</figcaption></figure>
 
-**Vehicle: ID 433**
-**Color: ID 42**
-**Number of vehicles: 3**
-**Maximum speed: 110 KM/h**
-**Available in DealerShip: No**
+* Vehicle: ID 433
+* Color: ID 42
+* Number of vehicles: 3
+* Maximum speed: 110 KM/h
+* Available in Dealership: No
 
 ### Predator
 
 <figure markdown="span">![Vehicle 430](/images/wiki/vehicles/430.png){ width="250" }<figcaption>Vehicle 430</figcaption></figure>
 
-**Vehicle: ID 430**
-**Color: ID 42**
-**Number of vehicles: 1**
-**Maximum speed: 166 KM/h**
-**Available in DealerShip: No**
+* Vehicle: ID 430
+* Color: ID 42
+* Number of vehicles: 1
+* Maximum speed: 166 KM/h
+* Available in Dealership: No
 
 ## Salary
 
@@ -200,45 +194,55 @@ To change your skin according to your rank, any faction member can use the /clot
 
 ### /m
 Using this command, a member of police departments can send a visible message at a certain radius containing the name and rank held by the department member.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /su
 This command is used by law enforcement on servers to give a certain level of pursuit (wanted) to players. The command has a single parameter, namely the suspect's name or ID.
+
 *Example: /su Adi007*
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /mdc
 The command provides information about a player's criminal record. It has a single parameter, the name or ID of the player you want to check.
 The server will display the player's name, total crimes committed on the server, wanted level, total arrests, number of crimes for which they have not yet been sent to prison, information about each active unpunished crime and the number of police officers currently pursuing the suspect. To use the command you must be in any department vehicle, in a personal vehicle if you are a rank 3+ member, or in the prison compound.
+
 *Example: /mdc Nic.eXe*
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /arrest
 Has a single parameter, the name or ID of the player you want to check. *Example: /arrest Nic.eXe*
 By using this command, a player with a wanted level can be sent to prison. For a player to be arrested, a department member must use this command while in the prison compound or in a department vehicle, near the special marker of the department headquarters, together with the suspect.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /wanted
 This command provides the user with a list of information about all suspects on the server.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /nearwanted
 This command provides the user with a list of information about suspects on the server located near their location.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /clear
 Used to remove a player's wanted level.
-The command uses one parameter, the name or ID of the player whose record you want to clear. *Example: /clear Adi007*
+The command uses one parameter, the name or ID of the player whose record you want to clear.
+
+*Example: /clear Adi007*
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /cuff & /uncuff
 By using the /cuff command, a member of a police department can handcuff a player. By using the /uncuff command, a player can be released from handcuffs. Both commands have one parameter, the name or ID of the player you want to handcuff.
+
 *Example: /cuff Adi007 & /uncuff Adi007*
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /punish
 The /punish command is used to immobilize a player in prison. The command has a single parameter, the player's name or ID, with the server automatically setting the suspect's punishment.
 When you punish a prisoner you will receive **$600** for each /punish you issue.
+
 *Example: /punish Adi007*
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
@@ -246,15 +250,18 @@ When you punish a prisoner you will receive **$600** for each /punish you issue.
 With this command, you can confiscate drugs, materials and weapons from a player.
 
 The command uses two parameters, the name or ID of the player from whom you want to confiscate an item and the name of the object you are going to confiscate.
+
 *Example: /confiscate Madalin Weapons*
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard. The National Guard faction is limited compared to police departments.*
 
 ### /gov
 This command is used to send a government announcement to all server players.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /duty
 For a department member to be able to apply sanctions to players who break the rules, they need to equip themselves. To do this, use the /duty command.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /lawyer
@@ -265,49 +272,60 @@ For a department member to be able to apply sanctions to players who break the r
 
 ### /tazer
 The /tazer command installs a shock absorber on the pistol. When you shoot a suspect with the pistol, having the shock absorber installed, the suspect is immobilized for 8 seconds.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /opengate
 It is a command used to open a certain gate in the prison.
 A single parameter is used to complete the command, namely the ID of the gate you want to open.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /frisk
 To find out what items a player has, use the /frisk command. This displays the weapons a player has and other quantities such as drugs and materials.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /backup
 If a department member needs help against criminals, they can use this command, all police units are notified and all members of these units get a red point set on the map to lead them to the one in need of help.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /cbackup
 This command cancels a help request initiated by the /backup command.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /ram
 The command has the same effect as the /enter command, but is only used if a police member needs to enter a faction/house to catch a criminal.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /jaillist
 Typing the command will display some details about all prisoners logged on the server at that time.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /untie
 A police officer can release a player tied by gangsters following a kidnapping.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /opencell & /closecell
 These are two commands used to open or close a certain cell in the prison.
 A single parameter is used to complete the commands, namely the ID of the cell you want to open/close.
+
 *Note: The command is available only for National Guard members.*
 
 ### /opencellsall & /closecellsall
 These are two commands used to open or close all cells in the prison.
+
 *Note 1: The command is available only for National Guard members of rank 3+.*
 *Note 2: The commands cannot be used between XX:00-XX:11 and XX:30-XX:41.*
 
 ### /ms
 Typing this command will send a specific message to the criminal, informing them that they are being pursued by a police member and must immediately pull over or surrender. For the message to be sent successfully to the criminal, you must be near them and have an active checkpoint generated by the /find command on the tracked player.
+
 *Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /shield
@@ -331,10 +349,9 @@ Through this command those who are designated with the tester function by the fa
 
 ## Useful Links
 
-### RPG server 1(RPG1)
-[Apply to National Guard](http://www.rpg.b-zone.ro/factions/apply/ng)
-[National Guard Members](http://www.rpg.b-zone.ro/factions/members/ng)
-[National Guard Complaints](http://www.rpg.b-zone.ro/factions/reports/ng)
-[National Guard Activity Reports](http://www.rpg.b-zone.ro/factions/factionReports/ng)
-[National Guard Logs](http://www.rpg.b-zone.ro/factions/logs/ng)
-[National Guard Applications List](http://www.rpg.b-zone.ro/factions/applications/ng)
+- [Apply to National Guard](http://www.rpg.b-zone.ro/factions/apply/ng)
+- [National Guard Members](http://www.rpg.b-zone.ro/factions/members/ng)
+- [National Guard Complaints](http://www.rpg.b-zone.ro/factions/reports/ng)
+- [National Guard Activity Reports](http://www.rpg.b-zone.ro/factions/factionReports/ng)
+- [National Guard Logs](http://www.rpg.b-zone.ro/factions/logs/ng)
+- [National Guard Applications List](http://www.rpg.b-zone.ro/factions/applications/ng)

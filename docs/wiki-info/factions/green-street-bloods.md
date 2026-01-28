@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -34,37 +29,29 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 <figure markdown="span">
   ![Skin 270](/images/wiki/skins/270.png){ width="250" }
-  <figcaption>Skin 270</figcaption>
+  <figcaption>Supreme Chief (Leader) / Advisor (6)</figcaption>
 </figure>
-
-**Supreme Chief (Leader) / Advisor (6)**
 
 ### Skin ID 269 - Rang 5 si 4
 
 <figure markdown="span">
   ![Skin 269](/images/wiki/skins/269.png){ width="250" }
-  <figcaption>Skin 269</figcaption>
+  <figcaption>Councilor (5) / Chief Enforcer (4)</figcaption>
 </figure>
-
-**Councilor (5) / Chief Enforcer (4)**
 
 ### Skin ID 271 - Rang 3 si 2
 
 <figure markdown="span">
   ![Skin 271](/images/wiki/skins/271.png){ width="250" }
-  <figcaption>Skin 271</figcaption>
+  <figcaption>Money Launderer (3) / Supplier (2)</figcaption>
 </figure>
-
-**Money Launderer (3) / Supplier (2)**
 
 ### Skin ID 106 - Rang 1
 
 <figure markdown="span">
   ![Skin 106](/images/wiki/skins/106.png){ width="250" }
-  <figcaption>Skin 106</figcaption>
+  <figcaption>Street Soldier (1)</figcaption>
 </figure>
-
-**Street Soldier (1)**
 
 ### Skin ID 195 - Feminin
 
@@ -85,7 +72,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 445
 * Culoarea: ID 202
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Admiral)
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -97,7 +84,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 579
 * Culoarea: ID 202
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Disponibil in Dealership: Da
 
 ### Remington
 
@@ -109,7 +96,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 534
 * Culoarea: ID 202
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Remington)
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -121,7 +108,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 487
 * Culoarea: ID 202
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -133,7 +120,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 521
 * Culoarea: ID 202
 * Numarul de vehicule: 2
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -145,7 +132,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 409
 * Culoarea: ID 202
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -201,11 +188,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Nota:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -220,12 +207,14 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 in cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -258,12 +247,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in Green Street Bloods](http://www.rpg.b-zone.ro/factions/apply/greenstreet)
-[Membrii Green Street Bloods](http://www.rpg.b-zone.ro/factions/members/greenstreet)
-[Reclamatii Green Street Bloods](http://www.rpg.b-zone.ro/factions/reports/greenstreet)
-[Rapoarte de activitate Green Street Bloods](http://www.rpg.b-zone.ro/factions/factiogreenstreeteports/greenstreet)
-[Loguri Green Street Bloods](http://www.rpg.b-zone.ro/factions/logs/greenstreet)
-[Lista cu aplicatii Green Street Bloods](http://www.rpg.b-zone.ro/factions/applications/greenstreet)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in Green Street Bloods](http://www.rpg.b-zone.ro/factions/apply/greenstreet)
+- [Membrii Green Street Bloods](http://www.rpg.b-zone.ro/factions/members/greenstreet)
+- [Reclamatii Green Street Bloods](http://www.rpg.b-zone.ro/factions/reports/greenstreet)
+- [Rapoarte de activitate Green Street Bloods](http://www.rpg.b-zone.ro/factions/factiogreenstreeteports/greenstreet)
+- [Loguri Green Street Bloods](http://www.rpg.b-zone.ro/factions/logs/greenstreet)
+- [Lista cu aplicatii Green Street Bloods](http://www.rpg.b-zone.ro/factions/applications/greenstreet)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -35,38 +30,30 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 
 ### Skin ID 126 - Leader / Sublider
 
-*Capo Crimini (Leader) / Consigliere (6)*
-
 <figure markdown="span">
   ![Skin 126](/images/wiki/skins/126.png){ width="250" }
-  <figcaption>Skin 126</figcaption>
+  <figcaption>Capo Crimini (Leader) / Consigliere (6)</figcaption>
 </figure>
 
 ### Skin ID 125 - Rank 5 and 4
 
-*Vicario (5) / Caporegime (4)*
-
 <figure markdown="span">
   ![Skin 125](/images/wiki/skins/125.png){ width="250" }
-  <figcaption>Skin 125</figcaption>
+  <figcaption>Vicario (5) / Caporegime (4)</figcaption>
 </figure>
 
 ### Skin ID 127 - Rank 3 and 2
 
-*Sgarrista (3) / Soldato (2)*
-
 <figure markdown="span">
   ![Skin 127](/images/wiki/skins/127.png){ width="250" }
-  <figcaption>Skin 127</figcaption>
+  <figcaption>Sgarrista (3) / Soldato (2)</figcaption>
 </figure>
 
 ### Skin ID 124 - Rank 1
 
-*Picciotto (1)*
-
 <figure markdown="span">
   ![Skin 124](/images/wiki/skins/124.png){ width="250" }
-  <figcaption>Skin 124</figcaption>
+  <figcaption>Picciotto (1)</figcaption>
 </figure>
 
 ### Skin ID 12 - Female
@@ -88,7 +75,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 405
 * Color: ID 0
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sentinel)
+* Available in Dealership: Yes
 
 ### Huntley
 
@@ -100,7 +87,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 579
 * Color: ID 0
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Available in Dealership: Yes
 
 ### Hustler
 
@@ -112,7 +99,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 545
 * Color: ID 0
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Hustler)
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -124,7 +111,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 487
 * Color: ID 0
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -136,7 +123,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 521
 * Color: ID 0
 * Number of vehicles: 2
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -148,7 +135,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 409
 * Color: ID 0
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -204,11 +191,11 @@ earning = (6300 + random(15)) * (2 + coeficient_earning + coeficient_best)
 
 earning = (6300 + random(15)) * (2,1 + coeficient_earning + coeficient_best)
 
-Not3:
+**Note:**
 
-*random(15) represents a random number from 1 to 15.*
-*coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
-*coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
+- *random(15) represents a random number from 1 to 15.*
+- *coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
+- *coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
 
 ## Specific Commands
 
@@ -223,12 +210,12 @@ To change your skin depending on the rank held, any member of a faction can use 
 ### /order
 
 The command is used by the mafiosi of the servers to order a certain package of weapons (the weapon packages are available depending on the rank of the mafioso). A single parameter is used in completing the command, the ID of the weapon package.
-Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.
+*Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.*
 
 ### /backup & /cbackup
 
 In case a member of a mafia needs help, they can use /backup to ask for help from other members of the mafia. To cancel the help request, use the /cbackup command.
-Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
+*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /tie & /untie
 
@@ -261,12 +248,10 @@ Through this command those who are designated with the function of tester by the
 
 ## Useful Links
 
-### RPG server 1(RPG1)
-
-[Apply to Verdant Family](http://www.rpg.b-zone.ro/factions/apply/verdant)
-[Members Verdant Family](http://www.rpg.b-zone.ro/factions/members/verdant)
-[Complaints Verdant Family](http://www.rpg.b-zone.ro/factions/reports/verdant)
-[Activity Reports Verdant Family](http://www.rpg.b-zone.ro/factions/factioverdanteports/verdant)
-[Logs Verdant Family](http://www.rpg.b-zone.ro/factions/logs/verdant)
-[Applications List Verdant Family](http://www.rpg.b-zone.ro/factions/applications/verdant)
-[Wars Page](http://www.rpg.b-zone.ro/wars/)
+- [Apply to Verdant Family](http://www.rpg.b-zone.ro/factions/apply/verdant)
+- [Members Verdant Family](http://www.rpg.b-zone.ro/factions/members/verdant)
+- [Complaints Verdant Family](http://www.rpg.b-zone.ro/factions/reports/verdant)
+- [Activity Reports Verdant Family](http://www.rpg.b-zone.ro/factions/factioverdanteports/verdant)
+- [Logs Verdant Family](http://www.rpg.b-zone.ro/factions/logs/verdant)
+- [Applications List Verdant Family](http://www.rpg.b-zone.ro/factions/applications/verdant)
+- [Wars Page](http://www.rpg.b-zone.ro/wars/)

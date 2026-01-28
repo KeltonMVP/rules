@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon Packages](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -80,7 +75,7 @@ The main occupations of the B-Zone RPG server mafiosi are wars with other gangs.
 - Color: ID 249
 - Number of vehicles: 4
 - Top speed: 173 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Huntley
 
@@ -93,7 +88,7 @@ The main occupations of the B-Zone RPG server mafiosi are wars with other gangs.
 - Color: ID 249
 - Number of vehicles: 4
 - Top speed: 158 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Feltzer
 
@@ -106,7 +101,7 @@ The main occupations of the B-Zone RPG server mafiosi are wars with other gangs.
 - Color: ID 249
 - Number of vehicles: 1
 - Top speed: 153 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Maverick
 
@@ -119,7 +114,7 @@ The main occupations of the B-Zone RPG server mafiosi are wars with other gangs.
 - Color: ID 249
 - Number of vehicles: 1
 - Top speed: 180 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### FCR-900
 
@@ -132,7 +127,7 @@ The main occupations of the B-Zone RPG server mafiosi are wars with other gangs.
 - Color: ID 249
 - Number of vehicles: 2
 - Top speed: 176 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Stretch
 
@@ -145,7 +140,7 @@ The main occupations of the B-Zone RPG server mafiosi are wars with other gangs.
 - Color: ID 249
 - Number of vehicles: 1
 - Top speed: 168 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ## Salary
 

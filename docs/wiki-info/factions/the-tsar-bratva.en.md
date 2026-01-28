@@ -6,17 +6,11 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
 
 ## General Description
-
 The Tsar Bratva is a criminal organization being at the same time one of the main criminal groups that make up the Russian Mafia, primarily composed of bandits of Slavic origin, dating back to the 20th century, in the Soviet Union area. Developing progressively and reaching expansion following the mastery of the Russian system, these groups have spread all over the world.
 
 Tsar Bratva was among the first gangs to appear, functioning by respecting the spheres of influence of the areas, by respecting and adaptability to new conditions. An important characteristic for Tsar Bratva is the interconnections with political power, also having business relationships with various organizations.
@@ -33,43 +27,34 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 
 <figure markdown="span">
   ![Skin 113](/images/wiki/skins/113.png){ width="250" }
-  <figcaption>Skin 113</figcaption>
+  <figcaption>Pakhan (Leader) / Sovietnik (6)</figcaption>
 </figure>
-
-**Pakhan / Sovietnik**
 
 ### Skin ID 272 - Rank 5 and 4
 
 <figure markdown="span">
   ![Skin 272](/images/wiki/skins/272.png){ width="250" }
-  <figcaption>Skin 272</figcaption>
+  <figcaption>Obshchak (5) / Brigadier (4)</figcaption>
 </figure>
-
-**Obshchak / Brigadier**
 
 ### Skin ID 112 - Rank 3 and 2
 
 <figure markdown="span">
   ![Skin 112](/images/wiki/skins/112.png){ width="250" }
-  <figcaption>Skin 112</figcaption>
+  <figcaption>Boyevik (3) / Kryshas (2)</figcaption>
 </figure>
-
-**Boyevik / Kryshas**
 
 ### Skin ID 111 - Rank 1
 
 <figure markdown="span">
   ![Skin 111](/images/wiki/skins/111.png){ width="250" }
-  <figcaption>Skin 111</figcaption>
+  <figcaption>Byki (1)</figcaption>
 </figure>
-
-**Byki**
 
 ### Skin ID 214 - Female
 
 <figure markdown="span">
   ![Skin 214](/images/wiki/skins/214.png){ width="250" }
-  <figcaption>Skin 214</figcaption>
 </figure>
 
 ## Faction Vehicles
@@ -81,11 +66,11 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
   <figcaption>Vehicle 426</figcaption>
 </figure>
 
-**Vehicle: ID 426**
-**Color: ID 123**
-**Number of vehicles: 4**
-**Maximum speed: 173 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Premier)**
+* Vehicle: ID 426
+* Color: ID 123
+* Number of vehicles: 4
+* Maximum speed: 173 KM/h
+* Available in Dealership: Yes
 
 ### Huntley
 
@@ -94,11 +79,11 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
   <figcaption>Vehicle 579</figcaption>
 </figure>
 
-**Vehicle: ID 579**
-**Color: ID 123**
-**Number of vehicles: 4**
-**Maximum speed: 158 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)**
+* Vehicle: ID 579
+* Color: ID 123
+* Number of vehicles: 4
+* Maximum speed: 158 KM/h
+* Available in Dealership: Yes
 
 ### Stafford
 
@@ -107,11 +92,11 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
   <figcaption>Vehicle 580</figcaption>
 </figure>
 
-**Vehicle: ID 580**
-**Color: ID 123**
-**Number of vehicles: 1**
-**Maximum speed: 153 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stafford)**
+* Vehicle: ID 580
+* Color: ID 123
+* Number of vehicles: 1
+* Maximum speed: 153 KM/h
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -120,11 +105,11 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
   <figcaption>Vehicle 487</figcaption>
 </figure>
 
-**Vehicle: ID 487**
-**Color: ID 123**
-**Number of vehicles: 1**
-**Maximum speed: 180 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)**
+* Vehicle: ID 487
+* Color: ID 123
+* Number of vehicles: 1
+* Maximum speed: 180 KM/h
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -133,11 +118,11 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
   <figcaption>Vehicle 521</figcaption>
 </figure>
 
-**Vehicle: ID 521**
-**Color: ID 123**
-**Number of vehicles: 2**
-**Maximum speed: 176 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)**
+* Vehicle: ID 521
+* Color: ID 123
+* Number of vehicles: 2
+* Maximum speed: 176 KM/h
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -146,11 +131,11 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
   <figcaption>Vehicle 409</figcaption>
 </figure>
 
-**Vehicle: ID 409**
-**Color: ID 123**
-**Number of vehicles: 1**
-**Maximum speed: 168 KM/h**
-**Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)**
+* Vehicle: ID 409
+* Color: ID 123
+* Number of vehicles: 1
+* Maximum speed: 168 KM/h
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -206,11 +191,11 @@ earning = (6300 + random(15)) * (2 + coeficient_earning + coeficient_best)
 
 earning = (6300 + random(15)) * (2,1 + coeficient_earning + coeficient_best)
 
-Not3:
+**Note:**
 
-*random(15) represents a random number from 1 to 15.*
-*coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
-*coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
+- *random(15) represents a random number from 1 to 15.*
+- *coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
+- *coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
 
 ## Specific Commands
 
@@ -225,12 +210,14 @@ To change your skin depending on the rank held, any member of a faction can use 
 ### /order
 
 The command is used by the mafiosi of the servers to order a certain package of weapons (the weapon packages are available depending on the rank of the mafioso). A single parameter is used in completing the command, the ID of the weapon package.
-Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.
+
+*Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.*
 
 ### /backup & /cbackup
 
 In case a member of a mafia needs help, they can use /backup to ask for help from other members of the mafia. To cancel the help request, use the /cbackup command.
-Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
+
+*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /tie & /untie
 
@@ -263,12 +250,10 @@ Through this command those who are designated with the function of tester by the
 
 ## Useful Links
 
-### RPG server 1(RPG1)
-
-[Apply to The Tsar Bratva](http://www.rpg.b-zone.ro/factions/apply/tsarbratva)
-[Members The Tsar Bratva](http://www.rpg.b-zone.ro/factions/members/tsarbratva)
-[Complaints The Tsar Bratva](http://www.rpg.b-zone.ro/factions/reports/tsarbratva)
-[Activity Reports The Tsar Bratva](http://www.rpg.b-zone.ro/factions/factiotsarbratvaeports/tsarbratva)
-[Logs The Tsar Bratva](http://www.rpg.b-zone.ro/factions/logs/tsarbratva)
-[Applications List The Tsar Bratva](http://www.rpg.b-zone.ro/factions/applications/tsarbratva)
-[Wars Page](http://www.rpg.b-zone.ro/wars/)
+- [Apply to The Tsar Bratva](http://www.rpg.b-zone.ro/factions/apply/tsarbratva)
+- [Members The Tsar Bratva](http://www.rpg.b-zone.ro/factions/members/tsarbratva)
+- [Complaints The Tsar Bratva](http://www.rpg.b-zone.ro/factions/reports/tsarbratva)
+- [Activity Reports The Tsar Bratva](http://www.rpg.b-zone.ro/factions/factiotsarbratvaeports/tsarbratva)
+- [Logs The Tsar Bratva](http://www.rpg.b-zone.ro/factions/logs/tsarbratva)
+- [Applications List The Tsar Bratva](http://www.rpg.b-zone.ro/factions/applications/tsarbratva)
+- [Wars Page](http://www.rpg.b-zone.ro/wars/)

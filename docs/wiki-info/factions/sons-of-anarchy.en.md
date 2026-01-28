@@ -21,7 +21,7 @@
 </figure>
 
 <figure markdown="span">
-  ![Weapon Packages by Rank](/images/wiki/general/Soaorder.png){ width="400" }
+  ![Weapon Packages by Rank](/images/wiki/general/Soaorder.png){ width="600" }
   <figcaption>Weapon Packages by Rank</figcaption>
 </figure>
 
@@ -39,46 +39,36 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 
 <figure markdown="span">
   ![Skin 100](/images/wiki/skins/100.png){ width="250" }
-  <figcaption>Skin 100</figcaption>
+  <figcaption>President (Leader) / Vice President (6)</figcaption>
 </figure>
-
-**President (Leader) / Vice President (6)**
 
 ### Skin ID 181 - Rank 5 and 4
 
 <figure markdown="span">
   ![Skin 181](/images/wiki/skins/181.png){ width="250" }
-  <figcaption>Skin 181</figcaption>
+  <figcaption>Sgt. at Arms (5) / Man of Mayhem (4)</figcaption>
 </figure>
-
-**Sgt. at Arms (5) / Man of Mayhem (4)**
 
 ### Skin ID 247 - Rank 3
 
 <figure markdown="span">
   ![Skin 247](/images/wiki/skins/247.png){ width="250" }
-  <figcaption>Skin 247</figcaption>
+  <figcaption>Road Captain (3)</figcaption>
 </figure>
-
-**Road Captain (3)**
 
 ### Skin ID 133 - Rank 2
 
 <figure markdown="span">
   ![Skin 133](/images/wiki/skins/133.png){ width="250" }
-  <figcaption>Skin 133</figcaption>
+  <figcaption>Enforcer (2)</figcaption>
 </figure>
-
-**Enforcer (2)**
 
 ### Skin ID 241 - Rank 1
 
 <figure markdown="span">
   ![Skin 241](/images/wiki/skins/241.png){ width="250" }
-  <figcaption>Skin 241</figcaption>
+  <figcaption>Prospect (1)</figcaption>
 </figure>
-
-**Prospect (1)**
 
 ### Skin ID 198 & 157 - Female
 
@@ -105,7 +95,7 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 - Color: ID 236
 - Number of vehicles: 6
 - Maximum speed: 157 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Wayfarer)
+- Available in Dealership: Yes
 
 ### Freeway
 
@@ -118,7 +108,7 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 - Color: ID 236
 - Number of vehicles: 15
 - Maximum speed: 157 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Freeway)
+- Available in Dealership: Yes
 
 ### Sanchez
 
@@ -131,7 +121,7 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 - Color: ID 236
 - Number of vehicles: 4
 - Maximum speed: 157 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sanchez)
+- Available in Dealership: Yes
 
 ### FCR-900
 
@@ -144,7 +134,7 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 - Color: ID 236
 - Number of vehicles: 3
 - Maximum speed: 176 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+- Available in Dealership: Yes
 
 ### Berkley's RC Van
 
@@ -157,7 +147,7 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 - Color: ID 236
 - Number of vehicles: 3
 - Maximum speed: 136 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Utility
 
@@ -170,7 +160,7 @@ Sons of Anarchy is a faction based on motorcycle club activities, the faction's 
 - Color: ID 236
 - Number of vehicles: 1
 - Maximum speed: 121 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ## Salary
 
@@ -215,6 +205,7 @@ salary = To be edited...
 salary = To be edited...
 
 Note:
+
 - If you "squeeze" an impostor, you will receive money, materials and drugs (if they have money in hand / materials / drugs).
 - Calculation formula for money is: **salary = faction_rank * 500**
 - Calculation formula for materials is: **salary_mats = faction_rank * 1000**
@@ -255,8 +246,6 @@ Through this command, the faction leader can set the minimum rank for withdrawin
 Through this command, those who are designated with the tester function by the faction leader can go on duty to be able to conduct entrance tests to the faction.
 
 ## Useful Links
-
-### RPG server 1 (RPG1)
 
 - [Apply to Sons of Anarchy](http://www.rpg.b-zone.ro/factions/apply/soa)
 - [Sons of Anarchy Members](http://www.rpg.b-zone.ro/factions/members/soa)

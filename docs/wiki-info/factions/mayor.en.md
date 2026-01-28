@@ -50,7 +50,7 @@ City Hall is located in the south of Los Santos city, right next to the police h
 - Color: ID 1
 - Number of vehicles: 1
 - Maximum speed: 168 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ## Specific Commands
 

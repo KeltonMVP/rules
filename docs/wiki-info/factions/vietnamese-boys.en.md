@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -78,7 +73,7 @@ The main occupations of the mafia members on B-Zone RPG servers are wars with ot
 - Vehicle: ID 566
 - Color: ID 97
 - Number of vehicles: 4
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Huntley
 
@@ -90,7 +85,7 @@ The main occupations of the mafia members on B-Zone RPG servers are wars with ot
 - Vehicle: ID 579
 - Color: ID 97
 - Number of vehicles: 4
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Blade
 
@@ -102,7 +97,7 @@ The main occupations of the mafia members on B-Zone RPG servers are wars with ot
 - Vehicle: ID 536
 - Color: ID 97
 - Number of vehicles: 1
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Maverick
 
@@ -114,7 +109,7 @@ The main occupations of the mafia members on B-Zone RPG servers are wars with ot
 - Vehicle: ID 487
 - Color: ID 97
 - Number of vehicles: 1
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### FCR-900
 
@@ -126,7 +121,7 @@ The main occupations of the mafia members on B-Zone RPG servers are wars with ot
 - Vehicle: ID 521
 - Color: ID 97
 - Number of vehicles: 2
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ### Stretch
 
@@ -138,7 +133,7 @@ The main occupations of the mafia members on B-Zone RPG servers are wars with ot
 - Vehicle: ID 409
 - Color: ID 97
 - Number of vehicles: 1
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ## Salary
 

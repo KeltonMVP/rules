@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -37,38 +32,30 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 
 ### Skin ID 296 - Leader / Rank 6
 
-*Pimp Boss (Leader) / Pimp (6)*
-
 <figure markdown="span">
   ![Skin 296](/images/wiki/skins/296.png){ width="250" }
-  <figcaption>Skin 296</figcaption>
+  <figcaption>Pimp Boss (Leader) / Pimp (6)</figcaption>
 </figure>
 
 ### Skin ID 185 - Rank 5 and 4
 
-*Gigolo (5) / Wikkid (4)*
-
 <figure markdown="span">
   ![Skin 185](/images/wiki/skins/185.png){ width="250" }
-  <figcaption>Skin 185</figcaption>
+  <figcaption>Gigolo (5) / Wikkid (4)</figcaption>
 </figure>
 
 ### Skin ID 102 - Rank 3 and 2
 
-*Fattam (3) / City Fish (2)*
-
 <figure markdown="span">
   ![Skin 102](/images/wiki/skins/102.png){ width="250" }
-  <figcaption>Skin 102</figcaption>
+  <figcaption>Fattam (3) / City Fish (2)</figcaption>
 </figure>
 
 ### Skin ID 104 - Rank 1
 
-*Street Fish (1)*
-
 <figure markdown="span">
   ![Skin 104](/images/wiki/skins/104.png){ width="250" }
-  <figcaption>Skin 104</figcaption>
+  <figcaption>Street Fish (1)</figcaption>
 </figure>
 
 ### Skin ID 55 - Female
@@ -90,7 +77,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 567
 * Color: ID 147
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Savanna)
+* Available in Dealership: Yes
 
 ### Huntley
 
@@ -102,7 +89,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 579
 * Color: ID 147
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Available in Dealership: Yes
 
 ### Broadway
 
@@ -114,7 +101,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 575
 * Color: ID 147
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Broadway)
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -126,7 +113,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 487
 * Color: ID 147
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -138,7 +125,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 521
 * Color: ID 147
 * Number of vehicles: 2
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -150,7 +137,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 409
 * Color: ID 147
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -206,11 +193,11 @@ earning = (6300 + random(15)) * (2 + coeficient_earning + coeficient_best)
 
 earning = (6300 + random(15)) * (2,1 + coeficient_earning + coeficient_best)
 
-Not3:
+**Note:**
 
-*random(15) represents a random number from 1 to 15.*
-*coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
-*coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
+- *random(15) represents a random number from 1 to 15.*
+- *coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
+- *coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
 
 ## Specific Commands
 
@@ -225,12 +212,12 @@ To change your skin depending on the rank held, any member of a faction can use 
 ### /order
 
 The command is used by the mafiosi of the servers to order a certain package of weapons (the weapon packages are available depending on the rank of the mafioso). A single parameter is used in completing the command, the ID of the weapon package.
-Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.
+*Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.*
 
 ### /backup & /cbackup
 
 In case a member of a mafia needs help, they can use /backup to ask for help from other members of the mafia. To cancel the help request, use the /cbackup command.
-Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
+*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /tie & /untie
 
@@ -263,12 +250,10 @@ Through this command those who are designated with the function of tester by the
 
 ## Useful Links
 
-### RPG server 1(RPG1)
-
-[Apply to Southern Pimps](http://www.rpg.b-zone.ro/factions/apply/southernpimps)
-[Members Southern Pimps](http://www.rpg.b-zone.ro/factions/members/southernpimps)
-[Complaints Southern Pimps](http://www.rpg.b-zone.ro/factions/reports/southernpimps)
-[Activity Reports Southern Pimps](http://www.rpg.b-zone.ro/factions/factiosouthernpimpseports/southernpimps)
-[Logs Southern Pimps](http://www.rpg.b-zone.ro/factions/logs/southernpimps)
-[Applications List Southern Pimps](http://www.rpg.b-zone.ro/factions/applications/southernpimps)
-[Wars Page](http://www.rpg.b-zone.ro/wars/)
+- [Apply to Southern Pimps](http://www.rpg.b-zone.ro/factions/apply/southernpimps)
+- [Members Southern Pimps](http://www.rpg.b-zone.ro/factions/members/southernpimps)
+- [Complaints Southern Pimps](http://www.rpg.b-zone.ro/factions/reports/southernpimps)
+- [Activity Reports Southern Pimps](http://www.rpg.b-zone.ro/factions/factiosouthernpimpseports/southernpimps)
+- [Logs Southern Pimps](http://www.rpg.b-zone.ro/factions/logs/southernpimps)
+- [Applications List Southern Pimps](http://www.rpg.b-zone.ro/factions/applications/southernpimps)
+- [Wars Page](http://www.rpg.b-zone.ro/wars/)

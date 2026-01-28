@@ -31,37 +31,29 @@ Potential News Reporters recruits must be receptive throughout the testing perio
 
 <figure markdown="span">
   ![Skin 147](/images/wiki/skins/147.png){ width="250" }
-  <figcaption>Skin 147</figcaption>
+  <figcaption>Network Director (Leader) / Network Producer (6)</figcaption>
 </figure>
-
-**Network Director (Leader) / Network Producer (6)**
 
 ### Skin ID 187 - Rank 5 and 4
 
 <figure markdown="span">
   ![Skin 187](/images/wiki/skins/187.png){ width="250" }
-  <figcaption>Skin 187</figcaption>
+  <figcaption>Network Editor (5) / Network Anchor (4)</figcaption>
 </figure>
-
-**Network Editor (5) / Network Anchor (4)**
 
 ### Skin ID 17 - Rank 3 and 2
 
 <figure markdown="span">
   ![Skin 17](/images/wiki/skins/17.png){ width="250" }
-  <figcaption>Skin 17</figcaption>
+  <figcaption>Local Editor (3) / Local Reporter (2)</figcaption>
 </figure>
-
-**Local Editor (3) / Local Reporter (2)**
 
 ### Skin ID 188 - Rank 1
 
 <figure markdown="span">
   ![Skin 188](/images/wiki/skins/188.png){ width="250" }
-  <figcaption>Skin 188</figcaption>
+  <figcaption>Intern (1)</figcaption>
 </figure>
-
-**Intern (1)**
 
 ### Skin ID 191 - Female
 
@@ -83,7 +75,7 @@ Potential News Reporters recruits must be receptive throughout the testing perio
 - Color: ID 41 & 20
 - Number of vehicles: 12
 - Maximum speed: 136 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### News Chopper
 
@@ -96,7 +88,7 @@ Potential News Reporters recruits must be receptive throughout the testing perio
 - Color: ID 41 & 20
 - Number of vehicles: 1
 - Maximum speed: 163 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ## Salary
 
@@ -204,8 +196,6 @@ Through this command, the faction leader can set the minimum rank for withdrawin
 Through this command, those designated with the tester function by the faction leader can go on duty to conduct faction entry tests.
 
 ## Useful Links
-
-### RPG server 1(RPG1)
 
 - [Apply to News Reporters](http://www.rpg.b-zone.ro/factions/apply/nr)
 - [News Reporters Members](http://www.rpg.b-zone.ro/factions/members/nr)

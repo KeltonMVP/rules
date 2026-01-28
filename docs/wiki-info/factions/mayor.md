@@ -50,7 +50,7 @@ Primaria se afla in sudul orasului Los Santos, chiar langa sediul politiei si ar
 - Culoarea: ID 1
 - Numarul de vehicule: 1
 - Viteza maxima: 168 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ## Comenzi specifice
 

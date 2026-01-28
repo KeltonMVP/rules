@@ -11,20 +11,15 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
 
 ## Descriere generala
- 
-Avispa Rifa este un gang mexican, localizat in sudul orasului San Fierro. In prezent, acesta are numeroase ocupatii ilegale, printre care traficul cu arme, uciderea persoanelor care sunt pe lista neagra, traficul cu droguri. Membrii mafiei dau dovada zilnic de o iscusinta deosebita in timpul luptelor contra celorlalte ganguri rivale. 
 
-Priceperea pentru manuirea armelor este principalul obiectiv, astfel, acest obiectiv devenind chiar criteriu pentru recrutarea noilor mafioti. Factiunea dispune de o parcare destul de incapatoare pentru vehiculele acesteia, dar si pentru utilizarea ei pe post de poligon de tragere. Daca esti de parere ca punctul tau forte este acela de a lupta cu membrii celorlalte ganguri printre cladiri inalte, atunci locul tau este in Avispa Rifa. 
+Avispa Rifa este un gang mexican, localizat in sudul orasului San Fierro. In prezent, acesta are numeroase ocupatii ilegale, printre care traficul cu arme, uciderea persoanelor care sunt pe lista neagra, traficul cu droguri. Membrii mafiei dau dovada zilnic de o iscusinta deosebita in timpul luptelor contra celorlalte ganguri rivale.
+
+Priceperea pentru manuirea armelor este principalul obiectiv, astfel, acest obiectiv devenind chiar criteriu pentru recrutarea noilor mafioti. Factiunea dispune de o parcare destul de incapatoare pentru vehiculele acesteia, dar si pentru utilizarea ei pe post de poligon de tragere. Daca esti de parere ca punctul tau forte este acela de a lupta cu membrii celorlalte ganguri printre cladiri inalte, atunci locul tau este in Avispa Rifa.
 
 Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu celelalte ganguri (waruri). Telul tuturor este acela de a castiga suprematie, de a ocupa cat mai multe teritorii pentru a deveni un gang cunoscut si respectat de ceilalti. Afla mai multe detalii despre razboaiele intre ganguri pe pagina Waruri.
 
@@ -34,16 +29,12 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 ### Skin ID 3 - Lider / Rang 6
 
-*Lord (Leader) / Count (6)*
-
 <figure markdown="span">
   ![Skin 3](/images/wiki/skins/3.png){ width="250" }
   <figcaption>Lord (Leader) / Count (6)</figcaption>
 </figure>
 
 ### Skin ID 173 - Rang 5 si 4
-
-*War Gangster (5) / Gangster (4)*
 
 <figure markdown="span">
   ![Skin 173](/images/wiki/skins/173.png){ width="250" }
@@ -52,16 +43,12 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 ### Skin ID 175 - Rang 3 si 2
 
-*Fighter (3) / Minion (2)*
-
 <figure markdown="span">
   ![Skin 175](/images/wiki/skins/175.png){ width="250" }
   <figcaption>Fighter (3) / Minion (2)</figcaption>
 </figure>
 
 ### Skin ID 174 - Rang 1
-
-*Servant (1)*
 
 <figure markdown="span">
   ![Skin 174](/images/wiki/skins/174.png){ width="250" }
@@ -87,7 +74,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 551
 * Culoarea: ID 172
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Merit)
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -99,7 +86,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 579
 * Culoarea: ID 172
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Disponibil in Dealership: Da
 
 ### Buccaneer
 
@@ -111,7 +98,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 518
 * Culoarea: ID 172
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Buccaneer)
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -123,7 +110,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 487
 * Culoarea: ID 172
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -135,7 +122,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 521
 * Culoarea: ID 172
 * Numarul de vehicule: 2
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -147,7 +134,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 409
 * Culoarea: ID 172
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -203,11 +190,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Nota:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -222,12 +209,12 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 In cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -260,12 +247,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in Avispa Rifa](http://www.rpg.b-zone.ro/factions/apply/avispa)
-[Membrii Avispa Rifa](http://www.rpg.b-zone.ro/factions/members/avispa)
-[Reclamatii Avispa Rifa](http://www.rpg.b-zone.ro/factions/reports/avispa)
-[Rapoarte de activitate Avispa Rifa](http://www.rpg.b-zone.ro/factions/factionReports/avispa)
-[Loguri Avispa Rifa](http://www.rpg.b-zone.ro/factions/logs/avispa)
-[Lista cu aplicatii Avispa Rifa](http://www.rpg.b-zone.ro/factions/applications/avispa)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in Avispa Rifa](http://www.rpg.b-zone.ro/factions/apply/avispa)
+- [Membrii Avispa Rifa](http://www.rpg.b-zone.ro/factions/members/avispa)
+- [Reclamatii Avispa Rifa](http://www.rpg.b-zone.ro/factions/reports/avispa)
+- [Rapoarte de activitate Avispa Rifa](http://www.rpg.b-zone.ro/factions/factionReports/avispa)
+- [Loguri Avispa Rifa](http://www.rpg.b-zone.ro/factions/logs/avispa)
+- [Lista cu aplicatii Avispa Rifa](http://www.rpg.b-zone.ro/factions/applications/avispa)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

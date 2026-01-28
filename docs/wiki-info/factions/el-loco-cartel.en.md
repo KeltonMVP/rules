@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -36,16 +31,12 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 
 ### Skin ID 292 - Leader / Rank 6
 
-*El Jefe (Leader) / Mano Derecha (6)*
-
 <figure markdown="span">
   ![Skin 292](/images/wiki/skins/292.png){ width="250" }
   <figcaption>El Jefe (Leader) / Mano Derecha (6)</figcaption>
 </figure>
 
 ### Skin ID 110 - Rank 5 and 4
-
-*Vato del Jefe (5) / Pandillero (4)*
 
 <figure markdown="span">
   ![Skin 110](/images/wiki/skins/110.png){ width="250" }
@@ -54,16 +45,12 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 
 ### Skin ID 109 - Rank 3 and 2
 
-*Solado (3) / Cholo (2)*
-
 <figure markdown="span">
   ![Skin 109](/images/wiki/skins/109.png){ width="250" }
   <figcaption>Solado (3) / Cholo (2)</figcaption>
 </figure>
 
 ### Skin ID 108 - Rank 1
-
-*Recluta (1)*
 
 <figure markdown="span">
   ![Skin 108](/images/wiki/skins/108.png){ width="250" }
@@ -89,7 +76,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 507
 * Color: ID 219
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Elegant)
+* Available in Dealership: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Elegant)
 
 ### Huntley
 
@@ -101,7 +88,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 579
 * Color: ID 219
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Available in Dealership: Yes
 
 ### Voodoo
 
@@ -113,7 +100,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 412
 * Color: ID 219
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Voodoo)
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -125,7 +112,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 487
 * Color: ID 219
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -137,7 +124,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 521
 * Color: ID 219
 * Number of vehicles: 2
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -149,7 +136,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 409
 * Color: ID 219
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -207,9 +194,9 @@ earning = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
 **Note:**
 
-* *random(15)* represents a random number from 1 to 15.
-* *coeficient_castig* has the value 0 if the turf is lost, or the value 0.5 if the turf is won.
-* *coeficient_best* has the value 1 for the player who got best and the value 0 for the rest of the players.
+- *random(15)* represents a random number from 1 to 15.
+- *coeficient_castig* has the value 0 if the turf is lost, or the value 0.5 if the turf is won.
+- *coeficient_best* has the value 1 for the player who got best and the value 0 for the rest of the players.
 
 ## Specific Commands
 

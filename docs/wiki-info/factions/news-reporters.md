@@ -31,37 +31,29 @@ Potentialii recruti ai News Reporters trebuie sa fie receptivi pe tot parcursul 
 
 <figure markdown="span">
   ![Skin 147](/images/wiki/skins/147.png){ width="250" }
-  <figcaption>Skin 147</figcaption>
+  <figcaption>Network Director (Leader) / Network Producer (6)</figcaption>
 </figure>
-
-**Network Director (Leader) / Network Producer (6)**
 
 ### Skin ID 187 - Rang 5 si 4
 
 <figure markdown="span">
   ![Skin 187](/images/wiki/skins/187.png){ width="250" }
-  <figcaption>Skin 187</figcaption>
+  <figcaption>Network Editor (5) / Network Anchor (4)</figcaption>
 </figure>
-
-**Network Editor (5) / Network Anchor (4)**
 
 ### Skin ID 17 - Rang 3 si 2
 
 <figure markdown="span">
   ![Skin 17](/images/wiki/skins/17.png){ width="250" }
-  <figcaption>Skin 17</figcaption>
+  <figcaption>Local Editor (3) / Local Reporter (2)</figcaption>
 </figure>
-
-**Local Editor (3) / Local Reporter (2)**
 
 ### Skin ID 188 - Rang 1
 
 <figure markdown="span">
   ![Skin 188](/images/wiki/skins/188.png){ width="250" }
-  <figcaption>Skin 188</figcaption>
+  <figcaption>Intern (1)</figcaption>
 </figure>
-
-**Intern (1)**
 
 ### Skin ID 191 - Feminin
 
@@ -83,7 +75,7 @@ Potentialii recruti ai News Reporters trebuie sa fie receptivi pe tot parcursul 
 - Culoarea: ID 41 & 20
 - Numarul de vehicule: 12
 - Viteza maxima: 136 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### News Chopper
 
@@ -96,7 +88,7 @@ Potentialii recruti ai News Reporters trebuie sa fie receptivi pe tot parcursul 
 - Culoarea: ID 41 & 20
 - Numarul de vehicule: 1
 - Viteza maxima: 163 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ## Salariu
 
@@ -204,8 +196,6 @@ Prin aceasta comanda liderul factiunii poate stabili rank-ul minim pentru extrag
 Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre liderul factiunii se pot pune la datorie pentru a putea efectua teste de intrare in factiune.
 
 ## Legaturi utile
-
-### RPG server 1(RPG1)
 
 - [Aplica in News Reporters](http://www.rpg.b-zone.ro/factions/apply/nr)
 - [Membrii News Reporters](http://www.rpg.b-zone.ro/factions/members/nr)

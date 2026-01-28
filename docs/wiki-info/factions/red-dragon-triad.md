@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -23,7 +18,7 @@
 ## Descriere generala
 
 Red Dragon Triad este una dintre cele mai de temut mafii din orasul Las Venturas, avand sediul in apropierea rivalilor.
-Esti pregatit? Cel mai bun gang din orasul Las Venturas, gang ce pune accent pe calitate in loc de cantitate, te invita sa iei parte la activitati zilnice care mai de care mai interesante. Consideri ca ai ceea ce-ti trebuie? Dragon Head, liderul factiunii, te invita la sanul sau pentru a face din tine un dragon de temut. Membrii Red Dragon Triad trebuie sa aiba habar ce inseamna respectul si seriozitatea. Cine nu respecta aceasta regula simpla risca sa sfarseasca inghitind cianura, arsi pe rug sau prin alte mijloace de tortura. 
+Esti pregatit? Cel mai bun gang din orasul Las Venturas, gang ce pune accent pe calitate in loc de cantitate, te invita sa iei parte la activitati zilnice care mai de care mai interesante. Consideri ca ai ceea ce-ti trebuie? Dragon Head, liderul factiunii, te invita la sanul sau pentru a face din tine un dragon de temut. Membrii Red Dragon Triad trebuie sa aiba habar ce inseamna respectul si seriozitatea. Cine nu respecta aceasta regula simpla risca sa sfarseasca inghitind cianura, arsi pe rug sau prin alte mijloace de tortura.
 Factiunea dispune de o parcare extrem de spațioasa ce poate sustine atat un numar mare de vehicule, cat si un numar mare de gloante zburand in toate partile.
 
 Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu celelalte ganguri (waruri). Telul tuturor este acela de a castiga suprematie, de a ocupa cat mai multe teritorii pentru a deveni un gang cunoscut si respectat de ceilalti. Afla mai multe detalii despre razboaiele intre ganguri pe pagina Waruri.
@@ -80,7 +75,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Culoarea: ID 249
 - Numarul de vehicule: 4
 - Viteza maxima: 173 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -93,7 +88,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Culoarea: ID 249
 - Numarul de vehicule: 4
 - Viteza maxima: 158 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Feltzer
 
@@ -106,7 +101,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Culoarea: ID 249
 - Numarul de vehicule: 1
 - Viteza maxima: 153 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -119,7 +114,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Culoarea: ID 249
 - Numarul de vehicule: 1
 - Viteza maxima: 180 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -132,7 +127,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Culoarea: ID 249
 - Numarul de vehicule: 2
 - Viteza maxima: 176 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -145,7 +140,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Culoarea: ID 249
 - Numarul de vehicule: 1
 - Viteza maxima: 168 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -206,7 +201,7 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 
 ### /order
 
-Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme. 
+Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
 
 *Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 

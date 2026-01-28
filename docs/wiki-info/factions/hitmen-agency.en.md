@@ -21,7 +21,7 @@
 </figure>
 
 <figure markdown="span">
-  ![Contract successfully completed](/images/wiki/general/Mesajcontract.png){ width="300" }
+  ![Contract successfully completed](/images/wiki/general/Mesajcontract.png){ width="600" }
   <figcaption>Contract successfully completed</figcaption>
 </figure>
 
@@ -40,46 +40,36 @@ The agency has a limited number of vehicles such as Sparrow, Buffalo. Most of th
 
 <figure markdown="span">
   ![Skin 294](/images/wiki/skins/294.png){ width="250" }
-  <figcaption>Skin 294</figcaption>
+  <figcaption>Director (Leader) / Vice Director (6)</figcaption>
 </figure>
-
-**Director (Leader) / Vice Director (6)**
 
 ### Skin ID 120 - Rank 5
 
 <figure markdown="span">
   ![Skin 120](/images/wiki/skins/120.png){ width="250" }
-  <figcaption>Skin 120</figcaption>
+  <figcaption>Special Agent in Charge (5)</figcaption>
 </figure>
-
-**Special Agent in Charge (5)**
 
 ### Skin ID 240 - Rank 4
 
 <figure markdown="span">
   ![Skin 165](/images/wiki/skins/165.png){ width="250" }
-  <figcaption>Skin 165</figcaption>
+  <figcaption>Special Agent (4)</figcaption>
 </figure>
-
-**Special Agent (4)**
 
 ### Skin ID 186 - Rank 3
 
 <figure markdown="span">
   ![Skin 186](/images/wiki/skins/186.png){ width="250" }
-  <figcaption>Skin 186</figcaption>
+  <figcaption>Agent (3)</figcaption>
 </figure>
-
-**Agent (3)**
 
 ### Skin ID 118 - Rank 1 and 2
 
 <figure markdown="span">
   ![Skin 118](/images/wiki/skins/118.png){ width="250" }
-  <figcaption>Skin 118</figcaption>
+  <figcaption>Freelancer (1) / Marksman (2)</figcaption>
 </figure>
-
-**Freelancer (1) / Marksman (2)**
 
 ### Skin ID 93 - Female
 
@@ -101,7 +91,7 @@ The agency has a limited number of vehicles such as Sparrow, Buffalo. Most of th
 - Color: ID 0
 - Number of vehicles: 37
 - Maximum speed: 133 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sparrow)
+- Available in Dealership: Yes
 
 ### Buffalo
 
@@ -114,7 +104,7 @@ The agency has a limited number of vehicles such as Sparrow, Buffalo. Most of th
 - Color: ID 0
 - Number of vehicles: 3
 - Maximum speed: 186 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Buffalo)
+- Available in Dealership: Yes
 
 ### Sultan
 
@@ -127,7 +117,7 @@ The agency has a limited number of vehicles such as Sparrow, Buffalo. Most of th
 - Color: ID 0
 - Number of vehicles: 1
 - Maximum speed: 169 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sultan)
+- Available in Dealership: Yes
 
 ### Maverick
 
@@ -140,7 +130,7 @@ The agency has a limited number of vehicles such as Sparrow, Buffalo. Most of th
 - Color: ID 0
 - Number of vehicles: 2
 - Maximum speed: 180 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+- Available in Dealership: Yes
 
 ### FCR-900
 
@@ -153,7 +143,7 @@ The agency has a limited number of vehicles such as Sparrow, Buffalo. Most of th
 - Color: ID 0
 - Number of vehicles: 3
 - Maximum speed: 176 KM/h
-- Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+- Available in Dealership: Yes
 
 ## Salary
 
@@ -269,8 +259,6 @@ The agent does not receive waiting time in the following situations handled by t
 13. If the target is in Training Room.
 
 ## Useful Links
-
-### RPG server 1(RPG1)
 
 - [Apply to Hitmen Agency](http://www.rpg.b-zone.ro/factions/apply/hitmen)
 - [Hitmen Agency Members](http://www.rpg.b-zone.ro/factions/members/hitmen)

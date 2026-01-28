@@ -105,7 +105,7 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 - Culoarea: ID 1 & 3
 - Numarul de vehicule: 40
 - Viteza maxima: 154 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Police Ranger
 
@@ -118,7 +118,7 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 - Culoarea: ID 1 & 3
 - Numarul de vehicule: 5
 - Viteza maxima: 158 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Raindance
 
@@ -131,7 +131,7 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 - Culoarea: ID 1 & 3
 - Numarul de vehicule: 1
 - Viteza maxima: 142 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Romero
 
@@ -144,7 +144,7 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 - Culoarea: ID 1 & 3
 - Numarul de vehicule: 5
 - Viteza maxima: 139 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -240,7 +240,7 @@ Aceasta comanda scade procentul de dependeta de droguri pe care il are un jucato
 
 ### /corpse
 
-Aceasta comanda este folosita pentru a ridica un cadavru. 
+Aceasta comanda este folosita pentru a ridica un cadavru.
 Nota: Comanda se foloseste urmata de ID-ul cadavrului corespunzator. ID-ul cadavrelor poate varia de la 0 la 19.
 
 Aceasta comanda poate fi folosita doar daca:

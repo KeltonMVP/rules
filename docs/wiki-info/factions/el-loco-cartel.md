@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -36,31 +31,37 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 ### Skin ID 292 - Lider / Rang 6
 
-*El Jefe (Leader) / Mano Derecha (6)*
-
-![Skin 292](/images/wiki/skins/292.png){ width="250" }
+<figure markdown="span">
+  ![Skin 292](/images/wiki/skins/292.png){ width="250" }
+  <figcaption>El Jefe (Leader) / Mano Derecha (6)</figcaption>
+</figure>
 
 ### Skin ID 110 - Rang 5 si 4
 
-*Vato del Jefe (5) / Pandillero (4)*
-
-![Skin 110](/images/wiki/skins/110.png){ width="250" }
+<figure markdown="span">
+  ![Skin 110](/images/wiki/skins/110.png){ width="250" }
+  <figcaption>Vato del Jefe (5) / Pandillero (4)</figcaption>
+</figure>
 
 ### Skin ID 109 - Rang 3 si 2
 
-*Solado (3) / Cholo (2)*
-
-![Skin 109](/images/wiki/skins/109.png){ width="250" }
+<figure markdown="span">
+  ![Skin 109](/images/wiki/skins/109.png){ width="250" }
+  <figcaption>Solado (3) / Cholo (2)</figcaption>
+</figure>
 
 ### Skin ID 108 - Rang 1
 
-*Recluta (1)*
-
-![Skin 108](/images/wiki/skins/108.png){ width="250" }
+<figure markdown="span">
+  ![Skin 108](/images/wiki/skins/108.png){ width="250" }
+  <figcaption>Recluta (1)</figcaption>
+</figure>
 
 ### Skin ID 193 - Feminin
 
-![Skin 193](/images/wiki/skins/193.png){ width="250" }
+<figure markdown="span">
+  ![Skin 193](/images/wiki/skins/193.png){ width="250" }
+</figure>
 
 ## Vehiculele factiunii
 
@@ -71,7 +72,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 507
 * Culoarea: ID 219
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Elegant)
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -80,7 +81,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 579
 * Culoarea: ID 219
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Disponibil in Dealership: Da
 
 ### Voodoo
 
@@ -89,7 +90,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 412
 * Culoarea: ID 219
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Voodoo)
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -98,8 +99,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 487
 * Culoarea: ID 219
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
-
+* Disponibil in Dealership: Da
 ### FCR-900
 
 ![Vehicle 521](/images/wiki/vehicles/521.png){ width="250" }
@@ -107,7 +107,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 521
 * Culoarea: ID 219
 * Numarul de vehicule: 2
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -116,7 +116,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 409
 * Culoarea: ID 219
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -172,11 +172,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Nota:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -191,12 +191,12 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 In cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -229,12 +229,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in El Loco Cartel](http://www.rpg.b-zone.ro/factions/apply/elloco)
-[Membrii El Loco Cartel](http://www.rpg.b-zone.ro/factions/members/elloco)
-[Reclamatii El Loco Cartel](http://www.rpg.b-zone.ro/factions/reports/elloco)
-[Rapoarte de activitate El Loco Cartel](http://www.rpg.b-zone.ro/factions/factioellocoeports/elloco)
-[Loguri El Loco Cartel](http://www.rpg.b-zone.ro/factions/logs/elloco)
-[Lista cu aplicatii El Loco Cartel](http://www.rpg.b-zone.ro/factions/applications/elloco)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in El Loco Cartel](http://www.rpg.b-zone.ro/factions/apply/elloco)
+- [Membrii El Loco Cartel](http://www.rpg.b-zone.ro/factions/members/elloco)
+- [Reclamatii El Loco Cartel](http://www.rpg.b-zone.ro/factions/reports/elloco)
+- [Rapoarte de activitate El Loco Cartel](http://www.rpg.b-zone.ro/factions/factioellocoeports/elloco)
+- [Loguri El Loco Cartel](http://www.rpg.b-zone.ro/factions/logs/elloco)
+- [Lista cu aplicatii El Loco Cartel](http://www.rpg.b-zone.ro/factions/applications/elloco)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

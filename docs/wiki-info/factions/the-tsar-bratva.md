@@ -6,11 +6,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -33,43 +28,34 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 <figure markdown="span">
   ![Skin 113](/images/wiki/skins/113.png){ width="250" }
-  <figcaption>Skin 113</figcaption>
+  <figcaption>Pakhan (Leader) / Sovietnik (6)</figcaption>
 </figure>
-
-**Pakhan / Sovietnik**
 
 ### Skin ID 272 - Rang 5 si 4
 
 <figure markdown="span">
   ![Skin 272](/images/wiki/skins/272.png){ width="250" }
-  <figcaption>Skin 272</figcaption>
+  <figcaption>Obshchak (5) / Brigadier (4)</figcaption>
 </figure>
-
-**Obshchak / Brigadier**
 
 ### Skin ID 112 - Rang 3 si 2
 
 <figure markdown="span">
   ![Skin 112](/images/wiki/skins/112.png){ width="250" }
-  <figcaption>Skin 112</figcaption>
+  <figcaption>Boyevik (3) / Kryshas (2)</figcaption>
 </figure>
-
-**Boyevik / Kryshas**
 
 ### Skin ID 111 - Rang 1
 
 <figure markdown="span">
   ![Skin 111](/images/wiki/skins/111.png){ width="250" }
-  <figcaption>Skin 111</figcaption>
+  <figcaption>Byki (1)</figcaption>
 </figure>
-
-**Byki**
 
 ### Skin ID 214 - Feminin
 
 <figure markdown="span">
   ![Skin 214](/images/wiki/skins/214.png){ width="250" }
-  <figcaption>Skin 214</figcaption>
 </figure>
 
 ## Vehiculele factiunii
@@ -81,11 +67,11 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
   <figcaption>Vehicle 426</figcaption>
 </figure>
 
-**Vehicul: ID 426**
-**Culoarea: ID 123**
-**Numarul de vehicule: 4**
-**Viteza maxima: 173 KM/h**
-**Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Premier)**
+* Vehicul: ID 426
+* Culoarea: ID 123
+* Numarul de vehicule: 4
+* Viteza maxima: 173 KM/h
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -94,11 +80,11 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
   <figcaption>Vehicle 579</figcaption>
 </figure>
 
-**Vehicul: ID 579**
-**Culoarea: ID 123**
-**Numarul de vehicule: 4**
-**Viteza maxima: 158 KM/h**
-**Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)**
+* Vehicul: ID 579
+* Culoarea: ID 123
+* Numarul de vehicule: 4
+* Viteza maxima: 158 KM/h
+* Disponibil in Dealership: Da
 
 ### Stafford
 
@@ -107,11 +93,11 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
   <figcaption>Vehicle 580</figcaption>
 </figure>
 
-**Vehicul: ID 580**
-**Culoarea: ID 123**
-**Numarul de vehicule: 1**
-**Viteza maxima: 153 KM/h**
-**Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stafford)**
+* Vehicul: ID 580
+* Culoarea: ID 123
+* Numarul de vehicule: 1
+* Viteza maxima: 153 KM/h
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -120,11 +106,11 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
   <figcaption>Vehicle 487</figcaption>
 </figure>
 
-**Vehicul: ID 487**
-**Culoarea: ID 123**
-**Numarul de vehicule: 1**
-**Viteza maxima: 180 KM/h**
-**Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)**
+* Vehicul: ID 487
+* Culoarea: ID 123
+* Numarul de vehicule: 1
+* Viteza maxima: 180 KM/h
+* Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -133,11 +119,11 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
   <figcaption>Vehicle 521</figcaption>
 </figure>
 
-**Vehicul: ID 521**
-**Culoarea: ID 123**
-**Numarul de vehicule: 2**
-**Viteza maxima: 176 KM/h**
-**Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)**
+* Vehicul: ID 521
+* Culoarea: ID 123
+* Numarul de vehicule: 2
+* Viteza maxima: 176 KM/h
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -146,11 +132,11 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
   <figcaption>Vehicle 409</figcaption>
 </figure>
 
-**Vehicul: ID 409**
-**Culoarea: ID 123**
-**Numarul de vehicule: 1**
-**Viteza maxima: 168 KM/h**
-**Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)**
+* Vehicul: ID 409
+* Culoarea: ID 123
+* Numarul de vehicule: 1
+* Viteza maxima: 168 KM/h
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -206,11 +192,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Nota:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -225,12 +211,14 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 in cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -263,12 +251,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in The Tsar Bratva](http://www.rpg.b-zone.ro/factions/apply/tsarbratva)
-[Membrii The Tsar Bratva](http://www.rpg.b-zone.ro/factions/members/tsarbratva)
-[Reclamatii The Tsar Bratva](http://www.rpg.b-zone.ro/factions/reports/tsarbratva)
-[Rapoarte de activitate The Tsar Bratva](http://www.rpg.b-zone.ro/factions/factiotsarbratvaeports/tsarbratva)
-[Loguri The Tsar Bratva](http://www.rpg.b-zone.ro/factions/logs/tsarbratva)
-[Lista cu aplicatii The Tsar Bratva](http://www.rpg.b-zone.ro/factions/applications/tsarbratva)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in The Tsar Bratva](http://www.rpg.b-zone.ro/factions/apply/tsarbratva)
+- [Membrii The Tsar Bratva](http://www.rpg.b-zone.ro/factions/members/tsarbratva)
+- [Reclamatii The Tsar Bratva](http://www.rpg.b-zone.ro/factions/reports/tsarbratva)
+- [Rapoarte de activitate The Tsar Bratva](http://www.rpg.b-zone.ro/factions/factiotsarbratvaeports/tsarbratva)
+- [Loguri The Tsar Bratva](http://www.rpg.b-zone.ro/factions/logs/tsarbratva)
+- [Lista cu aplicatii The Tsar Bratva](http://www.rpg.b-zone.ro/factions/applications/tsarbratva)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

@@ -21,7 +21,7 @@
 </figure>
 
 <figure markdown="span">
-  ![Contract efectuat cu succes](/images/wiki/general/Mesajcontract.png){ width="300" }
+  ![Contract efectuat cu succes](/images/wiki/general/Mesajcontract.png){ width="600" }
   <figcaption>Contract efectuat cu succes</figcaption>
 </figure>
 
@@ -40,46 +40,36 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 
 <figure markdown="span">
   ![Skin 294](/images/wiki/skins/294.png){ width="250" }
-  <figcaption>Skin 294</figcaption>
+  <figcaption>Director (Leader) / Vice Director (6)</figcaption>
 </figure>
-
-**Director (Leader) / Vice Director (6)**
 
 ### Skin ID 120 - Rang 5
 
 <figure markdown="span">
   ![Skin 120](/images/wiki/skins/120.png){ width="250" }
-  <figcaption>Skin 120</figcaption>
+  <figcaption>Special Agent in Charge (5)</figcaption>
 </figure>
-
-**Special Agent in Charge (5)**
 
 ### Skin ID 240 - Rang 4
 
 <figure markdown="span">
   ![Skin 165](/images/wiki/skins/165.png){ width="250" }
-  <figcaption>Skin 165</figcaption>
+  <figcaption>Special Agent (4)</figcaption>
 </figure>
-
-**Special Agent (4)**
 
 ### Skin ID 186 - Rang 3
 
 <figure markdown="span">
   ![Skin 186](/images/wiki/skins/186.png){ width="250" }
-  <figcaption>Skin 186</figcaption>
+  <figcaption>Agent (3)</figcaption>
 </figure>
-
-**Agent (3)**
 
 ### Skin ID 118 - Rang 1 si 2
 
 <figure markdown="span">
   ![Skin 118](/images/wiki/skins/118.png){ width="250" }
-  <figcaption>Skin 118</figcaption>
+  <figcaption>Freelancer (1) / Marksman (2)</figcaption>
 </figure>
-
-**Freelancer (1) / Marksman (2)**
 
 ### Skin ID 93 - Feminin
 
@@ -101,7 +91,7 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 - Culoarea: ID 0
 - Numarul de vehicule: 37
 - Viteza maxima: 133 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sparrow)
+- Disponibil in Dealership: Da
 
 ### Buffalo
 
@@ -114,7 +104,7 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 - Culoarea: ID 0
 - Numarul de vehicule: 3
 - Viteza maxima: 186 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Buffalo)
+- Disponibil in Dealership: Da
 
 ### Sultan
 
@@ -127,7 +117,7 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 - Culoarea: ID 0
 - Numarul de vehicule: 1
 - Viteza maxima: 169 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sultan)
+- Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -140,7 +130,7 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 - Culoarea: ID 0
 - Numarul de vehicule: 2
 - Viteza maxima: 180 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+- Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -153,7 +143,7 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 - Culoarea: ID 0
 - Numarul de vehicule: 3
 - Viteza maxima: 176 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+- Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -269,8 +259,6 @@ Agentul nu primeste timp de asteptarea in urmatoarele situatii tratate de catre 
 13. Daca tinta este in Training Room.
 
 ## Legaturi utile
-
-### RPG server 1(RPG1)
 
 - [Aplica in Hitmen Agency](http://www.rpg.b-zone.ro/factions/apply/hitmen)
 - [Membrii Hitmen Agency](http://www.rpg.b-zone.ro/factions/members/hitmen)

@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
@@ -34,37 +29,29 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 
 <figure markdown="span">
   ![Skin 270](/images/wiki/skins/270.png){ width="250" }
-  <figcaption>Skin 270</figcaption>
+  <figcaption>Supreme Chief (Leader) / Advisor (6)</figcaption>
 </figure>
-
-**Supreme Chief (Leader) / Advisor (6)**
 
 ### Skin ID 269 - Rank 5 and 4
 
 <figure markdown="span">
   ![Skin 269](/images/wiki/skins/269.png){ width="250" }
-  <figcaption>Skin 269</figcaption>
+  <figcaption>Councilor (5) / Chief Enforcer (4)</figcaption>
 </figure>
-
-**Councilor (5) / Chief Enforcer (4)**
 
 ### Skin ID 271 - Rank 3 and 2
 
 <figure markdown="span">
   ![Skin 271](/images/wiki/skins/271.png){ width="250" }
-  <figcaption>Skin 271</figcaption>
+  <figcaption>Money Launderer (3) / Supplier (2)</figcaption>
 </figure>
-
-**Money Launderer (3) / Supplier (2)**
 
 ### Skin ID 106 - Rank 1
 
 <figure markdown="span">
   ![Skin 106](/images/wiki/skins/106.png){ width="250" }
-  <figcaption>Skin 106</figcaption>
+  <figcaption>Street Soldier (1)</figcaption>
 </figure>
-
-**Street Soldier (1)**
 
 ### Skin ID 195 - Female
 
@@ -85,7 +72,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 445
 * Color: ID 202
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Admiral)
+* Available in Dealership: Yes
 
 ### Huntley
 
@@ -97,7 +84,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 579
 * Color: ID 202
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Available in Dealership: Yes
 
 ### Remington
 
@@ -109,7 +96,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 534
 * Color: ID 202
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Remington)
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -121,7 +108,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 487
 * Color: ID 202
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -133,7 +120,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 521
 * Color: ID 202
 * Number of vehicles: 2
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -145,7 +132,7 @@ Note: Skin ranks are general, they may differ depending on the faction's interna
 * Vehicle: ID 409
 * Color: ID 202
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -201,11 +188,11 @@ earning = (6300 + random(15)) * (2 + coeficient_earning + coeficient_best)
 
 earning = (6300 + random(15)) * (2,1 + coeficient_earning + coeficient_best)
 
-Not3:
+**Note:**
 
-*random(15) represents a random number from 1 to 15.*
-*coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
-*coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
+- *random(15) represents a random number from 1 to 15.*
+- *coeficient_earning has the value 0 if the turf is lost, or the value 0,5 if the turf is won.*
+- **coeficient_best has the value 1 for the player who took best and the value 0 for the rest of the players.*
 
 ## Specific Commands
 
@@ -220,12 +207,14 @@ To change your skin depending on the rank held, any member of a faction can use 
 ### /order
 
 The command is used by the mafiosi of the servers to order a certain package of weapons (the weapon packages are available depending on the rank of the mafioso). A single parameter is used in completing the command, the ID of the weapon package.
-Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.
+
+*Note: There are a total of 4 weapon packages. The weapons contained in each package are listed in the image on the right.*
 
 ### /backup & /cbackup
 
 In case a member of a mafia needs help, they can use /backup to ask for help from other members of the mafia. To cancel the help request, use the /cbackup command.
-Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
+
+*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /tie & /untie
 
@@ -258,12 +247,10 @@ Through this command those who are designated with the function of tester by the
 
 ## Useful Links
 
-### RPG server 1(RPG1)
-
-[Apply to Green Street Bloods](http://www.rpg.b-zone.ro/factions/apply/greenstreet)
-[Members Green Street Bloods](http://www.rpg.b-zone.ro/factions/members/greenstreet)
-[Complaints Green Street Bloods](http://www.rpg.b-zone.ro/factions/reports/greenstreet)
-[Activity Reports Green Street Bloods](http://www.rpg.b-zone.ro/factions/factiogreenstreeteports/greenstreet)
-[Logs Green Street Bloods](http://www.rpg.b-zone.ro/factions/logs/greenstreet)
-[Applications List Green Street Bloods](http://www.rpg.b-zone.ro/factions/applications/greenstreet)
-[Wars Page](http://www.rpg.b-zone.ro/wars/)
+- [Apply to Green Street Bloods](http://www.rpg.b-zone.ro/factions/apply/greenstreet)
+- [Members Green Street Bloods](http://www.rpg.b-zone.ro/factions/members/greenstreet)
+- [Complaints Green Street Bloods](http://www.rpg.b-zone.ro/factions/reports/greenstreet)
+- [Activity Reports Green Street Bloods](http://www.rpg.b-zone.ro/factions/factiogreenstreeteports/greenstreet)
+- [Logs Green Street Bloods](http://www.rpg.b-zone.ro/factions/logs/greenstreet)
+- [Applications List Green Street Bloods](http://www.rpg.b-zone.ro/factions/applications/greenstreet)
+- [Wars Page](http://www.rpg.b-zone.ro/wars/)

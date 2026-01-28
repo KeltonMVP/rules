@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -78,7 +73,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Vehicul: ID 566
 - Culoarea: ID 97
 - Numarul de vehicule: 4
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -90,7 +85,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Vehicul: ID 579
 - Culoarea: ID 97
 - Numarul de vehicule: 4
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Blade
 
@@ -102,7 +97,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Vehicul: ID 536
 - Culoarea: ID 97
 - Numarul de vehicule: 1
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -114,7 +109,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Vehicul: ID 487
 - Culoarea: ID 97
 - Numarul de vehicule: 1
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -126,7 +121,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Vehicul: ID 521
 - Culoarea: ID 97
 - Numarul de vehicule: 2
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -138,7 +133,7 @@ Principalele ocupatii ale mafiotilor serverelor B-Zone RPG, sunt razboaiele cu c
 - Vehicul: ID 409
 - Culoarea: ID 97
 - Numarul de vehicule: 1
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -199,7 +194,7 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 
 ### /order
 
-Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme. 
+Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
 
 *Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 

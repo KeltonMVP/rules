@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -37,38 +32,30 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 ### Skin ID 296 - Lider / Rang 6
 
-*Pimp Boss (Leader) / Pimp (6)*
-
 <figure markdown="span">
   ![Skin 296](/images/wiki/skins/296.png){ width="250" }
-  <figcaption>Skin 296</figcaption>
+  <figcaption>Pimp Boss (Leader) / Pimp (6)</figcaption>
 </figure>
 
 ### Skin ID 185 - Rang 5 si 4
 
-*Gigolo (5) / Wikkid (4)*
-
 <figure markdown="span">
   ![Skin 185](/images/wiki/skins/185.png){ width="250" }
-  <figcaption>Skin 185</figcaption>
+  <figcaption>Gigolo (5) / Wikkid (4)</figcaption>
 </figure>
 
 ### Skin ID 102 - Rang 3 si 2
 
-*Fattam (3) / City Fish (2)*
-
 <figure markdown="span">
   ![Skin 102](/images/wiki/skins/102.png){ width="250" }
-  <figcaption>Skin 102</figcaption>
+  <figcaption>Fattam (3) / City Fish (2)</figcaption>
 </figure>
 
 ### Skin ID 104 - Rang 1
 
-*Street Fish (1)*
-
 <figure markdown="span">
   ![Skin 104](/images/wiki/skins/104.png){ width="250" }
-  <figcaption>Skin 104</figcaption>
+  <figcaption>Street Fish (1)</figcaption>
 </figure>
 
 ### Skin ID 55 - Feminin
@@ -90,7 +77,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 567
 * Culoarea: ID 147
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Savanna)
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -102,7 +89,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 579
 * Culoarea: ID 147
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Disponibil in Dealership: Da
 
 ### Broadway
 
@@ -114,7 +101,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 575
 * Culoarea: ID 147
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Broadway)
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -126,7 +113,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 487
 * Culoarea: ID 147
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -138,7 +125,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 521
 * Culoarea: ID 147
 * Numarul de vehicule: 2
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -150,7 +137,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 409
 * Culoarea: ID 147
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -206,11 +193,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Note:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -225,12 +212,12 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 in cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -263,12 +250,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in Southern Pimps](http://www.rpg.b-zone.ro/factions/apply/southernpimps)
-[Membrii Southern Pimps](http://www.rpg.b-zone.ro/factions/members/southernpimps)
-[Reclamatii Southern Pimps](http://www.rpg.b-zone.ro/factions/reports/southernpimps)
-[Rapoarte de activitate Southern Pimps](http://www.rpg.b-zone.ro/factions/factiosouthernpimpseports/southernpimps)
-[Loguri Southern Pimps](http://www.rpg.b-zone.ro/factions/logs/southernpimps)
-[Lista cu aplicatii Southern Pimps](http://www.rpg.b-zone.ro/factions/applications/southernpimps)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in Southern Pimps](http://www.rpg.b-zone.ro/factions/apply/southernpimps)
+- [Membrii Southern Pimps](http://www.rpg.b-zone.ro/factions/members/southernpimps)
+- [Reclamatii Southern Pimps](http://www.rpg.b-zone.ro/factions/reports/southernpimps)
+- [Rapoarte de activitate Southern Pimps](http://www.rpg.b-zone.ro/factions/factiosouthernpimpseports/southernpimps)
+- [Loguri Southern Pimps](http://www.rpg.b-zone.ro/factions/logs/southernpimps)
+- [Lista cu aplicatii Southern Pimps](http://www.rpg.b-zone.ro/factions/applications/southernpimps)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

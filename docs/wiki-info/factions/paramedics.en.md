@@ -107,7 +107,7 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 - Color: ID 1 & 3
 - Number of vehicles: 40
 - Maximum speed: 154 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Police Ranger
 
@@ -120,7 +120,7 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 - Color: ID 1 & 3
 - Number of vehicles: 5
 - Maximum speed: 158 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Raindance
 
@@ -133,7 +133,7 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 - Color: ID 1 & 3
 - Number of vehicles: 1
 - Maximum speed: 142 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Romero
 
@@ -146,7 +146,7 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 - Color: ID 1 & 3
 - Number of vehicles: 5
 - Maximum speed: 139 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ## Salary
 

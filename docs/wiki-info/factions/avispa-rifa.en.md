@@ -11,17 +11,12 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Weapon packages by rank</figcaption>
 </figure>
 
 ## General Description
- 
+
 Avispa Rifa is a Mexican gang, located in the south of San Fierro city. Currently, it has numerous illegal occupations, including arms trafficking, killing people who are on the blacklist, drug trafficking. Mafia members daily demonstrate special skill during fights against other rival gangs.
 
 Skill in handling weapons is the main objective, thus, this objective even becoming a criterion for recruiting new mafiosos. The faction has a fairly spacious parking lot for its vehicles, but also for its use as a shooting range. If you think your forte is fighting with members of other gangs among tall buildings, then your place is in Avispa Rifa.
@@ -34,16 +29,12 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 
 ### Skin ID 3 - Leader / Rank 6
 
-*Lord (Leader) / Count (6)*
-
 <figure markdown="span">
   ![Skin 3](/images/wiki/skins/3.png){ width="250" }
   <figcaption>Lord (Leader) / Count (6)</figcaption>
 </figure>
 
 ### Skin ID 173 - Rank 5 and 4
-
-*War Gangster (5) / Gangster (4)*
 
 <figure markdown="span">
   ![Skin 173](/images/wiki/skins/173.png){ width="250" }
@@ -52,16 +43,12 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 
 ### Skin ID 175 - Rank 3 and 2
 
-*Fighter (3) / Minion (2)*
-
 <figure markdown="span">
   ![Skin 175](/images/wiki/skins/175.png){ width="250" }
   <figcaption>Fighter (3) / Minion (2)</figcaption>
 </figure>
 
 ### Skin ID 174 - Rank 1
-
-*Servant (1)*
 
 <figure markdown="span">
   ![Skin 174](/images/wiki/skins/174.png){ width="250" }
@@ -87,7 +74,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 551
 * Color: ID 172
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Merit)
+* Available in Dealership: Yes
 
 ### Huntley
 
@@ -99,7 +86,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 579
 * Color: ID 172
 * Number of vehicles: 4
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Available in Dealership: Yes
 
 ### Buccaneer
 
@@ -111,7 +98,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 518
 * Color: ID 172
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Buccaneer)
+* Available in Dealership: Yes
 
 ### Maverick
 
@@ -123,7 +110,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 487
 * Color: ID 172
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Available in Dealership: Yes
 
 ### FCR-900
 
@@ -135,7 +122,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 521
 * Color: ID 172
 * Number of vehicles: 2
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Available in Dealership: Yes
 
 ### Stretch
 
@@ -147,7 +134,7 @@ The main occupations of mafiosos on B-Zone RPG servers are wars with other gangs
 * Vehicle: ID 409
 * Color: ID 172
 * Number of vehicles: 1
-* Available in DealerShip: [Yes](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Available in Dealership: Yes
 
 ## Salary
 
@@ -205,9 +192,9 @@ earning = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
 **Note:**
 
-* *random(15)* represents a random number from 1 to 15.
-* *coeficient_castig* has the value 0 if the turf is lost, or the value 0.5 if the turf is won.
-* *coeficient_best* has the value 1 for the player who got best and the value 0 for the rest of the players.
+- *random(15)* represents a random number from 1 to 15.
+- *coeficient_castig* has the value 0 if the turf is lost, or the value 0.5 if the turf is won.
+- *coeficient_best* has the value 1 for the player who got best and the value 0 for the rest of the players.
 
 ## Specific Commands
 

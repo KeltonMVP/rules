@@ -72,7 +72,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 30
 - Viteza maxima: 145 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Cabbie
 
@@ -85,7 +85,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 25
 - Viteza maxima: 142 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Sultan
 
@@ -98,7 +98,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 5
 - Viteza maxima: 169 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -111,7 +111,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 1
 - Viteza maxima: 180 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -124,7 +124,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 5
 - Viteza maxima: 158 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Alpha
 
@@ -137,7 +137,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 5
 - Viteza maxima: 169 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ### Tahoma
 
@@ -150,7 +150,7 @@ Atunci cand un un taximetrist foloseste comanda /fare pentru a-si activa functia
 - Culoarea: ID 6
 - Numarul de vehicule: 5
 - Viteza maxima: 160 KM/h
-- Disponibil in DealerShip: Da
+- Disponibil in Dealership: Da
 
 ## Salariu
 

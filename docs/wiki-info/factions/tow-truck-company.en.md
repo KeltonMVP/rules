@@ -32,37 +32,29 @@ Occasionally, meetings are held between faction members to have debates about th
 
 <figure markdown="span">
   ![Skin 268](/images/wiki/skins/268.png){ width="250" }
-  <figcaption>Skin 268</figcaption>
+  <figcaption>Tow Company Owner (Leader) / Under Boss (6)</figcaption>
 </figure>
-
-**Tow Company Owner (Leader) / Under Boss (6)**
 
 ### Skin ID 42 - Rank 5 and 4
 
 <figure markdown="span">
   ![Skin 42](/images/wiki/skins/42.png){ width="250" }
-  <figcaption>Skin 42</figcaption>
+  <figcaption>Manager (5) / Supervisor (4)</figcaption>
 </figure>
-
-**Manager (5) / Supervisor (4)**
 
 ### Skin ID 50 - Rank 3 and 2
 
 <figure markdown="span">
   ![Skin 50](/images/wiki/skins/50.png){ width="250" }
-  <figcaption>Skin 50</figcaption>
+  <figcaption>Senior Mechanic (3) / Mechanic (2)</figcaption>
 </figure>
-
-**Senior Mechanic (3) / Mechanic (2)**
 
 ### Skin ID 8 - Rank 1
 
 <figure markdown="span">
   ![Skin 8](/images/wiki/skins/8.png){ width="250" }
-  <figcaption>Skin 8</figcaption>
+  <figcaption>Trainee (1)</figcaption>
 </figure>
-
-**Trainee (1)**
 
 ### Skin ID 233 - Female
 
@@ -84,7 +76,7 @@ Occasionally, meetings are held between faction members to have debates about th
 - Color: ID 1 & 102
 - Number of vehicles: 12
 - Maximum speed: 160 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Utility
 
@@ -97,7 +89,7 @@ Occasionally, meetings are held between faction members to have debates about th
 - Color: ID 1 & 102
 - Number of vehicles: 1
 - Maximum speed: 121 KM/h
-- Available in DealerShip: No
+- Available in Dealership: No
 
 ### Maverick
 
@@ -110,7 +102,7 @@ Occasionally, meetings are held between faction members to have debates about th
 - Color: ID 1 & 102
 - Number of vehicles: 1
 - Maximum speed: 180 KM/h
-- Available in DealerShip: Yes
+- Available in Dealership: Yes
 
 ## Salary
 
@@ -208,8 +200,6 @@ Through this command you can sell or repair a repair/refuel kit to a player to u
 Through this command you can fill a player's fuel canister to use later.
 
 ## Useful Links
-
-### RPG server 1(RPG1)
 
 - [Apply to Tow Truck Company](http://www.rpg.b-zone.ro/factions/apply/ttc)
 - [Tow Truck Company Members](http://www.rpg.b-zone.ro/factions/members/ttc)

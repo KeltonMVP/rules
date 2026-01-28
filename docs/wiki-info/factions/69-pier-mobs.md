@@ -11,11 +11,6 @@
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Gangs.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
   ![Pachete de arme in functie de rang](/images/wiki/general/Ordermats.png){ width="400" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
@@ -37,38 +32,30 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 
 ### Skin ID 46 - Lider / Rang 6
 
-*Coronas (Leader) / Regional Officer (6)*
-
 <figure markdown="span">
   ![Skin 46](/images/wiki/skins/46.png){ width="250" }
-  <figcaption>Skin 46</figcaption>
+  <figcaption>Coronas (Leader) / Regional Officer (6)</figcaption>
 </figure>
 
 ### Skin ID 116 - Rang 5 si 4
 
-*Enforcer (5) / Cacique (4)*
-
 <figure markdown="span">
   ![Skin 116](/images/wiki/skins/116.png){ width="250" }
-  <figcaption>Skin 116</figcaption>
+  <figcaption>Enforcer (5) / Cacique (4)</figcaption>
 </figure>
 
 ### Skin ID 115 - Rang 3 si 2
 
-*Inca (3) / Mummy (2)*
-
 <figure markdown="span">
   ![Skin 115](/images/wiki/skins/115.png){ width="250" }
-  <figcaption>Skin 115</figcaption>
+  <figcaption>Inca (3) / Mummy (2)</figcaption>
 </figure>
 
 ### Skin ID 114 - Rang 1
 
-*Primitive (1)*
-
 <figure markdown="span">
   ![Skin 114](/images/wiki/skins/114.png){ width="250" }
-  <figcaption>Skin 114</figcaption>
+  <figcaption>Primitive (1)</figcaption>
 </figure>
 
 ### Skin ID 216 - Feminin
@@ -90,7 +77,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 492
 * Culoarea: ID 166
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Greenwood)
+* Disponibil in Dealership: Da
 
 ### Huntley
 
@@ -102,7 +89,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 579
 * Culoarea: ID 166
 * Numarul de vehicule: 4
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Huntley)
+* Disponibil in Dealership: Da
 
 ### Slamvan
 
@@ -114,7 +101,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 535
 * Culoarea: ID 166
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Slamvan)
+* Disponibil in Dealership: Da
 
 ### Maverick
 
@@ -126,7 +113,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 487
 * Culoarea: ID 166
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Maverick)
+* Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -138,7 +125,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 521
 * Culoarea: ID 166
 * Numarul de vehicule: 2
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+* Disponibil in Dealership: Da
 
 ### Stretch
 
@@ -150,7 +137,7 @@ Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functi
 * Vehicul: ID 409
 * Culoarea: ID 166
 * Numarul de vehicule: 1
-* Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Stretch)
+* Disponibil in Dealership: Da
 
 ## Salariu
 
@@ -206,11 +193,11 @@ castig = (6300 + random(15)) * (2 + coeficient_castig + coeficient_best)
 
 castig = (6300 + random(15)) * (2,1 + coeficient_castig + coeficient_best)
 
-Not3:
+**Nota:**
 
-*random(15) reprezinta un numar aleatoriu de la 1 la 15.*
-*coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
-*coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
+- *random(15) reprezinta un numar aleatoriu de la 1 la 15.*
+- *coeficient_castig are valoarea 0 daca turful este pierdut, sau valoarea 0,5 daca turful este castigat.*
+- *coeficient_best are valoarea 1 pentru jucatorul care a luat best si valoarea 0 pentru restul jucatorilor.*
 
 ## Comenzi specifice
 
@@ -225,12 +212,12 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /order
 
 Comanda este folosita de catre mafiotii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile in functie de rangul mafiotului). Se foloseste un singur parametru in completarea comenzii, ID-ul pachetului de arme.
-Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.
+*Nota: Exista un total de 4 pachete de arme. Armele continute de fiecare pachet, sunt enumerate in imaginea din dreapta.*
 
 ### /backup & /cbackup
 
 in cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa foloseasca /backup pentru a cere ajutorul celorlalti membrii din mafie. Pentru a anula cererea de ajutor, se foloseste comanda /cbackup.
-Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /tie & /untie
 
@@ -263,12 +250,10 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 
 ## Legaturi utile
 
-### RPG server 1(RPG1)
-
-[Aplica in 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/apply/69pier)
-[Membrii 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/members/69pier)
-[Reclamatii 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/reports/69pier)
-[Rapoarte de activitate 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/factio69piereports/69pier)
-[Loguri 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/logs/69pier)
-[Lista cu aplicatii 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/applications/69pier)
-[Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)
+- [Aplica in 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/apply/69pier)
+- [Membrii 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/members/69pier)
+- [Reclamatii 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/reports/69pier)
+- [Rapoarte de activitate 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/factio69piereports/69pier)
+- [Loguri 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/logs/69pier)
+- [Lista cu aplicatii 69 Pier Mobs](http://www.rpg.b-zone.ro/factions/applications/69pier)
+- [Pagina cu Waruri](http://www.rpg.b-zone.ro/wars/)

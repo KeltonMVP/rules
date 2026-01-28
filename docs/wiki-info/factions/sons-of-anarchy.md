@@ -21,7 +21,7 @@
 </figure>
 
 <figure markdown="span">
-  ![Pachete de arme in functie de rang](/images/wiki/general/Soaorder.png){ width="400" }
+  ![Pachete de arme in functie de rang](/images/wiki/general/Soaorder.png){ width="600" }
   <figcaption>Pachete de arme in functie de rang</figcaption>
 </figure>
 
@@ -39,46 +39,36 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 
 <figure markdown="span">
   ![Skin 100](/images/wiki/skins/100.png){ width="250" }
-  <figcaption>Skin 100</figcaption>
+  <figcaption>President (Leader) / Vice President (6)</figcaption>
 </figure>
-
-**President (Leader) / Vice President (6)**
 
 ### Skin ID 181 - Rang 5 si 4
 
 <figure markdown="span">
   ![Skin 181](/images/wiki/skins/181.png){ width="250" }
-  <figcaption>Skin 181</figcaption>
+  <figcaption>Sgt. at Arms (5) / Man of Mayhem (4)</figcaption>
 </figure>
-
-**Sgt. at Arms (5) / Man of Mayhem (4)**
 
 ### Skin ID 247 - Rang 3
 
 <figure markdown="span">
   ![Skin 247](/images/wiki/skins/247.png){ width="250" }
-  <figcaption>Skin 247</figcaption>
+  <figcaption>Road Captain (3)</figcaption>
 </figure>
-
-**Road Captain (3)**
 
 ### Skin ID 133 - Rang 2
 
 <figure markdown="span">
   ![Skin 133](/images/wiki/skins/133.png){ width="250" }
-  <figcaption>Skin 133</figcaption>
+  <figcaption>Enforcer (2)</figcaption>
 </figure>
-
-**Enforcer (2)**
 
 ### Skin ID 241 - Rang 1
 
 <figure markdown="span">
   ![Skin 241](/images/wiki/skins/241.png){ width="250" }
-  <figcaption>Skin 241</figcaption>
+  <figcaption>Prospect (1)</figcaption>
 </figure>
-
-**Prospect (1)**
 
 ### Skin ID 198 & 157 - Feminin
 
@@ -105,7 +95,7 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 - Culoarea: ID 236
 - Numarul de vehicule: 6
 - Viteza maxima: 157 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Wayfarer)
+- Disponibil in Dealership: Da
 
 ### Freeway
 
@@ -118,7 +108,7 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 - Culoarea: ID 236
 - Numarul de vehicule: 15
 - Viteza maxima: 157 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Freeway)
+- Disponibil in Dealership: Da
 
 ### Sanchez
 
@@ -131,7 +121,7 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 - Culoarea: ID 236
 - Numarul de vehicule: 4
 - Viteza maxima: 157 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#Sanchez)
+- Disponibil in Dealership: Da
 
 ### FCR-900
 
@@ -144,7 +134,7 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 - Culoarea: ID 236
 - Numarul de vehicule: 3
 - Viteza maxima: 176 KM/h
-- Disponibil in DealerShip: [Da](https://wiki.b-zone.ro/index.php?title=Standard_Vehicles#FCR-900)
+- Disponibil in Dealership: Da
 
 ### Berkley's RC Van
 
@@ -157,7 +147,7 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 - Culoarea: ID 236
 - Numarul de vehicule: 3
 - Viteza maxima: 136 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ### Utility
 
@@ -170,7 +160,7 @@ Sons of Anarchy este o factiune bazata pe activitatile cluburilor de motociclist
 - Culoarea: ID 236
 - Numarul de vehicule: 1
 - Viteza maxima: 121 KM/h
-- Disponibil in DealerShip: Nu
+- Disponibil in Dealership: Nu
 
 ## Salariu
 
@@ -215,6 +205,7 @@ castig = To be edited...
 castig = To be edited...
 
 Note:
+
 - Daca "stoarceti" un impostor, veti primi bani, materiale si droguri (daca acesta detine bani in mana / materiale / droguri).
 - Formula de calcul pentru bani este: **castig = rank_factiune * 500**
 - Formula de calcul pentru materiale este: **castig_mats = rank_factiune * 1000**
@@ -255,8 +246,6 @@ Prin aceasta comanda liderul factiunii poate stabili rank-ul minim pentru extrag
 Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre liderul factiunii se pot pune la datorie pentru a putea efectua teste de intrare in factiune.
 
 ## Legaturi utile
-
-### RPG server 1 (RPG1)
 
 - [Aplica in Sons of Anarchy](http://www.rpg.b-zone.ro/factions/apply/soa)
 - [Membrii Sons of Anarchy](http://www.rpg.b-zone.ro/factions/members/soa)
