@@ -135,7 +135,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.4.2</span> Players with a minimum seniority of one year in the faction, who have shown seriousness and involvement, are eligible, upon their request, <span style="color:var(--green);">to be exempted</span> from the requirement to accumulate real hours played in a specific month.
 
-<span style="color:var(--pink);">4.4.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
+<span style="color:var(--pink);">4.4.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> with a one year difference from the previous request, if this is the case, and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
 
 ### Inactivity Requests
 

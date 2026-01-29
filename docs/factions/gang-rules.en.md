@@ -94,7 +94,7 @@ For more details, visit the section on [War Rules](#10-war-rules).
 !!! example "Information Note"
     Players with accepted requests for inactivity or absence are exempt from attending wars.
 
-<span style="color:var(--pink);">4.2.2</span> You can unlock a bonus by obtaining a certain number of seconds in the obligatory wars from Monday to Friday. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.  
+<span style="color:var(--pink);">4.2.2</span> You can unlock a bonus by obtaining a certain number of seconds in the obligatory wars from Monday to Friday. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.
 
 <span style="color:var(--pink);">4.2.2.1</span> The number of seconds required for the bonus will be displayed on [<span style="color:var(--pink);">/raport</span>]. Only bonuses unlocked after the date of the last promotion or after receiving a Faction Warn will provide a deduction in days.
 
@@ -104,7 +104,7 @@ For more details, visit the section on [War Rules](#10-war-rules).
 
 <span style="color:var(--pink);">4.3.2</span> Players with a minimum seniority of one year in the faction, who have shown seriousness and involvement, are eligible, upon their request, <span style="color:var(--green);">to be exempted</span> from the requirement to accumulate real hours played in a specific month.
 
-<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from war presence for that month.
+<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> with a one year difference from the previous request, if this is the case, and will only exempt you from the requirement of played hours, not from war presence for that month.
 
 ## 5. Website Complaints
 
@@ -274,7 +274,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.2.6</span> Performing fast c-bug both in mandatory and optional wars will be sanctioned by the leader (<span style="color:red;">sanction: Faction Warn</span>).
 
-!!! danger "Important"  
+!!! danger "Important"
     The player will be penalized only once for fast c-bug within a time difference of 15 minutes based on evidence. If the player has two complaints on the same day, at the same hour, and with a difference of no more than 15 minutes between the evidence, they will be penalized only once.
 
 <span style="color:var(--pink);">10.2.7</span> It is prohibited to use <span style="color:var(--pink);">/eject or /tog - surfing on colleague(s)</span> during wars (<span style="color:red;">sanction: Verbal Warning</span>).
@@ -291,7 +291,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
     - offenses reset each war day, with one exception:
       - players who commit repeated offenses (minimum of 3 days) within a week of wars may be directly sanctioned with a Faction Warn.
     - the coordinator is required to have clear evidence for any sanctions issued, and these must be kept for at least 5 days.
-    
+
     Incorrect application of sanctions or lack of evidence will result in a <span style="color:red;">Verbal Warning</span> for the first offense, and <span style="color:red;">Faction Warn</span> for subsequent offenses.
 
 !!! example "Examples of Disobedience in Wars"
@@ -300,7 +300,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
     - when there is an explicit request not to respawn faction vehicles to maintain a barricade, and the player respawns them, ruining the tactical plan.
     - when it's requested that everyone uses separate vehicles (if possible) to form a tactical plan, but the player ignores this and shares a vehicle with a teammate.
     - in critical situations, such as a close war (7-7), when a player engages with the enemies and unjustifiably dies.
-    
+
     !!! danger "Attention"
         There may be situations where players are justified, such as when the enemy pushes, when access to a zone is blocked, or when a teammate causes issues for others. Therefore, before issuing sanctions, ensure that the player's actions were or were not justified.
 
@@ -314,7 +314,7 @@ When the gang has <span style="color:var(--green);">4 wars:</span>
 - absent at 4/4 - <span style="color:red;">Faction Warn.</span>
 
 When the gang has <span style="color:var(--green);">3 wars:</span>
- 
+
 - absent at 1/3 - <span style="color:orange;">Verbal Warning.</span>
 - absent at 2/3 - <span style="color:orange;">Verbal Warning</span> + fine 50.000$.
 - absent at 3/3 - <span style="color:red;">Faction Warn.</span>

@@ -104,7 +104,7 @@ Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](#10-regulament
 
 <span style="color:var(--pink);">4.3.2</span> Jucatorii cu o vechime minima de un an de zile in factiune, care au dat dovada de seriozitate si implicare, beneficiaza la cererea lor <span style="color:var(--green);">de a fi exclusi</span> de la cerinta de acumulare a orelor reale jucate dintr-o anumita luna.
 
-<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> si va va scuti doar de necesitatea orelor jucate, nu si de warurile din respectiva luna.
+<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> la o diferenta de un an de zile de la ultima solicitare, daca e cazul, si va va scuti doar de necesitatea orelor jucate, nu si de warurile din respectiva luna.
 
 ## 5. Reclamatii Website
 
@@ -314,7 +314,7 @@ Cand gangul are <span style="color:var(--green);">4 waruri:</span>
 - absent la 4/4 - <span style="color:red;">Faction Warn.</span>
 
 Cand gangul are <span style="color:var(--green);">3 waruri:</span>
- 
+
 - absent la 1/3 - <span style="color:orange;">Avertisment Verbal.</span>
 - absent la 2/3 - <span style="color:orange;">Avertisment Verbal</span> + amenda 50.000$.
 - absent la 3/3 - <span style="color:red;">Faction Warn.</span>
@@ -426,7 +426,7 @@ Amenzile se platesc direct in joc prin comanda /fines.<br/>
 
 <span style="color:var(--pink);">11.7.5</span> Pe langa interdictia de aplicare intr-un gang, se va aplica si o <span style="color:var(--pink);">interdictie de 60 de zile pentru a primi rank 6 intr-un gang.</span>
 
-<span style="color:var(--pink);">11.7.6</span> Jucatorii care primesc <span style="color:var(--pink);">interdictie prin sistemul de interdictii de pe website</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60.</span> Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. 
+<span style="color:var(--pink);">11.7.6</span> Jucatorii care primesc <span style="color:var(--pink);">interdictie prin sistemul de interdictii de pe website</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60.</span> Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei.
 
 ### Exceptii
 

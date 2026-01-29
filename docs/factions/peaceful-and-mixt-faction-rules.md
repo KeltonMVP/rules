@@ -116,7 +116,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.3.2</span> Jucatorii cu o vechime minima de un an de zile in factiune, care au dat dovada de seriozitate si implicare, beneficiaza la cererea lor <span style="color:var(--green);">de a fi exclusi</span> de la cerinta de acumulare a orelor reale jucate dintr-o anumita luna.
 
-<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> si va va scuti doar de necesitatea orelor jucate, nu si efectuarea rapoartelor de activitate din respectiva luna. Acestea trebuie sa le faceti in continuare sau sa optati pentru o cerere de inactivitate pentru perioada permisa si sa folositi rapoarte optionale daca aveti pentru perioada ramasa.
+<span style="color:var(--pink);">4.3.3</span> Acest beneficiu <span style="color:var(--pink);">poate fi folosit o singura data pe an</span> la o diferenta de un an de zile de la ultima solicitare, daca e cazul, si va va scuti doar de necesitatea orelor jucate, nu si efectuarea rapoartelor de activitate din respectiva luna. Acestea trebuie sa le faceti in continuare sau sa optati pentru o cerere de inactivitate pentru perioada permisa si sa folositi rapoarte optionale daca aveti pentru perioada ramasa.
 
 ## 5. Reclamatii Website
 

@@ -93,7 +93,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.2.3</span> Cheating or assisting a colleague to cheat the activity report is strictly prohibited (<span style="color:red;">sanction: dismissal</span>).
 
-<span style="color:var(--pink);">4.2.4</span> You can unlock a bonus by completing a report that exceeds the minimum requirement. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.  
+<span style="color:var(--pink);">4.2.4</span> You can unlock a bonus by completing a report that exceeds the minimum requirement. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.
 
 <span style="color:var(--pink);">4.2.4.1</span> The number of points required for the bonus will be displayed on [<span style="color:var(--pink);">/raport</span>]. Only bonuses unlocked after the date of the last promotion or after receiving a Faction Warn will provide a deduction in days.
 
@@ -116,7 +116,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.3.2</span> Players with a minimum seniority of one year in the faction, who have shown seriousness and involvement, are eligible, upon their request, <span style="color:var(--green);">to be exempted</span> from the requirement to accumulate real hours played in a specific month.
 
-<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
+<span style="color:var(--pink);">4.3.3</span> This benefit <span style="color:var(--pink);">can be used only once a year</span> with a one year difference from the previous request, if this is the case, and will only exempt you from the requirement of played hours, not from submitting activity reports for that month. You still need to submit reports or opt for an inactivity request for the allowed period and use optional reports if you have them for the remaining period.
 
 ## 5. Website Complaints
 
