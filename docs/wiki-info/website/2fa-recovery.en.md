@@ -4,8 +4,6 @@ icon: material/two-factor-authentication
 
 # 2FA Recovery
 
-[RPG Website](https://rpg.b-zone.ro/)
-
 Players who have lost access to the device on which they had the 2FA application for their RPG account will be locked out of the account if they did not save the unique activation key when they did the activation.
 
 ## How do I recover the unique 2FA key?
@@ -15,7 +13,7 @@ Players who have lost access to the device on which they had the 2FA application
 
 1. Access the website.
 2. Go to the **Sign In** section.
-3. Press the **Recovery** button and from the displayed list choose **Recover 2FA**.
+3. Press the **Recovery** button and from the displayed list choose **[Recover 2FA](https://www.rpg.b-zone.ro/account/recoverTOTP)**.
 4. Enter the name of the account for which you want to recover the key together with the email address set on that account.
 
 **Note:** If the email address entered is not exactly the same, you will not receive the key by email because you cannot prove that it is you.
@@ -25,27 +23,27 @@ Players who have lost access to the device on which they had the 2FA application
 1. Download one of the **Two Factor Authentificator** applications from **Google Play** or **AppStore**, you can use both **Google Authentificator** and **Authy** (the steps are the same).
 
 <figure markdown="span">
-  ![2FA Apps](https://i.imgur.com/KMWAKWi.png)
+  ![2FA Applications](/images/wiki/website/2faapp.png){ width="300" }
   <figcaption>2FA Applications</figcaption>
 </figure>
 
 2. Enter the downloaded application then click the **+** button and then choose **Manual entry**.
 
 <figure markdown="span">
-  ![Add Account](https://i.imgur.com/QJw5v6Y.png)
-  <figcaption>Add account</figcaption>
+  ![Add Account](/images/wiki/website/add2fa.png){ width="300" }
+  <figcaption>Add Account</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Manual Entry](https://i.imgur.com/oUGSBSh.png)
-  <figcaption>Manual entry</figcaption>
+  ![Manual Entry](/images/wiki/website/manual2fa.png){ width="300" }
+  <figcaption>Manual Entry</figcaption>
 </figure>
 
 3. In the Account box you can enter the account name to know which account it is from so you don't get confused if you have more than one.
 4. In the Key box enter **the entire key exactly** as you received it by email (try to be very careful with diacritics and letters that look similar).
 
 <figure markdown="span">
-  ![Enter Key](https://i.imgur.com/amLDM1v.png)
+  ![Enter key](/images/wiki/website/2fakey.png){ width="300" }
   <figcaption>Enter key</figcaption>
 </figure>
 

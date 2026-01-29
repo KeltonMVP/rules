@@ -53,3 +53,35 @@ Toate aplicatiile care nu au primit un raspuns (acceptat/respins/respins la test
 * Numele jucatorului aplicant
 * Data la care aplicatia a fost depusa.
 * Un buton **View**, cu ajutorul caruia liderul ajunge la formularul aplicatiei completat de respectivul aplicant.
+
+## Candidates Table
+
+Vizitand aceasta pagina, websiteul va afisa un tabel ce cuprinde jucatorii care trebuie sa dea testul de intrare, respectiv jucatorii care au dat testul de intrare si verdictul oferit de catre tester.
+
+## Accepted applications / Rejected applications / Test failed applications / Invited applications
+
+Vizitand aceasta pagina, websiteul va afisa un tabel ce cuprinde informatii despre aplicatia unui anumit jucator, aplicatie care a fost marcata ca acceptata/respinsa/Picat la teste/Invitat. Informatiile din tabel se refera la:
+
+* Numele jucatorului acceptat
+* Data la care a fost publicata aplicatia
+* Raspunsul oferit de catre lider
+* Data la care liderul a oferit raspunsul aplicatiei
+* Un buton **View**, cu ajutorul caruia liderul ajunge la formularul aplicatiei completat de respectivul aplicant.
+
+## Inactivities / Resignations
+
+Vizitand aceasta pagina, websiteul va afisa un tabel ce cuprinde inactivitatile sau demisiile active, respectiv cele procesate.
+
+## Blacklisted Members
+
+Vizitand aceasta pagina, websiteul va afisa un tabel cu jucatorii aflati pe lista neagra a factiunii.
+
+## Application Model
+
+Din aceasta pagina, liderul factiunii poate modifica intrebarile pentru aplicatia de intrare in factiune.
+
+* Din aceasta pagina se pot modifica si cerintele minime de aplicare.
+
+## Application Search
+
+Din aceasta pagina, liderul factiunii poate cauta o aplicatie dupa o propozitie sau o fraza, pentru a verifica originalitatea acesteia.

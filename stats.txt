@@ -1,0 +1,271 @@
+<languages /><translate>
+
+= Caracteristici generale = <!--T:1-->
+Pagina principală a statisticilor este reprezentată de topul jucătorilor. Topul este actualizat în funcție de nivelul tuturor jucătorilor, fiind afișat într-un tabel paginat.
+De asemenea în sub-pagini se pot găsi diferite statistici despre server ca și afacerile & casele de pe server, lista ban-urilor date etc. 
+
+<!--T:2-->
+[http://www.rpg.b-zone.ro/stats'''Statistici''' RPG]<br />
+
+== Top Achievements == <!--T:3-->
+În această categorie se prezintă fiecare tip de achievement precum și numărul acestora.
+*General Achievements (30)
+*General Faction Achievements (7)
+*Peaceful Faction Achievements (20)
+*Gangs Achievements (13)
+*Departments Achievements (21)
+*Mixt Factions Achievements (13)
+*Jobs Achievements (108)
+*Staff Achievements (16)
+*Clans Achievements (13)
+*Vehicles Achievements (14)
+*Combat Achievements (18)
+*Special Achievements (2)
+
+== Top monthly played == <!--T:4-->
+<div style="text-align: center;">
+<div style="float:right">
+<img src="https://wiki.b-zone.ro/images/thumb/5/53/Monthlyp.png/800px-Monthlyp.png" height=250px width=600px style="margin: 0 0 0 15px; border-radius: 10px;"><br />
+<span style="font-weight: bold;">Topul jucătorilor de luna trecută.</span>
+</div>
+</div>
+În această categorie există un tabel paginat ce cuprinde coloane aranjate cu jucătorii care au facut cele mai multe ore într-un interval de o lună.<br />
+În tabel se regăsesc următoarele informații:
+*Locul ocupat.
+*Numele jucătorului.
+*Orele jucate pe luna anterioră.
+*Nivelul jucătorului.
+*Facțiunea din care face parte.
+*Rank-ul pe care îl are în aceasta.
+În tabel se regăsesc primii 15 cei mai activi jucători, pentru a vedea continuarea listei trebuie să mergeți pe paginile următoare.
+
+
+== Top players == <!--T:5-->
+<div style="text-align: center;">
+<div style="float:right">
+<img src="https://wiki.b-zone.ro/images/thumb/2/2f/Topplayers.png/800px-Topplayers.png" height=300px width=600px style="margin: 0 0 0 15px; border-radius: 10px;"><br />
+<span style="font-weight: bold;">Plasarea în clasament a unui jucător se face după nivelul acestuia.</span>
+</div>
+</div>
+În această pagină se regăsesc următoarele informații:
+* Numărul în top.
+* Numele jucătorului.
+* Nivelul acestuia.
+* Numărul de puncte de respect.
+* Numărul de ore jucate pe server.
+* Facțiunea din care face parte.
+* Rangul deținut dacă face parte dintr-o facțiune.
+* Jobul pe care îl deține jucătorul.
+* Numărul de avertismente primite din partea adminilor.
+
+
+== Weekly referrals == <!--T:6-->
+În această categorie există un tabel paginat ce cuprinde coloane aranjate în funcție de numărul de ore petrecute în joc însumate de către toți recruții unui jucător pe o durată de o săptămână. De asemenea, deasupra tabelului este specificată perioada în care se încadrează topul.
+Tabelul cuprinde:
+* Locul în top al jucătorului
+* Numele jucătorului care deține recruții
+* Numărul total de ore jucate de către recruți
+* Numărul total de recruți ai jucătorului
+
+== Top referrals == <!--T:7-->
+Aici sunt afișate date totale cu privire la recruții jucătorilor. Topul este calculat în funcție de numărul total de puncte de experiență pe care un jucător le-a adunat din urma avansării în nivel a recruților săi. 
+Datele sunt structurate în tabel folosind aceeași metodă ca și în cazul topului recruților săptămânal.
+
+== Top Gold Rewards == <!--T:8-->
+<div style="text-align: center;">
+<div style="float:right">
+<img src="https://i.postimg.cc/C5Xzxjcx/chrome-pk-TEUFv-Bpc.png" height=170px width=600px style="margin: 0 0 0 15px; border-radius: 10px;"><br />
+<span style="font-weight: bold;">Topul jucătorilor la ore reale de luna trecuta.</span>
+</div>
+</div>
+În această categorie există un tabel paginat ce cuprinde coloane aranjate cu '''primi 50 de jucători''' care au cele mai multe ore în luna curentă.<br />
+În tabel sunt afișate următoarele informații:
+*Numele jucătorului
+*Locul ocupat 
+*Nivelul
+*Punctele de respect
+*Facțiunea acestuia
+*Orele jucate în luna curentă
+
+== Houses == <!--T:9-->
+<img src="https://wiki.b-zone.ro/images/8/8a/Houses.png" height=230px width=240px style="float: right; margin: 0 0 0 15px; border-radius: 10px;">
+Această sub-pagina vă afișează toate interioarele disponibile pe server.<br/>
+Fiecare interior conține câte o imagine reprezentativă pentru a vedea cum arată.<br/>
+Fiecare înterior conține următoarele informații:
+*Tipul interiorului.
+*ID-ul interiorului.
+*Cate case există pe server cu acel interior.
+Dacă apăsați pe numărul de case cu respectivul interior existente pe server o să fiți redirecționați către o altă pagină cu următoarele informații:
+*Numele jucătorului.
+*Ore jucate pe luna curentă.
+*Nivelul jucătorului.
+*Descrierea interiorului.
+*Nivelul locuinței.
+*Pretul de stat al locuinței.
+*Dacă este sau nu pusă la vânzare.
+**Dacă este pusă la vânzare apare prețul setat de proprietar în joc.
+*Data ultimei logări a sale pe server.
+*Locația pe hartă.
+Dacă apăsați pe butonul '''Map''' o să fiți redirecționați către o pagină cu harta din joc și un punct roșu cu locația exactă a acesteia.
+
+
+== Vehicles == <!--T:10-->
+<img src="https://wiki.b-zone.ro/images/7/7a/Vehstats.png" height=230px width=230px style="float: right; margin: 0 0 0 15px; border-radius: 10px;">
+Această sub-pagină cuprinde și ea la rândul ei alte sub-categorii pentru a împărți totalitatea de vehicule în:
+* Mașini
+* Motociclete
+* Bărci
+* Aeronave
+Cele patru sub-categorii cuprind toate vehiculele disponibile în DealerShip, atât cele [[Vehicule_Standard|premium]] cât și cele [[Vehicule_Premium|non-premium]].<br />
+Fiecare vehicul deține sub propria imagine câteva informații despre acesta (imaginea #4):
+* Numele modelului
+* Prețul în DealerShip
+* Numărul de vehicule de acest tip deținute de toți jucătorii serverului.<br />
+Dacă apăsați pe numărul de vehicule de un anumit tip deținute de jucătorii serverului, websiteul vă va redirecționa către o pagină ce conține un tabel cu informații.<br/> 
+Informațiile sunt structurate în felul următor:
+* Numele proprietarului vehiculului de acel tip
+* Nivelul proprietarului
+* Modalitatea prin care a fost cumpărat vehiculul (magazin cu moneda reală sau dealership)
+* Prețul vehiculului
+* Suma de bani pe care jucătorul o primește în cazul vinderii vehiculului către DealerShip.
+* Ultima dată la care s-a logat jucătorul pe server.
+
+== Businesses == <!--T:11-->
+<img src="https://wiki.b-zone.ro/images/e/ed/Businesses.png" height=250px width=250px style="float: right; margin: 0 0 0 15px; border-radius: 10px;">
+În această categorie se prezintă fiecare model de biz, nivelul, și numărul biz-urilor pe server.
+*Restaurant (nivel 9, 7 prezente pe server).
+*Donut Shop (nivel 9, 2 prezente pe server).
+*Club (nivel 10, 5 prezente pe server).
+*Casino (nivel 10, 4 prezente pe server).
+*Burger Shot (nivel 10, 10 prezente pe server).
+*24/7 (nivel 10, 16 prezente pe server).
+*Cluckin' Bell (nivel 10, 11 prezente pe server).
+*Pizza (nivel 10, 10 prezente pe server).
+*Clothes Store (nivel 13, 16 prezente pe server). 
+*Pay 'n' Spray (nivel 15, 10 prezente pe server).
+*Gas Station (nivel 15, 19 prezente pe server).
+*Tuning Shop (nivel 15, 5 prezente pe server).
+*Hotdog Company (nivel 17, 3 prezente pe server).
+*War Arena (nivel 20, unul prezent pe server).
+*Boat Rent (nivel 20, unul prezent pe server).
+*Bike Rent (nivel 20, 3 prezente pe server).
+*Bank (nivel 20, 3 prezente pe server).
+*Racing Arena (nivel 20, unul prezent pe server).
+*Paintball Arena (nivel 20, unul prezent pe server).
+*House Upgrade (nivel 20, unul prezent pe server).
+*Phone Company (nivel 20, unul prezent pe server).
+*Car Rent (nivel 25, 3 prezente pe server).
+*Hospital (nivel 25, unul prezent pe server).
+*Government (nivel 25, 5 prezente pe server).
+*Gungame Arena (nivel 25, unul prezent pe server).
+*Towing Business (nivel 30, unul prezent pe server).
+*Gun Shop (nivel 30,3 prezente pe server).
+*Car Upgrade (nivel 35, 3 prezente pe server).
+*CNN (nivel 35, 3 prezente pe server).
+*PUBG Arena (nivel 25, unul prezent pe server).
+*Poker Casino (nivel 10, unul prezent pe server).
+*Vehicle Insurance (nivel 35, unul prezent pe server).
+*White﻿ Weapons Store (nivel 20, 3 prezente pe server). 
+*Plane Rent (nivel 20, unul prezent pe server). 
+*Farmer Biz (nivel 10, unul prezent pe﻿ server). 
+*Sex Shop (nivel 20, 3 prezente pe server).
+
+==Bunkers== <!--T:23-->
+Această sub-pagină afisează toate cele 3 bunkere existente pe server împreună cu următoarele informații:
+*O imagine reprezentativă a fiecarui bunker.
+*Numele bunker-ului.
+*Numărul de jucători care deține respectivul tip de bunker.
+
+== Skins == <!--T:12-->
+Această sub-pagină conține alte 3 sub-pagini:
+<div style="text-align: center;">
+<div style="float:right">
+<img src="https://wiki.b-zone.ro/images/6/6c/OnyxSkin.png" height=500px width=200px style="border-radius: 10px; margin: 0px 10px 0px 0px; margin: 0px 10px 0px 0px;"><br />
+<span style="font-weight: bold;">Onyx Skin</span>
+</div>
+
+<!--T:18-->
+<div style="float:right">
+<img src="https://wiki.b-zone.ro/images/2/29/DiamondSkin.png" height=500px width=200px style="border-radius: 10px; margin: 0px 10px 0px 0px;"><br />
+<span style="font-weight: bold;">Diamond Skin</span>
+</div>
+
+<!--T:19-->
+<div style="float:right;">
+<img src="https://wiki.b-zone.ro/images/thumb/d/d3/Skins.png/221px-Skins.png" height=500px width=200px style="border-radius: 10px; margin: 0px 10px 0px 0px;"><br />
+<span style="font-weight: bold;">Normal Skin</span>
+</div>
+</div>
+
+<!--T:20-->
+*<span style="color:rgb(170,17,17);font-weight: bold;">Normal Skins</span>
+<div style="margin-left: 30px">
+*În această categorie sunt afișate toate skinurile Bronze/Silver/Platinum care există pe server.
+**Imaginea skinurilor Platinum contin o culoare specifică pentru a le putea indentifica mai ușor.
+*Sub imaginea fiecărui skin se regăsesc următoarele informații:</div>
+<div style="margin-left: 60px">
+#ID-ul skinului.
+#Sex-ul skinului.
+#Tipul skinului.
+#Valoarea skin-ului în bani.
+#Valoarea skin-ului în gold.
+#Câte skinuri de acest tip există pe server.<br />
+</div>
+
+<!--T:21-->
+*<span style="color:rgb(35,230,230);font-weight: bold;">DiamondSkins</span>
+<div style="margin-left: 30px">
+*În această categorie sunt afișate toate skinurile Diamond care există pe server.
+*Imaginea skinurilor contine o culoare specifică pentru a le putea indentifica mai ușor.
+*Sub imaginea fiecărui skin se regăsesc următoarele informații:</div>
+<div style="margin-left: 60px">
+#ID-ul skinului.
+#Sex-ul skinului.
+#Tipul skinului.
+#Câte skinuri de acest tip există pe server.<br />
+</div>
+
+<!--T:22-->
+*<span style="color:rgb(240,142,10);font-weight: bold;">Onyx Skins</span>
+<div style="margin-left: 30px">
+*În această categorie sunt afișate toate skinurile Onyx care există pe server.
+*Imaginea skinurilor contine o culoare specifică pentru a le putea indentifica mai ușor.
+*Sub imaginea fiecărui skin se regăsesc următoarele informații:</div>
+<div style="margin-left: 60px">
+#ID-ul skinului.
+#Sex-ul skinului.
+#Tipul skinului.
+#Câte skinuri de acest tip există pe server.<br /><br />
+</div>
+
+
+== Jobs == <!--T:13-->
+<img src="https://i.postimg.cc/JhNLQWcR/image.png" height=200px width=200px style="float: right; margin: 0 0 0 15px; border-radius: 10px;">
+<img src="https://wiki.b-zone.ro/images/d/df/Jobs.png" height=200px width=200px style="float: right; margin: 0 0 0 15px; border-radius: 10px;">
+Fiecare player poate să își aleagă un job dintr-o listă de 17 joburi. În funcție de nivelul jucătorului, joburile sunt legale si ilegale.<br />
+*Joburi legale:
+**Quarry Worker
+**Lumberjack
+**Garbage Man
+**Bus Driver
+**Trucker
+**Farmer
+**Miner
+**Fisherman
+**Chemist
+**Detective
+**Transporter
+**Car Machanic
+**Archeologist
+**Lawyer
+**Craftsman
+*Joburi ilegale:
+**Drugs Dealer
+**Car Jacker
+**Arms Dealer
+**Pocket Thief
+
+== Ban list == <!--T:14-->
+Această pagină cuprinde fiecare jucător care a fost banat, precum și motivul, durata, timpul și adminul care i-a dat ban. 
+ 
+</translate>

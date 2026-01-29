@@ -4,8 +4,6 @@ icon: material/two-factor-authentication
 
 # Recuperare 2FA
 
-[Website-ul RPG](https://rpg.b-zone.ro/)
-
 Jucatorii care si-au pierdut accesul la dispozitivul pe care aveau aplicatia de 2FA pentru contul de RPG vor fi blocati in afara contului daca nu si-au salvat cheia unica de activare atunci cand au facut activarea.
 
 ## Cum imi recuperez cheia unica 2FA?
@@ -15,7 +13,7 @@ Jucatorii care si-au pierdut accesul la dispozitivul pe care aveau aplicatia de 
 
 1. Accesati website-ul.
 2. Mergeti la sectiunea **Sign In**.
-3. Apasati pe butonul **Recovery** iar din lista afisata alegeti **Recover 2FA**.
+3. Apasati pe butonul **Recovery** iar din lista afisata alegeti **[Recover 2FA](https://www.rpg.b-zone.ro/account/recoverTOTP)**.
 4. Introduceti numele contului caruia vreti sa va recuperati cheia impreuna cu adresa de email setata pe contul respectiv.
 
 **Nota:** Daca adresa de email introdusa nu este aceiasi in exactitate, nu o sa primiti cheia pe email deoarece nu puteti demonstra ca sunteti voi.
@@ -25,19 +23,19 @@ Jucatorii care si-au pierdut accesul la dispozitivul pe care aveau aplicatia de 
 1. Descarcati una din aplicatiile **Two Factor Authentificator** de pe **Google Play** sau **AppStore**, puteti folosi atat **Google Authentificator** cat si **Authy** (pasii sunt aceiasi).
 
 <figure markdown="span">
-  ![2FA Apps](https://i.imgur.com/KMWAKWi.png)
+  ![Aplicatii 2FA](/images/wiki/website/2faapp.png){ width="300" }
   <figcaption>Aplicatii 2FA</figcaption>
 </figure>
 
 2. Intrati in aplicatia descarcata dupa care faceti click pe butonul **+** iar mai apoi alegeti **Manual entry**.
 
 <figure markdown="span">
-  ![Add Account](https://i.imgur.com/QJw5v6Y.png)
+  ![Adauga cont](/images/wiki/website/add2fa.png){ width="300" }
   <figcaption>Adauga cont</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Manual Entry](https://i.imgur.com/oUGSBSh.png)
+  ![Intrare manuala](/images/wiki/website/manual2fa.png){ width="300" }
   <figcaption>Intrare manuala</figcaption>
 </figure>
 
@@ -45,7 +43,7 @@ Jucatorii care si-au pierdut accesul la dispozitivul pe care aveau aplicatia de 
 4. In casuta Key treceti **intreaga cheie in exactitate** pe care ati primit-o pe email (incercati sa fiti foarte atenti la diacritice si la literele care se aseamana intre ele).
 
 <figure markdown="span">
-  ![Enter Key](https://i.imgur.com/amLDM1v.png)
+  ![Introducere cheei](/images/wiki/website/2fakey.png){ width="300" }
   <figcaption>Introducere cheie</figcaption>
 </figure>
 

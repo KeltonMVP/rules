@@ -4,8 +4,6 @@ icon: material/lock-reset
 
 # Password Recovery
 
-[RPG1 Website](https://rpg.b-zone.ro/)
-
 Players who have forgotten, lost, etc. their in-game account password will no longer be able to recover it if they do not have a valid email address set on the account to which they also have access.
 
 ## How do I recover my password?

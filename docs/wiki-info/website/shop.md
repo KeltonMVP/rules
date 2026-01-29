@@ -8,6 +8,11 @@ Aceasta pagina afiseaza toate produsele pe care le puteti achizitiona cu Gold in
 
 ## Structura paginii
 
+<figure markdown="span">
+  ![Produse Shops](/images/wiki/website/shopproducts.png){ width="300" }
+  <figcaption>Produse Shop</figcaption>
+</figure>
+
 ### Titlul paginii
 
 Sub titlul paginii vom fi informati daca exista reduceri active pe servere cat si un contorizator care ne indica pentru cat timp mai sunt active aceste reduceri.

@@ -31,7 +31,7 @@ In this category, each type of achievement is presented along with their number.
 ## Top monthly played
 
 <figure markdown="span">
-  ![Monthlyp](../../images/Monthlyp.png){ width="600" }
+  ![Monthlyp](/images/wiki/website/Monthlyp.png){ width="600" }
   <figcaption>Top players from last month</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ The table contains the top 15 most active players, to see the continuation of th
 ## Top players
 
 <figure markdown="span">
-  ![Topplayers](../../images/Topplayers.png){ width="600" }
+  ![Topplayers](/images/wiki/website/Topplayers.png){ width="600" }
   <figcaption>Placement in the ranking is done according to the player's level</figcaption>
 </figure>
 
@@ -131,12 +131,12 @@ This sub-page also includes other sub-categories to divide the totality of vehic
 * Boats
 * Aircraft
 
-The four sub-categories include all vehicles available in the DealerShip, both premium and non-premium.
+The four sub-categories include all vehicles available in the Dealership, both premium and non-premium.
 
 Each vehicle has some information about it under its own image:
 
 * Model name
-* Price in DealerShip
+* Price in Dealership
 * Number of vehicles of this type owned by all server players.
 
 If you press on the number of vehicles of a certain type owned by server players, the website will redirect you to a page containing a table with information.
@@ -145,7 +145,140 @@ The information is structured as follows:
 
 * Name of the owner of that type of vehicle
 * Owner's level
-* How the vehicle was purchased (real currency store or dealership)
+* How the vehicle was purchased (real currency store or Dealership)
 * Vehicle price
-* Amount of money the player receives if selling the vehicle to DealerShip.
+* Amount of money the player receives if selling the vehicle to Dealership.
 * Last date the player logged into the server.
+
+## Businesses
+
+In this category, each business model, level, and number of businesses on the server are presented.
+
+* Restaurant (level 9, 7 present on server).
+* Donut Shop (level 9, 2 present on server).
+* Club (level 10, 5 present on server).
+* Casino (level 10, 4 present on server).
+* Burger Shot (level 10, 10 present on server).
+* 24/7 (level 10, 16 present on server).
+* Cluckin' Bell (level 10, 11 present on server).
+* Pizza (level 10, 10 present on server).
+* Clothes Store (level 13, 16 present on server).
+* Pay 'n' Spray (level 15, 10 present on server).
+* Gas Station (level 15, 19 present on server).
+* Tuning Shop (level 15, 5 present on server).
+* Hotdog Company (level 17, 3 present on server).
+* War Arena (level 20, one present on server).
+* Boat Rent (level 20, one present on server).
+* Bike Rent (level 20, 3 present on server).
+* Bank (level 20, 3 present on server).
+* Racing Arena (level 20, one present on server).
+* Paintball Arena (level 20, one present on server).
+* House Upgrade (level 20, one present on server).
+* Phone Company (level 20, one present on server).
+* Car Rent (level 25, 3 present on server).
+* Hospital (level 25, one present on server).
+* Government (level 25, 5 present on server).
+* Gungame Arena (level 25, one present on server).
+* Towing Business (level 30, one present on server).
+* Gun Shop (level 30, 3 present on server).
+* Car Upgrade (level 35, 3 present on server).
+* CNN (level 35, 3 present on server).
+* PUBG Arena (level 25, one present on server).
+* Poker Casino (level 10, one present on server).
+* Vehicle Insurance (level 35, one present on server).
+* White Weapons Store (level 20, 3 present on server).
+* Plane Rent (level 20, one present on server).
+* Farmer Biz (level 10, one present on server).
+* Sex Shop (level 20, 3 present on server).
+
+## Bunkers
+
+This sub-page displays all 3 existing bunkers on the server along with the following information:
+
+* A representative image of each bunker.
+* Bunker name.
+* Number of players who own that type of bunker.
+
+## Skins
+
+This sub-page contains 3 other sub-pages:
+
+<figure markdown="span">
+  ![Skin Normal](/images/wiki/website/normalskin.png){ width="150" }
+  <figcaption>Skin Normal</figcaption>
+</figure>
+
+### Normal Skins
+
+* In this category, all Bronze/Silver/Platinum skins that exist on the server are displayed.
+    * The image of Platinum skins contains a specific color to more easily identify them.
+* Under the image of each skin the following information is found:
+    1. Skin ID.
+    2. Skin gender.
+    3. Skin type.
+    4. Skin value in money.
+    5. Skin value in gold.
+    6. How many skins of this type exist on the server.
+
+<figure markdown="span">
+  ![Skin Diamond](/images/wiki/website/diamondskin.png){ width="150" }
+  <figcaption>Skin Diamond</figcaption>
+</figure>
+
+### Diamond Skins
+
+* In this category, all Diamond skins that exist on the server are displayed.
+* The skin image contains a specific color to more easily identify them.
+* Under the image of each skin the following information is found:
+    1. Skin ID.
+    2. Skin gender.
+    3. Skin type.
+    4. How many skins of this type exist on the server.
+
+<figure markdown="span">
+  ![Skin Onyx](/images/wiki/website/onyxskin.png){ width="150" }
+  <figcaption>Skin Onyx</figcaption>
+</figure>
+
+### Onyx Skins
+
+* In this category, all Onyx skins that exist on the server are displayed.
+* The skin image contains a specific color to more easily identify them.
+* Under the image of each skin the following information is found:
+    1. Skin ID.
+    2. Skin gender.
+    3. Skin type.
+    4. How many skins of this type exist on the server.
+
+## Jobs
+
+Each player can choose a job from a list of 17 jobs. Depending on the player's level, jobs are legal and illegal.
+
+**Legal jobs:**
+
+* Quarry Worker
+* Lumberjack
+* Garbage Man
+* Bus Driver
+* Trucker
+* Farmer
+* Miner
+* Fisherman
+* Chemist
+* Detective
+* Transporter
+* Car Machanic
+* Archeologist
+* Lawyer
+* Craftsman
+
+**Illegal jobs:**
+
+* Drugs Dealer
+* Car Jacker
+* Arms Dealer
+* Pocket Thief
+
+## Ban list
+
+This page includes each player who has been banned, as well as the reason, duration, time and admin who gave the ban.

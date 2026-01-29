@@ -5,12 +5,12 @@ icon: material/shield-star
 # Clans
 
 <figure markdown="span">
-  ![Clans](../../images/Clans.png){ width="530" }
+  ![Clans](/images/wiki/website/Clans.png){ width="530" }
   <figcaption>Top clans at a given moment</figcaption>
 </figure>
 
 !!! info "Info"
-    For details about clans in the [community shop](http://www.shop.b-zone.ro) click [here](../shop/clans.md).
+    For details about clans click [here](../shop/clans.md).
 
 ## Clan Turfs
 
@@ -60,3 +60,11 @@ This page displays a table with all clans that form an alliance on the server, w
 * **Name:** represents the alliance name.
 * **Members:** represents the total number of alliance members (the total number of members from all allied clans).
 * **Allied clans:** represents the names of the allied clans.
+
+## Clan Levels
+
+This page will display all available clan levels, divided into 3 categories:
+
+* **LEVEL:** will display a representative image depending on the clan level.
+* **EXPERIENCE:** will display the amount of XP required to unlock that level.
+* **FEATURES:** will display all benefits of each clan level.

@@ -5,7 +5,7 @@ icon: material/account-tie
 # Staff
 
 <figure markdown="span">
-  ![sidebarr](../../images/sidebarr.png){ width="300" }
+  ![sidebarr](/images/wiki/website/sidebarr.png){ width="300" }
   <figcaption>Sidebar</figcaption>
 </figure>
 

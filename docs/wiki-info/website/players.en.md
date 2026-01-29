@@ -5,12 +5,12 @@ icon: material/account-group
 # Players
 
 <figure markdown="span">
-  ![searchplayers](../../images/searchplayers.png){ width="400" }
+  ![searchplayers](/images/wiki/website/searchplayers.png){ width="400" }
   <figcaption>Search box</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![server_players_rpg](../../images/server_players_rpg.png){ width="400" }
+  ![server_players_rpg](/images/wiki/website/server_players_rpg.png){ width="400" }
   <figcaption>List of authenticated players on one of the servers</figcaption>
 </figure>
 

@@ -4,14 +4,14 @@ icon: material/gavel
 
 # Ban List
 
-Depending on the server you are active on, below you can find links to the Ban list:
+Below you can find links to the Ban list:
 
-* RPG [RPG.B-ZONE.RO](http://www.rpg.b-zone.ro/bans/viewall)
+* [RPG.B-ZONE.RO](http://www.rpg.b-zone.ro/bans/viewall)
 
 If an account has been banned or still is, it will definitely appear in the ban list. The information is presented in the form of a table, each line representing a sanction. The table is structured as follows:
 
 <figure markdown="span">
-  ![Banlist_example](../../images/Banlist_example.PNG)
+  ![Banlist_example](/images/wiki/website/Banlist_example.PNG)
   <figcaption>Ban list example</figcaption>
 </figure>
 
@@ -22,6 +22,4 @@ If an account has been banned or still is, it will definitely appear in the ban 
 * **Duration**: This is the expiration date of the ban. If the ban is permanent, the word "Permanent" will be displayed.
 * **Reason**: This column contains the reason for sanctioning.
 
-Players who believe they have been sanctioned unfairly can request a re-evaluation of the sanction:
-
-* RPG: [RPG1.B-ZONE.RO](http://www.rpg.b-zone.ro/players/unbanRequests)
+Players who believe they have been sanctioned unfairly can request a re-evaluation of the sanction: [Unban Requests](http://www.rpg.b-zone.ro/players/unbanRequests)

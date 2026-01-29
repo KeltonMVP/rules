@@ -4,7 +4,7 @@ icon: material/ticket
 
 # Tickets
 
-[RPG Website](https://rpg.b-zone.ro/)
+[RPG Website Ticket Section](https://www.rpg.b-zone.ro/ticket)
 
 The ticketing system has the following features:
 

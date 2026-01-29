@@ -5,7 +5,7 @@ icon: material/update
 # Actualizari
 
 <figure markdown="span">
-  ![updatespoilerexample](../../images/updatespoilerexample.png){ width="300" }
+  ![updatespoilerexample](/images/wiki/website/updatespoilerexample.png){ width="300" }
   <figcaption>Exemplu spoiler actualizari</figcaption>
 </figure>
 
@@ -21,6 +21,5 @@ icon: material/update
 
 ## Legaturi Externe
 
-[**Actualizarile serverului** RPG1.B-ZONE.RO](http://www.rpg.b-zone.ro/updates/server)
-
-[**Actualizarile websiteului** RPG1.B-ZONE.RO](http://www.rpg.b-zone.ro/updates/website)
+[**Actualizarile serverului**](http://www.rpg.b-zone.ro/updates/server)<br/>
+[**Actualizarile websiteului**](http://www.rpg.b-zone.ro/updates/website)

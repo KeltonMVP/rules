@@ -5,12 +5,12 @@ icon: material/account-group
 # Jucatori
 
 <figure markdown="span">
-  ![searchplayers](../../images/searchplayers.png){ width="400" }
+  ![searchplayers](/images/wiki/website/searchplayers.png){ width="400" }
   <figcaption>Casuta de cautare</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![server_players_rpg](../../images/server_players_rpg.png){ width="400" }
+  ![server_players_rpg](/images/wiki/website/server_players_rpg.png){ width="400" }
   <figcaption>Lista jucatorilor autentificati pe unul din servere</figcaption>
 </figure>
 

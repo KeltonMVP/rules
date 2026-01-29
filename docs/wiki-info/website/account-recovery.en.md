@@ -4,14 +4,9 @@ icon: material/account-lock
 
 # Account Recovery
 
-<figure markdown="span">
-  ![lacat](../../images/lacat.jpg){ width="400" }
-  <figcaption>Account recovery</figcaption>
-</figure>
-
 ## How do I recover my account?
 
-* Players who have lost access to their account for various reasons can make an account recovery request by going to the login page and pressing the "Lost your account?" button.
+* Players who have lost access to their account for various reasons can make an account recovery request by going to the login page and pressing the "[Recovery - Recover Account](https://www.rpg.b-zone.ro/account/recoverAccount)" button.
 * The link specified above will take you to a page where you enter the current name of your account. In case it has been changed in the meantime, you can click on the link "Can't find your account? Click here". From there you will be able to search for the account by the previous name.
 * Within the recovery request, the questions are established by admins and answers as detailed as possible are needed, so that they can establish based on them whether the account belongs to you or not.
 

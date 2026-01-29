@@ -4,8 +4,6 @@ icon: material/lock-reset
 
 # Recuperare Parola
 
-[Website-ul RPG1](https://rpg.b-zone.ro/)
-
 Jucatorii care si-au uitat, pierdut, etc parola de la contul din joc nu si-o vor mai putea recupera daca nu au o adresa de email valida setata la cont la care sa aiba si acces.
 
 ## Cum imi recuperez parola?

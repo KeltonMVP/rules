@@ -5,7 +5,7 @@ icon: material/alert-octagon
 # Reclamatii
 
 <figure markdown="span">
-  ![reports_ph](../../images/reports_ph.png){ width="650" }
+  ![reports_ph](/images/wiki/website/reports_ph.png){ width="650" }
   <figcaption>Tabelul reclamatiilor</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ O reclamatie reprezinta o sesizare de incalcare a regulamentului pe care un juca
     Atat reclamatul, jucatorul reclamant cat si fapta de incalcare a regulamentului trebuie sa aiba in comun acelasi server!
 
 !!! warning "ATENTIE"
-    Reclamatiile facute de dragul de a vedea jucatorul sanctionat, fara sa fii fost implicat direct vor fi sanctionate, cititi mai multe [aici](https://forum.b-zone.ro/topic/413881-despre-posthunteri-about-posthunters/).
+    Reclamatiile facute de dragul de a vedea jucatorul sanctionat, fara sa fii fost implicat direct vor fi sanctionate, cititi mai multe [aici](/#posthuntingul).
 
 ## Cum reclami pe cineva?
 

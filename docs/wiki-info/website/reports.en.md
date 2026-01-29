@@ -5,7 +5,7 @@ icon: material/alert-octagon
 # Reports
 
 <figure markdown="span">
-  ![reports_ph](../../images/reports_ph.png){ width="650" }
+  ![reports_ph](/images/wiki/website/reports_ph.png){ width="650" }
   <figcaption>Reports table</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ A report represents a notification of rule violation that a player can make eith
     Both the reported player, the reporting player and the rule violation must have the same server in common!
 
 !!! warning "WARNING"
-    Reports made for the sake of seeing the player punished, without being directly involved will be sanctioned, read more [here](https://forum.b-zone.ro/topic/413881-despre-posthunteri-about-posthunters/).
+    Reports made for the sake of seeing the player punished, without being directly involved will be sanctioned, read more [here](/en/#posthunting).
 
 ## How to report someone?
 

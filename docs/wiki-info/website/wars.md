@@ -5,7 +5,7 @@ icon: material/sword-cross
 # Waruri
 
 <figure markdown="span">
-  ![turfsimage](../../images/turfsimage.png){ width="300" }
+  ![turfsimage](/images/wiki/website/turfsimage.png){ width="300" }
   <figcaption>Turfuri</figcaption>
 </figure>
 

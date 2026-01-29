@@ -5,12 +5,12 @@ icon: material/shield-star
 # Clanuri
 
 <figure markdown="span">
-  ![Clans](../../images/Clans.png){ width="530" }
+  ![Clans](/images/wiki/website/Clans.png){ width="530" }
   <figcaption>Topul clanurilor la un moment dat</figcaption>
 </figure>
 
 !!! info "Info"
-    Pentru detalii despre clanuri in [magazinul comunitatii](http://www.shop.b-zone.ro) apasati click [aici](../shop/clans.md).
+    Pentru detalii despre clanuri fa click [aici](../shop/clans.md).
 
 ## Clan Turfs
 
@@ -60,3 +60,11 @@ Aceasta pagina va afiseaza un tabel cu toate clanurile care formeaza o alianta p
 * **Name:** reprezinta numele aliantei.
 * **Members:** reprezinta numarul total de membri ai aliantei (numarul total de membri din toate clanurile aliate).
 * **Allied clans:** reprezinta numele clanurilor aliate.
+
+## Clan Levels
+
+Aceasta pagina va afiseaza toate nivelele disponibile la clanuri impartite pe 3 categorii:
+
+* **LEVEL:** va afiseaza o imagine reprezentativa in functie de nivelul clanului.
+* **EXPERIENCE:** va afiseaza numarul de XP necesar pentru a debloca respectivul nivel.
+* **FEATURES:** va afiseaza toate beneficiile fiecarui nivel de clan.

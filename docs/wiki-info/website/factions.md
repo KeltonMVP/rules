@@ -4,9 +4,6 @@ icon: material/shield-account
 
 # Factiuni
 
-!!! info "Nota"
-    Lista tuturor factiunilor serverelor poate fi gasita [aici](../factions/index.md).
-
 ## Caracteristici generale
 
 Factiunile sunt grupari speciale din care pot face parte jucatorii serverului. Daca nu doriti sa fiti niste simplii civili, va puteti integra intr-o factiune. Coreland factiunile cu viata reala, ele reprezinta intr-o oarecare masura, un job stabil.
@@ -47,6 +44,6 @@ Daca un lider nu ti-a acceptat aplicatia, nu-ti face griji. Perseverarea va duce
     * Los Santos Police Department - A activa in cadrul acestei factiuni, inseamna a-ti darui o mare parte din timp jocului, pentru a duce la bun sfarsit raportul saptamanal impus. Curand va incepe scoala, asa ca am decis sa parasesc factiunea si sa aplic in cadrul uneia pasnice pentru a-mi structura mai bine timpul liber.
     * Hitmen Agency - Nu am parasit agentia de asasini de buna voie, ci datotita greselilor repetate. Am comis cateva greseli ce nu se aflau in concordanta cu regulamentul factiunii, prin urmare am fost demis cu 3 avertizari in factiune (3 FW).
 5. Explicatii pentru sanctiunile primite de la admini: Am primit ajail din partea unui admin in urma cu 3 luni pentru comportament non-RP. Sanctiunea mi-a fost aplicata deoarece politistul care ma soma sa cobor din vehiculul aflat in flacari, mi-a facut reclamatie. Vehiculul aflat in flacari a explodat, eu fiind in el.
-6. Descrierea voastra ca persoana: Ma numesc Adrian, sunt din judetul Arges si sunt in clasa a 10-a. Iubesc vacantele, iar in cadrul scolii ma descurc destul de bine. Sunt pasionat de filmele de actiune si cel mai mult imi place sa le vizionez la un cinema 3D. Sunt in pas cu tehnologia si momentan incerc sa-mi dezvolt capacitatile de programator. In timpul scolii programul meu este destul de incarcat, deoarece trebuie sa am grija de doua lucruri importante si in acelasi timp greu de acoperit: temele si prietenii. Atunci cand am mai mult timp liber (in weekend-uri sau vacante), prefer sa-mi petrec timpul iesind la plimbari cu prietenii sau pur si simplu ocupandu-ma de proiecte personale (de exemplu un website, sau un server).
+6. Descrierea voastra ca persoana: Ma numesc Adrian. Iubesc vacantele, iar in cadrul scolii ma descurc destul de bine. Sunt pasionat de filmele de actiune si cel mai mult imi place sa le vizionez la un cinema 3D. Sunt in pas cu tehnologia si momentan incerc sa-mi dezvolt capacitatile de programator. In timpul scolii programul meu este destul de incarcat, deoarece trebuie sa am grija de doua lucruri importante si in acelasi timp greu de acoperit: temele si prietenii. Atunci cand am mai mult timp liber (in weekend-uri sau vacante), prefer sa-mi petrec timpul iesind la plimbari cu prietenii sau pur si simplu ocupandu-ma de proiecte personale (de exemplu un website, sau un server).
 7. Te afli pe blacklistul unei alte factiuni?: Nu
 8. Ai cunostinte de limba engleza: Da, am un vocabular bogat, doar timpurile verbale imi mai pun bete in roate cateodata.

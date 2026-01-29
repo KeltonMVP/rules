@@ -53,3 +53,35 @@ All applications that have not received a response (accepted/rejected/rejected a
 * Name of the applicant player
 * Date when the application was submitted.
 * A **View** button, with which the leader reaches the application form completed by the respective applicant.
+
+## Candidates Table
+
+By visiting this page, the website will display a table that includes players who need to take the entry test, respectively players who have taken the entry test and the verdict given by the tester.
+
+## Accepted applications / Rejected applications / Test failed applications / Invited applications
+
+By visiting this page, the website will display a table that includes information about a certain player's application, an application that was marked as accepted/rejected/Failed at tests/Invited. The information in the table refers to:
+
+* Name of the accepted player
+* Date when the application was published
+* Response given by the leader
+* Date when the leader provided the response to the application
+* A **View** button, with which the leader reaches the application form completed by the respective applicant.
+
+## Inactivities / Resignations
+
+By visiting this page, the website will display a table that includes active inactivities or resignations, respectively those processed.
+
+## Blacklisted Members
+
+By visiting this page, the website will display a table with players on the faction's blacklist.
+
+## Application Model
+
+From this page, the faction leader can modify the questions for the faction entry application.
+
+* From this page, the minimum application requirements can also be modified.
+
+## Application Search
+
+From this page, the faction leader can search for an application by a sentence or phrase, to verify its originality.

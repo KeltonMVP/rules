@@ -4,14 +4,9 @@ icon: material/account-lock
 
 # Recuperare Cont
 
-<figure markdown="span">
-  ![lacat](../../images/lacat.jpg){ width="400" }
-  <figcaption>Recuperare cont</figcaption>
-</figure>
-
 ## Cum imi recuperez contul?
 
-* Jucatorii care si-au pierdut accesul la cont din diferite motive pot face o cerere de recuperare cont intrand pe pagina de login si apasand pe butonul "Lost your account?".
+* Jucatorii care si-au pierdut accesul la cont din diferite motive pot face o cerere de recuperare cont intrand pe pagina de login si apasand pe butonul "[Recovery - Recover Account](https://www.rpg.b-zone.ro/account/recoverAccount)".
 * Link-ul precizat mai sus va va duce pe o pagina unde introduceti numele curent al contului tau. In caz ca acesta a fost schimbat intre timp, puteti da click pe link-ul "Can't find your account? Click here". De acolo veti putea cauta contul dupa numele anterior.
 * In cadrul cererii de recuperare, intrebarile sunt stabilite de admini si este nevoie de raspunsuri cat mai detaliate, astfel incat acestia sa poata stabili pe baza lor daca contul va apartine sau nu.
 

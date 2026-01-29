@@ -5,10 +5,10 @@ icon: material/currency-usd
 # Economy
 
 !!! info "Info"
-    For the RPG1 Economy system you can enter [here](https://www.rpg.b-zone.ro/economy/cars).
+    For the Economy system you can enter [here](https://www.rpg.b-zone.ro/economy/cars).
 
 <figure markdown="span">
-  ![Webeconomy](../../images/Webeconomy.png){ width="500" }
+  ![Webeconomy](/images/wiki/website/Webeconomy.png){ width="500" }
   <figcaption>Economy tab</figcaption>
 </figure>
 

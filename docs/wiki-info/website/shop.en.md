@@ -10,6 +10,11 @@ This page displays all products that you can purchase with Gold in game.
 
 ### Page title
 
+<figure markdown="span">
+  ![Shop Products](/images/wiki/website/shopproducts.png){ width="300" }
+  <figcaption>Shop Products</figcaption>
+</figure>
+
 Under the page title we will be informed if there are active discounts on the servers as well as a counter that indicates how long these discounts are still active.
 
 ### Page content
