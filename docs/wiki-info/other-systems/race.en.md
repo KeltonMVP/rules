@@ -1,33 +1,47 @@
-Cursele sunt activități ilegale, recreative, desfășurate între maxim 2 jucători pe străzile din San Andreas.
+# Race
+
+Races are illegal, recreational activities, held between a maximum of 2 players on the streets of San Andreas.
+
 <figure markdown="span">
-  ![O cursă ilegală pe B-Zone RPG](/images/wiki/general/race.jpg){ width="400" }
-  <figcaption>O cursă ilegală pe B-Zone RPG</figcaption>
+  ![An illegal race on B-Zone RPG](/images/wiki/general/race.jpg){ width="400" }
+  <figcaption>An illegal race on B-Zone RPG</figcaption>
 </figure>
 
-## Pregătirea cursei
-Pentru a putea susține o cursă, jucatorii participanți trebuie să indeplinească următoarele condiții:
-* Ambii jucători trebuie sa dețină și să-și utilizeze mașinile personale pe parcursul cursei.
-* Jucătorii trebuie să folosească mașini îndeajuns de apropiate ca preț și categorie (se acceptă o diferență de preț de 25%).
-* Ambii jucători trebuie sa plece de la o linie de start comună.
-* Ambii jucători trebuie sa voteze același tip de cursă.
+## Race preparation
+To be able to hold a race, participating players must meet the following conditions:
 
-### Alegerea tipului de cursă
+* Both players must own and use their personal cars during the race.
+* Players must use cars close enough in price and category (a price difference of 25% is accepted).
+* Both players must start from a common starting line.
+* Both players must vote for the same type of race.
+
+### Choosing the race type
+
 <figure markdown="span">
-  ![Waypoint](/images/wiki/general/Mapă.png){ width="150" }
+  ![Waypoint](/images/wiki/general/waypoint.png){ width="150" }
   <figcaption>Waypoint</figcaption>
 </figure>
-Înainte de inceperea cursei propriu-zise, jucătorii vor trebui sa își aleagă tipul de cursă pe care vor vrea să îl susțină.
-În prezent, există două tipuri de curse:
-* **Random** - linia de sosire va fi aleasă aleatoriu.
-* **Custom** - linia de sosire va fi aleasă de către jucătorul ce a inițiat cursa.
-În cazul în care jucătorii au ales să susțină o cursă de tip **Random**, serverul va plasa automat un checkpoint la linia de sosire aleasă aleatoriu.
-În cazul în care jucătorii au ales să susțină o cursa de tip **Custom**, jucătorul ce a inițiat cursa va alege punctul de sosire. Pentru a face acest lucru, jucătorul va fi nevoit să plaseze un waypoint pe hartă (ESC > Map > Click dreapta) și să revină ulterior în joc. Cursa va începe doar în momentul în care ambii jucători au confirmat punctul de sosire prin folosirea comenzii */startrace*.
 
-## Desfășurarea cursei
-* După stabilirea mizei, modului de cursă și implicit a liniei de sosire, jucătorii vor avea la dispoziție 10 secunde pentru a se pregăti pentru începerea cursei.
-* După scurgerea celor 10 secunde, jucătorii vor fi înghețați pentru 3 secunde, timp în care se va da startul.
-* Primul jucător ajuns la linia de sosire stabilită va câștiga miza cursei.
-**Note:**
-*În cazul în care vreunul dintre jucători va părăsi vehiculul din orice motiv, jucătorul rămas va câștiga automat cursa, făra a fi nevoit să ajungă la finalul acesteia.*
-*Miza cursei va fi stabilită de jucătorul ce inițiază cursa prin intermediul comenzii /race, banii fiind transferați automat la finalul cursei.*
-*Miza cursei nu va putea fi mai mică de $1 sau mai mare de $1.000 (în cazul jucătorilor fără cont premium), respectiv $2.000 (în cazul jucătorilor ce dețin cont premium).*
+Before starting the actual race, players will have to choose the type of race they want to hold.
+Currently, there are two types of races:
+
+* **Random** - the finish line will be chosen randomly.
+* **Custom** - the finish line will be chosen by the player who initiated the race.
+
+If players have chosen to hold a **Random** type race, the server will automatically place a checkpoint at the randomly chosen finish line.
+
+If players have chosen to hold a **Custom** type race, the player who initiated the race will choose the finish point. To do this, the player will have to place a waypoint on the map (ESC > Map > Right click) and return to the game later. The race will only start when both players have confirmed the finish point by using the */startrace* command.
+
+## Race conduct
+
+* After setting the stake, race mode and implicitly the finish line, players will have 10 seconds to prepare for the start of the race.
+* After the 10 seconds have elapsed, players will be frozen for 3 seconds, during which time the start will be given.
+* The first player to reach the established finish line will win the race stake.
+
+**Notes:**
+
+*If any of the players leaves the vehicle for any reason, the remaining player will automatically win the race, without having to reach the end of it.*
+
+*The race stake will be set by the player who initiates the race through the /race command, the money being automatically transferred at the end of the race.*
+
+*The race stake cannot be less than $1 or more than $1,000 (for players without premium account), respectively $2,000 (for players who have a premium account).*

@@ -1,21 +1,28 @@
-thumb|450px
-Safezone-urile, sau zonele sigure, sunt locuri în care atacarea oricărui jucător este interzisă (și imposibilă). Excepție fac forțele de ordine, dacă un infractor se refugiază într-o astfel de zonă.
+# Safezone
+
+<figure markdown="span">
+  ![Safezone](/images/wiki/general/safezone.jpg){ width="150" }
+  <figcaption>Safezone</figcaption>
+</figure>
+
+Safezones, or safe zones, are places where attacking any player is prohibited (and impossible). The exception is law enforcement, if a criminal takes refuge in such a zone.
 
 
-# Caracteristici
-* Jucătorii aflați într-un safezone vor vedea pe ecran, în partea de sus, un mesaj specific.
-* Deathmatch-ul în safezone nu este posibil, deoarece gloanțele nu au efect.
-* Polițiștii on-duty pot trage (cu efect) în safezone-uri.
-* Daunele de la explozii sunt inexistente pentru jucătorii din safezone-uri.
-* Nu se pot crea sau vinde arme înăuntrul acestor zone.
-* Dacă se află într-un safezone, jucătorii nu pot fi jefuiți.
-* Când un jucător lovește cu pumnii alt jucător, atacatorul primește freeze 5 secunde.
-* Drive-by-ul este imposibil în safezone.
+## Characteristics
+
+* Players located in a safezone will see a specific message on the screen, at the top.
+* Deathmatch in safezone is not possible, because bullets have no effect.
+* On-duty police officers can shoot (with effect) in safezones.
+* Explosion damage is non-existent for players in safezones.
+* Weapons cannot be created or sold inside these zones.
+* If they are in a safezone, players cannot be robbed.
+* When a player punches another player, the attacker receives a 5-second freeze.
+* Drive-by is impossible in safezone.
 
 
-# Lista locațiilor protejate prin Safezone-uri
-Puteți afla aceste informații și în joc, folosind comanda "/safezones". În prezent pe serverele noastre avem 73 de safezones:
+## List of locations protected by Safezones
 
+You can find this information in-game as well, using the "/safezones" command. Currently on our servers we have 73 safezones:
 
 * City Hall
 * LSPD
@@ -89,4 +96,4 @@ Puteți afla aceste informații și în joc, folosind comanda "/safezones". În 
 * Chemist
 * Farm LV
 * Farm SF
-* Locaţia de /getgift
+* Locatia de /getgift

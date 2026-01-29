@@ -1,8 +1,15 @@
-thumb|450px
+# Safezone
+
+<figure markdown="span">
+  ![Safezone](/images/wiki/general/safezone.jpg){ width="150" }
+  <figcaption>Safezone</figcaption>
+</figure>
+
 Safezone-urile, sau zonele sigure, sunt locuri in care atacarea oricarui jucator este interzisa (si imposibila). Exceptie fac fortele de ordine, daca un infractor se refugiaza intr-o astfel de zona.
 
 
-# Caracteristici
+## Caracteristici
+
 * Jucatorii aflati intr-un safezone vor vedea pe ecran, in partea de sus, un mesaj specific.
 * Deathmatch-ul in safezone nu este posibil, deoarece gloantele nu au efect.
 * Politistii on-duty pot trage (cu efect) in safezone-uri.
@@ -13,9 +20,9 @@ Safezone-urile, sau zonele sigure, sunt locuri in care atacarea oricarui jucator
 * Drive-by-ul este imposibil in safezone.
 
 
-# Lista locatiilor protejate prin Safezone-uri
-Puteti afla aceste informatii si in joc, folosind comanda "/safezones". in prezent pe serverele noastre avem 73 de safezones:
+## Lista locatiilor protejate prin Safezone-uri
 
+Puteti afla aceste informatii si in joc, folosind comanda "/safezones". in prezent pe serverele noastre avem 73 de safezones:
 
 * City Hall
 * LSPD
@@ -89,4 +96,4 @@ Puteti afla aceste informatii si in joc, folosind comanda "/safezones". in preze
 * Chemist
 * Farm LV
 * Farm SF
-* Locaţia de /getgift
+* Locatia de /getgift

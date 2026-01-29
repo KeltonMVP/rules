@@ -1,46 +1,50 @@
+# Cellphone
+
 <figure markdown="span">
-  ![Jucător care susține o conversație](/images/wiki/general/phonee.png){ width="450" }
-  <figcaption>Jucător care susține o conversație</figcaption>
+  ![Player having a conversation](/images/wiki/general/phonee.png){ width="350" }
+  <figcaption>Player having a conversation</figcaption>
 </figure>
 
 
-Tine legătura cu prietenii și sustine-ți afacerile pe unul dintre serverele B-Zone RPG, comunicând. Telefonul face parte din viața oamenilor și ajunge să fie aproape indispensabil, astfel, serverele RPG ale comunității dețin un sistem care imită cât se poate de bine realitatea.
+Stay in touch with friends and conduct your business on one of the B-Zone RPG servers by communicating. The phone is part of people's lives and becomes almost indispensable, thus, the community's RPG servers have a system that imitates reality as closely as possible.
 
 
-# Caracteristici generale
-* Pentru a putea apela sau a-i scrie un SMS unui jucător, aveți nevoie de un telefon mobil și cel puțin nivel 3.
-* Telefonul poate fi cumpărat de la orice magazin 24/7 contra unei sume de bani.
+## General characteristics
+* To be able to call or write an SMS to a player, you need a mobile phone and at least level 3.
+* The phone can be purchased from any 24/7 store for a sum of money.
 
 
-# Comenzi specifice
-## /cellphonehelp
-Această comandă afișează următorul set de comenzi:
+## Specific commands
 
-## /p(ickup)
-Efectul acesteia este de a răspune la telefon în cazul în care cineva vă apelează. Se pot utiliza ambele variante: /p sau /pickup.
+### /cellphonehelp
+This command displays the following set of commands:
 
-## /h(angup)
-Efectul acesteia este de a închide o convorbire telefonică. Se pot utiliza ambele variante: /h sau /hangup.
+### /p(ickup)
+The effect of this is to answer the phone when someone calls you. Both variants can be used: /p or /pickup.
 
-## /call [Se folosește petru a apela un jucător. Jucatorul este taxat per perioada de timp in care acesta a comunicat prin telefon.
+### /h(angup)
+The effect of this is to close a phone conversation. Both variants can be used: /h or /hangup.
 
-## /turn [on/off](ID/Nume])
-Această comandă vă închide, respectiv deschide telefonul, în funcție de parametrul specificat:
-**/turn **on*** - va deschide telefonul.
-**/turn **off*** - va închide telefonul.
+### /call
+Used to call a player. The player is charged per period of time they communicated by phone.
 
-## /speaker
-Atunci când vă aflați într-o convorbire telefonică, nimeni altcineva din jur nu poate să vadă convorbirea din partea interlocutorului, însă după utilizarea comenzii /speaker, mesajele vor deveni vizibile iar persoanele de lângă dumneavoastră vor putea fi auziți de interlocutor dacă aceștia vorbesc folosind comanda /s.
+### /turn on/off ID/Name
+This command will close or open the phone, depending on the specified parameter:
+**/turn **on*** - will open the phone.
+**/turn **off*** - will close the phone.
 
-## /sms [[mesaj](ID/Nume])
-Este o comandă folosită pentru a trimite mesaje text altor jucători pe server, către un jucator specificat. *Exemplu: /sms Madalin Salut!*
-*Notă: Această comandă are alternativa **/t(ext)**.*
+### /speaker
+When you are in a phone conversation, no one else around can see the conversation from the other party, but after using the /speaker command, the messages will become visible and people near you will be able to be heard by the other party if they speak using the /s command.
 
-## /missed [calls/messages]
-Ultimele 5 apeluri și SMS-uri primite vor fi salvate. Pentru a le vizualiza, se poate folosi comanda /missed.
+### /sms message ID/Name
+It is a command used to send text messages to other players on the server, to a specified player. *Example: /sms Madalin Hello!*
+*Note: This command has the alternative **/t(ext)**.*
 
-## /setfreq
-Folosind aceasta comanda veți putea seta o frecvenţă pentru Walkie-Talkie-ul vostru.
+### /missed [calls/messages]
+The last 5 calls and SMS messages received will be saved. To view them, you can use the /missed command.
 
-## /freqmembers
-Folosind această comandă veți putea vedea lista cu jucătorii aflați pe aceeași frecvența cu voi.
+### /setfreq
+Using this command you will be able to set a frequency for your Walkie-Talkie.
+
+### /freqmembers
+Using this command you will be able to see the list of players on the same frequency as you.

@@ -1,26 +1,30 @@
-thumb|450px
+# Friends
+
+<figure markdown="span">
+  ![Friends List](/images/wiki/general/friends.png){ width="400" }
+  <figcaption>Friends List</figcaption>
+</figure>
+
+## General characteristics
+* If you have friends and want to have a closer connection with them, then add them to your friends list. All the information you need to know before forming a list of friends is below.
+* A regular player can add up to **40 players** to their friends list.
+* A player who has a premium account can add up to **60 players** to their friends list.
 
 
-# Caracteristici generale
-*Dacă ai prieteni și vrei să ai o legătură mai strânsă cu ei, atunci adaugă-i pe lista ta de prieteni. Toate informațiile pe care trebuie să le știi înainte de a-ți forma o listă cu prieteni, se află mai jos.
-*Un jucător obișnuit poate să adauge pe lista sa de prieteni până la maxim **40 de jucători**.
-*Un jucător ce deține cont premium, poate să adauge în lista de prieteni până la maxim **60 de jucători**.
+## How do you add a friend?
+* To add a friend to the list, use the ***/friends*** command or the ***Y*** key, after which the friends list will be displayed.
+* After opening the table, press the ***Add Friend...*** button.
+* In the newly opened box, you must enter the full/partial name or ID of the player you want to add to your friends list.
+* After entering the necessary information, press the ***Submit*** button.
+* After completing the above steps, the server will send a corresponding message to the player, informing them about the desire to be added to your friends list. If they want to accept this (to become friends), they must use the **/accept friend** command. If they do not want to accept the invitation, they simply need to ignore it and will not be added to the friends list.
 
 
-# Cum adaugi un prieten?
-*Pentru a adăuga un prieten în listă, se folosește comanda ***/friends*** sau tasta ***Y*** urmând ca lista prietenilor să fie afișată.
-*După deschiderea tabelului, apăsați pe butonul ***Add Friend...***.
-*În căsuța nou deschisă, trebuie să introduceți numele întreg/parțial sau ID-ul jucătorului pe care doriți să-l adăugați la lista cu prieteni.
-*Odată introduse informațiile necesare, apăsați butonul ***Submit***.
-*După parcurgerea pașilor de mai sus, serverul va trimite un mesaj corespunzător jucătorului, informându-l despre dorința de a fi adăugat pe lista voastră de prieteni. Dacă acesta dorește să accepte acest lucru (să deveniți prieteni), trebuie să folosească comanda **/accept friend**. Dacă nu dorește să accepte invitația, trebuie pur și simplu să o ignore și nu va fi adăugat pe lista de prieteni.
+## Specific commands
+### /friends
+This command opens the table with the friends list from where a player can quickly keep in touch with them. The friends list (/friends) will display friends ordered by status (online, AFK, offline). Also, online and AFK friends will be ordered by ID. As an alternative to the command, you can use the ***Y*** key.
 
 
-# Comenzi specifice
-# /friends
-Această comandă deschide tabelul cu lista de prieteni de unde un jucător poate să țină legătura rapid cu aceștia. Lista de prieteni (/friends) va afișa prietenii ordonați în funcție de status (online, AFK, offline). De asemenea, prietenii online și AFK vor fi ordonați după ID. Ca o alternativă a comenzii, puteți folosi tasta ***Y***.
-
-
-# Avantaje
-* Având un jucător pe lista de prieteni, vă este mult mai ușor să-l contactați (sms sau apel), direct din tabelul afișat de comanda */friends*.
-* Tastând comanda /friends, aflați rapid dacă un jucător de pe lista prietenilor este conectat la server sau nu.
-* Atunci când un prieten se conectează la server, veți primi un anunț corespunzător.
+## Advantages
+* Having a player on your friends list makes it much easier to contact them (SMS or call) directly from the table displayed by the */friends* command.
+* By typing the /friends command, you quickly find out whether a player on your friends list is connected to the server or not.
+* When a friend connects to the server, you will receive a corresponding notification.

@@ -1,147 +1,173 @@
+# Wars
+
 <figure markdown="span">
   ![Wars](/images/wiki/general/turfsimage.png){ width="300" }
   <figcaption>Wars</figcaption>
 </figure>
-Warurile sunt confruntarile dintre ganguri, în urma cărora se poate câstiga respect și supremație. 
+Wars are confrontations between gangs, as a result of which respect and supremacy can be gained.
 
-# Warurile clasice
-## Desfășurare și informații
-*Durata unui war este de 30 de minute, iar numărul maxim de war-uri ce se pot desfășura pe zi într-un gang este de 4. 
-*Pe toată durata unui war, membrii unui gang au datoria de a ucide cât mai mulți adversari sau de a domina zona pentru a-și îndeplini scopul, acela de a câstiga teritoriul pentru care se luptă.
-*Fiecare war se desfășoară în alt virtual world decât cel în care se află ceilalți jucători pentru ca warurile să nu fie influențate.
-*Gangsterii reușesc să-și anihileze adversarii folosindu-se de arme precum: Desert Eagle (Deagle), M4, AK47, Rifle, TEC-9 și Combat Shotgun. 
-*Odată intrați pe teritoriul de război cu mașina gangului din care provin, gangsterii au la dispoziție 10 secunde să-și poziționeze mașinile favorabil, urmând ca după aceste 10 secunde să fie dați jos automat din vehicul în cazul în care nu au coborât deja.
-*De asemenea, odată intrat pe turf, un gangster nu mai poate intra sub niciun fel în vehicul.
-*Un război de 30 de minute se desfășoară de-a lungul a 15 runde.
-*O dată ce un gangster părăsește turful, acesta va fi considerat încă pe turf pentru câteva secunde.
-*Pentru ca un gang să câștige warul, acesta trebuie să domine cel puțin 8 runde.
-*Pentru a câștiga o rundă, gangul trebuie să obțină un punctaj mai mare decât al celuilalt, în runda curentă.
-*În cazul în care ambele ganguri reușesc să obțină un punctaj egal, gangul care apără teritoriul va câștiga runda.
-*La sfarșitul fiecărui război se calculează scorul celui mai bun gangster din echipa câștigătorilor și celui mai slab jucător din echipa învinșilor.
-*Warurile au loc pe serverele B-Zone RPG în fiecare luni, marți, miercuri, joi și vineri între orele 20:00-22:00. În timpul verii, warurile se poartă într-un interval stabilit în urma unui sondaj pe website.
-*Atunci când un gang are un război, membrii respectivelor ganguri vor vedea pe harta jocului teritoriul pentru care se ține războiu, oscilând între culoarea gangului ofensiv și culoarea gangului defensiv (pentru vizualizarea teritoriilor se folosește comanda /turfs).
-*În timpul războiului pot fi folosite numai vehicule personale sau deținute de mafie. 
-****Excepție:** Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed si Enforcer.
-*Fiecare gang are obligația de a asculta indicațiile liderului și subliderilor facțiunii.
+## Classic wars
 
-## Distribuirea armelor
-*Gangsterii sunt obligați să dețină jobul ***Arms Dealer*** atunci când au un război activ.
-*Gangsterii sunt obligați să ofere arme coechipierilor la cerere.
-*Pentru a vinde arme, se folosește comanda /sellgun.
-*Pentru ca vinderea armelor să fie posibilă, gangsterii au nevoie de materiale.
-*Există comanda */fput materials* respectiv */fget materials* pentru controlul seifului de materiale al gangului.
-*Aflați mai multe detalii despre materiale accesând pagina jobului Arms Dealer.
+### Conduct and information
 
+* The duration of a war is 30 minutes, and the maximum number of wars that can take place per day in a gang is 4.
+* Throughout a war, gang members have the duty to kill as many opponents as possible or to dominate the area to fulfill their goal, that of winning the territory they are fighting for.
+* Each war takes place in a different virtual world than the one in which the other players are located so that the wars are not influenced.
+* Gangsters manage to annihilate their opponents using weapons such as: Desert Eagle (Deagle), M4, AK47, Rifle, TEC-9 and Combat Shotgun.
+* Once they enter the war territory with the gang car they come from, gangsters have 10 seconds to position their cars favorably, and after these 10 seconds they will be automatically taken out of the vehicle if they have not already gotten out.
+* Also, once on the turf, a gangster can no longer enter a vehicle under any circumstances.
+* A 30-minute war takes place over 15 rounds.
+* Once a gangster leaves the turf, they will still be considered on the turf for a few seconds.
+* For a gang to win the war, they must dominate at least 8 rounds.
+* To win a round, the gang must obtain a higher score than the other in the current round.
+* If both gangs manage to obtain an equal score, the gang defending the territory will win the round.
+* At the end of each war, the score of the best gangster on the winning team and the weakest player on the losing team is calculated.
+* Wars take place on B-Zone RPG servers every Monday, Tuesday, Wednesday, Thursday and Friday between 20:00-22:00. During summer, wars are held in an interval established following a poll on the website.
+* When a gang has a war, members of the respective gangs will see on the game map the territory for which the war is held, oscillating between the color of the offensive gang and the color of the defensive gang (to view territories use the /turfs command).
+* During the war, only personal vehicles or vehicles owned by the mafia can be used.
+    * **Exception:** Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed and Enforcer.
+* Each gang has the obligation to listen to the instructions of the leader and sub-leaders of the faction.
 
-## Arme în funcție de rang
+### Weapon distribution
+
+* Gangsters are required to have the ***Arms Dealer*** job when they have an active war.
+* Gangsters are required to provide weapons to teammates upon request.
+* To sell weapons, use the /sellgun command.
+* For the sale of weapons to be possible, gangsters need materials.
+* There is the */fput materials* and */fget materials* commands for controlling the gang's materials safe.
+* Find out more details about materials by accessing the Arms Dealer job page.
+
+### Weapons by rank
 <figure markdown="span">
-  ![Pachete de arme în funcție de rang](/images/wiki/general/Ordermats.png){ width="500" }
-  <figcaption>Pachete de arme în funcție de rang</figcaption>
+  ![Weapon packages by rank](/images/wiki/general/Ordermats.png){ width="500" }
+  <figcaption>Weapon packages by rank</figcaption>
 </figure>
-* Rang 1: Comanda disponibilă este /order 1 și oferă arma Deagle.
-* Rang 2: Comanda disponibilă este /order 2 și oferă armele Deagle și M4.
-* Rang 3: Comanda disponibilă este /order 3 și oferă armele Deagle, M4 și Rifle.
-* Rang 4: Comanda disponibilă este /order 4 și oferă armele Deagle, M4, Tec9, Combat Shotgun și Rifle.
-*Notă: Comanda **/order** este accesibilă numai în interiorul HQ-ului, casei și HQ-ului de clan.*
 
-## Droguri
-În cazul în care un gangster rămâne fără viață, el poate folosi droguri pentru a și-o recăpăta. În funcție de importanța lor, drogurile se clasifică astfel: 
-# Marijuana - folosind comanda */usedrugs marijuana* se vor consuma 12 grame din totalul de droguri pe care le deține. Acest drog oferă gangsterului 5 HP, însă și 2% dependență sau efecte secundare precum amețeală.
-# Cocaine - Un jucător poate folosi acest drog tastând comanda */usedrugs cocaine*. Va consuma 18 grame din totalul de droguri pe care îl deține, va primi 20 HP, însă și 4% dependență sau efecte secundare precum amețeală.
-# Ecstasy - Acest drog poate fi folosit utilizând comanda */usedrugs ecstasy*. Se vor consuma 26 grame din totalul de droguri deținut, iar jucătorul va primi 50 HP. Spre deosebire de celelalte droguri, acesta oferă 10% dependență și un efect secundar neobișnuit. Odată folosit acest drog caracterul va cădea la pământ automat pentru 10 secunde. În acest timp comanda /stopanim este inutilă.
-# Meth sau metamfetamină - Acest drog este cel mai puternic, însă și cel mai de folos datorită consecințelor. Folosind comanda */usedrugs meth*, se vor consuma 38 grame de droguri. Jucătorul va primi 100% HP, însă și 20% dependență și imposibilitatea de a se mișca timp de 20 de secunde.
-*Notă 1: Există comanda */fput drugs* respectiv */fget drugs* pentru controlul seifului de droguri al gangului.*
-*Notă 2: Această dependență poate fi scăzută de la spitalul din orașul Los Santos folosind comanda /rehab.*
-*Notă 3: Aflați mai multe detalii accesând pagina Droguri.*
+* Rank 1: Available command is /order 1 and offers the Deagle weapon.
+* Rank 2: Available command is /order 2 and offers Deagle and M4 weapons.
+* Rank 3: Available command is /order 3 and offers Deagle, M4 and Rifle weapons.
+* Rank 4: Available command is /order 4 and offers Deagle, M4, Tec9, Combat Shotgun and Rifle weapons.
 
-## Top Gangs
-* Lunar turfurile vor fi resetate în ultima Sâmbătă din acea lună iar primele două ganguri cu cele mai multe teritorii vor fi premiate cu gold, astfel:
-** Locul 1 va primi **10440 Gold** care se va împărți automat tuturor membrilor de rank 1-6 din facțiune, inclusiv liderul.
-** Locul 2 va primi **7800 Gold** care va fi împărțit la fel.
-* În caz de egalitate departajarea se va face în funcție de numărul de waruri câștigate, iar dacă și atunci este tot egalitate se va alege câștigătorul aleatoriu.
+*Note: The **/order** command is only accessible inside the HQ, house and clan HQ.*
 
-## Comenzi des utilizate în timpul warurilor
-## /order
-Comanda este folosită de către gangsterii serverelor pentru a comanda un anumit pachet de arme (pachetele de arme sunt disponibile în funcție de rangul gangsterului). Se folosește un singur parametru în completarea comenzii, ID-ul pachetului de arme. 
-*Notă: Există un total de 4 pachete de arme. Exemplu de utilizare: /order 2.*
+### Drugs
 
-## /turfs
-Această comandă este disponibilă pentru toți jucătorii serverelor RPG, însă cel mai des este utilizată de către gangsteri. Comanda în sine afișează atât pe mini-radar cât și pe întreaga hartă din meniul jocului (ESC-MAP), teritoriile colorate în funcție de culoarea gangului care îl deține. În timpul războaielor între gangsteri, folosirea comenzii /turfs arată gangsterii implicați drept puncte pe hartă, colorate în funcție de echipa din care fac parte.
+In case a gangster runs out of health, they can use drugs to recover it. Depending on their importance, drugs are classified as follows:
 
-## /fvr
-Utilizarea comenzii are ca efect respawnarea vehiculelor neocupate ale facțiunii. Este o comandă extrem de utilizată în timpul warurilor.
+- Marijuana - using the command */usedrugs marijuana* will consume 12 grams from the total drugs held. This drug gives the gangster 5 HP, but also 2% addiction or side effects such as dizziness.
+- Cocaine - A player can use this drug by typing the command */usedrugs cocaine*. It will consume 18 grams from the total drugs held, they will receive 20 HP, but also 4% addiction or side effects such as dizziness.
+- Ecstasy - This drug can be used using the command */usedrugs ecstasy*. 26 grams from the total drugs held will be consumed, and the player will receive 50 HP. Unlike other drugs, this offers 10% addiction and an unusual side effect. Once this drug is used, the character will automatically fall to the ground for 10 seconds. During this time the /stopanim command is useless.
+- Meth or methamphetamine - This drug is the most powerful, but also the most useful due to the consequences. Using the command */usedrugs meth*, 38 grams of drugs will be consumed. The player will receive 100% HP, but also 20% addiction and the inability to move for 20 seconds.
 
-## /f
-Comanda transmite un mesaj către chatul facţiunii din care faceţi parte (doar în cazul în care faceţi parte din una). Comanda este prezentă la toate facţiunile exceptând departamentele de poliţie unde se foloseste /r.
-*Exemplu: "/f mesaj"* 
+Note 1: There is the */fput drugs* and */fget drugs* commands for controlling the gang's drug safe.
 
-# Warurile speciale
-## Deathmatch War
-### Desfășurare și informații
-* Acest tip de war se desfășoară în fiecare zi de sâmbătă, între orele 20:00-21:00, teritoriul este situat in afara orașelor<sup>*1*</sup> și poartă culoarea gang-ului câștigător.
-* Membrii aflați pe teritoriul deathmatch sunt blocați în interiorul acestuia și nu îl pot părăsi.
-* Respawnarea se va realiza direct pe teritoriu, la o poziție aleatorie aleasă de server.
-* În cazul acestui tip de war, principalul obiectiv este acela de a obține cât mai multe killuri, death-urile fiind nesemnificative în declararea gang-ului câștigător. Așadar, gangul care va câștiga teritoriul va fi acela al cărui membrii însumează cel mai mare număr de killuri.
-* De asemenea, cel mai bun membru din war (best) va fi acela cu cele mai multe killuri, iar cel mai slab membru din war (worst) va fi acela cu cele mai puține killuri
-* După încheierea war-ului, toti membrii sunt respawnați, iar 10 secunde mai târziu se vor afișa statisticile war-ului sub forma de tabela<sup>*2*</sup>.
-* Membrii gangului câștigător vor fi premiați cu un nou achievement numărabil, care poate fi obținut la fiecare victorie de acest tip.
+Note 2: This addiction can be reduced at the Los Santos city hospital using the /rehab command.
 
-## Alliance War
-### Defasurare si informatii
-*Acest tip de war se desfășoară în fiecare zi de duminică, între orele 20:00-21:00, teritoriul este situat in afara orașelor și are forma unui tricolor, afișând culorile celor 3 ganguri care au format alianța câștigătoare.
-*Alianțele sunt formate complet aleatoriu atunci când warul incepe, formând 3 alianțe a câte 3 ganguri fiecare.
-*Membrii participanți la acest tip de war pot părăsi teritoriul, însă nu pot cauza damage celorlalți gangsteri în afara acestuia sau din afara acestuia.
-*Fiecare alianță își are punctele de respawn în afara teritoriului, la colțuri opuse și distanțe egale.
-*În cazul acestui tip de war, principalul obiectiv este acela de a obține cât mai multe killuri, având cât mai puține death-uri, toate statisticile rezultând din împărțirea numărului de killuri la numărul de death-uri (denumit KDR).
-*Alianța câștigătoare este aceea care are o medie aritmetică a KDR-ului cât mai mare, prin urmare toate gangurile din alianță trebuie să aibă scoruri cât mai bune, deoarece un KDR slab al unui gang va trage în jos întreaga alianță.
-*Gangurile aflate în aceeași alianță pot comunica între ele utilizând comanda /gc.
-*Liderii gangurilor pot schimba rank-ul minim necesar pentru utilizarea comenzii /gc prin utilizarea comenzii /setgc.
-*După încheierea war-ului, toti membrii sunt respawnați, iar 10 secunde mai târziu se vor afișa statisticile war-ului sub forma de tabela.
-*Membrii gangurilor alianței câștigătoare vor fi premiați cu un nou achievement numărabil, care poate fi obținut la fiecare victorie de acest tip.
+Note 3: Find out more details by accessing the Drugs page.
 
-## Informatii generale cu privire la warurile speciale
-### Generalitati
-* A fost adăugat un nou titlu denumit "best killstreak", care va fi deținut de gangsterul care reușește să omoare cei mai mulți adversari fără să fie omorât.
-* În timpul war-urilor, gangsterii vor vizualiza statistici diverse în partea dreaptă-jos a ecranului, actualizate în timp real.
-* Pentru a ajunge pe teritoriul special, se va proceda ca în cazul war-urilor normale (prin părăsirea HQ-ului), moment în care veți avea de ales între a ieși în afara HQ-ului ca de obicei, sau a fi teleportați la locația war-ului.
-* Aceste tipuri de war-uri se desfășoară pe o durată de 60 de minute.
-* De fiecare dată când un gangster moare pe teritoriu, va fi plasat spectator asupra jucătorului care l-a omorât timp de 10 secunde și abia apoi respawnat.
-* Atunci când intrați în war, vi se vor prezenta aliații și adversarii prin mesaje în chat.
-* Aliații (cei cărora nici nu le puteți cauza damage) vor fi afișați pe radar prin culoarea verde, iar inamicii prin culoarea roșu.
-* Acest tip de war utilizează arme gratuite, pe care le puteți obține utilizând comanda /guns (prin dialoguri succesive veți alege arma principala și arma secundară). De asemenea, la fiecare respawn veți primi ultimele două arme selectate.
-* Cele două tipuri de waruri sunt **OPȚIONALE**, membrii nefiind obligati sa participe, este lipsit de orice tip de vehicule și se desfășoară într-un virtual-world unic.
-* Dacă din diverse motive un war este întrerupt (nefinalizat), statisticile acestuia se vor șterge.
+### Top Gangs
 
+* Monthly turfs will be reset on the last Saturday of that month and the first two gangs with the most territories will be rewarded with gold, as follows:
+    * 1st place will receive **10440 Gold** which will be automatically distributed to all rank 1-6 members in the faction, including the leader.
+    * 2nd place will receive **7800 Gold** which will be distributed the same way.
+* In case of a tie, the tiebreaker will be made based on the number of wars won, and if it's still a tie, the winner will be chosen randomly.
 
-### Distribuirea armelor
-* Spre deosebire de warurile clasice, unde armele sunt comandate la HQ prin intermediul comenzii */order*, in warurile de suprematie, armele sunt procurate cu ajutorul comenzii */guns*, care odata actionata va genera dialoguri succesive prin care jucatorul isi va putea alege prima, respectiv cea de-a doua arma (primary & secondary).
-* Dupa deces, jucatorul va fi respawnat cu ultimele doua arme comandate folosind comanda */guns*.
-* Pentru a schimba armele, jucatorul poate actiona comanda */guns* si alegandu-si noile arme prin acelasi tip de dialog succesiv.
+### Commands frequently used during wars
 
-### Comenzile disponibile
+### /order
+
+The command is used by server gangsters to order a certain weapon package (weapon packages are available depending on the gangster's rank). A single parameter is used to complete the command, the ID of the weapon package.
+
+*Note: There are a total of 4 weapon packages. Usage example: /order 2.*
+
 ### /turfs
-Această comandă este disponibilă pentru toți jucătorii serverelor RPG, însă cel mai des este utilizată de către gangsteri. Comanda în sine afișează atât pe mini-radar cât și pe întreaga hartă din meniul jocului (ESC-MAP), teritoriile colorate în funcție de culoarea gangului care îl deține. În timpul războaielor între gangsteri, folosirea comenzii /turfs arată gangsterii implicați drept puncte pe hartă, colorate în funcție de echipa din care fac parte.
+
+This command is available to all RPG server players, but is most often used by gangsters. The command itself displays both on the mini-radar and on the entire map from the game menu (ESC-MAP), the territories colored according to the color of the gang that holds it. During wars between gangsters, using the /turfs command shows the involved gangsters as points on the map, colored according to the team they belong to.
 
 ### /fvr
-Utilizarea comenzii are ca efect respawnarea vehiculelor neocupate ale facțiunii. Este o comandă extrem de utilizată în timpul warurilor.
+
+Using the command has the effect of respawning unoccupied faction vehicles. It is a command extremely used during wars.
 
 ### /f
-Comanda transmite un mesaj către chatul facţiunii din care faceţi parte (doar în cazul în care faceţi parte din una). Comanda este prezentă la toate facţiunile exceptând departamentele de poliţie unde se foloseste /r.
-*Exemplu: "/f mesaj"*
 
-### /guns
-Comanda genereaza un dialog succesiv prin care jucatorii isi pot comanda arme (pe rand, primary si secondary) in timpul war-urilor de suprematie.
+The command sends a message to the chat of the faction you belong to (only if you belong to one). The command is present in all factions except police departments where /r is used.
 
-### /score
-Utilizând comanda /score se poate obține o listă a statisticilor gang-urilor, ordonate descrescător.
+*Example: "/f message"*
 
-### /top
-Comanda /top va afișa numele gang-urilor care dețin teritoriile pentru cele 2 noi tipuri de war-uri.
+## Special wars
 
-### /leavewar
-Pentru a părăsi runda de war se poate utiliza aceasta comanda, însă timp de 3 minute nu veți mai putea re-intra.
+### Deathmatch War
+
+#### Conduct and information
+
+* This type of war takes place every Saturday, between 20:00-21:00, the territory is located outside the cities<sup>*1*</sup> and has the color of the winning gang.
+* Members located on the deathmatch territory are locked inside it and cannot leave it.
+* Respawning will take place directly on the territory, at a random position chosen by the server.
+* In the case of this type of war, the main objective is to obtain as many kills as possible, deaths being insignificant in declaring the winning gang. Therefore, the gang that will win the territory will be the one whose members add up the highest number of kills.
+* Also, the best member in the war (best) will be the one with the most kills, and the weakest member in the war (worst) will be the one with the fewest kills
+* After the war ends, all members are respawned, and 10 seconds later the war statistics will be displayed in table form<sup>*2*</sup>.
+* Members of the winning gang will be rewarded with a new countable achievement, which can be obtained with each victory of this type.
+
+### Alliance War
+
+#### Conduct and information
+
+* This type of war takes place every Sunday, between 20:00-21:00, the territory is located outside the cities and has the shape of a tricolor, displaying the colors of the 3 gangs that formed the winning alliance.
+* Alliances are formed completely randomly when the war starts, forming 3 alliances of 3 gangs each.
+* Participating members in this type of war can leave the territory, but cannot cause damage to other gangsters outside of it or from outside of it.
+* Each alliance has its respawn points outside the territory, at opposite corners and equal distances.
+* In the case of this type of war, the main objective is to obtain as many kills as possible, having as few deaths as possible, all statistics resulting from dividing the number of kills by the number of deaths (called KDR).
+* The winning alliance is the one that has the highest arithmetic mean of KDR, therefore all gangs in the alliance must have the best possible scores, because a weak KDR of one gang will drag down the entire alliance.
+* Gangs in the same alliance can communicate with each other using the /gc command.
+* Gang leaders can change the minimum rank required to use the /gc command by using the /setgc command.
+* After the war ends, all members are respawned, and 10 seconds later the war statistics will be displayed in table form.
+* Members of the gangs in the winning alliance will be rewarded with a new countable achievement, which can be obtained with each victory of this type.
+
+### General information regarding special wars
+
+#### Generalities
+
+* A new title called "best killstreak" has been added, which will be held by the gangster who manages to kill the most opponents without being killed.
+* During wars, gangsters will view various statistics in the bottom-right of the screen, updated in real time.
+* To reach the special territory, you will proceed as in the case of normal wars (by leaving the HQ), at which point you will have to choose between leaving outside the HQ as usual, or being teleported to the war location.
+* These types of wars take place over a duration of 60 minutes.
+* Every time a gangster dies on the territory, they will be placed as a spectator on the player who killed them for 10 seconds and only then respawned.
+* When you enter the war, allies and opponents will be presented to you through chat messages.
+* Allies (those you cannot damage) will be displayed on the radar in green, and enemies in red.
+* This type of war uses free weapons, which you can obtain using the /guns command (through successive dialogues you will choose the main weapon and secondary weapon). Also, at each respawn you will receive the last two selected weapons.
+* Both types of wars are **OPTIONAL**, members are not required to participate, they are devoid of any type of vehicles and take place in a unique virtual-world.
+* If for various reasons a war is interrupted (unfinished), its statistics will be deleted.
 
 
-# Legături externe
-[**Pagina warurilor** RPG.B-ZONE.RO](http://www.rpg.b-zone.ro/wars)
-[**Pagina warurilor** RPG2.B-ZONE.RO](http://www.rpg2.b-zone.ro/wars)
+#### Weapon distribution
+
+* Unlike classic wars, where weapons are ordered at HQ through the */order* command, in supremacy wars, weapons are obtained using the */guns* command, which once activated will generate successive dialogues through which the player can choose the first and second weapon (primary & secondary).
+* After death, the player will be respawned with the last two weapons ordered using the */guns* command.
+* To change weapons, the player can activate the */guns* command and choose the new weapons through the same type of successive dialogue.
+
+### Available commands
+#### /turfs
+This command is available to all RPG server players, but is most often used by gangsters. The command itself displays both on the mini-radar and on the entire map from the game menu (ESC-MAP), the territories colored according to the color of the gang that holds it. During wars between gangsters, using the /turfs command shows the involved gangsters as points on the map, colored according to the team they belong to.
+
+#### /fvr
+Using the command has the effect of respawning unoccupied faction vehicles. It is a command extremely used during wars.
+
+#### /f
+The command sends a message to the chat of the faction you belong to (only if you belong to one). The command is present in all factions except police departments where /r is used.
+
+*Example: "/f message"*
+
+#### /guns
+The command generates a successive dialogue through which players can order weapons (in turn, primary and secondary) during supremacy wars.
+
+#### /score
+Using the /score command you can obtain a list of gang statistics, ordered in descending order.
+
+#### /top
+The /top command will display the names of the gangs that hold the territories for the 2 new types of wars.
+
+#### /leavewar
+To leave the war round you can use this command, but for 3 minutes you will not be able to re-enter.
+
+## External links
+[**Wars page**](http://www.rpg.b-zone.ro/wars)

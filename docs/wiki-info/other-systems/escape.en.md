@@ -1,27 +1,32 @@
+# Escape
+
 <figure markdown="span">
-  ![Un deţinut care încearcă să evadeze](/images/wiki/general/escape_photo.png){ width="450" }
-  <figcaption>Un deţinut care încearcă să evadeze</figcaption>
+  ![A prisoner trying to escape](/images/wiki/general/escape_photo.png){ width="450" }
+  <figcaption>A prisoner trying to escape</figcaption>
 </figure>
-Dacă posibilitatea de a ajunge la închisoare este atât de mare și tentațiile de a comite infracțiuni sunt la orice pas, comunitatea B-Zone vă pune la dispoziție un sistem RPG pentru a reuși să evadați din închisoare. Toate detaliile pe care trebuie să le cunoașteți înainte să începeți acest proces riscant pe unul dintre serverele B-Zone RPG, se află mai jos, în această pagină.
+
+If the possibility of ending up in prison is so high and the temptations to commit crimes are at every step, the B-Zone community will provide you with an RPG system to be able to escape from prison. All the details you need to know before starting this risky process on one of the B-Zone RPG servers can be found below on this page.
 
 
-# Caracteristici generale
-*Se vor forma echipe a maxim 6 puşcăriaşi, echipe ce se pot forma doar în curtea închisorii. Fiecare membru al echipei trebuie să aibă cel puţin 20 de puncte de evadare pentru a putea fi invitat / pentru a crea o echipă (lider). 
-*Membrii echipei vor pierde 10 puncte de evadare la crearea echipei şi încă 10 în momentul în care reuşesc să evadeze. 
-*Jucătorii fără cont premium vor putea avea 20 de puncte de evadare, iar jucătorii cu cont premium au limita setată la 40. 
-*La fiecare payday se primeşte un punct de evadare, excepţie poliţiştii. 
-*Poliţiştii aflaţi în apropiere (15 metri) vor fi alertaţi imediat dacă se foloseşte comanda /hit, iar membrii grupului vor ajunge în închisoare. 
-*Un membru poate părăsi grupul dacă reintră din curte în interiorul închisorii, dacă primeşte /punish sau dacă iese de pe server.
-*În curtea închisorii pot exista maxim 4 membrii National Guard în același timp.
-*În curtea închisorii va fi cateva secunde zi (de la intrarea in aceasta), după care este în permanență noapte.
-*Evadările din închisoare vor genera alarme specifice. Alarma va putea fi auzită de toți jucătorii din interiorul jail-ului/curții jail-ului. Aceasta se va declanșa în momentul în care fugarii primesc wanted pentru evadare și se va opri 1 minut mai tarziu.
-*Puteți raporta un deținut care vrea să evadeze folosind comanda /snitch iar vouă vi se va înjumătăți pedeapsa.
+## General characteristics
 
-# Cum evadezi?
-*Echipele se vor crea prin comanda /escape. 
-*Odată formată o echipă, liderul echipei (cel care a invitat prima dată pe cineva în echipă), va trebui să găsească un gard liber. 
-*Gardurile vor fi marcate cu un text şi se află la marginea curţii. 
-*Odată găsit un gard, trebuie folosită comanda /hit pentru a îl putea rupe şi evada. 
-*Când gardul este redus la 0 rezistenţă (iniţial având 100, iar un /hit scăzând 3), membrii grupului vor ieşi pe rând, la un interval de 5 secunde. 
-*La un minut după spargerea gardului, toţi membrii grupării vor primi wanted 6. 
-*Ei trebuie să ajungă la un magazin de îmbrăcăminte fără să moară sau să fie prinşi de poliţie şi să folosească /clothes pentru a scăpa de wanted şi pentru a termina evadarea.
+* Teams of up to 6 prisoners will be formed, teams that can only be formed in the prison yard. Each team member must have at least 20 escape points to be invited / to create a team (leader).
+* Team members will lose 10 escape points when creating the team and another 10 when they manage to escape.
+* Players without premium accounts can have 20 escape points, while players with premium accounts have the limit set to 40.
+* At each payday, one escape point is received, except for police officers.
+* Police officers nearby (15 meters) will be alerted immediately if the /hit command is used, and group members will end up in prison.
+* A member can leave the group if they re-enter the prison interior from the yard, if they receive /punish or if they leave the server.
+* There can be a maximum of 4 National Guard members in the prison yard at the same time.
+* The prison yard will be daytime for a few seconds (from entering it), after which it is permanently night.
+* Prison escapes will generate specific alarms. The alarm can be heard by all players inside the jail/jail yard. It will trigger when the fugitives receive wanted for escape and will stop 1 minute later.
+* You can report a prisoner who wants to escape using the /snitch command and your sentence will be halved.
+
+## How do you escape?
+
+* Teams will be created through the /escape command.
+* Once a team is formed, the team leader (the one who first invited someone to the team) will have to find a free fence.
+* The fences will be marked with text and are located at the edge of the yard.
+* Once a fence is found, the /hit command must be used to break it and escape.
+* When the fence is reduced to 0 resistance (initially having 100, and one /hit reducing 3), group members will exit one by one, at an interval of 5 seconds.
+* One minute after breaking the fence, all group members will receive wanted 6.
+* They must reach a clothing store without dying or being caught by the police and use /clothes to get rid of wanted and finish the escape.
