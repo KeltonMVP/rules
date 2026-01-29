@@ -36,8 +36,8 @@ Sediul jobului de unde va puteti angaja se afla in estul orasului Los Santos. Un
 - Skill 4 - Aproximativ $1423 fara bonusuri. *Timpul mediu pentru terminarea unei curse este de 91 secunde.*
 - Skill 5 - Aproximativ $1573 fara bonusuri. *Timpul mediu pentru terminarea unei curse este de 91 secunde.*
 
-**De retinut:**  
-Plata de mai sus este aproximativa si nu include bonusul de cont premium sau alte bonusuri active pe cont.  
+**De retinut:**
+Plata de mai sus este aproximativa si nu include bonusul de cont premium sau alte bonusuri active pe cont.
 Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 
 ## Curse necesare pentru avansare in skill
@@ -54,7 +54,7 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 ### Benson
 
 <figure markdown="span">
-  ![Benson](/images/wiki/general/499.png){ width="250" }
+  ![Benson](/images/wiki/vehicles/499.png){ width="250" }
   <figcaption>Benson</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 ### Berkley's RC Van
 
 <figure markdown="span">
-  ![Berkley's RC Van](/images/wiki/general/459.png){ width="250" }
+  ![Berkley's RC Van](/images/wiki/vehicles/459.png){ width="250" }
   <figcaption>Berkley's RC Van</figcaption>
 </figure>
 

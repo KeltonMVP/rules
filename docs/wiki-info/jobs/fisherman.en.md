@@ -30,66 +30,66 @@
 
 ## Success Chances Based on Skill
 
-* '''Skill 1 - '''100% Tier 1 fish.
-* '''Skill 2 - '''20% Tier 1 fish | 80% Tier 2 fish.
-* '''Skill 3 - '''10% Tier 1 fish | 20% Tier 2 fish | 70% Tier 3 fish.
-* '''Skill 4 - '''5% Tier 1 fish | 10% Tier 2 fish | 25% Tier 3 fish | 60% Tier 4 fish.
-* '''Skill 5 - '''5% Tier 1 fish | 5% Tier 2 fish | 10% Tier 3 fish | 20% Tier 4 fish | 60% Tier 5 fish.
-* '''Skill 6 - '''3% Tier 1 fish | 5% Tier 2 fish | 10% Tier 3 fish | 15% Tier 4 fish | 25% Tier 5 fish | 42% Tier 6 fish.
-* '''Skill 7 - '''3% Tier 1 fish | 4% Tier 2 fish | 8% Tier 3 fish | 12% Tier 4 fish | 18% Tier 5 fish | 25% Tier 6 fish | 30% Tier 7 fish.
-* '''Skill 8 - '''2% Tier 1 fish | 3% Tier 2 fish | 6% Tier 3 fish | 9% Tier 4 fish | 15% Tier 5 fish | 20% Tier 6 fish | 25% Tier 7 fish | 20% Tier 8 fish.
-* '''Skill 9 - '''1% Tier 1 fish | 2% Tier 2 fish | 4% Tier 3 fish | 7% Tier 4 fish | 12% Tier 5 fish | 18% Tier 6 fish | 25% Tier 7 fish | 31% Tier 8 fish.
-* '''Skill 10 - '''1% Tier 1 fish | 2% Tier 2 fish | 3% Tier 3 fish | 6% Tier 4 fish | 10% Tier 5 fish | 15% Tier 6 fish | 22% Tier 7 fish | 41% Tier 8 fish.
+* *Skill 1 - *100% Tier 1 fish.
+* *Skill 2 - *20% Tier 1 fish | 80% Tier 2 fish.
+* *Skill 3 - *10% Tier 1 fish | 20% Tier 2 fish | 70% Tier 3 fish.
+* *Skill 4 - *5% Tier 1 fish | 10% Tier 2 fish | 25% Tier 3 fish | 60% Tier 4 fish.
+* *Skill 5 - *5% Tier 1 fish | 5% Tier 2 fish | 10% Tier 3 fish | 20% Tier 4 fish | 60% Tier 5 fish.
+* *Skill 6 - *3% Tier 1 fish | 5% Tier 2 fish | 10% Tier 3 fish | 15% Tier 4 fish | 25% Tier 5 fish | 42% Tier 6 fish.
+* *Skill 7 - *3% Tier 1 fish | 4% Tier 2 fish | 8% Tier 3 fish | 12% Tier 4 fish | 18% Tier 5 fish | 25% Tier 6 fish | 30% Tier 7 fish.
+* *Skill 8 - *2% Tier 1 fish | 3% Tier 2 fish | 6% Tier 3 fish | 9% Tier 4 fish | 15% Tier 5 fish | 20% Tier 6 fish | 25% Tier 7 fish | 20% Tier 8 fish.
+* *Skill 9 - *1% Tier 1 fish | 2% Tier 2 fish | 4% Tier 3 fish | 7% Tier 4 fish | 12% Tier 5 fish | 18% Tier 6 fish | 25% Tier 7 fish | 31% Tier 8 fish.
+* *Skill 10 - *1% Tier 1 fish | 2% Tier 2 fish | 3% Tier 3 fish | 6% Tier 4 fish | 10% Tier 5 fish | 15% Tier 6 fish | 22% Tier 7 fish | 41% Tier 8 fish.
 
 ## Failure Chances Based on Skill
 
-* '''Skill 1 - '''10% chance to catch waste.
-* '''Skill 2 - '''9% chance to catch waste.
-* '''Skill 3 - '''8% chance to catch waste.
-* '''Skill 4 - '''7% chance to catch waste.
-* '''Skill 5 - '''6% chance to catch waste.
-* '''Skill 6 - '''5% chance to catch waste.
-* '''Skill 7 - '''4% chance to catch waste.
-* '''Skill 8 - '''3% chance to catch waste.
-* '''Skill 9 - '''2% chance to catch waste.
-* '''Skill 10 - '''1% chance to catch waste.
+* *Skill 1 - *10% chance to catch waste.
+* *Skill 2 - *9% chance to catch waste.
+* *Skill 3 - *8% chance to catch waste.
+* *Skill 4 - *7% chance to catch waste.
+* *Skill 5 - *6% chance to catch waste.
+* *Skill 6 - *5% chance to catch waste.
+* *Skill 7 - *4% chance to catch waste.
+* *Skill 8 - *3% chance to catch waste.
+* *Skill 9 - *2% chance to catch waste.
+* *Skill 10 - *1% chance to catch waste.
 
 ## Base Earnings for Each Tier
 
-* '''Tier 1 Fish -''' $38 
-* '''Tier 2 Fish -''' $76
-* '''Tier 3 Fish -''' $114
-* '''Tier 4 Fish -''' $152
-* '''Tier 5 Fish -''' $190
-* '''Tier 6 Fish -''' $228
-* '''Tier 7 Fish -''' $266
-* '''Tier 8 Fish -''' $304
+* *Tier 1 Fish -* $38
+* *Tier 2 Fish -* $76
+* *Tier 3 Fish -* $114
+* *Tier 4 Fish -* $152
+* *Tier 5 Fish -* $190
+* *Tier 6 Fish -* $228
+* *Tier 7 Fish -* $266
+* *Tier 8 Fish -* $304
 
-'''Note: '''These amounts are the base amounts, without any bonus applied! 
+*Note: *These amounts are the base amounts, without any bonus applied!
 
 ## Inventory Space Occupied for Each Tier
 
-* '''Tier 1 Fish -''' 6 KG.
-* '''Tier 2 Fish -''' 7 KG.
-* '''Tier 3 Fish -''' 8 KG.
-* '''Tier 4 Fish -''' 9 KG.
-* '''Tier 5 Fish -''' 10 KG.
-* '''Tier 6 Fish -''' 11 KG.
-* '''Tier 7 Fish -''' 12 KG.
-* '''Tier 8 Fish -''' 15 KG.
+* *Tier 1 Fish -* 6 KG.
+* *Tier 2 Fish -* 7 KG.
+* *Tier 3 Fish -* 8 KG.
+* *Tier 4 Fish -* 9 KG.
+* *Tier 5 Fish -* 10 KG.
+* *Tier 6 Fish -* 11 KG.
+* *Tier 7 Fish -* 12 KG.
+* *Tier 8 Fish -* 15 KG.
 
 ## Inventory Limit Based on Skill
 
-* '''Skill 1 -''' you have a capacity of 200 KG available.
-* '''Skill 2 -''' you have a capacity of 350 KG available.
-* '''Skill 3 -''' you have a capacity of 500 KG available.
-* '''Skill 4 -''' you have a capacity of 650 KG available.
-* '''Skill 5 -''' you have a capacity of 800 KG available.
-* '''Skill 6 -''' you have a capacity of 950 KG available.
-* '''Skill 7 -''' you have a capacity of 1100 KG available.
-* '''Skill 8 -''' you have a capacity of 1250 KG available.
-* '''Skill 9 -''' you have a capacity of 1400 KG available.
-* '''Skill 10 -''' you have a capacity of 1550 KG available.
+* *Skill 1 -* you have a capacity of 200 KG available.
+* *Skill 2 -* you have a capacity of 350 KG available.
+* *Skill 3 -* you have a capacity of 500 KG available.
+* *Skill 4 -* you have a capacity of 650 KG available.
+* *Skill 5 -* you have a capacity of 800 KG available.
+* *Skill 6 -* you have a capacity of 950 KG available.
+* *Skill 7 -* you have a capacity of 1100 KG available.
+* *Skill 8 -* you have a capacity of 1250 KG available.
+* *Skill 9 -* you have a capacity of 1400 KG available.
+* *Skill 10 -* you have a capacity of 1550 KG available.
 
 ## Inventory System
 
@@ -100,27 +100,27 @@
 ## Equipment System
 
 * Players will be able to equip special fishing equipment such as: Hat, Suit, Boots, Rod and Bait, using the command [''/jobinventory''].
-* Equipment can be purchased from any 24/7 type store using the command [''/buy''] -> '''Fisherman Gear'''.
+* Equipment can be purchased from any 24/7 type store using the command [''/buy''] -> *Fisherman Gear*.
 * Players can choose the 'Buy All Gear' option to simultaneously purchase all equipment possible for their skill.
-* **'''Hat:''' Tier 1 - '''$100''' | Tier 2 - '''$150''' | Tier 3 - '''$200''' | Tier 4 - '''$250''' | Tier 5 - '''$300''' | Tier 6 - '''$350''' | Tier 7 - '''$400''' | Tier 8 - '''$450'''.
-* **'''Suit:''' Tier 1 - '''$130''' | Tier 2 - '''$180''' | Tier 3 - '''$230''' | Tier 4 - '''$280''' | Tier 5 - '''$330''' | Tier 6 - '''$380''' | Tier 7 - '''$430''' | Tier 8 - '''$480'''.
-* **'''Boots:''' Tier 1 - '''$110''' | Tier 2 - '''$1600''' | Tier 3 - '''$210''' | Tier 4 - '''$260''' | Tier 5 - '''$310''' | Tier 6 - '''$360''' | Tier 7 - '''$410''' | Tier 8 - '''$460'''.
-* **'''Rod:''' Tier 1 - '''$200''' | Tier 2 - '''$250''' | Tier 3 - '''$300''' | Tier 4 - '''$350''' | Tier 5 - '''$400''' | Tier 6 - '''$450''' | Tier 7 - '''$500''' | Tier 8 - '''$550'''.
-* **'''Bait:''' Tier 1 - '''$50''' | Tier 2 - '''$60''' | Tier 3 - '''$70''' | Tier 4 - '''$80''' | Tier 5 - '''$90''' | Tier 6 - '''$100''' | Tier 7 - '''$110''' | Tier 8 - '''$120'''.
-* Players will be able to purchase only equipment that is '''equal to or lower than their current fishing skill level'''.
+* ***Hat:* Tier 1 - *$100* | Tier 2 - *$150* | Tier 3 - *$200* | Tier 4 - *$250* | Tier 5 - *$300* | Tier 6 - *$350* | Tier 7 - *$400* | Tier 8 - *$450*.
+* ***Suit:* Tier 1 - *$130* | Tier 2 - *$180* | Tier 3 - *$230* | Tier 4 - *$280* | Tier 5 - *$330* | Tier 6 - *$380* | Tier 7 - *$430* | Tier 8 - *$480*.
+* ***Boots:* Tier 1 - *$110* | Tier 2 - *$1600* | Tier 3 - *$210* | Tier 4 - *$260* | Tier 5 - *$310* | Tier 6 - *$360* | Tier 7 - *$410* | Tier 8 - *$460*.
+* ***Rod:* Tier 1 - *$200* | Tier 2 - *$250* | Tier 3 - *$300* | Tier 4 - *$350* | Tier 5 - *$400* | Tier 6 - *$450* | Tier 7 - *$500* | Tier 8 - *$550*.
+* ***Bait:* Tier 1 - *$50* | Tier 2 - *$60* | Tier 3 - *$70* | Tier 4 - *$80* | Tier 5 - *$90* | Tier 6 - *$100* | Tier 7 - *$110* | Tier 8 - *$120*.
+* Players will be able to purchase only equipment that is *equal to or lower than their current fishing skill level*.
 * Players cannot purchase duplicate equipment of the same type and level.
 * Players can purchase up to 20 baits per level. This means that a player with maximum fishing skill level can carry 160 baits simultaneously.
 * Each piece of special fishing equipment comes in 8 levels. Higher level equipment offers an increased chance to catch higher tier fish and a lower chance to catch waste.
-* **'''Tier 1 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+3% chance''' increase, up to a maximum of '''+15% chance''' when fully equipped.
-* **'''Tier 2 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+4% chance''' increase, up to a maximum of '''+20% chance''' when fully equipped.
-* **'''Tier 3 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+5% chance''' increase, up to a maximum of '''+25% chance''' when fully equipped.
-* **'''Tier 4 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+6% chance''' increase, up to a maximum of '''+30% chance''' when fully equipped.
-* **'''Tier 5 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+7% chance''' increase, up to a maximum of '''+35% chance''' when fully equipped.
-* **'''Tier 6 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+8% chance''' increase, up to a maximum of '''+40% chance''' when fully equipped.
-* **'''Tier 7 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+9% chance''' increase, up to a maximum of '''+45% chance''' when fully equipped.
-* **'''Tier 8 Equipment:''' Each item (Hat, Suit, Boots, Rod and Bait) offers a '''+10% chance''' increase, up to a maximum of '''+50% chance''' when fully equipped.
+* ***Tier 1 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+3% chance* increase, up to a maximum of *+15% chance* when fully equipped.
+* ***Tier 2 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+4% chance* increase, up to a maximum of *+20% chance* when fully equipped.
+* ***Tier 3 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+5% chance* increase, up to a maximum of *+25% chance* when fully equipped.
+* ***Tier 4 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+6% chance* increase, up to a maximum of *+30% chance* when fully equipped.
+* ***Tier 5 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+7% chance* increase, up to a maximum of *+35% chance* when fully equipped.
+* ***Tier 6 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+8% chance* increase, up to a maximum of *+40% chance* when fully equipped.
+* ***Tier 7 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+9% chance* increase, up to a maximum of *+45% chance* when fully equipped.
+* ***Tier 8 Equipment:* Each item (Hat, Suit, Boots, Rod and Bait) offers a *+10% chance* increase, up to a maximum of *+50% chance* when fully equipped.
 * All equipment has a certain durability, starting at 100% when purchased. Each time a fish is caught, the equipment's durability decreases depending on the fish level. Once an item reaches 0% durability it breaks and bonuses are no longer applied.
-* Its durability can be repaired by choosing the 'Repair Gear' option in a 24/7 type store for the price of '''$100 EACH''' at the time of equipment purchase.
+* Its durability can be repaired by choosing the 'Repair Gear' option in a 24/7 type store for the price of *$100 EACH* at the time of equipment purchase.
 * Only equipment whose durability is below 80% can be repaired.
 * The server will automatically equip the highest level bait available from inventory. Other equipment (Hat, Suit, Boots, Rod) must be equipped manually by the player.
 * Players can track in real time the durability of each piece of fishing equipment from the inventory interface [''/jobinventory''].
@@ -212,29 +212,29 @@ There are 9 fishing zones at sea, 3 for each main city: Los Santos, San Fierro a
 
 ## Skill Advancement
 
-* Skill advancement is done at a certain number of accumulated points calculated with the following formula: ''''number_of_points'''' = ''Tier_XP_Factor'' x ''Fish_Quantity''.
+* Skill advancement is done at a certain number of accumulated points calculated with the following formula: *'number_of_points*' = ''Tier_XP_Factor'' x ''Fish_Quantity''.
 * The XP factor of each tier is as follows:
-    * '''Tier 1 Fish -''' factor = '''0.1'''.
-    * '''Tier 2 Fish -''' factor = '''0.2'''.
-    * '''Tier 3 Fish -''' factor = '''0.2'''.
-    * '''Tier 4 Fish -''' factor = '''0.3'''.
-    * '''Tier 5 Fish -''' factor = '''0.3'''.
-    * '''Tier 6 Fish -''' factor = '''0.4'''.
-    * '''Tier 7 Fish -''' factor = '''0.5'''.
-    * '''Tier 8 Fish -''' factor = '''0.6'''.
-    * Specifically, let's say we have 5 tier 5 fish in inventory, the skill points we receive will be calculated as follows: '''5 x 0.5 = 2.5''' => '''3 skill points'''.
-    * '''If the number of points you obtain from the calculation is 0, you will receive 1 skill point.'''
+    * *Tier 1 Fish -* factor = *0.1*.
+    * *Tier 2 Fish -* factor = *0.2*.
+    * *Tier 3 Fish -* factor = *0.2*.
+    * *Tier 4 Fish -* factor = *0.3*.
+    * *Tier 5 Fish -* factor = *0.3*.
+    * *Tier 6 Fish -* factor = *0.4*.
+    * *Tier 7 Fish -* factor = *0.5*.
+    * *Tier 8 Fish -* factor = *0.6*.
+    * Specifically, let's say we have 5 tier 5 fish in inventory, the skill points we receive will be calculated as follows: *5 x 0.5 = 2.5* => *3 skill points*.
+    * *If the number of points you obtain from the calculation is 0, you will receive 1 skill point.*
     * <span style="color:#8B0000;font-weight:bold;">The same number of points also applies to marathon points or clan xp</span>.
 * Points required for advancement are as follows:
-    * Skill 1 '''>>''' Skill 2: 50 points. (50 total)
-    * Skill 2 '''>>''' Skill 3: 100 points. (150 total)
-    * Skill 3 '''>>''' Skill 4: 200 points. (350 total)
-    * Skill 4 '''>>''' Skill 5: 400 points. (750 total)
-    * Skill 5 '''>>''' Skill 6: 750 points. (1500 total)
-    * Skill 6 '''>>''' Skill 7: 1500 points. (3000 total)
-    * Skill 7 '''>>''' Skill 8: 2000 points. (5000 total)
-    * Skill 8 '''>>''' Skill 9: 3000 points. (8000 total)
-    * Skill 9 '''>>''' Skill 10: 3000 points. (11000 total)
+    * Skill 1 *>>* Skill 2: 50 points. (50 total)
+    * Skill 2 *>>* Skill 3: 100 points. (150 total)
+    * Skill 3 *>>* Skill 4: 200 points. (350 total)
+    * Skill 4 *>>* Skill 5: 400 points. (750 total)
+    * Skill 5 *>>* Skill 6: 750 points. (1500 total)
+    * Skill 6 *>>* Skill 7: 1500 points. (3000 total)
+    * Skill 7 *>>* Skill 8: 2000 points. (5000 total)
+    * Skill 8 *>>* Skill 9: 3000 points. (8000 total)
+    * Skill 9 *>>* Skill 10: 3000 points. (11000 total)
 
 ## Fishing City of the Day
 

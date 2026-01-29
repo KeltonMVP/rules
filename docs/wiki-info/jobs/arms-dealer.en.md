@@ -36,8 +36,8 @@ The job headquarters where you can get hired is located in the east of Los Santo
 - Skill 4 - Approximately $1423 without bonuses. *Average time to complete a route is 91 seconds.*
 - Skill 5 - Approximately $1573 without bonuses. *Average time to complete a route is 91 seconds.*
 
-**Please note:**  
-The payment above is approximate and does not include the premium account bonus or other active bonuses on the account.  
+**Please note:**
+The payment above is approximate and does not include the premium account bonus or other active bonuses on the account.
 Players with premium accounts receive 50% more than the base job payment.
 
 ## Routes required to advance in skill
@@ -54,7 +54,7 @@ Players with premium accounts receive 50% more than the base job payment.
 ### Benson
 
 <figure markdown="span">
-  ![Benson](/images/wiki/general/499.png){ width="250" }
+  ![Benson](/images/wiki/vehicles/499.png){ width="250" }
   <figcaption>Benson</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Players with premium accounts receive 50% more than the base job payment.
 ### Berkley's RC Van
 
 <figure markdown="span">
-  ![Berkley's RC Van](/images/wiki/general/459.png){ width="250" }
+  ![Berkley's RC Van](/images/wiki/vehicles/459.png){ width="250" }
   <figcaption>Berkley's RC Van</figcaption>
 </figure>
 

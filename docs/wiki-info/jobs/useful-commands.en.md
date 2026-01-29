@@ -1,12 +1,12 @@
 # Useful Job Commands
 
 <figure markdown="span">
-  ![Jobs list](/images/wiki/general/Jobs list.png){ width="300" }
+  ![Jobs list](/images/wiki/general/Jobs_list.png){ width="300" }
   <figcaption>#1 Jobs list</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Job icon](/images/wiki/general/i_job.jpg){ width="300" }
+  ![Job icon](/images/wiki/general/i_job.jpg){ width="200" }
   <figcaption>#2 Special marker for employment</figcaption>
 </figure>
 

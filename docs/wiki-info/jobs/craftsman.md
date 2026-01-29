@@ -1,4 +1,4 @@
-# Tamplar
+# Mester
 
 <figure markdown="span">
   ![Interfata /craft](/images/wiki/general/Craft.png){ width="500" }
@@ -7,12 +7,12 @@
 
 <figure markdown="span">
   ![Locatie job](/images/wiki/general/Craftmanlocation.png){ width="350" }
-  <figcaption>Locatia jobului Tamplar #2</figcaption>
+  <figcaption>Locatia jobului Mester #2</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Biz Craftsman](/images/wiki/general/Craftsmanbiz.png){ width="450" }
-  <figcaption>Locatia bizului de Tamplar #3</figcaption>
+  <figcaption>Locatia bizului de Mester #3</figcaption>
 </figure>
 
 <figure markdown="span">
@@ -25,7 +25,7 @@
   <figcaption>Interfata comenzii /buy in businessul Craftsman #5</figcaption>
 </figure>
 
-Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de tamplar consta in preluarea materialelor necesare crearii obiectelor de tamplarie, prelucrarea si transportarea acestora catre bizul House Upgrade. Dexteritatea pentru crearea unor obiecte artizanale va fi castigata in timp, capatand mai multa experienta si putand confectiona obiecte de o complexitate si de o valoare mai mare.
+Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de Mester consta in preluarea materialelor necesare crearii obiectelor de Mester, prelucrarea si transportarea acestora catre bizul House Upgrade. Dexteritatea pentru crearea unor obiecte artizanale va fi castigata in timp, capatand mai multa experienta si putand confectiona obiecte de o complexitate si de o valoare mai mare.
 
 ## Caracteristici generale
 
@@ -44,7 +44,7 @@ Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de tamplar consta
     * pentru a obtine *Bumbac* va trebui sa munciti la jobul Farmer (**plantand Cactusi**) si apoi primind bumbacul dupa ce-i culegeti
     * pentru a obtine *Aur* va trebui sa munciti la jobul Miner
     * pentru a obtine *Argint* va trebui sa munciti la jobul Muncitor la Cariera
-* Puteti detine maxim 5 obiecte de tamplarie in acelasi timp, apoi va trebui sa le vindeti daca doriti sa mai creati altele. Acestea se pot vinde si toate deodata.
+* Puteti detine maxim 5 obiecte de Mester in acelasi timp, apoi va trebui sa le vindeti daca doriti sa mai creati altele. Acestea se pot vinde si toate deodata.
 * Exista patru categorii de artizanat, fiecare categorie avand cate cinci obiecte (*scaune, mese, accesorii si usi*).
 * Jobul va aduce 20 XP la maraton daca acesta este activ si 20 XP la clan.
 * Dupa ce reusiti sa inchiriati lucrurile precizate mai sus, va trebui sa faceti rost de materialele necesare pentru a crea obiectul respectiv (*puteti vedea materialele necesare si pe care le aveti prin intermediul comenzii /craft*). Dupa ce faceti rost de materialele necesare, reveniti la locatia jobului, folositi comanda /craft si creati obiectul dorit prin apasarea butonului **CRAFT**. Va trebui sa livrati obiectul manufacturat la bizul House Upgrade (imaginea **#4**), apoi sa reveniti la locatia jobului cu cecul primit de la managerul bizului pentru a va incasa banii.
@@ -260,12 +260,12 @@ Puteti face rost de argint lucrand la Muncitor la Cariera, castigul de argint es
 
 ## Curse necesare pentru avansarea in skill
 
-* Pentru a se efectua trecerea de la skill 1 la skill 2, un tamplar are nevoie de 30 de puncte la skill.
-* Pentru a se efectua trecerea de la skill 2 la skill 3, un tamplar are nevoie de 60 de puncte la skill. (90 in total)
-* Pentru a se efectua trecerea de la skill 3 la skill 4, un tamplar are nevoie de 120 de puncte la skill. (210 in total)
-* Pentru a se efectua trecerea de la skill 4 la skill 5, un tamplar are nevoie de 240 de puncte la skill. (450 in total)
-* Pentru a se efectua trecerea de la skill 5 la skill 6, un tamplar are nevoie de 200 de puncte la skill. (650 in total)
-* Pentru a se efectua trecerea de la skill 6 la skill 7, un tamplar are nevoie de 250 de puncte la skill. (900 in total)
-* Pentru a se efectua trecerea de la skill 7 la skill 8, un tamplar are nevoie de 300 de puncte la skill. (1200 in total)
-* Pentru a se efectua trecerea de la skill 8 la skill 9, un tamplar are nevoie de 350 de puncte la skill. (1550 in total)
-* Pentru a se efectua trecerea de la skill 9 la skill 10, un tamplar are nevoie de 350 de puncte la skill. (1900 in total)
+* Pentru a se efectua trecerea de la skill 1 la skill 2, un Mester are nevoie de 30 de puncte la skill.
+* Pentru a se efectua trecerea de la skill 2 la skill 3, un Mester are nevoie de 60 de puncte la skill. (90 in total)
+* Pentru a se efectua trecerea de la skill 3 la skill 4, un Mester are nevoie de 120 de puncte la skill. (210 in total)
+* Pentru a se efectua trecerea de la skill 4 la skill 5, un Mester are nevoie de 240 de puncte la skill. (450 in total)
+* Pentru a se efectua trecerea de la skill 5 la skill 6, un Mester are nevoie de 200 de puncte la skill. (650 in total)
+* Pentru a se efectua trecerea de la skill 6 la skill 7, un Mester are nevoie de 250 de puncte la skill. (900 in total)
+* Pentru a se efectua trecerea de la skill 7 la skill 8, un Mester are nevoie de 300 de puncte la skill. (1200 in total)
+* Pentru a se efectua trecerea de la skill 8 la skill 9, un Mester are nevoie de 350 de puncte la skill. (1550 in total)
+* Pentru a se efectua trecerea de la skill 9 la skill 10, un Mester are nevoie de 350 de puncte la skill. (1900 in total)

@@ -1,7 +1,7 @@
 # Jobul Zilei
 
 <figure markdown="span">
-  ![Jobs list](/images/wiki/general/Jobs list.png){ width="300" }
+  ![Jobs list](/images/wiki/general/Jobs_list.png){ width="300" }
   <figcaption>#1 Jobul zilei, marcat cu portocaliu</figcaption>
 </figure>
 

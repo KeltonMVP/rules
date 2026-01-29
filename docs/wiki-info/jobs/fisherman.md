@@ -30,66 +30,66 @@
 
 ## Sansele de succes in functie de Skill
 
-* '''Skill 1 - '''100% peste Tier 1.
-* '''Skill 2 - '''20% peste Tier 1 | 80% peste Tier 2.
-* '''Skill 3 - '''10% peste Tier 1 | 20% peste Tier 2 | 70% peste Tier 3.
-* '''Skill 4 - '''5% peste Tier 1 | 10% peste Tier 2 | 25% peste Tier 3 | 60% peste Tier 4.
-* '''Skill 5 - '''5% peste Tier 1 | 5% peste Tier 2 | 10% peste Tier 3 | 20% peste Tier 4 | 60% peste Tier 5.
-* '''Skill 6 - '''3% peste Tier 1 | 5% peste Tier 2 | 10% peste Tier 3 | 15% peste Tier 4 | 25% peste Tier 5 | 42% peste Tier 6 .
-* '''Skill 7 - '''3% peste Tier 1 | 4% peste Tier 2 | 8% peste Tier 3 | 12% peste Tier 4 | 18% peste Tier 5 | 25% peste Tier 6 | 30% Tier 7.
-* '''Skill 8 - '''2% peste Tier 1 | 3% peste Tier 2 | 6% peste Tier 3 | 9% peste Tier 4 | 15% peste Tier 5 | 20% peste Tier 6 | 25% Tier 7 | 20% peste Tier 8.
-* '''Skill 9 - '''1% peste Tier 1 | 2% peste Tier 2 | 4% peste Tier 3 | 7% peste Tier 4 | 12% peste Tier 5 | 18% peste Tier 6 | 25% Tier 7 | 31% peste Tier 8.
-* '''Skill 10 - '''1% peste Tier 1 | 2% peste Tier 2 | 3% peste Tier 3 | 6% peste Tier 4 | 10% peste Tier 5 | 15% peste Tier 6 | 22% Tier 7 | 41% peste Tier 8.
+* *Skill 1 - *100% peste Tier 1.
+* *Skill 2 - *20% peste Tier 1 | 80% peste Tier 2.
+* *Skill 3 - *10% peste Tier 1 | 20% peste Tier 2 | 70% peste Tier 3.
+* *Skill 4 - *5% peste Tier 1 | 10% peste Tier 2 | 25% peste Tier 3 | 60% peste Tier 4.
+* *Skill 5 - *5% peste Tier 1 | 5% peste Tier 2 | 10% peste Tier 3 | 20% peste Tier 4 | 60% peste Tier 5.
+* *Skill 6 - *3% peste Tier 1 | 5% peste Tier 2 | 10% peste Tier 3 | 15% peste Tier 4 | 25% peste Tier 5 | 42% peste Tier 6 .
+* *Skill 7 - *3% peste Tier 1 | 4% peste Tier 2 | 8% peste Tier 3 | 12% peste Tier 4 | 18% peste Tier 5 | 25% peste Tier 6 | 30% Tier 7.
+* *Skill 8 - *2% peste Tier 1 | 3% peste Tier 2 | 6% peste Tier 3 | 9% peste Tier 4 | 15% peste Tier 5 | 20% peste Tier 6 | 25% Tier 7 | 20% peste Tier 8.
+* *Skill 9 - *1% peste Tier 1 | 2% peste Tier 2 | 4% peste Tier 3 | 7% peste Tier 4 | 12% peste Tier 5 | 18% peste Tier 6 | 25% Tier 7 | 31% peste Tier 8.
+* *Skill 10 - *1% peste Tier 1 | 2% peste Tier 2 | 3% peste Tier 3 | 6% peste Tier 4 | 10% peste Tier 5 | 15% peste Tier 6 | 22% Tier 7 | 41% peste Tier 8.
 
 ## Sansele de esuare in functie de Skill
 
-* '''Skill 1 - '''10% sansa de a prinde deseu.
-* '''Skill 2 - '''9% sansa de a prinde deseu.
-* '''Skill 3 - '''8% sansa de a prinde deseu.
-* '''Skill 4 - '''7% sansa de a prinde deseu.
-* '''Skill 5 - '''6% sansa de a prinde deseu.
-* '''Skill 6 - '''5% sansa de a prinde deseu.
-* '''Skill 7 - '''4% sansa de a prinde deseu.
-* '''Skill 8 - '''3% sansa de a prinde deseu.
-* '''Skill 9 - '''2% sansa de a prinde deseu.
-* '''Skill 10 - '''1% sansa de a prinde deseu.
+* *Skill 1 - *10% sansa de a prinde deseu.
+* *Skill 2 - *9% sansa de a prinde deseu.
+* *Skill 3 - *8% sansa de a prinde deseu.
+* *Skill 4 - *7% sansa de a prinde deseu.
+* *Skill 5 - *6% sansa de a prinde deseu.
+* *Skill 6 - *5% sansa de a prinde deseu.
+* *Skill 7 - *4% sansa de a prinde deseu.
+* *Skill 8 - *3% sansa de a prinde deseu.
+* *Skill 9 - *2% sansa de a prinde deseu.
+* *Skill 10 - *1% sansa de a prinde deseu.
 
 ## Castigul de baza pentru fiecare Tier
 
-* '''Peste Tier 1 -''' 38$ 
-* '''Peste Tier 2 -''' 76$
-* '''Peste Tier 3 -''' 114$
-* '''Peste Tier 4 -''' 152$
-* '''Peste Tier 5 -''' 190$
-* '''Peste Tier 6 -'''  228$
-* '''Peste Tier 7 -''' 266$
-* '''Peste Tier 8 -''' 304$
+* *Peste Tier 1 -* 38$
+* *Peste Tier 2 -* 76$
+* *Peste Tier 3 -* 114$
+* *Peste Tier 4 -* 152$
+* *Peste Tier 5 -* 190$
+* *Peste Tier 6 -*  228$
+* *Peste Tier 7 -* 266$
+* *Peste Tier 8 -* 304$
 
-'''Nota: '''Aceste sume sunt cele de baza, fara niciun bonus aplicat! 
+*Nota: *Aceste sume sunt cele de baza, fara niciun bonus aplicat!
 
 ## Cantitate ocupata in inventar pentru fiecare Tier
 
-* '''Peste Tier 1 -''' 6 KG.
-* '''Peste Tier 2 -''' 7 KG.
-* '''Peste Tier 3 -''' 8 KG.
-* '''Peste Tier 4 -''' 9 KG.
-* '''Peste Tier 5 -''' 10 KG.
-* '''Peste Tier 6 -'''  11 KG.
-* '''Peste Tier 7 -''' 12 KG.
-* '''Peste Tier 8 -''' 15 KG.
+* *Peste Tier 1 -* 6 KG.
+* *Peste Tier 2 -* 7 KG.
+* *Peste Tier 3 -* 8 KG.
+* *Peste Tier 4 -* 9 KG.
+* *Peste Tier 5 -* 10 KG.
+* *Peste Tier 6 -*  11 KG.
+* *Peste Tier 7 -* 12 KG.
+* *Peste Tier 8 -* 15 KG.
 
 ## Limita inventarului in functie de Skill
 
-* '''Skill 1 -''' aveti disponibila o capacitate de 200 KG.
-* '''Skill 2 -''' aveti disponibila o capacitate de 350 KG.
-* '''Skill 3 -''' aveti disponibila o capacitate de 500 KG.
-* '''Skill 4 -''' aveti disponibila o capacitate de 650 KG.
-* '''Skill 5 -''' aveti disponibila o capacitate de 800 KG.
-* '''Skill 6 -''' aveti disponibila o capacitate de 950 KG.
-* '''Skill 7 -''' aveti disponibila o capacitate de 1100 KG.
-* '''Skill 8 -''' aveti disponibila o capacitate de 1250 KG.
-* '''Skill 9 -''' aveti disponibila o capacitate de 1400 KG.
-* '''Skill 10 -''' aveti disponibila o capacitate de 1550 KG.
+* *Skill 1 -* aveti disponibila o capacitate de 200 KG.
+* *Skill 2 -* aveti disponibila o capacitate de 350 KG.
+* *Skill 3 -* aveti disponibila o capacitate de 500 KG.
+* *Skill 4 -* aveti disponibila o capacitate de 650 KG.
+* *Skill 5 -* aveti disponibila o capacitate de 800 KG.
+* *Skill 6 -* aveti disponibila o capacitate de 950 KG.
+* *Skill 7 -* aveti disponibila o capacitate de 1100 KG.
+* *Skill 8 -* aveti disponibila o capacitate de 1250 KG.
+* *Skill 9 -* aveti disponibila o capacitate de 1400 KG.
+* *Skill 10 -* aveti disponibila o capacitate de 1550 KG.
 
 ## Sistemul de Inventar
 
@@ -100,27 +100,27 @@
 ## Sistemul de Echipament
 
 * Jucatorii vor putea echipamente speciale de pescuit precum: Palarie, Costum, Bocanci, Undita si Momeala, folosind comanda [''/jobinventory''].
-* Echipamentele pot fi cumparate din orice magazin de tip 24/7 folosind comanda [''/buy''] -> '''Fisherman Gear'''.
+* Echipamentele pot fi cumparate din orice magazin de tip 24/7 folosind comanda [''/buy''] -> *Fisherman Gear*.
 * Jucatorii pot alege optiunea de 'Buy All Gear' pentru a cumpara simultan tot echipamentul posibil skill-ului lor.
-* **'''Palarie:''' Tier 1 - '''100$''' | Tier 2 - '''150$''' | Tier 3 - '''200$''' | Tier 4 - '''250$''' | Tier 5 - '''300$''' | Tier 6 - '''350$''' | Tier 7 - '''400$''' | Tier 8 - '''450$'''.
-* **'''Costum:''' Tier 1 - '''130$''' | Tier 2 - '''180$''' | Tier 3 - '''230$''' | Tier 4 - '''280$''' | Tier 5 - '''330$''' | Tier 6 - '''380$''' | Tier 7 - '''430$''' | Tier 8 - '''480$'''.
-* **'''Bocanci:''' Tier 1 - '''110$''' | Tier 2 - '''1600$''' | Tier 3 - '''210$''' | Tier 4 - '''260$''' | Tier 5 - '''310$''' | Tier 6 - '''360$''' | Tier 7 - '''410$''' | Tier 8 - '''460$'''.
-* **'''Undita:''' Tier 1 - '''200$''' | Tier 2 - '''250$''' | Tier 3 - '''300$''' | Tier 4 - '''350$''' | Tier 5 - '''400$''' | Tier 6 - '''450$''' | Tier 7 - '''500$''' | Tier 8 - '''550$'''.
-* **'''Momeala:''' Tier 1 - '''50$''' | Tier 2 - '''60$''' | Tier 3 - '''70$''' | Tier 4 - '''80$''' | Tier 5 - '''90$''' | Tier 6 - '''100$''' | Tier 7 - '''110$''' | Tier 8 - '''120$'''.
-* Jucatorii vor putea cumpara doar echipamentele care sunt '''egale sau inferioare nivelului loc actual de abilitate de pescuit'''.
+* ***Palarie:* Tier 1 - *100$* | Tier 2 - *150$* | Tier 3 - *200$* | Tier 4 - *250$* | Tier 5 - *300$* | Tier 6 - *350$* | Tier 7 - *400$* | Tier 8 - *450$*.
+* ***Costum:* Tier 1 - *130$* | Tier 2 - *180$* | Tier 3 - *230$* | Tier 4 - *280$* | Tier 5 - *330$* | Tier 6 - *380$* | Tier 7 - *430$* | Tier 8 - *480$*.
+* ***Bocanci:* Tier 1 - *110$* | Tier 2 - *1600$* | Tier 3 - *210$* | Tier 4 - *260$* | Tier 5 - *310$* | Tier 6 - *360$* | Tier 7 - *410$* | Tier 8 - *460$*.
+* ***Undita:* Tier 1 - *200$* | Tier 2 - *250$* | Tier 3 - *300$* | Tier 4 - *350$* | Tier 5 - *400$* | Tier 6 - *450$* | Tier 7 - *500$* | Tier 8 - *550$*.
+* ***Momeala:* Tier 1 - *50$* | Tier 2 - *60$* | Tier 3 - *70$* | Tier 4 - *80$* | Tier 5 - *90$* | Tier 6 - *100$* | Tier 7 - *110$* | Tier 8 - *120$*.
+* Jucatorii vor putea cumpara doar echipamentele care sunt *egale sau inferioare nivelului loc actual de abilitate de pescuit*.
 * Jucatorii nu pot cumpara echipamente duplicate de acelasi tip si nivel.
 * Jucatorii pot cumpara pana la 20 de momeli per nivel. Asta inseamna ca un jucator cu nivel maxim la abilitatea de pescuit poate transporta 160 de momeli simultan.
 * Fiecare piesa din echipamentul special de pescuit vine in 8 niveluri. Echipamentele de nivel mai inalt ofera sansa marita la a prinde pesti de tier mai mare si sansa cat mai mica la a prinde deseuri.
-* **'''Echipament Tier 1:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+3% sansa''' mai mare, pana la un maxim de '''+15% sansa''' cand este echipat complet.
-* **'''Echipament Tier 2:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+4% sansa''' mai mare, pana la un maxim de '''+20% sansa''' cand este echipat complet.
-* **'''Echipament Tier 3:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+5% sansa''' mai mare, pana la un maxim de '''+25% sansa''' cand este echipat complet.
-* **'''Echipament Tier 4:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+6% sansa''' mai mare, pana la un maxim de '''+30% sansa''' cand este echipat complet.
-* **'''Echipament Tier 5:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+7% sansa''' mai mare, pana la un maxim de '''+35% sansa''' cand este echipat complet.
-* **'''Echipament Tier 6:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+8% sansa''' mai mare, pana la un maxim de '''+40% sansa''' cand este echipat complet.
-* **'''Echipament Tier 7:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+9% sansa''' mai mare, pana la un maxim de '''+45% sansa''' cand este echipat complet.
-* **'''Echipament Tier 8:''' Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera '''+10% sansa''' mai mare, pana la un maxim de '''+50% sansa''' cand este echipat complet.
+* ***Echipament Tier 1:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+3% sansa* mai mare, pana la un maxim de *+15% sansa* cand este echipat complet.
+* ***Echipament Tier 2:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+4% sansa* mai mare, pana la un maxim de *+20% sansa* cand este echipat complet.
+* ***Echipament Tier 3:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+5% sansa* mai mare, pana la un maxim de *+25% sansa* cand este echipat complet.
+* ***Echipament Tier 4:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+6% sansa* mai mare, pana la un maxim de *+30% sansa* cand este echipat complet.
+* ***Echipament Tier 5:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+7% sansa* mai mare, pana la un maxim de *+35% sansa* cand este echipat complet.
+* ***Echipament Tier 6:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+8% sansa* mai mare, pana la un maxim de *+40% sansa* cand este echipat complet.
+* ***Echipament Tier 7:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+9% sansa* mai mare, pana la un maxim de *+45% sansa* cand este echipat complet.
+* ***Echipament Tier 8:* Fiecare obiect (Palarie, Costum, Bocanci, Undita si Momeala) ofera *+10% sansa* mai mare, pana la un maxim de *+50% sansa* cand este echipat complet.
 * Toate echipamentele au o anumita durabilitate, incepand cu 100% cand este achizitionata. De fiecare data cand un peste este prins, durabilitatea echipamentului scade in functie de nivelul pestelui. Odata ce un obiect ajunge la 0% durabilitate acestea se sparge si bonusurile nu mai sunt aplicate.
-* Durabilitatea acestuia poate fi reparata prin alegerea optiunii 'Repair Gear' intr-un magazin de tip 24/7 pentru pretul de '''100$ FIECARE''' in momentul achizitionarii echipamentului.
+* Durabilitatea acestuia poate fi reparata prin alegerea optiunii 'Repair Gear' intr-un magazin de tip 24/7 pentru pretul de *100$ FIECARE* in momentul achizitionarii echipamentului.
 * Se pot repara doar echipamentele a caror durabilitate este sub 80%.
 * Serverul va echipa automat momeala de cel mai inalt nivel disponibil din inventar. Celelalte echipamente (Palarie, Costum, Bocanci, Undita) trebuie echipa in mod manual de jucator.
 * Jucatorii pot urmari in timp real durabilitatea fiecarei piese din echipamentul de pescuit din interfata inventarului [''/jobinventory''].
@@ -212,29 +212,29 @@ Exista 9 zone de pescuit pe mare, cate 3 pentru fiecare oras principal: Los Sant
 
 ## Avansare in Skill
 
-* Avansare in skill se face la un anumit numar de puncte acumulate calculat cu urmatoarea formula: ''''numar_puncte'''' = ''Tier_XP_Factor'' x ''Fish_Quantity''.
+* Avansare in skill se face la un anumit numar de puncte acumulate calculat cu urmatoarea formula: *'numar_puncte*' = ''Tier_XP_Factor'' x ''Fish_Quantity''.
 * Factorul de XP al fiecarui tier este dupa cum urmeaza:
-    * '''Peste Tier 1 -''' factor = '''0.1'''.
-    * '''Peste Tier 2 -''' factor = '''0.2'''.
-    * '''Peste Tier 3 -''' factor = '''0.2'''.
-    * '''Peste Tier 4 -''' factor = '''0.3'''.
-    * '''Peste Tier 5 -''' factor = '''0.3'''.
-    * '''Peste Tier 6 -''' factor = '''0.4'''.
-    * '''Peste Tier 7 -''' factor = '''0.5'''.
-    * '''Peste Tier 8 -''' factor = '''0.6'''.
-    * Concret, sa zicem ca avem 5 pesti de tier 5 in inventar, punctele de skill pe care le primim vor fi calculate in felul urmator: '''5 x 0.5 = 2.5''' => '''3 puncte de skill'''.
-    * '''Daca numarul de puncte pe care il obtineti in urma calcului este 0, veti primi 1 punct de skill.'''
+    * *Peste Tier 1 -* factor = *0.1*.
+    * *Peste Tier 2 -* factor = *0.2*.
+    * *Peste Tier 3 -* factor = *0.2*.
+    * *Peste Tier 4 -* factor = *0.3*.
+    * *Peste Tier 5 -* factor = *0.3*.
+    * *Peste Tier 6 -* factor = *0.4*.
+    * *Peste Tier 7 -* factor = *0.5*.
+    * *Peste Tier 8 -* factor = *0.6*.
+    * Concret, sa zicem ca avem 5 pesti de tier 5 in inventar, punctele de skill pe care le primim vor fi calculate in felul urmator: *5 x 0.5 = 2.5* => *3 puncte de skill*.
+    * *Daca numarul de puncte pe care il obtineti in urma calcului este 0, veti primi 1 punct de skill.*
     * <span style="color:#8B0000;font-weight:bold;">Acelasi numar de puncte se aplica si pentru punctele la maraton sau xp in clan</span>.
 * Punctele necesare pentru avansare sunt dupa cum urmeaza:
-    * Skill 1 '''>>''' Skill 2: 50 de puncte. (50 total)
-    * Skill 2 '''>>''' Skill 3: 100 de puncte. (150 total)
-    * Skill 3 '''>>''' Skill 4: 200 de puncte. (350 total)
-    * Skill 4 '''>>''' Skill 5: 400 de puncte. (750 total)
-    * Skill 5 '''>>''' Skill 6: 750 de puncte. (1500 total)
-    * Skill 6 '''>>''' Skill 7: 1500 de puncte. (3000 total)
-    * Skill 7 '''>>''' Skill 8: 2000 de puncte. (5000 total)
-    * Skill 8 '''>>''' Skill 9: 3000 de puncte. (8000 total)
-    * Skill 9 '''>>''' Skill 10: 3000 de puncte. (11000 total)
+    * Skill 1 *>>* Skill 2: 50 de puncte. (50 total)
+    * Skill 2 *>>* Skill 3: 100 de puncte. (150 total)
+    * Skill 3 *>>* Skill 4: 200 de puncte. (350 total)
+    * Skill 4 *>>* Skill 5: 400 de puncte. (750 total)
+    * Skill 5 *>>* Skill 6: 750 de puncte. (1500 total)
+    * Skill 6 *>>* Skill 7: 1500 de puncte. (3000 total)
+    * Skill 7 *>>* Skill 8: 2000 de puncte. (5000 total)
+    * Skill 8 *>>* Skill 9: 3000 de puncte. (8000 total)
+    * Skill 9 *>>* Skill 10: 3000 de puncte. (11000 total)
 
 ## Orasul de pescuit al zilei
 

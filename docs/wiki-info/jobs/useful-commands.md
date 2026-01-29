@@ -1,12 +1,12 @@
 # Comenzi Utile pentru Joburi
 
 <figure markdown="span">
-  ![Lista joburi](/images/wiki/general/Jobs list.png){ width="300" }
+  ![Lista joburi](/images/wiki/general/Jobs_list.png){ width="300" }
   <figcaption>#1 Lista joburilor</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Icona job](/images/wiki/general/i_job.jpg){ width="300" }
+  ![Icona job](/images/wiki/general/i_job.jpg){ width="200" }
   <figcaption>#2 Marcajul special pentru angajare</figcaption>
 </figure>
 

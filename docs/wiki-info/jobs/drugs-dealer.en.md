@@ -1,7 +1,7 @@
 # Drugs Dealer
 
 <figure markdown="span">
-  ![Job location](/images/wiki/general/drugsdealer_getjob_radar_photo.jpg){ width="450" }
+  ![Job location](/images/wiki/general/drugsdealer_getjob_radar_photo.jpg){ width="350" }
   <figcaption>Job hire location (#1)</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@
 - The hiring point for this job is located at the headquarters in San Fierro (see image #1). This job is part of the illegal jobs category, which means that at some point, when you start your work, you will receive a certain wanted level. Imitating real life, when you transport smaller quantities of drugs (skill 1 and 2), the police will not detect any illegal trace in your work. However, once you advance to skill 3, the police will detect the transport you are trying to make and you will receive wanted based on your skill level). More details about this job can be found below.
 - The job consists of two components:
     - The component represented by drug transport (/work).
-    - The component of the actual drug consumption system. Find more details about drugs, addiction and consumption on the [Drugs](https://www.rpg.b-zone.ro/wiki/alte-sisteme/droguri) page.
+    - The component of the actual drug consumption system. Find more details about drugs, addiction and consumption on the [Drugs](/en/wiki-info/other-systems/drugs/) page.
 - There is one Crack House (headquarters) in each city, each location can be used to start /work.
 - The limit of drugs that can be held by a player is 2147483630.
 - When typing the /work command, players with skill 3 and 4 will receive wanted +1, and those with skill 5 will receive wanted +3.

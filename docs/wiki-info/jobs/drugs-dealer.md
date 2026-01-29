@@ -1,7 +1,7 @@
 # Drugs Dealer
 
 <figure markdown="span">
-  ![Locatie angajare](/images/wiki/general/drugsdealer_getjob_radar_photo.jpg){ width="450" }
+  ![Locatie angajare](/images/wiki/general/drugsdealer_getjob_radar_photo.jpg){ width="350" }
   <figcaption>Locatia punctului de angajare (#1)</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@
 - Punctul de angajare al al acestui job se afla la sediul din San Fierro (vezi imaginea #1). Acest job face parte din randul joburilor ilegale, ceea ce inseamna ca la un moment dat, atunci cand va incepeti munca, veti primi un anumit grad de urmarire (wanted). Imitand viata reala, atunci cand transportati cantitati mai mici de droguri (skill 1 si 2), politia nu va simti vreo urma ilegala in munca voastra. Cu toate acestea, odata trecut la skill 3, politia va depista transportul pe care incercati sa-l efectuati si veti primi wanted in functie de skill). Mai multe detalii despre acest job, gasiti mai jos.
 - Jobul este format din doua componente:
     - Componenta reprezentata de transportul de droguri (/work).
-    - Componenta sistemului propriu-zis de consumare a drogurilor. Aflati mai multe detalii despre droguri, dependenta si consum pe pagina [Droguri](https://www.rpg.b-zone.ro/wiki/alte-sisteme/droguri).
+    - Componenta sistemului propriu-zis de consumare a drogurilor. Aflati mai multe detalii despre droguri, dependenta si consum pe pagina [Droguri](/wiki-info/other-systems/drugs/).
 - Exista cate un Crack House(sediu) in fiecare oras, fiecare locatie putand fi folosita pentru a incepe /work.
 - Limita de droguri ce pot fi detinute de un jucator asupra sa, este de 2147483630.
 - La tastarea comenzii /work, jucatorii cu skill 3 si 4 vor primi wanted +1, iar cei cu skill 5 vor primi wanted +3.
