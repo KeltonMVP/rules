@@ -1,44 +1,45 @@
+# Car Market
+
 <figure markdown="span">
-  ![Bazar Auto](/images/wiki/general/Carmarketspawn.png){ width="400" }
-  <figcaption>Bazar Auto</figcaption>
-</figure>
-<figure markdown="span">
-  ![Adăugare vehicul](/images/wiki/general/Addtomarket.png){ width="400" }
-  <figcaption>Adăugare vehicul</figcaption>
-</figure>
-<figure markdown="span">
-  ![Vehicul de vânzare](/images/wiki/general/Forsale.png){ width="400" }
-  <figcaption>Vehicul de vânzare</figcaption>
-</figure>
-<figure markdown="span">
-  ![Meniu cumpărare](/images/wiki/general/Buyfrommarket.png){ width="400" }
-  <figcaption>Meniu cumpărare</figcaption>
+  ![Car Market](/images/wiki/general/Carmarketspawn.png){ width="400" }
+  <figcaption>Car Market</figcaption>
 </figure>
 
+<figure markdown="span">
+  ![Add vehicle](/images/wiki/general/Addtomarket.png){ width="400" }
+  <figcaption>Add vehicle</figcaption>
+</figure>
 
-Bazarul Auto permite jucătorilor să vândă sau să cumpere mai ușor vehicule la mâna a doua, cumpărând instant un vehicul pus la vânzare fără a mai trebui să se plimbe după proprietar sau chiar și negociind prețul acestuia în cazul în care jucătorii doresc să plătească mai puțin.
+<figure markdown="span">
+  ![Vehicle for sale](/images/wiki/general/Forsale.png){ width="400" }
+  <figcaption>Vehicle for sale</figcaption>
+</figure>
 
+<figure markdown="span">
+  ![Purchase menu](/images/wiki/general/Buyfrommarket.png){ width="400" }
+  <figcaption>Purchase menu</figcaption>
+</figure>
 
-<img 
-src="https://i.imgur.com/gBUp8nE.png">
+The Car Market allows players to sell or buy second-hand vehicles more easily, instantly purchasing a vehicle put up for sale without having to chase the owner or even negotiating its price if players want to pay less.
 
-# Caracteristici Generale
-* Bazarul Auto se află în orașul Las Venturas, lângă piramidă (/gps: Locații Importante).
-* Adăugarea sau eliminarea unui vehicul în/din bazar se face prin comanda **/vehicles**, selectând vehiculul respectiv iar apoi selectând opțiunea dorită. (*imaginea #2*)
-* Vehiculele adăugate în bazar nu pot fi folosite cât timp acestea sunt acolo.
-* La adăugarea unui vehicul la vânzare acesta va fi spawnat în parcare.
-* Fiecare vehicul spawnat în bazar va avea un 3D text alăturat lui care include prețul cerut de vânzător, prețul din Dealership, Vârsta și numărul de Kilomteri. (*imaginea #3*)
-* Pentru a obține cel mai bun loc în bazar, astfel sporind șansele ca acesta să fie cumpărat, puteți utiliza opțiunea de Vehicul Recomandat din /vehicles, care costă 100 Gold și va aduce vehiculul mai aproape de spawnul bazarului (*imaginea #1*), totodată adăugând culori mai pronunțate la textul 3D al vehiculului cât și pe /market.
-** Nu veți fi taxați cu gold dacă nu se găsește un loc de parcare mai apropiat față de cel avut în momentul respectiv.
-* Vehiculele puse la vânzare ale jucătorilor care se deconectează vor dispărea și ele, eliberând locul în bazar.
-** La conectare vehiculele se spawnează înapoi în bazar dacă există locuri libere.
-* Vehiculele din bazar nu pot fi conduse și sunt blocate acolo.
-* Jucătorii interesați pot intra în acestea ca șofer sau pasager și vor fi întâmpinați cu un meniu de cumpărare (*imaginea #4*).
-* Puteți vizualiza folosind comanda **/market** toate vehiculele adăugate la vânzare, chiar și cele care nu sunt spawnate în parcare.
-* La trimiterea unei oferte către un vânzător acesta va primi un mesaj în chat cu oferta. Fiecare jucător poate vedea ce oferte a primit la un anumit vehicul de pe /vehicles.
-* În cazul în care doriți să acceptați o ofertă de preț afacerea va trebui încheiată prin /trade. Cumpărarea directă are loc numai atunci când cumpărătorul plătește direct la bazar prețul cerut de vânzător.
-* Se vor putea achiziționa vehicule începând cu nivel 1.
-* Cumpărătorii au nevoie de Cont Premium pentru a cumpăra un vehicul sport.
-* La vânzare se vor pierde culorile hidden și statusul de vehicul VIP.
-* Fiecare jucător poate adăuga gratuit 2 vehicule la vânzare. Pentru a adăuga mai multe vehicule se va plăti o taxă de 100 Gold (vehiculul devenind automat și vehicul recomandat).
-* Vehiculele de dimensiuni prea mari se vor spawna pe locuri de parcare speciale.
+## General Characteristics
+
+* The Car Market is located in Las Venturas city, near the pyramid (/gps: Important Locations).
+* Adding or removing a vehicle to/from the market is done through the **/vehicles** command, selecting the respective vehicle and then selecting the desired option. (*image #2*)
+* Vehicles added to the market cannot be used while they are there.
+* When adding a vehicle for sale, it will be spawned in the parking lot.
+* Each vehicle spawned in the market will have a 3D text next to it that includes the price requested by the seller, the Dealership price, Age and number of Kilometers. (*image #3*)
+* To get the best spot in the market, thus increasing the chances of it being purchased, you can use the Recommended Vehicle option from /vehicles, which costs 100 Gold and will bring the vehicle closer to the market spawn (*image #1*), also adding more pronounced colors to the vehicle's 3D text as well as on /market.
+    * You will not be charged gold if a closer parking spot is not found compared to the one you currently have.
+* Vehicles put up for sale by players who disconnect will also disappear, freeing up space in the market.
+    * Upon connection, vehicles are spawned back in the market if there are free spots.
+* Vehicles in the market cannot be driven and are locked there.
+* Interested players can enter them as driver or passenger and will be greeted with a purchase menu (*image #4*).
+* You can view using the **/market** command all vehicles added for sale, even those that are not spawned in the parking lot.
+* When sending an offer to a seller, they will receive a message in chat with the offer. Each player can see what offers they have received for a certain vehicle from /vehicles.
+* If you want to accept a price offer, the deal must be completed through /trade. Direct purchase only takes place when the buyer directly pays at the market the price requested by the seller.
+* Vehicles can be purchased starting at level 1.
+* Buyers need a Premium Account to buy a sport vehicle.
+* Upon sale, hidden colors and VIP vehicle status will be lost.
+* Each player can add 2 vehicles for sale for free. To add more vehicles, a fee of 100 Gold will be paid (the vehicle automatically becoming a recommended vehicle as well).
+* Vehicles of too large dimensions will be spawned in special parking spots.

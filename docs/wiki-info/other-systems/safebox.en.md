@@ -1,73 +1,81 @@
+# Safebox
+
 <figure markdown="span">
-  ![Editarea poziției safeboxului #1](/images/wiki/general/safeboxedit.png){ width="450" }
-  <figcaption>Editarea poziției safeboxului #1</figcaption>
+  ![Editing safebox position #1](/images/wiki/general/safeboxedit.png){ width="450" }
+  <figcaption>Editing safebox position #1</figcaption>
 </figure>
+
 <figure markdown="span">
-  ![Dialog safeboxuri deținute #2](/images/wiki/general/safeboxadd.png){ width="450" }
-  <figcaption>Dialog safeboxuri deținute #2</figcaption>
+  ![Owned safeboxes dialog #2](/images/wiki/general/safeboxadd.png){ width="450" }
+  <figcaption>Owned safeboxes dialog #2</figcaption>
 </figure>
+
 <figure markdown="span">
-  ![Meniu safebox #3](/images/wiki/general/safeboxmenu.png){ width="450" }
-  <figcaption>Meniu safebox #3</figcaption>
+  ![Safebox menu #3](/images/wiki/general/safeboxmenu.png){ width="450" }
+  <figcaption>Safebox menu #3</figcaption>
 </figure>
-Sistemul de Safebox permite jucătorilor stocarea de arme, materiale și droguri oriunde doresc pe hartă, fără a avea teama că acestea vor putea fi furate de către alți jucători.
 
-# Caracteristici
-* Safeboxul poate fi cumpărat din Shop la prețul de **600 Gold**.
-* Un jucător poate să își cumpere până la cel mult 50 de safeboxuri.
-* Pentru a accesa o listă cu safeboxurile deținute, se folosește comanda **/safeboxes** sau **/sb** (prescurtat). Selectând un safebox din listă veți putea amplasa, șterge, localiza sau modifica poziția safeboxului.
-* Pentru a putea modifica poziția unui safebox trebuie să fiți destul de aproape de acesta.
-* Pentru a deschide meniul safeboxului se folosește comanda **/opensafe** sau se folosesc tastele **F/ENTER**.
-* Safeboxurile pot fi spawnate doar în VirtualWorld 0.
-* Safeboxurile pot fi localizat doar când jucătorul nu are un punct roșu activ pe harta.
-* Safeboxurile pot fi deschise și în timpul warurilor cu condiția ca acestea să fi fost deja spawnate înainte ca gangsterul să intre la war.
-* Fiecare safebox poate stoca cel mult 15000 de unități.
+The Safebox system allows players to store weapons, materials and drugs anywhere they want on the map, without fear that they can be stolen by other players.
+
+## Characteristics
+* The safebox can be purchased from the Shop at the price of **600 Gold**.
+* A player can buy up to a maximum of 50 safeboxes.
+* To access a list of owned safeboxes, use the **/safeboxes** or **/sb** (abbreviated) command. By selecting a safebox from the list, you will be able to place, delete, locate or modify the safebox position.
+* To be able to modify the position of a safebox you must be close enough to it.
+* To open the safebox menu, use the **/opensafe** command or use the **F/ENTER** keys.
+* Safeboxes can only be spawned in VirtualWorld 0.
+* Safeboxes can only be located when the player does not have an active red point on the map.
+* Safeboxes can be opened even during wars on the condition that they were already spawned before the gangster entered the war.
+* Each safebox can store at most 15000 units.
 
 
-# Utilizare safebox
-* Safeboxul poate fi redenumit făcând click pe numele acestuia, numele nou putând avea cel mult 30 de caractere.
-* Pentru a depozita arme, materiale sau droguri în safebox se va utiliza partea dreaptă a meniului unde vor fi afișate toate aceste lucruri deținute.
-* Extragerea de arme, materiale sau droguri dintr-un safebox se face făcând click pe numele elementului din interfață.
-* În momentul în care extrageți ceva dintr-un safebox o să vă apară un dialog care vă va întreba ce cantitate doriți să extrageți din respectivul element. În această fereastră se poate tasta numărul de grame de droguri dorit, numărul de materiale dorite sau numărul de gloanțe dorite. Puteți de asemenea folosi cuvântul **throw** care va arunca toată cantitatea deținută din respectivul element selectat.
-* Funcția de **throw** ajută pentru a elibera spațiul din safebox în cazul în care de exemplu jucătorul deține arme pe care nu le mai poate utiliza, precum armele specifice unei anumite facțiuni sau rank din respectiva facțiune dacă jucătorul nu mai face parte dintr-o astfel de facțiune sau nu mai deține rankul necesar.
+## Safebox usage
+* The safebox can be renamed by clicking on its name, the new name being able to have at most 30 characters.
+* To deposit weapons, materials or drugs in the safebox, the right part of the menu will be used where all these owned things will be displayed.
+* Extracting weapons, materials or drugs from a safebox is done by clicking on the element name in the interface.
+* When you extract something from a safebox, a dialog will appear asking you what quantity you want to extract from that element. In this window you can type the number of grams of drugs desired, the number of materials desired or the number of bullets desired. You can also use the word **throw** which will throw away all the quantity held from that selected element.
+* The **throw** function helps to free up space in the safebox if for example the player holds weapons that they can no longer use, such as weapons specific to a certain faction or rank from that faction if the player is no longer part of such a faction or no longer holds the required rank.
 
-# Capacitatea utilizabilă de fiecare element
-* 1 material - 1 unitate.
-* 1 gram droguri - 1 unitate.
-
+## Usable capacity of each element
+* 1 material - 1 unit.
+* 1 gram of drugs - 1 unit.
 
 <span style="color:rgb(170,17,17); font-weight: bold;">Deagle / SD Pistol:</span>
-***Skill 1 Distribuitor de Arme** - 1 glonț ~  ocupă 20 de unități.
-***Skill 2 Distribuitor de Arme** - 1 glonț ~  ocupă 17 de unități.
-***Skill 3 Distribuitor de Arme** - 1 glonț ~  ocupă 14 de unități.
-***Skill 4 Distribuitor de Arme** - 1 glonț ~  ocupă 11 de unități.
-***Skill 5 Distribuitor de Arme** - 1 glonț ~  ocupă 8 de unități.
+
+* **Skill 1 Weapon Dealer** - 1 bullet ~ occupies 20 units.
+* **Skill 2 Weapon Dealer** - 1 bullet ~ occupies 17 units.
+* **Skill 3 Weapon Dealer** - 1 bullet ~ occupies 14 units.
+* **Skill 4 Weapon Dealer** - 1 bullet ~ occupies 11 units.
+* **Skill 5 Weapon Dealer** - 1 bullet ~ occupies 8 units.
+
 <span style="color:rgb(170,17,17); font-weight: bold;">Shotgun / Combat:</span>
-***Skill 1 Distribuitor de Arme** - 1 glonț ~  ocupă 40 de unități.
-***Skill 2 Distribuitor de Arme** - 1 glonț ~  ocupă 35 de unități.
-***Skill 3 Distribuitor de Arme** - 1 glonț ~  ocupă 30 de unități.
-***Skill 4 Distribuitor de Arme** - 1 glonț ~  ocupă 25 de unități.
-***Skill 5 Distribuitor de Arme** - 1 glonț ~  ocupă 20 de unități.
+
+* **Skill 1 Weapon Dealer** - 1 bullet ~ occupies 40 units.
+* **Skill 2 Weapon Dealer** - 1 bullet ~ occupies 35 units.
+* **Skill 3 Weapon Dealer** - 1 bullet ~ occupies 30 units.
+* **Skill 4 Weapon Dealer** - 1 bullet ~ occupies 25 units.
+* **Skill 5 Weapon Dealer** - 1 bullet ~ occupies 20 units.
+
 <span style="color:rgb(170,17,17); font-weight: bold;">M4 / AK47:</span>
-***Skill 1 Distribuitor de Arme** - 1 glonț ~  ocupă 24 de unități.
-***Skill 2 Distribuitor de Arme** - 1 glonț ~  ocupă 23 de unități.
-***Skill 3 Distribuitor de Arme** - 1 glonț ~  ocupă 22 de unități.
-***Skill 4 Distribuitor de Arme** - 1 glonț ~  ocupă 21 de unități.
-***Skill 5 Distribuitor de Arme** - 1 glonț ~  ocupă 20 de unități.
+
+* **Skill 1 Weapon Dealer** - 1 bullet ~ occupies 24 units.
+* **Skill 2 Weapon Dealer** - 1 bullet ~ occupies 23 units.
+* **Skill 3 Weapon Dealer** - 1 bullet ~ occupies 22 units.
+* **Skill 4 Weapon Dealer** - 1 bullet ~ occupies 21 units.
+* **Skill 5 Weapon Dealer** - 1 bullet ~ occupies 20 units.
+
 <span style="color:rgb(170,17,17); font-weight: bold;">MP5 / TEC-9:​​</span>
-***Skill 1 Distribuitor de Arme** - 1 glonț ~  ocupă 15 de unități.
-***Skill 2 Distribuitor de Arme** - 1 glonț ~  ocupă 14 de unități.
-***Skill 3 Distribuitor de Arme** - 1 glonț ~  ocupă 13 de unități.
-***Skill 4 Distribuitor de Arme** - 1 glonț ~  ocupă 12 de unități.
-***Skill 5 Distribuitor de Arme** - 1 glonț ~  ocupă 10 de unități.
+
+* **Skill 1 Weapon Dealer** - 1 bullet ~ occupies 15 units.
+* **Skill 2 Weapon Dealer** - 1 bullet ~ occupies 14 units.
+* **Skill 3 Weapon Dealer** - 1 bullet ~ occupies 13 units.
+* **Skill 4 Weapon Dealer** - 1 bullet ~ occupies 12 units.
+* **Skill 5 Weapon Dealer** - 1 bullet ~ occupies 10 units.
+
 <span style="color:rgb(170,17,17); font-weight: bold;">Sniper / Sniper Rifle:​​</span>
-***Skill 1 Distribuitor de Arme** - 1 glonț ~  ocupă 350 de unități.
-***Skill 2 Distribuitor de Arme** - 1 glonț ~  ocupă 338 de unități.
-***Skill 3 Distribuitor de Arme** - 1 glonț ~  ocupă 325 de unități.
-***Skill 4 Distribuitor de Arme** - 1 glonț ~  ocupă 313 de unități.
-***Skill 5 Distribuitor de Arme** - 1 glonț ~  ocupă 300 de unități.
 
-
-# Postări Similare
-<code>&bull; Cumpărare Gold</code>
-<code>&bull; Magazine de Arme</code>
+* **Skill 1 Weapon Dealer** - 1 bullet ~ occupies 350 units.
+* **Skill 2 Weapon Dealer** - 1 bullet ~ occupies 338 units.
+* **Skill 3 Weapon Dealer** - 1 bullet ~ occupies 325 units.
+* **Skill 4 Weapon Dealer** - 1 bullet ~ occupies 313 units.
+* **Skill 5 Weapon Dealer** - 1 bullet ~ occupies 300 units.

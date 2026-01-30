@@ -1,28 +1,29 @@
+# Lotto
+
 <figure markdown="span">
-  ![Interfaţa comenzii /lotto](/images/wiki/general/Lottointerface.png){ width="400" }
-  <figcaption>Interfaţa comenzii /lotto</figcaption>
+  ![Lotto command interface](/images/wiki/general/Lottointerface.png){ width="400" }
+  <figcaption>Lotto command interface</figcaption>
 </figure>
-Sistemul de loterie se bazează pe același sistem din viața reală, conceptul de 6/49. Dacă te știi norocos și crezi cu tărie în șansa ta, te invităm să-ți încerci norocul la orice business de tip 24/7.
 
-# Cum pot depune un bilet?
-Pentru a face acest lucru va trebui să te duci la un business de tipul 24/7, să tastezi comanda */lotto* și să alegi numerele care îți vor aduce câștigul la ora 19:00.
+The lottery system is based on the same system from real life, the 6/49 concept. If you know you're lucky and believe strongly in your chance, we invite you to try your luck at any 24/7 type business.
 
-# Cum se vor extrage numerele?
-Numerele se extrag aleatoriu, de la 1 la 49, fiecare bilet având 6 numere. Extragerea va avea loc în fiecare zi de Miercuri și Duminică, la ora 19:00.
+## How can I submit a ticket?
+To do this, you will have to go to a 24/7 type business, type the */lotto* command and choose the numbers that will bring you the winnings at 19:00.
 
-# Ce câștiguri sunt?
-Câștigul diferă în funcție de câți jucători participă la loterie și de numerele care sunt câștigătoare. 
+## How will the numbers be drawn?
+Numbers are drawn randomly, from 1 to 49, each ticket having 6 numbers. The draw will take place every Wednesday and Sunday, at 19:00.
 
+## What are the winnings?
+The winnings differ depending on how many players participate in the lottery and which numbers are winning.
 
-*Biletele cu 6 numere câștigătoare: Un astfel de bilet va face ca întreg Pot să fie oferit câștigătorului.
-*Biletele cu 5 numere câștigătoare: Un astfel de bilet va face ca jumătate din Pot să fie oferit câștigătorului.
-*Biletele cu 4 numere câștigătoare: Un astfel de bilet va face ca 25% din Pot să fie oferit câștigătorului.
-*Biletele cu 3 numere câștigătoare: Un astfel de bilet va face ca 10% din Pot să fie oferit câștigătorului.
+* Tickets with 6 winning numbers: Such a ticket will make the entire Pot be offered to the winner.
+* Tickets with 5 winning numbers: Such a ticket will make half of the Pot be offered to the winner.
+* Tickets with 4 winning numbers: Such a ticket will make 25% of the Pot be offered to the winner.
+* Tickets with 3 winning numbers: Such a ticket will make 10% of the Pot be offered to the winner.
 
+If there are multiple winners, the Pot is divided equally according to their numbers.
 
-Dacă există mai mulți câștigători, Potul se împarte egal în funcție de numerele lor.
+## Other information
+Winners will be announced on the global chat, and their numbers will also be announced. You can buy as many tickets as you want, increasing your chance of winning. The price of a ticket is $2,000. Winners will receive the prize even if they are offline.
 
-# Alte informații
-Câștigătorii vor fi anunțați pe chatul global, de asemenea vor fi anunțate și numerele lor. Puteți cumpăra oricâte bilete doriți, sporindu-vă șansa de câștig. Prețul unui bilet este de $2.000. Câștigătorii vor primi premiul chiar dacă sunt offline.
-
-Numerele trebuie să fie distincte.
+Numbers must be distinct.

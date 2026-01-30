@@ -1,13 +1,21 @@
-thumb|400px|Un jucător care se află în tutorial (Școala de Șoferi)
-Echipa B-Zone vă pune la dispoziție o metodă unică și benefică pentru a descoperi funcțiile serverului și a învăța ceea ce se poate întâmpla pe unul dintre serverele B-Zone RPG. Există o mulțime de funcții ce imită viața reală, însă pentru a le cunoaște destul de bine, aveți nevoie de o mină de informații. Singura metodă pentru a ajunge să cunoașteți aceste informații, este să parcurgeți tutorialele direct din joc, într-un mod interactiv. Citiți restul conținutului acestei pagini și veți afla ce trebuie să faceți pentru a ajunge la comoara de tutoriale.
+# Tutorials
+
+<figure markdown="span">
+  ![A player in the tutorial (driving school)](/images/wiki/general/scoaladmv.png){ width="400" }
+  <figcaption>A player in the tutorial (driving school)</figcaption>
+</figure>
+
+The B-Zone team will provide you with a unique and beneficial method to discover the server's features and learn what can happen on one of the B-Zone RPG servers. There are many features that mimic real life, but to know them well enough, you need a wealth of information. The only way to get to know this information is to go through the tutorials directly in the game, in an interactive way. Read the rest of this page's content and you will find out what you need to do to reach the treasure trove of tutorials.
 
 
-# Despre tutoriale
-Atunci când începeți să parcurgeți etapele unui tutoriale, trebuie să știți că unele dintre ele sunt reprezentate doar de simple mesaje text transmise prin intermediul unor casete de mesaje, iar altele sunt și practice (pentru terminarea lui, pe lângă citirea informațiilor, trebuie să și efectuați anumite acțiuni, exemplu: Joburi & Bani.
+## About tutorials
+
+When you start going through the stages of a tutorial, you should know that some of them are represented only by simple text messages transmitted through message boxes, while others are also practical (to complete them, in addition to reading the information, you also need to perform certain actions, for example: Jobs & Money).
 
 
-# Tutoriale disponibile
-*Școala de șoferi
-**La finalizarea școlii de șoferi o să primiți licența de condus (permisul auto) pentru o durată de **300 de ore** (300 de payday-uri primite).
-*Vehicule de tutorial
-*Joburi și bani (jobul Șofer de TIR)
+## Available tutorials
+
+* Driving school.
+    * Upon completion of the driving school you will receive your driver's license (driving permit) for a duration of **300 hours** (300 paydays received).
+* Tutorial vehicles.
+* Jobs and money (truck driver job).

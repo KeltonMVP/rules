@@ -1,17 +1,23 @@
+# Dice
+
 <figure markdown="span">
-  ![Doi jucători care joacă barbut](/images/wiki/general/barbut.jpg){ width="400" }
-  <figcaption>Doi jucători care joacă barbut</figcaption>
+  ![Two players playing dice](/images/wiki/general/barbut.jpg){ width="400" }
+  <figcaption>Two players playing dice</figcaption>
 </figure>
-Barbutul este un nou sistem de joc apărut pe serverele B-zone, practicat între doi jucători.
 
-## Cum se joacă?
-*Fiecare jucător își poate alege o sumă de bani pe care să o parieze, cuprinsă între $1,000 si $500,000.
-*Pentru a ajusta suma, se vor folosi butoanele "<" si ">".
-*Odată decis pariul, care trebuie să fie egal de ambele părți, se va apăsa butonul de Pregatit.
-*Dacă ambii jucători sunt pregatiți, zarurile se vor învârti pentru câteva secunde și, la final, se vor afișa zarurile fiecărui jucător și se va determina câstigatorul. Suma de bani va fi transferată automat de la pierzător către câstigator.
+Dice is a new game system that appeared on B-zone servers, played between two players.
+
+## How to play?
+
+* Each player can choose an amount of money to bet, between $1,000 and $500,000.
+* To adjust the amount, the "<" and ">" buttons will be used.
+* Once the bet is decided, which must be equal on both sides, the Ready button will be pressed.
+* If both players are ready, the dice will spin for a few seconds and, at the end, each player's dice will be displayed and the winner will be determined. The amount of money will be automatically transferred from the loser to the winner.
 
 
-## Comenzi specifice
+## Specific commands
+
 ### /dice & /barbut
-*Comenzile vor putea fi folosite doar în interiorul unuia dintre cele 2 cazino-uri din Las Venturas:4 Dragons sau Redsands West.
-*Odată ce partenerul acceptă invitația la joc, o interfață grafică va apărea.
+
+* The commands can only be used inside one of the 2 casinos in Las Venturas: 4 Dragons or Redsands West.
+* Once the partner accepts the game invitation, a graphical interface will appear.

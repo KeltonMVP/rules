@@ -1,127 +1,146 @@
-[comenzii [/reward]([File:Dailychest.png|thumb|350px|Interfaţa) #1]]
+# Rewards System
+
 <figure markdown="span">
-  ![Interfaţa Chest HUDului #2](/images/wiki/general/Rewardtd.png){ width="200" }
-  <figcaption>Interfaţa Chest HUDului #2</figcaption>
-</figure>
-<figure markdown="span">
-  ![Mesajul global care apare după ce revendicaţi un Chest #3](/images/wiki/general/Chestchatmessage.png){ width="350" }
-  <figcaption>Mesajul global care apare după ce revendicaţi un Chest #3</figcaption>
+  ![Rewards interface](/images/wiki/general/dailychest.png){ width="350" }
+  <figcaption>Rewards interface</figcaption>
 </figure>
 
-
-Sistemul de Cufăr (a se vedea interfaţa comenzii în imaginea **#1**) este un sistem care a fost creat pentru a premia jucătorii activi de pe serverul nostru şi pentru a-i încuraja şi pe ceilalţi jucători, să redescopere bucuria de a se juca pe serverele noastre. Jucătorii care acumulează minimum două ore jucate reale vor putea fi recompensaţi cu un Cufăr din lista existentă.
-
-
-# Caracteristici generale
-*Cufărul are multiple tieruri care vă vor premia cu diverse cufere, care conţin premii aleatorii, în funcţie de cât timp acordaţi acestui joc. Puteţi debloca cuferele doar dacă deţineţi ore jucate reale, pentru a debloca primul cufăr cu premii, va trebui să aveţi minim două ore jucate reale în ziua curentă. 
-*Puteţi completa **un singur tier** zilnic, odată ce ati colectat un tier, nu mai puteţi progresa în acea zi cu un alt tier.
-*Progresul pe care-l faceţi în acea zi, îl puteţi vedea prin intermediul Chest HUDului (vezi imaginea **#2**), folosiţi comanda [→ Chest HUD → Enabled pentru a-l activa. Progresul poate fi urmărit de asemenea şi prin intermediul comenzii [/reward](/tog]).
-*Pentru a vă facilita mai uşor accesul la informaţii despre acest sistem, conducerea v-a introdus un buton numit **Informaţii**, care vă va oferi toate informaţiile despre acest sistem şi orele necesare pentru a colecta un anumit cufăr.
-*Puteţi accesa interfaţa sistemului cu ajutorul comenzilor: [[/rewards](/reward],), [[/premii](/premiu],).
-*Tierul şi orele acumulate în acea zi se vor reseta zilnic la ora **23:00**, aşadar ca să nu pierdeţi premiul din acea zi, asiguraţi-vă că-l colectaţi până în acea oră.
-*Când colectaţi un premiu, un mesaj global va fi afişat (vezi imaginea **#3**).
-*Dacă nu aţi colectat premiul până la ora **22:00**, vă va apărea un text informativ care vă va informa din 15 în 15 minute, să-l colectaţi pentru a nu-l pierde.
-*Orele jucate pe [/sleep] sau stând AFK **NU vor fi luate în considerare**, doar orele jucate reale (orele jucate pe goldaward) vor fi luate în considerare.
-*Jucătorii care deţin cont premium permanent nu vor mai fi recompensaţi cu acest premiu, ci vor primi 75 Gold în schimb.
-*Pentru a revendica un premiu precum maşinile premium (Cheetah, Bullet, Turismo, Banshee, Hotring A, Hotring B, Infernus, Monster A) <span style="color:#ff0000;font-weight:bold;">va fi necesar să aveţi un slot în garaj liber şi cont premium</span>, dacă nu deţineţi vreo facilitate dintre acestea, aveţi dreptul de a da reroll şi pentru a primi alt premiu.
-*Bonusurile precum Job Boost şi Bunker Sale Boost sunt valabile 24 de ore după primirea acestora. Aceste bonusuri se cumulează alături de alte bonusuri avute (exemplu, deţineţi nivel 110 şi primiţi deja 5% Job Boost datorită nivelului, dacă câştigaţi 30% Job Boost, aveţi în total 35% Job Boost pentru 24 de ore). Aceeaşi regulă se aplică şi pentru Boosturile de la Maraton.
-*De la Tier 5 până la Tier 10, jucătorii vor primi un premiu garantat pe lângă premiul aleatoriu câştigat:
-**Tier 5 - $50.000 Bonus
-**Tier 6 - $75.000 Bonus
-**Tier 7 - 90 Gold şi $100.000 Bonus
-**Tier 8 - 110 Gold şi $125.000 Bonus
-**Tier 9 - 120 Gold şi $150.000 Bonus
-**Tier 10 - O săptămână de Cont Premium (dacă jucătorul are cont premium permanent, premiul devine în 75 Gold), 130 Gold şi $150.000
-*Dacă jucătorul câştigă o cutie, aveţi o şansă de 8,(3)% de a câştiga o cutie din cele 12.
-*Dacă jucătorul câştigă materiale la jobul Meşter, aveţi o şansă de 25% de a câştiga un tip de materiale din cele 4.
-*Dacă un jucător câştigă Rob Skill Up şi acesta are skill 5 la Rob, va primi în schimb un Job Skill Up.
-*Jucătorul este răspunzător dacă revendică premiul în timp util, stafful nu oferă rambursări ale premiilor pierdute.
-*Premiile de tip vehicule, care au în paranteze (Shop), pot fi vândute **DOAR** la DealerShip pe $0. Vehiculele (Normal) pot fi vândute jucătorilor şi la DealerShip la preţuri normale.
+<figure markdown="span">
+  ![Chest HUD Interface #2](/images/wiki/general/Rewardtd.png){ width="200" }
+  <figcaption>Chest HUD Interface #2</figcaption>
+</figure>
 
 
-# Tierurile Chesturilor
-Tierurile chesturilor se împart după cum urmează:
-*<p style="color:rgb(165, 42, 42);">**Tierul 1 - sub 2 ore reale jucate reale**</p>
-**Nu aveţi nimic de revendicat de la acest tier.
-*<p style="color:rgb(165, 42, 42);">**Tierul 2 - minim 2 ore jucate reale**</p>
-**$25.000 - cu o sansă de 25%
-**20 Gold - cu o sansă de 25%
-**10 RP - cu o sansă de 25%
-**30 MP - cu o sansă de 25%
-*<p style="color:rgb(165, 42, 42);">**Tierul 3 - minim 3 ore jucate reale**</p>
-**$35.000 - cu o sansă de 25%
-**30 Gold - cu o sansă de 25%
-**15 RP - cu o sansă de 25%
-**50 MP - cu o sansă de 25%
-*<p style="color:rgb(165, 42, 42);">**Tierul 4 - minim 4 ore jucate reale**</p>
-**$50.000 - cu o sansă de 25%
-**35 Gold - cu o sansă de 25%
-**30% Job Boost - cu o sansă de 25%
-**1,5x Bunker Sale Boost - cu o sansă de 25%
-*<p style="color:rgb(165, 42, 42);">**Tierul 5 - minim 6 ore jucate reale**</p>
-**1,5x Bunker Sale Boost - cu o sansă de 25%
-**30% Job Boost - cu o sansă de 25%
-**200 Random Craftsman Mats - cu o sansă de 20%
-**50 Gold - cu o sansă de 20%
-**Random Crate - cu o şansă de 10%
-**Bonus: $50.000**
-*<p style="color:rgb(165, 42, 42);">**Tierul 6 - minim 8 ore jucate reale**</p>
-**250 Random Craftsman Mats - cu o sansă de 30%
-**75 Gold - cu o sansă de 20%
-**Random Crate - cu o sansă de 10%
-**Hidden Color - cu o sansă de 10%
-**Garage Slot - cu o şansă de 10%
-**VIP - cu o şansă de 10%
-**Half Report - cu o şansă de 10%
-**Bonus: $75.000**
-*<p style="color:rgb(165, 42, 42);">**Tierul 7 - minim 10 ore jucate reale**</p>
-**O săptămână de Cont Premium - cu o sansă de 30%
-**Garage Slot - cu o sansă de 10%
-**VIP - cu o sansă de 10%
-**Optional Report - cu o sansă de 10%
-**Rob Skill Up - cu o şansă de 10%
-**Random Crate - cu o şansă de 10%
-**Hidden Color - cu o şansă de 10%
-**Cheetah (Shop) - cu o şansă de 5%
-**Banshee (Shop) - cu o şansă de 5%
-**Bonus: 90 Gold şi $100.000**
-*<p style="color:rgb(165, 42, 42);">**Tierul 8 - minim 12 ore jucate reale**</p>
-**O săptămână de Cont Premium - cu o sansă de 20%
-**Garage Slot - cu o sansă de 10%
-**VIP - cu o sansă de 10%
-**Optional Report - cu o sansă de 10%
-**Job Skill Up - cu o şansă de 10%
-**Rob Skill Up - cu o şansă de 10%
-**Random Crate - cu o şansă de 10%
-**Hidden Color - cu o şansă de 10%
-**Cheetah (Normal) - cu o şansă de 4%
-**Bullet (Normal) - cu o şansă de 3%
-**Turismo (Normal) - cu o şansă de 3%
-**Bonus: 110 Gold şi $125.000**
-*<p style="color:rgb(165, 42, 42);">**Tierul 9 - minim 14 ore jucate reale**</p>
-**O săptămână de Cont Premium - cu o sansă de 20%
-**Garage Slot - cu o sansă de 10%
-**VIP - cu o sansă de 10%
-**Optional Report - cu o sansă de 10%
-**Job Skill Up - cu o şansă de 10%
-**Rob Skill Up - cu o şansă de 10%
-**Random Crate - cu o şansă de 10%
-**Hidden Color - cu o şansă de 10%
-**Cheetah (Normal) - cu o şansă de 4%
-**Bullet (Normal) - cu o şansă de 3%
-**Hotring A (Shop) - cu o şansă de 2%
-**Hotring B (Shop) - cu o şansă de 1%
-**Bonus: 120 Gold şi $150.000**
-*<p style="color:rgb(165, 42, 42);">**Tierul 10**</p>
-**Garage Slot - cu o sansă de 15%
-**VIP - cu o sansă de 15%
-**Hidden Color - cu o sansă de 15%
-**Rob Skill Up - cu o şansă de 15%
-**Random Crate - cu o şansă de 15%
-**Optional Report - cu o şansă de 15%
-**Infernus (Normal) - cu o şansă de 3%
-**Bullet (Normal) - cu o şansă de 3%
-**Hotring A (Shop) - cu o şansă de 2%
-**Hotring B (Shop) - cu o şansă de 1%
-**Monster A (Shop) - cu o şansă de 1%
-**Bonus: O săptămână de Cont Premium (se transformă în 75 Gold dacă aveţi cont premium permanent), 130 Gold şi $150.000**
+The Chest System (see command interface in image **#1**) is a system that was created to reward active players on our server and to encourage other players to rediscover the joy of playing on our servers. Players who accumulate a minimum of two real hours played will be able to be rewarded with a Chest from the existing list.
+
+
+## General characteristics
+
+* The chest has multiple tiers that will reward you with various chests, which contain random prizes, depending on how much time you dedicate to this game. You can unlock chests only if you have real hours played, to unlock the first chest with prizes, you will need to have at least two real hours played on the current day.
+* You can complete **only one tier** daily, once you have collected a tier, you can no longer progress in that day with another tier.
+* The progress you make in that day can be seen through the Chest HUD (see image **#2**), use the command [→ Chest HUD → Enabled to activate it. Progress can also be tracked through the [/reward](/tog]) command.
+* To facilitate easier access to information about this system, the management has introduced a button called **Information**, which will give you all the information about this system and the hours needed to collect a certain chest.
+* You can access the system interface with the help of commands: [[/rewards](/reward],), [[/premii](/premiu],).
+* The tier and hours accumulated on that day will be reset daily at **23:00**, so to not lose the prize from that day, make sure you collect it by that time.
+* When you collect a prize, a global message will be displayed (see image **#3**).
+* If you have not collected the prize by **22:00**, an informative text will appear that will inform you every 15 minutes to collect it so as not to lose it.
+* Hours played on [/sleep] or standing AFK **WILL NOT be taken into consideration**, only real hours played (hours played on goldaward) will be taken into consideration.
+* Players who have a permanent premium account will no longer be rewarded with this prize, but will receive 75 Gold instead.
+* To claim a prize such as premium cars (Cheetah, Bullet, Turismo, Banshee, Hotring A, Hotring B, Infernus, Monster A) <span style="color:#ff0000;font-weight:bold;">you will need to have a free garage slot and premium account</span>, if you do not have any of these facilities, you have the right to reroll to receive another prize.
+* Bonuses such as Job Boost and Bunker Sale Boost are valid for 24 hours after receiving them. These bonuses are cumulative with other bonuses you have (example, you have level 110 and already receive 5% Job Boost due to your level, if you win 30% Job Boost, you have a total of 35% Job Boost for 24 hours). The same rule applies to Marathon Boosts.
+* From Tier 5 to Tier 10, players will receive a guaranteed prize in addition to the random prize won:
+    * Tier 5 - $50,000 Bonus
+    * Tier 6 - $75,000 Bonus
+    * Tier 7 - 90 Gold and $100,000 Bonus
+    * Tier 8 - 110 Gold and $125,000 Bonus
+    * Tier 9 - 120 Gold and $150,000 Bonus
+    * Tier 10 - One week of Premium Account (if the player has permanent premium account, the prize becomes 75 Gold), 130 Gold and $150,000
+* If the player wins a crate, you have an 8,(3)% chance to win a crate out of the 12.
+* If the player wins Craftsman job materials, you have a 25% chance to win one type of materials out of the 4.
+* If a player wins Rob Skill Up and they have skill 5 at Rob, they will receive a Job Skill Up instead.
+* The player is responsible if they claim the prize in time, staff does not offer refunds for lost prizes.
+* Vehicle type prizes, which have (Shop) in parentheses, can be sold **ONLY** at the DealerShip for $0. Vehicles (Normal) can be sold to players and at the DealerShip at normal prices.
+
+## Chest Tiers
+
+Chest tiers are divided as follows:
+
+* <p style="color:rgb(165, 42, 42);">**Tier 1 - under 2 real hours played**</p>
+    * You have nothing to claim from this tier.
+
+* <p style="color:rgb(165, 42, 42);">**Tier 2 - minimum 2 real hours played**</p>
+    * $25,000 - with a 25% chance
+    * 20 Gold - with a 25% chance
+    * 10 RP - with a 25% chance
+    * 30 MP - with a 25% chance
+
+* <p style="color:rgb(165, 42, 42);">**Tier 3 - minimum 3 real hours played**</p>
+    * $35,000 - with a 25% chance
+    * 30 Gold - with a 25% chance
+    * 15 RP - with a 25% chance
+    * 50 MP - with a 25% chance
+
+* <p style="color:rgb(165, 42, 42);">**Tier 4 - minimum 4 real hours played**</p>
+    * $50,000 - with a 25% chance
+    * 35 Gold - with a 25% chance
+    * 30% Job Boost - with a 25% chance
+    * 1.5x Bunker Sale Boost - with a 25% chance
+
+* <p style="color:rgb(165, 42, 42);">**Tier 5 - minimum 6 real hours played**</p>
+    * 1.5x Bunker Sale Boost - with a 25% chance
+    * 30% Job Boost - with a 25% chance
+    * 200 Random Craftsman Mats - with a 20% chance
+    * 50 Gold - with a 20% chance
+    * Random Crate - with a 10% chance
+
+**Bonus: $50,000**
+
+* <p style="color:rgb(165, 42, 42);">**Tier 6 - minimum 8 real hours played**</p>
+    * 250 Random Craftsman Mats - with a 30% chance
+    * 75 Gold - with a 20% chance
+    * Random Crate - with a 10% chance
+    * Hidden Color - with a 10% chance
+    * Garage Slot - with a 10% chance
+    * VIP - with a 10% chance
+    * Half Report - with a 10% chance
+
+**Bonus: $75,000**
+
+* <p style="color:rgb(165, 42, 42);">**Tier 7 - minimum 10 real hours played**</p>
+    * One week of Premium Account - with a 30% chance
+    * Garage Slot - with a 10% chance
+    * VIP - with a 10% chance
+    * Optional Report - with a 10% chance
+    * Rob Skill Up - with a 10% chance
+    * Random Crate - with a 10% chance
+    * Hidden Color - with a 10% chance
+    * Cheetah (Shop) - with a 5% chance
+    * Banshee (Shop) - with a 5% chance
+
+**Bonus: 90 Gold and $100,000**
+
+* <p style="color:rgb(165, 42, 42);">**Tier 8 - minimum 12 real hours played**</p>
+    * One week of Premium Account - with a 20% chance
+    * Garage Slot - with a 10% chance
+    * VIP - with a 10% chance
+    * Optional Report - with a 10% chance
+    * Job Skill Up - with a 10% chance
+    * Rob Skill Up - with a 10% chance
+    * Random Crate - with a 10% chance
+    * Hidden Color - with a 10% chance
+    * Cheetah (Normal) - with a 4% chance
+    * Bullet (Normal) - with a 3% chance
+    * Turismo (Normal) - with a 3% chance
+
+**Bonus: 110 Gold and $125,000**
+
+* <p style="color:rgb(165, 42, 42);">**Tier 9 - minimum 14 real hours played**</p>
+    * One week of Premium Account - with a 20% chance
+    * Garage Slot - with a 10% chance
+    * VIP - with a 10% chance
+    * Optional Report - with a 10% chance
+    * Job Skill Up - with a 10% chance
+    * Rob Skill Up - with a 10% chance
+    * Random Crate - with a 10% chance
+    * Hidden Color - with a 10% chance
+    * Cheetah (Normal) - with a 4% chance
+    * Bullet (Normal) - with a 3% chance
+    * Hotring A (Shop) - with a 2% chance
+    * Hotring B (Shop) - with a 1% chance
+
+**Bonus: 120 Gold and $150,000**
+
+* <p style="color:rgb(165, 42, 42);">**Tier 10**</p>
+    * Garage Slot - with a 15% chance
+    * VIP - with a 15% chance
+    * Hidden Color - with a 15% chance
+    * Rob Skill Up - with a 15% chance
+    * Random Crate - with a 15% chance
+    * Optional Report - with a 15% chance
+    * Infernus (Normal) - with a 3% chance
+    * Bullet (Normal) - with a 3% chance
+    * Hotring A (Shop) - with a 2% chance
+    * Hotring B (Shop) - with a 1% chance
+    * Monster A (Shop) - with a 1% chance
+
+**Bonus: One week of Premium Account (converts to 75 Gold if you have permanent premium account), 130 Gold and $150,000**

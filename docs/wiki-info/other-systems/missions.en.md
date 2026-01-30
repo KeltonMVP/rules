@@ -1,105 +1,108 @@
+# Missions
+
 <figure markdown="span">
   ![#1](/images/wiki/general/Mission.png){ width="450" }
   <figcaption>#1</figcaption>
 </figure>
+
 <figure markdown="span">
   ![#2](/images/wiki/general/Panou.png){ width="450" }
   <figcaption>#2</figcaption>
 </figure>
+
 <figure markdown="span">
   ![Ryder](/images/wiki/general/Ryder.png){ width="450" }
   <figcaption>Ryder</figcaption>
 </figure>
+
 <figure markdown="span">
   ![OG Loc](/images/wiki/general/Ogloc.png){ width="450" }
   <figcaption>OG Loc</figcaption>
 </figure>
+
 <figure markdown="span">
   ![Nea' Mirel](/images/wiki/general/Mirel.png){ width="450" }
   <figcaption>Nea' Mirel</figcaption>
 </figure>
+
 <figure markdown="span">
   ![Dimitri Petrenko](/images/wiki/general/Dimitri.png){ width="450" }
   <figcaption>Dimitri Petrenko</figcaption>
 </figure>
+
 <figure markdown="span">
-  ![Cătălin](/images/wiki/general/Catalin.png){ width="450" }
-  <figcaption>Cătălin</figcaption>
+  ![Catalin](/images/wiki/general/Catalin.png){ width="450" }
+  <figcaption>Catalin</figcaption>
 </figure>
-Serverele B-Zone RPG vă pun la dispoziție un sistem de misiuni captivante și provocatoare similare cu cele din San Andreas Single Player.
-Veți putea găsi pe harta jocului câte o iconiță specifică fiecărui caracter care vă poate oferi misiuni.
 
-# Caracteristici generale
-* Fiecare misiune va fi oferită de un anumit personaj.
-* La finalizarea fiecărei misiuni, veți primi puncte de misiuni și bani (#1).
-* La finalizarea tuturor misiunilor, se poate relua ciclul de misiuni (se poate începe din nou cu prima misiune).
-* Misiunile sunt disponibile tuturor jucătorilor începând cu nivel 1, cu excepţia misiunii lui OG Loc, "Fura discul", care necesită minim nivel 5 şi licenţa de arme valabilă. Jucătorii pot conduce aeronave/bărci chiar şi fără licenţa de pilotat/navigat in timpul misiunilor, **NU** se pot conduce maşinile fără permis de conducere.
-* Se poate începe o misiune nouă numai după **4 ore** de la ultima misiune finalizată cu succes. *Notă: În cazul eșuării unei misiuni, se poate începe misiunea imediat, fără a aștepta.*
-* Jucătorii vor fi anunțați atunci când o nouă misiune este disponibilă pentru ei și vor primi indicații despre locația marcată pe hartă ca loc de începere a misiunii.
-* Pașii necesari finalizării misiunilor sunt explicați printr-o legendă permanentă în timpul desfășurării misiunilor.
-* La intersectia dintre Los Santos si Las Venturas a fost plasat un panou publicitar (#2) care va afisa un top 5 cu jucatorii care au cele mai multe puncte de misiune per total si un top 5 cu jucatorii care au strans cele mai multe puncte de misiune in ultimele 30 de zile.
-** Acest panou publicitar contorizează numai punctele acumulate strict din efectuarea misiunilor, **nu și din alte surse**, iar actualizarea acestuia se face în fiecare duminică la ora 06:00 AM.
+B-Zone RPG servers provide you with a system of captivating and challenging missions similar to those in San Andreas Single Player.
+You will be able to find on the game map an icon specific to each character that can offer you missions.
 
-
-# Ryder
-<img 
-src="https://i.imgur.com/roBZ2Dk.png" style="width: 100px;background: rgb(247, 247, 247);border-radius: 50px;border: 1px solid #BDBDBD;"> **- Ryder poate fi găsit pe hartă după iconița cu litera „R”.**
+## General characteristics
+* Each mission will be offered by a certain character.
+* Upon completion of each mission, you will receive mission points and money (#1).
+* Upon completion of all missions, the mission cycle can be resumed (you can start again with the first mission).
+* Missions are available to all players starting at level 1, with the exception of OG Loc's mission, "Steal the disc", which requires a minimum level 5 and a valid weapon license. Players can drive aircraft/boats even without a pilot/navigation license during missions, cars **CANNOT** be driven without a driving license.
+* A new mission can be started only after **4 hours** from the last successfully completed mission. *Note: in case of mission failure, the mission can be started immediately, without waiting.*
+* Players will be notified when a new mission is available to them and will receive directions about the location marked on the map as the mission starting place.
+* The steps necessary to complete the missions are explained through a permanent legend during the missions.
+* At the intersection between Los Santos and Las Venturas, a billboard (#2) has been placed that will display a top 5 with the players who have the most mission points in total and a top 5 with the players who have collected the most mission points in the last 30 days.
+    * This billboard only counts points accumulated strictly from performing missions, **not from other sources**, and its update is done every Sunday at 06:00 AM.
 
 
-* Sunt disponibile trei misiuni cu tematică deathmatch.
-** Prima misiune constă în obținerea unui **Jetpack** pe care-l dorește Ryder. Acesta o să vă furnizeze arme și un elicopter cu care veți zbura până în **Area 69**, unde va trebui să omorâți polițiștii care stau de pază și să obțineți locația Jetpackului. După ce ați reușit să obțineți locația acestuia, respectiv Jetpackul, va trebui să-l duceți înapoi lui Ryder pentru a finaliza misiunea. În tot acest timp veți fi urmăriți de către polițiști.
-*** Premiu: **$15,000 și 5 MP-uri**
-** Ce-a de-a doua misiune constă în a fura niște arme pentru Ryder. Respectivele arme se află într-o clădire bine păzită. Pentru a le putea obține va trebui să omori toți paznicii și să detonezi o parte din clădire. La finalul misiunii vei fi capturat de către un inamic și va trebui să afli o modalitate de a scăpa din mâinile sale.
-*** Premiu: **$5,000 și 3 MP-uri**
-** Ce-a de-a treia misiune constă în a fura niște droguri pentru Ryder. Respectivele droguri se află într-o clădire bine păzită. Pentru a le putea obține va trebui, în primul rând să furati o uniforma de polițist, apoi să faceți rost de arme si de un Enforcer pe care-l veți găsi în Dillimore LS, iar într-un sfârșit să ajungeți la clădirea respectivă din Montgomery LS să omorâți toți paznicii și să furați drogurile pentru Ryder. După ce ați reușit să obțineți drogurile, va trebui să îi le duceți lui Ryder pentru a finaliza misiunea.
-*** Premiu: **$5,000 și 3 MP-uri**
+## Ryder
+![Ryder](/images/wiki/general/Ryder.png){ align=left width="100" height="100" style="border-radius: 50%; object-fit: cover;" } **- Ryder can be found on the map by the icon with the letter "R".**
 
 
-# OG Loc
-<img 
-src="https://i.imgur.com/XkNKkY0.png" style="width: 100px;background: rgb(247, 247, 247);border-radius: 50px;border: 1px solid #BDBDBD;"> **- OG Loc poate fi găsit pe hartă după iconița cu literele „OG”.**
-** OG are nevoie de ajutorul tău pentru pentru a da o petrecere. Acesta are nevoie de muzică iar pentru a face rost de ea va trebui să furi niște discuri de la Mad Dogg's House de pe Vinewood. Pentru a termina misiunea va trebui să fii cât mai silențios cu putință și să furi discurile, ducându-le la final înapoi la OG. Atenție la bara de sunet care îți va apărea pe ecran să nu depășească valorile permise, altfel vei alerta paznicii și vei pierde misiunea.
-*** Premiu: **$15,000 și 5 MP-uri**
-** Nicio petrecere nu poate fi dată fără muzică, așadar OG are nevoie de ajutorul tău pentru a obține niște difuzoare. Vei participa într-un dance-off pe plaja Los Santos unde va trebui să îți demonstrezi abilitățile în dans, iar mai apoi să furi duba cu muzică. Pentru a termina misiunea va trebui să obții un procentaj suficient de ridicat pentru a-i mulțumi pe organizatori și să le furi duba. Pentru a dansa urmărește ecranul și apasă pe tastele cu săgeți concomitent cu săgețile care îți vor apărea pe ecran.
-*** Premiu: **$5,000 și 3 MP-uri**
+* Three missions with deathmatch theme are available.
+    * The first mission consists of obtaining a **Jetpack** that Ryder wants. He will provide you with weapons and a helicopter with which you will fly to **Area 69**, where you will have to kill the police officers standing guard and obtain the Jetpack's location. After you have managed to obtain its location, respectively the Jetpack, you will have to bring it back to Ryder to complete the mission. Throughout this time you will be chased by the police.
+        * Reward: **$15,000 and 5 MPs**
+    * The second mission consists of stealing some weapons for Ryder. These weapons are in a well-guarded building. To obtain them you will have to kill all the guards and detonate part of the building. At the end of the mission you will be captured by an enemy and you will have to find a way to escape from his hands.
+        * Reward: **$5,000 and 3 MPs**
+    * The third mission consists of stealing some drugs for Ryder. These drugs are in a well-guarded building. To obtain them you will first have to steal a police uniform, then get weapons and an Enforcer that you will find in Dillimore LS, and finally reach the respective building in Montgomery LS to kill all the guards and steal the drugs for Ryder. After you have managed to obtain the drugs, you will have to take them to Ryder to complete the mission.
+        * Reward: **$5,000 and 3 MPs**
 
-# Nea' Mirel
-<img 
-src="https://i.imgur.com/ZoFbMJd.png" style="width: 100px;background: rgb(247, 247, 247);border-radius: 50px;border: 1px solid #BDBDBD;"> '''- Nea' Mirel, un adevărat pasionat de Tampa, poate fi găsit pe hartă după iconița cu litera „T”.'''***Acest personaj este disponibil doar cu anumite ocazii speciale.***
-* Este disponibilă o singură misiune cu tematică de sarcină.
-** Mirel de ajutorul tău pentru a livra cadourile lui Moș Crăciun către jucătorii din Los Santos. Acesta îți pune la dispoziție un Bobcat plin cu cadouri pe care trebuie să le livrezi jucătorilor folosindu-te de un RC Goblin. Pentru a finaliza misiunea va trebui să livrezi toate cadourile și să returnezi Bobcatul înapoi lui Mirel.
-*** **Premiu: $5,000 și 3 MP-uri**
+## OG Loc
+![OG Loc](/images/wiki/general/Ogloc.png){ align=left width="100" height="100" style="border-radius: 50%; object-fit: cover;" } **- OG Loc can be found on the map by the icon with the letters "OG".**
 
+* OG needs your help to throw a party. He needs music and to get it you will have to steal some records from Mad Dogg's House on Vinewood. To finish the mission you will have to be as quiet as possible and steal the records, finally taking them back to OG. Pay attention to the sound bar that will appear on your screen so that it does not exceed the allowed values, otherwise you will alert the guards and lose the mission.
+    * Reward: **$15,000 and 5 MPs**
+* No party can be thrown without music, so OG needs your help to get some speakers. You will participate in a dance-off on Los Santos beach where you will have to demonstrate your dancing skills, and then steal the music van. To finish the mission you will have to get a high enough percentage to please the organizers and steal their van. To dance, follow the screen and press the arrow keys simultaneously with the arrows that will appear on your screen.
+    * Reward: **$5,000 and 3 MPs**
 
-# Dimitri Petrenko
-<img 
-src="https://i.imgur.com/WyF4kfa.png" style="width: 100px;background: rgb(247, 247, 247);border-radius: 50px;border: 1px solid #BDBDBD;"> **- Nebunul savant rusnac Dimitri Petrenko poate fi găsit pe hartă după iconița cu litera „D”.**
-* Acesta vă pune la dispoziție o misiune compusă din patru părți.
-** Prima parte constă în strângerea de metale din apropierea Muntelui Chiliad pentru a putea construi schela care va fi necesară susținerii rachetei. Veți primi un camion cu care va trebui să mergeți să strângeți metalele necesare.
-*** **Premiu: $15,000 și 5 MP-uri**
-** A doua parte constă în obținerea unei navete spațiale pe care va trebui s-o furați de pe aeroportul abandonat din Las Venturas.
-*** **Premiu: $5,000 și 3 MP-uri**
-** A treia parte constă în găsirea motoarelor necesare propulsării rachete, aflate tot pe aeroportul abandonat din Las Venturas. Va trebui să stăpâniți bine macaraua pentru a putea fura aceste motoare.
-*** **Premiu: $10,000 și 4 MP-uri**
-** Ultima parte a misiunii constă în alimentarea rachetei. Va trebui să faceți multiple drumuri la benzinării pentru a obține suficient combustibil pentru rachetă. După aceea va trebui să zburați pe Marte unde vi se va cere să găsiți dovezi concrete despre existența vieții extraterestre.
-*** **Premiu: $15,000 și 5 MP-uri**
+## Nea' Mirel
+![Nea' Mirel](/images/wiki/general/Mirel.png){ align=left width="100" height="100" style="border-radius: 50%; object-fit: cover;" } **- Nea' Mirel, a true Tampa enthusiast, can be found on the map by the icon with the letter "T".**
 
+**This character is only available on certain special occasions.**
 
-# Cătălin
-<img 
-src="https://i.imgur.com/dfmvSkD.png" style="width: 100px;background: rgb(247, 247, 247);border-radius: 50px;border: 1px solid #BDBDBD;"> **- Cătălin poate fi găsit pe hartă după iconița cu litera „C”.**
-* Cătălin îți pregătește zilnic la ora 05:00 un set de taskuri pe care dacă le termini, vei primi o recompensă frumușică pentru fiecare.
-* Aceste taskuri sunt relativ simplu de terminat și majoritatea taskurilor primite pot fi făcute de către orice jucător.
-** Câteva exemple de taskuri: condu un anumit număr de kilometri, fumează o țigară, omoară niște polițiști, du-te într-o anumită locație.
-** Premiu: **$2,000 și 1 MP per task**
-** Premiul la finalizarea tuturor taskurilor: **$4.000, 2 MP şi 3 RP**
+* Only one mission with task theme is available.
+    * Mirel needs your help to deliver Santa's gifts to the players in Los Santos. He provides you with a Bobcat full of gifts that you must deliver to the players using an RC Goblin. To complete the mission you will have to deliver all the gifts and return the Bobcat back to Mirel.
+    * **Reward: $5,000 and 3 MPs**
 
+## Dimitri Petrenko
+![Dimitri Petrenko](/images/wiki/general/Dimitri.png){ align=left width="100" height="100" style="border-radius: 50%; object-fit: cover;" } **- The crazy Russian scientist Dimitri Petrenko can be found on the map by the icon with the letter "D".**
 
-# Comenzi disponibile
-## /leavemission
-Prin intermediul acestei comenzi veți putea părăsi o misiune în cazul în care nu o mai puteți realiza.
-*Notă: Folosirea acestei comenzi nu activeaza timeout-ul de 4 ore.*
+* He will provide you with a mission consisting of four parts.
+    * The first part consists of collecting metals from near Mount Chiliad to be able to build the scaffolding that will be necessary to support the rocket. You will receive a truck with which you will have to go collect the necessary metals.
+        * **Reward: $15,000 and 5 MPs**
+    * The second part consists of obtaining a space shuttle that you will have to steal from the abandoned airport in Las Venturas.
+        * **Reward: $5,000 and 3 MPs**
+    * The third part consists of finding the engines necessary for rocket propulsion, also located at the abandoned airport in Las Venturas. You will have to master the crane well to be able to steal these engines.
+        * **Reward: $10,000 and 4 MPs**
+    * The last part of the mission consists of fueling the rocket. You will have to make multiple trips to gas stations to get enough fuel for the rocket. After that you will have to fly to Mars where you will be asked to find concrete evidence about the existence of extraterrestrial life.
+        * **Reward: $15,000 and 5 MPs**
 
+## Catalin
+![Catalin](/images/wiki/general/Catalin.png){ align=left width="100" height="100" style="border-radius: 50%; object-fit: cover;" } **- Catalin can be found on the map by the icon with the letter "C".**
 
-# Pagini Similare
-<code>&bull; Sistem Crates - pentru folosirea punctelor de misiune</code>
+* Catalin prepares for you daily at 05:00 a set of tasks that if you complete them, you will receive a nice reward for each.
+* These tasks are relatively simple to complete and most of the received tasks can be done by any player.
+        * A few examples of tasks: drive a certain number of kilometers, smoke a cigarette, kill some police officers, go to a certain location.
+        * Reward: **$2,000 and 1 MP per task**
+        * Reward for completing all tasks: **$4,000, 2 MP and 3 RP**
+
+## Available commands
+### /leavemission
+Through this command you will be able to leave a mission if you can no longer complete it.
+
+*Note: Using this command does not activate the 4-hour timeout.*

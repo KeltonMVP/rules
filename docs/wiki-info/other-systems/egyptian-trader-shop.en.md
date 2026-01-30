@@ -1,324 +1,347 @@
-Sistemul de upgrade al skinurilor se bazează pe Tichete şi Fragmente. Acestea sunt foarte bine cunoscute în comunitățile de gaming, scopul lor fiind de a fi colectate de la diverse activități precum questuri, gifturi, maratoane și așa mai departe. Aceste fragmente pot fi procesate și transformate într-un Tichet care deblochează o mulțime de lucruri noi pentru jucător.
+# Egyptian Trader
 
-# Caracteristici Generale
+The skin upgrade system is based on Tickets and Fragments. These are very well known in gaming communities, their purpose being to be collected from various activities such as quests, gifts, marathons and so on. These fragments can be processed and transformed into a Ticket that unlocks a multitude of new things for the player.
+
+## General Characteristics
+
 <figure markdown="span">
-  ![Interfaţa tradeului #1](/images/wiki/general/trade_interface.png){ width="400" }
-  <figcaption>Interfaţa tradeului #1</figcaption>
+  ![Trade interface #1](/images/wiki/general/trade_interface.png){ width="400" }
+  <figcaption>Trade interface #1</figcaption>
 </figure>
-thumb|400px
+
 <figure markdown="span">
-  ![Vizualizarea skinurilor #2](/images/wiki/general/Wardrobeview.png){ width="400" }
-  <figcaption>Vizualizarea skinurilor #2</figcaption>
+  ![Skin viewing #2](/images/wiki/general/Wardrobeview.png){ width="400" }
+  <figcaption>Skin viewing #2</figcaption>
 </figure>
+
 <figure markdown="span">
-  ![Interfata de fuzionare #3](/images/wiki/general/fusion_skin.png){ width="400" }
-  <figcaption>Interfata de fuzionare #3</figcaption>
+  ![Fusion interface #3](/images/wiki/general/fusion_skin.png){ width="400" }
+  <figcaption>Fusion interface #3</figcaption>
 </figure>
+
 <figure markdown="span">
-  ![Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4](/images/wiki/general/fusion_skin_2.png){ width="400" }
-  <figcaption>Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4</figcaption>
+  ![Fusion interface - kept skin & chosen bonuses #4](/images/wiki/general/fusion_skin_2.png){ width="400" }
+  <figcaption>Fusion interface - kept skin & chosen bonuses #4</figcaption>
 </figure>
+
 <figure markdown="span">
   ![#5](/images/wiki/general/onyx_fused_bubble.png){ width="300" }
   <figcaption>#5</figcaption>
 </figure>
 
+* There are **3** types of fragments:
+    * Diamond Fragments.
+    * Onyx Fragments.
+    * Upgrade Fragments
+* There are **3** types of Tickets:
+    * Diamond Tickets.
+    * Onyx Tickets.
+    * Upgrade Tickets
+* Tickets can be converted at the *Egyptian Trader* near War Arena LV or directly from the Shop. The Egyptian Trader can be found using the command [→ **Important Locations** → **Trader Shop (LV)**. (*see image **#1***)
+* To convert a ticket of a certain type (Diamond/Onyx/Upgrade), you need at least 5 fragments of the same type.
+* There is no limit to how many fragments or tickets a player can hold.
+* The number of Fragments (Diamond/Onyx/Upgrade) held will appear on [/stats](**/gps**]).
+* The number of Tickets (Diamond/Onyx/Upgrade) held will appear on [# Skin system
+* There are 6 types of skins on B-Zone servers (Starter/Bronze/Silver/Platinum/Diamond/Onyx).
+* Unlike Bronze/Silver/Platinum skins which can be purchased from a Clothing Store, <span style="color:#11c8fa">**Diamond**</span> and <span style="color:#fa8e0a">**Onyx**</span> skins can only be obtained through upgrades of the <span style="color:#2c2e2e">**Platinum**</span> skin.
+* These 2 types can be unlocked using the Tickets mentioned above and will offer the player various bonuses based on the type of skin worn.
+* To form a ticket of a certain type (<span style="color:#fa8e0a">**Onyx**</span>/<span style="color:#11c8fa">**Diamond**</span>), you need at least 5 fragments of the same type.
+* Players can upgrade Bronze skins to Silver using upgrade tickets, then to Diamond and only Diamond skins to Onyx using Diamond/Onyx tickets. Therefore, **Starter** skins cannot be upgraded.
+* Different types of skins are marked with different colors in the wardrobe (*see image **#2***):
+    * <span style="color:#2c2e2e">**Platinum Skins**</span> - Black
+    * <span style="color:#11c8fa">**Diamond Skins**</span> - Light Blue
+    * <span style="color:#fa8e0a">**Onyx Skins**</span> - Orange
+* Also, there is a specific identification text above the head of the player wearing <span style="color:#11c8fa">**Diamond**</span>/<span style="color:#fa8e0a">**Onyx**</span> skins.
+* Unlike other types of skins, Onyx and Diamond skins **can be traded** with other players.
+    * **Note:** If players do not have the same gender (Male/Female) they will not be able to trade with owned skins.
 
-* Există **3** tipuri de fragmente:
-** Fragmente Diamond.
-** Fragmente Onyx.
-** Fragmente Upgrade
-* Există **3** tipuri de Tichete:
-** Tichete Diamond.
-** Tichete Onyx.
-** Tichete Upgrade
-* Tichetele pot fi transformate la *Traderul Egiptean* lângă War Arena LV sau direct din Shop. Traderul Egiptean poate fi găsit folosind comanda [→ **Locații Importante** → **Trader Shop (LV)**. (*vezi imaginea **#1***)
-* Pentru a transforma un tichet de un anumit tip (Diamond/Onyx/Upgrade), ai nevoie de minim 5 fragmente de același tip.
-* Nu există o limită de câte fragmente sau tichete poate deține un jucător.
-* Numărul de Fragmente (Diamond/Onyx/Upgrade) deținute va apărea pe [/stats](**/gps**]).
-* Numărul de Tichete (Diamond/Onyx/Upgrade) deținute va apărea pe [# Sistemul de skinuri
-* Există 6 tipuri de skinuri pe serverele B-Zone (Starter/Bronze/Silver/Platinum/Diamond/Onyx).
-* Spre deosebire de skinurile Bronze/Silver/Platinum care pot fi cumpărate dintr-un Magazin de Haine, skinurile <span style="color:#11c8fa">**Diamond**</span> respectiv <span style="color:#fa8e0a">**Onyx**</span> pot fi obținute doar prin urma unor upgrade-uri ale skinului <span style="color:#2c2e2e">**Platinum**</span>.
-* Aceste 2 tipuri pot fi deblocate folosind Tichetele menționate mai sus si vor oferi jucatorului diverse bonusuri bazate pe tipul de skin purtat. 
-* Pentru a forma un ticket de un anumit tip (<span style="color:#fa8e0a">**Onyx**</span>/<span style="color:#11c8fa">**Diamond**</span>), ai nevoie de minim 5 fragmente de același tip.
-* Jucătorii pot îmbunătăți skinurile Bronze în Silver folosind tichete de upgrade, ulterior în Diamond și doar skinurile Diamond în Onyx folosind tichete Diamond/Onyx. Așadar, **Starter** nu pot fi îmbunătățite.
-* Diferitele tipuri de skinuri sunt marcate cu diferite culori în garderobă (*vezi imaginea **#2***):
-** <span style="color:#2c2e2e">**Skinuri Platinum**</span> - Negru
-** <span style="color:#11c8fa">**Skinuri Diamond**</span> - Albastru Deschis
-** <span style="color:#fa8e0a">**Skinuri Onyx**</span> - Portocaliu
-* De asemenea, există un text specific de identificare deasupra capului jucatorului care poartă skinuri <span style="color:#11c8fa">**Diamond**</span>/<span style="color:#fa8e0a">**Onyx**</span>.
-* Spre deosebire de celelalte tipuri de skinuri, skinurile Onyx si Diamond **pot fi schimbate prin Trade** cu alți jucători.
-****Nota:** Dacă jucătorii nu au acelasi sex (Masculin/Feminim) nu vor putea face trade cu skinurile deținute. 
+## Diamond and Onyx Skins
+* There are a total of 100 Bonuses that the player can discover and enjoy if they own a Diamond or Onyx type skin. These bonuses can create various advantages within a faction or as a player in general.
+* If the player upgrades the <span style="color:#2c2e2e">**Platinum**</span> skin to a <span style="color:#11c8fa">**Diamond**</span> Skin:
+    * The player will have to pay the amount of $1,000,000.
+    * The player will have to pay 100 Mission Points.
+    * The player will have to pay 1x Diamond Ticket.
+    * After upgrading the Platinum Skin to Diamond, the player will receive 2 *random bonuses* from the 100 possible bonuses. These bonuses will be active *only if the player wears the skin while doing a certain activity*.
+* If the player upgrades the <span style="color:#11c8fa">**Diamond**</span> Skin to an <span style="color:#fa8e0a">**Onyx**</span> Skin:
+    * The player will have to pay the amount of $2,000,000.
+    * The player will have to pay 200 Mission Points.
+    * The player will have to pay 1x Onyx Ticket.
+    * After upgrading the Diamond Skin to Onyx Skin, the player will receive *2 more random bonuses* different from those already received on the Diamond skin. Those already owned will remain intact and 2 new bonuses will be added to the upgraded skin. Therefore, the skin will have a total of 4 bonuses that will be active as long as the skin is worn.
+* If the player does not wear the skin then bonuses of any type will not be applied.
 
-## Skinurile Diamond si Onyx
-* Există un total de 100 de Bonusuri pe care jucătorul le poate descoperi și de care se poate bucura daca deține un skin de tip Diamond sau Onyx. Aceste bonusuri pot crea diverse avantaje în cadrul unei factiuni sau ca jucător în general.
-* Dacă jucătorul îmbunătățește skinul <span style="color:#2c2e2e">**Platinum**</span> într-un Skin <span style="color:#11c8fa">**Diamond**</span>:
-** Jucătorul va avea de plătit suma de 1.000.000$.
-** Jucătorul va avea de plătit 100 Puncte de Misiune. 
-** Jucătorul va avea de plătit 1x Tichet Diamond.
-** După îmbunătățirea Skinului Platinum la Diamond jucătorul va primi 2 *bonusuri aleatorii* din cele 100 bonusuri posibile. Aceste bonusuri vor fi active *doar dacă jucătorul poartă skinul în timp ce face o anumită activitate*.
-* Dacă jucătorul îmbunătățește Skinul <span style="color:#11c8fa">**Diamond**</span> într-un Skin <span style="color:#fa8e0a">**Onyx**</span>:
-** Jucătorul va avea de plătit suma de 2.000.000$.
-** Jucătorul va avea de plătit 200 Puncte de Misiune. 
-** Jucătorul va avea de plătit 1x Tichet Onyx.
-** După îmbunătățirea Skinului Diamond în Skin Onyx jucătorul va mai primi *încă 2 bonusuri aleatorii* diferite de cele primite deja la skinul Diamond. Cele deținute deja vor rămâne intacte și 2 noi bonusuri vor fi adăugate pe skinul îmbunătățit. Așadar, skinul va avea un total de 4 bonusuri care vor fi active cât timp skinul este purtat. 
-* Dacă jucătorul nu poartă skinul atunci bonusurile de orice tip nu vor fi aplicate.
+## Reroll mechanic
+* If the player doesn't like the bonuses received and wants to change them without changing the skin completely, they can change them **using the Reroll option** at the *Egyptian Trader*.
+* Note that you will have to pay the full price again and you may receive weaker or better bonuses depending on luck.
+* If you choose to use the *reroll option* and own a <span style="color:#11c8fa">**Diamond**</span> Skin, you will receive another 2 random bonuses that will replace the existing bonuses.
+* Note: Bonuses are random, so there is a chance to receive the same bonuses but with different values.*
+* If you own an <span style="color:#fa8e0a">**Onyx**</span> Skin and use the *reroll option*, all 4 bonuses on the skin will be reset.
 
-## Mecanica de reroll
-* Dacă jucătorului nu-i plac bonusurile primite și dorește să le schimbe fără a schimba skinul cu totul, acesta poate să le schimbe **folosind optiunea de Reroll** la *Traderul Egiptean*.
-* De reținut că va trebui să plătiți din nou prețul întreg și că s-ar putea să primiți bonusuri mai slabe sau mai bune în funcție de noroc.
-* Dacă alegeți să folosiți *optiunea de reroll* și dețineți un Skin <span style="color:#11c8fa">**Diamond**</span>, veți primi alte 2 bonusuri aleatorii care vor înlocui bonusurile deja existente. 
-* Notă: Bonusurile sunt aleatorii, așadar există șansa să primești aceleași bonusuri dar cu valori diferite.*
-* Dacă dețineti un Skin <span style="color:#fa8e0a">**Onyx**</span> și folosiți *optiunea de reroll*, toate cele 4 bonusuri de pe skin vor fi resetate.
+## Fusion mechanic
 
-## Mecanica de fuzionare
-*Jucătorii vor putea fuziona două skinuri <span style="color:#11c8fa">**Diamond**</span> sau două skinuri <span style="color:#fa8e0a">**Onyx**</span> indiferent de sex și vor păstra un singur skin la finalul fuzionării (*vezi imaginea **#3***).
-*Skinul neselectat la fuzionare va fi <span style="color:#FF0000;">**PIERDUT**</span> la fuzionare, bonusurile neselectate pentru fuzionare vor fi si ele pierdute. 
-**Skinul selectat pentru fuzionare va fi cel păstrat, inclusiv bonusurile selectate (*vezi imaginea **#4***).
-*Pentru skinurile Diamond se vor putea selecta 2 bonusuri de la skinurile fuzionate, iar pentru skinurile Onyx se vor putea selecta 4 bonusuri (inclusiv toate bonusurile de la celălalt skin dacă jucătorul dorește transferul tuturor bonusurilor de pe un skin pe celălalt).
-* Fiecare bonus selectat va afișa o imagine cu o bifă în dreptul său (<img src="https://i.postimg.cc/c1m07y25/keep.png" width=25px; height=25px; style="border-radius: 20px">), când vor fi selectate toate bonusurile se va pune o imagine cu X (<img src="https://i.postimg.cc/5NKJG5xB/lost.png"  width=25px; height=25px; style="border-radius: 20px">) în dreptul bonusurilor neselectate (cele care vor fi pierdute la fuzionare).
-**Nu se vor putea selecta 2 bonusuri de același tip de la skinuri diferite. Fiecare bonus selectat trebuie să fie unic la finalul fuzionării.
-**Selectarea unui alt skin pentru fuziune în timp ce s-au selectat alte bonusuri va duce la resetarea selecției bonusurilor.
-**Se pot anula toate selecțiile apăsând butonul **Resetare**.
-*Prețul fuzionării este după cum urmează:
-**Pentru skinurile <span style="color:#11c8fa">**Diamond**</span> prețul va fi **$4.000.000**, **400 Mission Points** și **3 Tichete Diamond**.
-**Pentru skinurile <span style="color:#fa8e0a">**Onyx**</span> prețul va fi **$6.000.000**, **600 Mission Points** și **5 Tichete Onyx**.
-*La finalul fuzionării dacă aveați skinul dorit pentru a fi păstrat pe voi vă veți păstra skinul, dacă în schimb aveți skinul dorit pe voi și selectați alt skin pentru păstrare (pierdeți skinul pe care-l aveți pe voi și sexul skinului păstrat corespunde cu cel pe care-l are caracterul vostru) vi se va seta noul skin fuzionat.
-**Dacă selectați să păstrați un skin de sex opus și să-l pierdeți pe cel de sexul vostru vi se va seta un skin corespunzător cu facțiunea din care faceți parte.
-*Skinul fuzionat va afișa pe [/id](/stats].) textul **FUSED** lângă ID-ul skinului, la fel și în Skin Bubble-ul skinului, dacă este activat va afișa sub tipul skinului textul **FUSED**. Acest lucru va fi afișat și în [/trade].
-*Statusul de **FUSED** va fi resetat doar dacă dați reroll la skin sau îl pierdeți într-un alt proces de fuzionare.
+*Players will be able to fuse two <span style="color:#11c8fa">**Diamond**</span> skins or two <span style="color:#fa8e0a">**Onyx**</span> skins regardless of gender and will keep only one skin at the end of the fusion (*see image **#3***).
+
+* The skin not selected for fusion will be <span style="color:#FF0000;">**LOST**</span> upon fusion, bonuses not selected for fusion will also be lost.
+**The skin selected for fusion will be the one kept, including selected bonuses (*see image **#4***).
+* For Diamond skins, 2 bonuses can be selected from the fused skins, and for Onyx skins 4 bonuses can be selected (including all bonuses from the other skin if the player wants to transfer all bonuses from one skin to another).
+* Each selected bonus will display an image with a checkmark next to it (<img src="https://i.postimg.cc/c1m07y25/keep.png" width=25px; height=25px; style="border-radius: 20px">), when all bonuses are selected an image with X (<img src="https://i.postimg.cc/5NKJG5xB/lost.png"  width=25px; height=25px; style="border-radius: 20px">) will be placed next to unselected bonuses (those that will be lost upon fusion).
+    * You cannot select 2 bonuses of the same type from different skins. Each selected bonus must be unique at the end of fusion.
+    * Selecting another skin for fusion while other bonuses have been selected will reset the bonus selection.
+**All selections can be canceled by pressing the **Reset** button.
+* The fusion price is as follows:
+**For <span style="color:#11c8fa">**Diamond**</span> skins the price will be **$4,000,000**, **400 Mission Points** and **3 Diamond Tickets**.
+**For <span style="color:#fa8e0a">**Onyx**</span> skins the price will be **$6,000,000**, **600 Mission Points** and **5 Onyx Tickets**.
+* At the end of fusion if you had the desired skin to be kept on you, you will keep the skin, if instead you have the desired skin on you and select another skin to keep (you lose the skin you have on you and the kept skin's gender matches your character's) the new fused skin will be set.
+    * If you select to keep an opposite gender skin and lose the one of your gender, a skin corresponding to the faction you are part of will be set.
+* The fused skin will display on /id the text **FUSED** next to the skin ID, same in the Skin Bubble, if activated it will display under the skin type the text **FUSED**. This will also be displayed in [/trade].
+* The **FUSED** status will be reset only if you reroll the skin or lose it in another fusion process.
+
+### Skin Rarity
+
+There are 4 rarities of Diamond/Onyx skins:
+
+* <span style="color:#DE06FB;font-weight:bold;">Legendary:</span> for a skin to be considered legendary it must have all 4 bonuses with at least 20% chance and they must be in the special bonuses list.
+* <span style="color:#0066FF;font-weight:bold;">Very Rare:</span> for a skin to be considered very rare it must have at least 3 bonuses with at least 15% chance and they must be in the special bonuses list.
+* <span style="color:#2CFB06;font-weight:bold;">Uncommon:</span> for a skin to be considered uncommon it must have at least 2 bonuses with at least 10% chance and they must be in the special bonuses list.
+* <span style="color:#9A989B;font-weight:bold;">Common:</span> all skins that do not meet the above criteria are common skins.
+
+<span style="color:rgb(165, 42, 42);font-weight:bold;">Special bonuses list:</span>
+
+* Health Regeneration.
+* Extra 30% Money at Jobs.
+* Extra 30% Craftsman Loot.
+* Extra 30% Bunker Stock.
+* Double Payday.
+* Double Job Skills.
+* Extra Rob Money.
+* Extra Activity Report Money.
+* War Health Pickup.
+* Jewels Stolen.
+* No wanted at Illegal Jobs.
+
+## Recycling System
+
+* Players will be able to offer items they don't use in exchange for an amount of Money or Gold.
+* The recycling interface will offer the possibility to recycle a larger quantity of the same item without having to constantly repeat the same process until the desired recycling value is reached.
+* After all fields are completed, the final amount of money or Gold will be displayed depending on what you selected and you can complete the recycling.
+* Items that can be offered are the following:
+    * **Accept Points:** 100 for 10 Gold or $5,000.
+    * **Mission Points:** 100 for 10 Gold or $5,000.
+    * **Rob Points:** 100 for 10 Gold or $5,000.
+    * **Escape Points:** 100 for 10 Gold or $5,000.
+    * **Free Bails:** 10 for 5 Gold or $2,500.
+    * **Free Name Changes:** 1 for 120 Gold or $60,000.
+    * **Free VIP**: 1 for 120 Gold or $60,000.
+    * **Free Hidden Color:** 1 for 120 Gold or $60,000.
+    * **Free DS Stock:** 1 for 260 Gold or $120,000.
+    * **Free KM Reset:** 1 for 120 Gold or $60,000.
+    * **Free Colored Carplate:** 1 for 60 Gold or $30,000.
+    * **Free Half Reports:** 1 for 40 Gold or $20,000.
+    * **Free Optional Reports:** 1 for 80 Gold or $40,000.
+    * **Free FP Clear:** 1 for 40 Gold or $20,000.
+    * **Free Warn Clear:** 1 for 80 Gold or $40,000.
+    * **Free Job Skill:** 1 for 280 Gold or $140,000.
+    * **Free 3D Label:** 1 for 120 Gold or $60,000.
+    * **Wheel Spins:** 1 for 20 Gold or $10,000.
+    * **Diamond Fragments:** 1 for 32 Gold or $16,000.
+    * **Diamond Tickets:** 1 for 160 Gold or $80,000.
+    * **Onyx Fragments:** 1 for 40 Gold or $20,000.
+    * **Onyx Tickets:** 1 for 200 Gold or $100,000.
+
+## Bonuses
+* To check a skin's bonuses use the /skinbonus command.<br/>
+
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:7vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Health Regeneration</span>
+  <p style="line-height: normal;">Health Regeneration 5% of total health.</p>
+  <p style="line-height: normal;">Health Regeneration 10% of total health.</p>
+  <p style="line-height: normal;">Health Regeneration 15% of total health.</p>
+  <p style="line-height: normal;">Health Regeneration 20% of total health.</p>
+  <p style="line-height: normal;">Health Regeneration 25% of total health.</p></div>
 
 
-## Bonusuri
-* Pentru a verifica bonusurile unui skin se va folosi comanda /skinbonus.
+<div style="width: 33.33%;text-align: center; margin-top:7vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Food Replenish</span>
+  <p style="line-height: normal;">Food Regeneration 5% of total health.</p>
+  <p style="line-height: normal;">Food Regeneration 10% of total health.</p>
+  <p style="line-height: normal;">Food Regeneration 15% of total health.</p>
+  <p style="line-height: normal;">Food Regeneration 20% of total health.</p>
+  <p style="line-height: normal;">Food Regeneration 25% of total health.</p></div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Health Regeneration</span>
-  <p style="line-height: normal;">Regenerare Viata 5% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 10% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 15% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 20% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 25% din totalul de viata.</p></div>
-
-
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Food Replanish</span>
-  <p style="line-height: normal;">Regenerare cu Mancare 5% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 10% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 15% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 20% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 25% din totalul de viata.</p></div>
-
-
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Pickup-uri Viata la Waruri</span>
-  <p style="line-height: normal;">Pickup Viata la Waruri +5HP per pickup (maxim de +30 HP la viata curentă).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +10HP per pickup (maxim de +35 HP la viata curentă).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +15HP per pickup (maxim de +40 HP la viata curentă).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +20HP per pickup (maxim de +45 HP la viata curentă).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +25HP per pickup (maxim de +50 HP la viata curentă).</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:15vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Health Pickups at Wars</span>
+  <p style="line-height: normal;">Health Pickup at Wars +5HP per pickup (max +30 HP to current health).</p>
+  <p style="line-height: normal;">Health Pickup at Wars +10HP per pickup (max +35 HP to current health).</p>
+  <p style="line-height: normal;">Health Pickup at Wars +15HP per pickup (max +40 HP to current health).</p>
+  <p style="line-height: normal;">Health Pickup at Wars +20HP per pickup (max +45 HP to current health).</p>
+  <p style="line-height: normal;">Health Pickup at Wars +25HP per pickup (max +50 HP to current health).</p></div>
 </div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">La Casa De Papel</span>
-  <p style="line-height: normal;">Capacitate marita cu 5 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 10 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 15 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 20 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 25 bijuterii.</p></div>
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:25vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">La Casa De Papel</span>
+  <p style="line-height: normal;">Increased capacity by 5 jewels.</p>
+  <p style="line-height: normal;">Increased capacity by 10 jewels.</p>
+  <p style="line-height: normal;">Increased capacity by 15 jewels.</p>
+  <p style="line-height: normal;">Increased capacity by 20 jewels.</p>
+  <p style="line-height: normal;">Increased capacity by 25 jewels.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The XP Farmer</span>
-  <p style="line-height: normal;">5% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">10% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">15% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">20% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">25% sansa de a primi dublu PayDay.</p>
-**Nota:** Acest bonus se va multiplica daca existaFun Hours sau First Payday of the Day.</div>
+<div style="width: 33.33%;text-align: center; margin-top:32vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The XP Farmer</span>
+  <p style="line-height: normal;">5% chance to receive double PayDay.</p>
+  <p style="line-height: normal;">10% chance to receive double PayDay.</p>
+  <p style="line-height: normal;">15% chance to receive double PayDay.</p>
+  <p style="line-height: normal;">20% chance to receive double PayDay.</p>
+  <p style="line-height: normal;">25% chance to receive double PayDay.</p>
+**Note:** This bonus will be multiplied if Fun Hours or First Payday of the Day exist.</div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Hard Worker</span>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-**Notă:** Bonusul nu este valabil la joburile:Pescar, Fermier, Detectiv, Avocat şi Hoţ de Buzunare.</div>
+<div style="width: 33.33%;text-align: center; margin-top:40vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Hard Worker</span>
+  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
+  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
+  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
+  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
+  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
+**Note:** Bonus is not valid for jobs: Fisherman, Farmer, Detective, Lawyer and Pickpocket.</div>
 </div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Income Worker</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai multi bani la joburi.</p></div>
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Income Worker</span>
+  <p style="line-height: normal;">5% chance to receive 30% more money at jobs.</p>
+  <p style="line-height: normal;">10% chance to receive 30% more money at jobs.</p>
+  <p style="line-height: normal;">15% chance to receive 30% more money at jobs.</p>
+  <p style="line-height: normal;">20% chance to receive 30% more money at jobs.</p>
+  <p style="line-height: normal;">25% chance to receive 30% more money at jobs.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Faction Income Worker</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Faction Income Worker</span>
+  <p style="line-height: normal;">5% chance to receive 30% more money at activity report.</p>
+  <p style="line-height: normal;">10% chance to receive 30% more money at activity report.</p>
+  <p style="line-height: normal;">15% chance to receive 30% more money at activity report.</p>
+  <p style="line-height: normal;">20% chance to receive 30% more money at activity report.</p>
+  <p style="line-height: normal;">25% chance to receive 30% more money at activity report.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The No-Wanted Worker</span>
-  <p style="line-height: normal;">5% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">10% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">15% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">20% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">25% sansa de a nu primi wanted la joburi ilegale.</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The No-Wanted Worker</span>
+  <p style="line-height: normal;">5% chance to not receive wanted at illegal jobs.</p>
+  <p style="line-height: normal;">10% chance to not receive wanted at illegal jobs.</p>
+  <p style="line-height: normal;">15% chance to not receive wanted at illegal jobs.</p>
+  <p style="line-height: normal;">20% chance to not receive wanted at illegal jobs.</p>
+  <p style="line-height: normal;">25% chance to not receive wanted at illegal jobs.</p></div>
 </div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Stock Master</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p></div>
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Stock Master</span>
+  <p style="line-height: normal;">5% chance to receive 30% more money at bunker stock sale.</p>
+  <p style="line-height: normal;">10% chance to receive 30% more money at bunker stock sale.</p>
+  <p style="line-height: normal;">15% chance to receive 30% more money at bunker stock sale.</p>
+  <p style="line-height: normal;">20% chance to receive 30% more money at bunker stock sale.</p>
+  <p style="line-height: normal;">25% chance to receive 30% more money at bunker stock sale.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Heisenberg</span>
-  <p style="line-height: normal;">5 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">10 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">15 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">20 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">25 puncte de recuperare inlaturate per ora.</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Heisenberg</span>
+  <p style="line-height: normal;">5 recovery points removed per hour.</p>
+  <p style="line-height: normal;">10 recovery points removed per hour.</p>
+  <p style="line-height: normal;">15 recovery points removed per hour.</p>
+  <p style="line-height: normal;">20 recovery points removed per hour.</p>
+  <p style="line-height: normal;">25 recovery points removed per hour.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Loot Collector</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai mult loot la Mester.</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Loot Collector</span>
+  <p style="line-height: normal;">5% chance to receive 30% more loot at Craftsman.</p>
+  <p style="line-height: normal;">10% chance to receive 30% more loot at Craftsman.</p>
+  <p style="line-height: normal;">15% chance to receive 30% more loot at Craftsman.</p>
+  <p style="line-height: normal;">20% chance to receive 30% more loot at Craftsman.</p>
+  <p style="line-height: normal;">25% chance to receive 30% more loot at Craftsman.</p></div>
 </div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Weapon Factory</span>
-  <p style="line-height: normal;">5% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">10% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">15% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">20% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">25% mai putine materiale pentru crearea de arme.</p></div>
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:74vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Weapon Factory</span>
+  <p style="line-height: normal;">5% fewer materials for creating weapons.</p>
+  <p style="line-height: normal;">10% fewer materials for creating weapons.</p>
+  <p style="line-height: normal;">15% fewer materials for creating weapons.</p>
+  <p style="line-height: normal;">20% fewer materials for creating weapons.</p>
+  <p style="line-height: normal;">25% fewer materials for creating weapons.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Professor</span>
-  <p style="line-height: normal;">Cu 5.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 10.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 15.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 20.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 25.000$ mai mult la jaf.</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:66vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Professor</span>
+  <p style="line-height: normal;">$5,000 more at robbery.</p>
+  <p style="line-height: normal;">$10,000 more at robbery.</p>
+  <p style="line-height: normal;">$15,000 more at robbery.</p>
+  <p style="line-height: normal;">$20,000 more at robbery.</p>
+  <p style="line-height: normal;">$25,000 more at robbery.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Prison Breaker</span>
-  <p style="line-height: normal;">Intarziere de 5 secunde.</p>
-  <p style="line-height: normal;">Intarziere de 10 secunde</p>
-  <p style="line-height: normal;">Intarziere de 15 secunde.</p>
-  <p style="line-height: normal;">Intarziere de 20 secunde.</p>
-  <p style="line-height: normal;">Intarziere de 25 secunde.</p>
-**Nota:** Wanted-ul este in mod normal oferit la exact 1 minut dupa evadare, jucatorii vor primi acest timp peste timpul normal inainte de a primi wanted.</div>
-</div> 
+<div style="width: 33.33%;text-align: center; margin-top:75vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Prison Breaker</span>
+  <p style="line-height: normal;">5 seconds delay.</p>
+  <p style="line-height: normal;">10 seconds delay</p>
+  <p style="line-height: normal;">15 seconds delay.</p>
+  <p style="line-height: normal;">20 seconds delay.</p>
+  <p style="line-height: normal;">25 seconds delay.</p>
+**Note:** Wanted is normally given at exactly 1 minute after escape, players will receive this time on top of normal time before receiving wanted.</div>
+</div>
+
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:88vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Master Robber</span>
+  <p style="line-height: normal;">1 robbery point less.</p>
+  <p style="line-height: normal;">2 robbery points less.</p>
+  <p style="line-height: normal;">3 robbery points less.</p>
+  <p style="line-height: normal;">4 robbery points less.</p>
+  <p style="line-height: normal;">5 robbery points less.</p>
+**Note:** This bonus will apply to both types of robbery (solo or team).</div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Master Robber</span>
-  <p style="line-height: normal;">1 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">2 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">3 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">4 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">5 punct de jaf mai putin.</p>
-**Nota:** Acest bonus se va aplica la ambele tipuri de jaf (singur sau in echipa).</div>
+<div style="width: 33.33%;text-align: center; margin-top:82vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Escaper</span>
+  <p style="line-height: normal;">1 escape point less.</p>
+  <p style="line-height: normal;">2 escape points less.</p>
+  <p style="line-height: normal;">3 escape points less.</p>
+  <p style="line-height: normal;">4 escape points less.</p>
+  <p style="line-height: normal;">5 escape points less.</p></div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Escaper</span>
-  <p style="line-height: normal;">1 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">2 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">3 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">4 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">5 punct de evadare mai putin.</p></div>
-
-
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Fence Digger</span>
-  <p style="line-height: normal;">1 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">2 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">3 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">4 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">5 daune suplimentare per /hit.</p>
-**Nota:** Valoarea initiala a daunelor la /hit este de 3, daca jucatorul primeste acest bonus daunele totale vor fi adunate (3 + suma oferita de bonus).</div>
+<div style="width: 33.33%;text-align: center; margin-top:90vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Fence Digger</span>
+  <p style="line-height: normal;">1 additional damage per /hit.</p>
+  <p style="line-height: normal;">2 additional damage per /hit.</p>
+  <p style="line-height: normal;">3 additional damage per /hit.</p>
+  <p style="line-height: normal;">4 additional damage per /hit.</p>
+  <p style="line-height: normal;">5 additional damage per /hit.</p>
+**Note:** The initial damage value at /hit is 3, if the player receives this bonus the total damage will be added (3 + amount offered by bonus).</div>
 </div>
 
 
-<div style="display:flex; align-items: center; height:25vh;">  
-  <div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Wanted Dodger</span>
-  <p style="line-height: normal;">1 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">2 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">3 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">4 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">5 minut reducere timp de expirare wanted.</p>
-**Nota:** Acest lucru va functiona numai atunci cand jucatorul primeste wanted in timp ce poarta acest skin. Daca primesti wanted si apoi schimbi skinul nu vei beneficia de acest bonus.</div>
+<div style="display:flex; align-items: center; height:25vh;">
+  <div style="width: 33.33%;text-align: center; margin-top:112vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Wanted Dodger</span>
+  <p style="line-height: normal;">1 minute reduction wanted expiration time.</p>
+  <p style="line-height: normal;">2 minutes reduction wanted expiration time.</p>
+  <p style="line-height: normal;">3 minutes reduction wanted expiration time.</p>
+  <p style="line-height: normal;">4 minutes reduction wanted expiration time.</p>
+  <p style="line-height: normal;">5 minutes reduction wanted expiration time.</p>
+**Note:** This will only work when the player receives wanted while wearing this skin. If you receive wanted and then change the skin you will not benefit from this bonus.</div>
 
 
-<div style="width: 33.33%;text-align: center;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Greedy One</span>
-  <p style="line-height: normal;">5% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">10% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">15% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">20% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">25% mai putine secunde in inchisoare.</p></div>
+<div style="width: 33.33%;text-align: center; margin-top:93vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Greedy One</span>
+  <p style="line-height: normal;">5% fewer seconds in jail.</p>
+  <p style="line-height: normal;">10% fewer seconds in jail.</p>
+  <p style="line-height: normal;">15% fewer seconds in jail.</p>
+  <p style="line-height: normal;">20% fewer seconds in jail.</p>
+  <p style="line-height: normal;">25% fewer seconds in jail.</p></div>
 </div>
 
+<style>
+/* Fix footer positioning for this page only */
+.md-content__inner {
+  min-height: auto !important;
+}
 
-## Raritatea Skinurilor
-Există 4 rarități ale skinurilor Diamond/Onyx:
-*<span style="color:#DE06FB;font-weight:bold;">Legendary:</span> pentru ca un skin să fie considerat legendar trebuie să aibe toate 4 bonusuri cu minim 20% sansă iar acestea să se afle în lista de bonusuri speciale.
-*<span style="color:#0066FF;font-weight:bold;">Very Rare:</span> pentru ca un skin să fie considerat foarte rar trebuie să aibe cel puțin 3 bonusuri cu minim 15% sanșă iar acestea să fie în lista de bonusuri speciale.
-*<span style="color:#2CFB06;font-weight:bold;">Uncommon:</span> pentru ca un skin să fie considerat neobișnuit trebuie să aibe cel puțin 2 bonusuri cu minim 10% șansă iar acestea să fie în lista de bonusuri speciale.
-*<span style="color:#9A989B;font-weight:bold;">Common:</span> toate skinurile care nu îndeplinesc criteriile de mai sus sunt skinuri obișnuite.
+/* Ensure divs don't overflow and cause layout issues */
+.md-content__inner > div[style*="display:flex"] {
+  height: auto !important;
+  min-height: 25vh;
+  margin-bottom: 2rem;
+}
 
-
-<span style="color:rgb(165, 42, 42);font-weight:bold;">Listă bonusuri speciale:</span>
-*Health Regeneration.
-*Extra 30% Money at Jobs.
-*Extra 30% Craftsman Loot.
-*Extra 30% Bunker Stock.
-*Double Payday.
-*Double Job Skills.
-*Extra Rob Money.
-*Extra Activity Raport Money.
-*War Health Pickup.
-*Jewels Stolen.
-*No wanted at Illegal Jobs.
-
-
-# Sistemul de Reciclare
-*Jucătorii vor putea oferi la schimb itemele pe care nu le folosesc în schimbul unei sume de Bani sau Gold.
-*Interfața reciclării va oferi posibilitatea de a recicla o cantitate mai mare al aceluiași item fără a mai fi nevoie de a repeta constant același proces până se ajunge la valoarea dorită de reciclare.
-*După ce sunt completate toate câmpurile va fi afișată suma finală de bani sau Gold în funcție de ce ați selectat și veți putea finaliza reciclarea.
-*Itemele care pot fi oferite sunt următoarele:
-****Accept Points:** 100 pentru 10 Gold sau 5,000$.
-****Mission Points:** 100 pentru 10 Gold sau 5,000$.
-****Rob Points:** 100 pentru 10 Gold sau 5,000$.
-****Escape Points:** 100 pentru 10 Gold sau 5,000$.
-****Free Bails:** 10 pentru 5 Gold sau 2,500$.
-****Free Name Changes:** 1 pentru 120 Gold sau 60,000$.
-****Free VIP**: 1 pentru 120 Gold sau 60,000$.
-****Free Hidden Color:** 1 pentru 120 Gold sau 60,000$.
-****Free DS Stock:** 1 pentru 260 Gold sau 120,000$.
-****Free KM Reset:** 1 pentru 120 Gold sau 60,000$.
-****Free Colored Carplate:** 1 pentru 60 Gold sau 30,000$.
-****Free Half Reports:** 1 pentru 40 Gold sau 20,000$.
-****Free Optional Reports:** 1 pentru 80 Gold sau 40,000$.
-****Free FP Clear:** 1 pentru 40 Gold sau 20,000$.
-****Free Warn Clear:** 1 pentru 80 Gold sau 40,000$.
-****Free Job Skill:** 1 pentru 280 Gold sau 140,000$.
-****Free 3D Label:** 1 pentru 120 Gold sau 60,000$.
-****Wheel Spins:** 1 pentru 20 Gold sau 10,000$.
-****Diamond Fragments:** 1 pentru 32 Gold sau 16,000$.
-****Diamond Tickets:** 1 pentru 160 Gold sau 80,000$.
-****Onyx Fragments:** 1 pentru 40 Gold sau 20,000$.
-****Onyx Tickets:** 1 pentru 200 Gold sau 100,000$.
+.md-content__inner > div[style*="display:flex"] > div {
+  margin-top: 2rem !important;
+}
+</style>

@@ -1,31 +1,35 @@
+# Trade
+
 <figure markdown="span">
   ![Trade](/images/wiki/general/trade_with_SuperSoldierNOOB.png){ width="500" }
   <figcaption>Trade</figcaption>
 </figure>
 
-Noțiunea de **Trade** se întâlnește în cadrul mai multor jocuri de strategie, fiind o metoda ușoară de a negocia cu ceilalți jucători. Acest sistem este extrem de simplu. Sistemul de trade îți oferă posibilitatea de a face schimburi în siguranță, partajând case, bizuri, vehicule și bani.
+The concept of **Trade** is found in several strategy games, being an easy method to negotiate with other players. This system is extremely simple. The trade system offers you the possibility to make exchanges safely, sharing houses, businesses, vehicles and money.
 
 
-# Cum se folosește?
-Pentru a încheia o afacere cu succes cu unul dintre jucătorii serverelor B-Zone RPG, urmați acești pași:
-# Tastați comanda /trade, specificând ID-ul sau numele jucătorului partener (*exemplu: /trade Adi007*).
-# Imediat, serverul va deschide o tabelă simplă, așa cum vedeți în imagine.
-# Tabela este împărțită în două părți egale, în partea stângă aflându-se bunurile voastre, iar în partea dreaptă bunurile partenerului.
-# Pentru a adăuga o sumă de bani, o casă, un business sau un vehicul, se va apăsa pe butonul **Adaugă obiect** și se va selecta din lista deschisă unul dintre bunurile specificate.
-# Odată selectat, acesta va apărea pe tabela de schimb și va fi vizibil pentru ambii participanți.
-# Imediat ce ambii jucători au terminat de adăugat, va trebui ca ambii să apese butonul **Nepregătit**, acesta fiind transformat în **Pregătit**.
-# Dacă ambii jucători au apăsat butonul, se trece la următoarea etapă, verificarea.
-# Serverul va afișa un cronometru ce indică inițial 10 secunde și scade până la 0. Dacă ceva nu este în ordine cu schimbul, puteți anula oricând în timpul celor 10 secunde, apăsând butonul **Pregătit**.
-# Dacă niciun participant nu întrerupe cronometrul, atunci când cele 10 secunde se sfârșesc, va apărea un buton denumit **Confirmă**. Fiecare jucător trebuie să-l apese.
-#Odată apăsat acest buton de către ambii participanții, schimbul va fi executat cu succes.
+## How to use it?
 
-# Limitele comenzii
-Suma de bani maximă care poate fi tranzacționată într-o singură tranzacție este de $2.147.483.647.
-Clanurile de tip small pot fi vândute pentru suma maximă de $10.000.000.
-Clanurile de tip medium pot fi vândute pentru suma maximă de $20.000.000.
-Clanurile de tip big pot fi vândute pentru suma maximă de $30.000.000.
-Clanurile de tip mega pot fi vândute pentru suma maximă de $40.000.000.
+To successfully complete a deal with one of the players on the B-Zone RPG servers, follow these steps:
 
-# Comenzi specifice
-## /trade
-Tastând această comandă, serverul va invita un anumit jucător într-un schimb de bunuri. Comanda folosește un parametru, numele sau ID-ul jucătorului pe care doriți să-l implicați într-un schimb de bunuri. Pentru ca tabela de schimb să fie afișată ambilor jucători, cel invitat trebuie să accepte invitația. Comanda /trade este protejată prin **PIN**.
+- Type the /trade command, specifying the ID or name of the partner player (*example: /trade Adi007*).
+- Immediately, the server will open a simple table, as you can see in the image.
+- The table is divided into two equal parts, with your goods on the left side and your partner's goods on the right side.
+- To add an amount of money, a house, a business or a vehicle, press the **Add item** button and select one of the specified goods from the open list.
+- Once selected, it will appear on the exchange table and will be visible to both participants.
+- As soon as both players have finished adding, both must press the **Not ready** button, which will be transformed into **Ready**.
+- If both players have pressed the button, it moves to the next stage, verification.
+- The server will display a timer that initially indicates 10 seconds and counts down to 0. If something is not right with the exchange, you can cancel at any time during those 10 seconds by pressing the **Ready** button.
+- If no participant interrupts the timer, when the 10 seconds are over, a button called **Confirm** will appear. Each player must press it.
+- Once this button has been pressed by both participants, the exchange will be successfully executed.
+
+## Command limits
+- The maximum amount of money that can be traded in a single transaction is $2,147,483,647.
+- Small type clans can be sold for a maximum amount of $10,000,000.
+- Medium type clans can be sold for a maximum amount of $20,000,000.
+- Big type clans can be sold for a maximum amount of $30,000,000.
+- Mega type clans can be sold for a maximum amount of $40,000,000.
+
+## Specific commands
+### /trade
+By typing this command, the server will invite a certain player to a goods exchange. The command uses a parameter, the name or ID of the player you want to involve in a goods exchange. For the exchange table to be displayed to both players, the invited player must accept the invitation. The /trade command is protected by **PIN**.
