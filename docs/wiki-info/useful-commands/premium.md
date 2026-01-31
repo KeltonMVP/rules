@@ -1,13 +1,16 @@
 # Premium
 
-<img src="https://i.postimg.cc/WbdZGR87/cmd-shop.jpg" width="300px">  
-_Interfata /shop_
+<figure markdown="span">
+  ![Interfata Shop](/images/wiki/general/shop_interface.jpg){ width="400" }
+  <figcaption>Interfata Shop</figcaption>
+</figure>
 
 Aceasta categorie de comenzi utilizeaza exclusiv moneda reala a serverului (gold), astfel, va rugam sa le folositi cu grija pentru a nu intampina situatii nedorite.
 
 ## /shop
 
 Orice jucator poate sa foloseasca aceasta comanda pentru a deschide magazinul virtual al comunitatii B-Zone (vezi magazinul in imagine), pe serverul RPG. Magazinul consta intr-un dialog cu randuri ce prezinta informatii dupa urmatorul model:
+
 - Numele produsului - Suma de gold necesara cumpararii
 
 Titlul dialogului contine cantitatea de gold pe care o detineti in acel moment. Daca detineti suficient gold pentru a cumpara un anumit produs din magazin, pretul produsului se va colora in verde, in caz contrar in rosu.

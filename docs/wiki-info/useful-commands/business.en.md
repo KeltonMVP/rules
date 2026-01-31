@@ -1,11 +1,11 @@
 # Business
 
-<img src="https://i.postimg.cc/L82zV8qn/Gsls.png" width="650px">  
-_Gun Shop Los Santos_
+<figure markdown="span">
+  ![Gun Shop LS](/images/wiki/general/Gsls.png){ width="600" }
+  <figcaption>Gun Shop LS</figcaption>
+</figure>
 
 To find out absolutely all the control commands of a business, commands whose meaning is explained on this page, use the "/businesshelp" command on the servers.
-
-Find out more information about businesses, on the [Business](/business) page.
 
 ## /bizradio
 
@@ -15,7 +15,7 @@ Also, sound playback can be stopped by the owner using this command.
 
 ## /enter
 
-The /enter command is usually used to enter buildings, in this case, businesses. The command is executed successfully (you will be able to enter the business), only if you are close enough to the door of that business.  
+The /enter command is usually used to enter buildings, in this case, businesses. The command is executed successfully (you will be able to enter the business), only if you are close enough to the door of that business.
 For a faster execution, you can use the equivalent of this command, namely the **"F"** key on your keyboard.
 
 ## /exit
@@ -28,8 +28,10 @@ After using this command, you will sell a business share to the state, the only 
 
 ## /shareholders
 
-<img src="https://i.postimg.cc/hP1cBs7Q/Viewshareholders.png" width="300px">  
-_/shareholders command interface_
+<figure markdown="span">
+  ![Shareholders](/images/wiki/general/view_shareholders.png){ width="400" }
+  <figcaption>Shareholders</figcaption>
+</figure>
 
 After using this command, you will be able to see who the shareholders of a specific business are.
 
@@ -39,7 +41,7 @@ The command has the effect of withdrawing money from the business safe, money pr
 
 To find out what amount of money you have in the business safe, type the /bizwithdraw command, without specifying the amount you want to withdraw from the safe.
 
-If you want to withdraw a certain amount of money, type the command following the model:  
+If you want to withdraw a certain amount of money, type the command following the model:
 _"/bizwithdraw 500", will withdraw $500 from the business safe._
 
 For a correct and successful execution of the command, you must be inside the business (if you can penetrate inside it), as close as possible to the exit door, or outside it, as close as possible to the entrance door.
@@ -49,6 +51,7 @@ For a correct and successful execution of the command, you must be inside the bu
 To use the command you do not have to be near the business or inside it, the command being usable anywhere you are if you are the owner of a business.
 
 By typing the command, the server will show you some details about your business:
+
 - Business level.
 - Entry fee value.
 - Total revenue.

@@ -1,18 +1,28 @@
 # Vehicule
 
-<img src="https://i.postimg.cc/7YRPjRD7/vehiccle.jpg" width="400px">
+<figure markdown="span">
+  ![Imagine Vehicul](/images/wiki/general/bullet.jpg){ width="400" }
+  <figcaption>Imagine Vehicul</figcaption>
+</figure>
 
 Oricine doreste sa aiba o masina personala frumoasa, perfect functionala si rapida, insa in aceeasi masura trebuie sa si cunoasteti cum va puteti controla propriile vehicule. Mai jos gasiti o lista cu toate comenzile pe care le puteti aplica unui vehicul:
 
 ## /vehicles
 
-<img src="https://i.postimg.cc/1Xyd6hpH/veh-menu.jpg" width="400px">
+<figure markdown="span">
+  ![Imagine Garaj](/images/wiki/general/veh_garage.jpg){ width="400" }
+  <figcaption>Imagine Garaj</figcaption>
+</figure>
 
-<img src="https://i.postimg.cc/ZqMcq7kV/veh-menu2.png" width="400px">
+<figure markdown="span">
+  ![Optiuni Vehicul](/images/wiki/general/garage_options.png){ width="400" }
+  <figcaption>Optiuni Vehicul</figcaption>
+</figure>
 
 Aceasta comanda reprezinta centrul de control al tuturor vehiculelor personale ale unui jucator. Comanda /vehicles are si alternative de accesare a centrului de control precum comenzile: **/v**, **/garage** si **/g**. Toate aceste comenzi va conduc intr-un singur loc, centrul de control.
 
 In urma folosirii uneia dintre aceste comenzi, serverul va va afisa o lista a tuturor vehiculelor detinute folosind urmatorul model:
+
 - ID-ul slotului ocupat de vehicul
 - Numele vehiculului
 - Statusul acestuia (disponibil, ocupat, ascuns)
@@ -23,17 +33,18 @@ Datorita limitarilor serverelor de SA:MP, jucatorii cu cont premium pot spawna p
 Prin selectarea unui vehicul din lista serverul va pune la dispozitie cateva optiuni cu ajutorul carora va puteti controla vehiculul.
 
 **Optiuni de control:**
+
 - **Informatii** - Iti vor fi afisate informatii precum: model, pret, status (incuiat/descuiat), culori, kilometrii, zilele masinii, asigurari, cost asigurare, id, vip.
 - **Localizeaza** - Iti va fi setat un checkpoint la pozitia vehiculului.
 - **Remorcheaza** - Vehiculul tau va fi respawnat la locul unde a fost parcat. Pretul acestui serviciu este de $200.
 - **Spawnează/Despawnează** - Cu aceasta optiune poti face ca vehiculul tau sa apara/dispara temporar de pe server.
 - **Deblochează** - Aceasta optiune poate fi folositoare in momentul in care vehiculul tau a fost parcat necorespunzator si nu mai poate fi folosit (exemplu: intr-un perete, in apa). Vehiculul va fi parcat intr-o locatie sigura. Foloseste apoi serviciul de localizare pentru a-ti gasi vehiculul.
 - **Vinde** - Prin aceasta optiune poti vinde vehiculul la DealerShip, doar daca te afli in jurul acestuia.
-- **Convertește la vehicul VIP** - Prin aceasta optiune poti converti un vehicul normal intr-un [Vehicul VIP](https://www.rpg.b-zone.ro/shop).
+- **Convertește la vehicul VIP** - Prin aceasta optiune poti converti un vehicul normal intr-un [Vehicul VIP](https://www.rpg.b-zone.ro/shop/shopProducts).
 - **Spawnare la conectare** - Prin aceasta optiune poti selecta care sa fie vehiculele care se vor spawna automat la conectarea pe server.
 - **Cumpără asigurare** - Prin aceasta optiune puteti cumpara asigurare la vehicul.
 
-In mod standard, un jucator are 4 sloturi de vehicule, acestea putand fi suplementate din [Shop](https://www.rpg.b-zone.ro/shop).
+In mod standard, un jucator are 4 sloturi de vehicule, acestea putand fi suplementate din [Shop](https://www.rpg.b-zone.ro/shop/shopProducts).
 
 ## /engine
 
@@ -61,7 +72,7 @@ Prin tastarea comenzii, proprietarul vehiculului va cumpara o asigurare pentru v
 
 ## /buyvehicle
 
-Functioneaza numai daca va aflati langa una dintre cele doua usi ale dealershipului. Odata tastata comanda, serverul va va teleporta intr-un garaj de unde puteti selecta vehiculul dorit folosind meniul pus la dispozitie. De asemenea serverul va pune la dispozitie informatii precum pretul si viteza vehiculului, va permite sa-i schimbati culorile si cel mai important, sa efectuati un test drive. Pentru mai multe detalii, acceseaza pagina [How to Buy](/vehicles/buy-vehicles).
+Functioneaza numai daca va aflati langa una dintre cele doua usi ale dealershipului. Odata tastata comanda, serverul va va teleporta intr-un garaj de unde puteti selecta vehiculul dorit folosind meniul pus la dispozitie. De asemenea serverul va pune la dispozitie informatii precum pretul si viteza vehiculului, va permite sa-i schimbati culorile si cel mai important, sa efectuati un test drive.
 
 ## /givekey
 

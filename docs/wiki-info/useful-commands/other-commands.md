@@ -16,7 +16,7 @@ Efectul acesteia este de a inchide o convorbire telefonica. Se pot utiliza ambel
 
 ### /call
 
-Se foloseste pentru a apela un jucator.  
+Se foloseste pentru a apela un jucator.
 Pentru a utiliza aceasta comanda aveti nevoie de ID-ul sau numele jucatorului pe care doriti sa-l apelati.
 
 _Exemplu: /call Madalin_
@@ -43,7 +43,7 @@ Aceasta comanda afiseaza urmatorul set de comenzi:
 
 ### /enter
 
-Comanda /enter se foloseste de obicei pentru a intra in cladiri, in cazul acesta, in case. Comanda este executata cu succes (veti reusi sa intrati in casa) numai daca va aflati destul de aproape de usa cladirii respective.  
+Comanda /enter se foloseste de obicei pentru a intra in cladiri, in cazul acesta, in case. Comanda este executata cu succes (veti reusi sa intrati in casa) numai daca va aflati destul de aproape de usa cladirii respective.
 Pentru o executie mai rapida, puteti sa folositi echivalentul aceste comenzi, si anume tasta **"F"** de pe tastatura voastra.
 
 ### /exit
@@ -52,7 +52,7 @@ Comanda /exit se foloseste de obicei pentru a iesi dintr-o cladire, in cazul ace
 
 ### /tenants
 
-Comanda va afisa atat numarul cat si numele tuturor chiariasilor online (de pe server) in momentul tastarii comenzii.  
+Comanda va afisa atat numarul cat si numele tuturor chiariasilor online (de pe server) in momentul tastarii comenzii.
 Doar chiriasii si proprietarul casei au acces la utilizarea acestei comenzi.
 
 ### /unrentroom
@@ -95,6 +95,7 @@ Aceasta comanda afiseaza comenzile pe care le poti folosi la un eveniment, iar d
 ### /event
 
 In cazul in care exista un eveniment in desfasurare in momentul tastarii comenzii veti primi urmatoarele informatii:
+
 - Titlul evenimentului aflat in desfasurare.
 - Premiul evenimentului.
 - Tipul si locatia desfasurarii acestuia.
@@ -104,7 +105,7 @@ In cazul in care exista un eveniment in desfasurare in momentul tastarii comenzi
 
 ### /requestevent
 
-Aceasta comanda reprezinta un formular de cerere pe care helperii de nivel 2 si administratorii serverului B-Zone RPG il pot citi, urmand sa va accepte sau nu cererea de organizare a unui eveniment. Pentru mai multe informatii despre aceasta comanda accesati [aceasta](/other-systems/events) pagina.
+Aceasta comanda reprezinta un formular de cerere pe care helperii de nivel 2 si administratorii serverului B-Zone RPG il pot citi, urmand sa va accepte sau nu cererea de organizare a unui eveniment.
 
 ### /join
 
@@ -120,9 +121,9 @@ Aceasta comanda afiseaza urmatorul set de comenzi:
 
 ### /members
 
-Folosind aceasta comanda, deschideti un meniu interactiv cu lista membrilor factiunii si doua optiuni separate.  
-In cadrul membrilor, puteti vedea numele acestora, ultima data cand s-au logat, rank-ul si FWarn-urile.  
-Legat de cele 2 optiuni, prima optiune este **Aplicatii Factiune**, iar folosindu-va de aceasta optiune puteti deschide aplicatiile factiunii direct din joc.  
+Folosind aceasta comanda, deschideti un meniu interactiv cu lista membrilor factiunii si doua optiuni separate.
+In cadrul membrilor, puteti vedea numele acestora, ultima data cand s-au logat, rank-ul si FWarn-urile.
+Legat de cele 2 optiuni, prima optiune este **Aplicatii Factiune**, iar folosindu-va de aceasta optiune puteti deschide aplicatiile factiunii direct din joc.
 A doua optiune este **Testele factiunii**, iar folosindu-va de aceasta optiune puteti edita unul dintre cele 2 test-loguri ale factiunii.
 
 ### /factiontest
@@ -181,7 +182,7 @@ _Nota: Membrii cu rang 6+ pot folosi comanda doar pe jucatorii care au o aplicat
 
 ### /c
 
-Comanda transmite un mesaj pe chatul [clanului](https://www.rpg.b-zone.ro/shop) din care faceti parte (doar in cazul in care faceti parte din unul).
+Comanda transmite un mesaj pe chatul clanului din care faceti parte (doar in cazul in care faceti parte din unul).
 
 _Exemplu: "/c mesaj"_
 
@@ -242,8 +243,6 @@ Comanda afiseaza toti liderii de clan care sunt pe server in acel moment.
 Aceasta comanda pune interdictie din a mai folosi comanda /c pentru un anumit rang. (minim rang 5+)
 
 ### /topclan
-
-<img src="https://i.postimg.cc/fRB6X9pX/clan-top.png" width="300px">
 
 Comanda afiseaza topul clanurilor detinатoare de turfuri.
 

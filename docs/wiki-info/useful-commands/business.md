@@ -1,11 +1,11 @@
 # Afaceri
 
-<img src="https://i.postimg.cc/L82zV8qn/Gsls.png" width="650px">  
-_Gun Shop Los Santos_
+<figure markdown="span">
+  ![Gun Shop LS](/images/wiki/general/Gsls.png){ width="600" }
+  <figcaption>Gun Shop LS</figcaption>
+</figure>
 
 Pentru a afla absolut toate comenzile de control ale unui biz, comenzi a caror semnificatie este explicata in aceasta pagina, folositi pe servere comanda "/businesshelp".
-
-Afla mai multe informatii despre bizuri, pe pagina [Bizuri](/business).
 
 ## /bizradio
 
@@ -15,7 +15,7 @@ De asemenea, redarea sunetului poate fi oprita de catre proprietar folosind acea
 
 ## /enter
 
-Comanda /enter se foloseste de obicei pentru a intra in cladiri, in cazul acesta, in bizuri. Comanda este executata cu succes (veti reusi sa intrati in biz), numai daca va aflati destul de aproape de usa bizului respectiv.  
+Comanda /enter se foloseste de obicei pentru a intra in cladiri, in cazul acesta, in bizuri. Comanda este executata cu succes (veti reusi sa intrati in biz), numai daca va aflati destul de aproape de usa bizului respectiv.
 Pentru o executie mai rapida, puteti sa folositi echivalentul aceste comenzi si anume tasta **"F"** de pe tastatura voastra.
 
 ## /exit
@@ -28,8 +28,10 @@ In urma utilizarii acestei comenzi, veti vinde o actiune a bizului catre stat, s
 
 ## /shareholders
 
-<img src="https://i.postimg.cc/hP1cBs7Q/Viewshareholders.png" width="300px">  
-_Interfata comenzii /shareholders_
+<figure markdown="span">
+  ![Shareholders](/images/wiki/general/view_shareholders.png){ width="400" }
+  <figcaption>Shareholders</figcaption>
+</figure>
 
 In urma utilizarii acestei comenzi, veti putea vedea care sunt actionarii unei afaceri specifice.
 
@@ -39,7 +41,7 @@ Comanda are ca efect sustragerea banilor din seiful bizului, bani produsi din ta
 
 Pentru a afla ce suma de bani detineti in seiful bizului, tastati comanda /bizwithdraw, fara a specifica suma pe care doriti sa o sustrageti din seif.
 
-Daca doriti sa sustrageti o anumita suma de bani, tastati comanda dupa modelul urmator:  
+Daca doriti sa sustrageti o anumita suma de bani, tastati comanda dupa modelul urmator:
 _"/bizwithdraw 500", va sustrage $500 din seiful bizului._
 
 Pentru o executie corecta si cu succes a comenzii, trebuie sa va aflati in interiorul bizului (in cazul in care se poate patrunde in interiorul acestuia), cat mai aproape de usa iesirii, sau in exteriorul acestuia, cat mai aproape de usa intrarii.
@@ -49,6 +51,7 @@ Pentru o executie corecta si cu succes a comenzii, trebuie sa va aflati in inter
 Pentru utilizarea comenzii nu trebuie sa va aflati langa biz sau in interiorul acestuia, comanda fiind utilizabila oriunde v-ati afla daca sunteti proprietarul unui biz.
 
 Prin tastarea comenzii, serverul va va arata cateva detalii despre bizul vostru:
+
 - Nivelul bizului.
 - Valoarea taxei de intrare.
 - Totalul veniturilor.

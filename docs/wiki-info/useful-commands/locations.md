@@ -5,6 +5,7 @@ Serverul B-Zone RPG dispune de o singura comanda ce cuprinde absolut toate locat
 ## /locations | /gps
 
 Folosind aceasta comanda, serverul va va afisa un chenar ce cuprinde 10 elemente:
+
 - Locatii importante
 - HQ-urile factiunilor
 - Case
@@ -16,22 +17,26 @@ Folosind aceasta comanda, serverul va va afisa un chenar ce cuprinde 10 elemente
 - Magazine de haine
 - Magazine de mancare
 
-<img src="https://i.imgur.com/5P2YTtJ.png" style="width: 300px;background: rgb(247, 247, 247);border: 0.5px solid #BDBDBD;padding: 0px, 0px, 10px, 0px;">
+<img src="https://i.postimg.cc/TKmjFwTp/5P2YTt-J.png" style="width: 300px;background: rgb(247, 247, 247);border: 0.5px solid #BDBDBD;padding: 0px, 0px, 10px, 0px;">
 
 ### Locatii importante
 
-In cazul in care selectati primul element din lista, o sa va fie afisata o lista cu toate locatiile importante ale serverului.  
+In cazul in care selectati primul element din lista, o sa va fie afisata o lista cu toate locatiile importante ale serverului.
+
 _Exemplu: Banci, CNN-uri, Magazine de arme, DMV, Primarie, etc._
 
-<img src="https://i.postimg.cc/fLwFp7Lf/locations2.png" width="300px">  
+<img src="https://i.postimg.cc/v1bnKtPt/Locations2.png" width="300px">
+
 _Locatii importante_
 
 ### HQ-uri Factiuni
 
-In cazul in care selectati al doilea element din lista, o sa va fie afisata o lista cu toate sediile ale factiunilor serverului.  
+In cazul in care selectati al doilea element din lista, o sa va fie afisata o lista cu toate sediile ale factiunilor serverului.
+
 _Exemplu: 69 Pier Mobs HQ, Hitmen Agency HQ, Tow Truck Company HQ, National Guard HQ._
 
-<img src="https://i.postimg.cc/vTFsmHsG/locations3.png" width="300px">  
+<img src="https://i.postimg.cc/wRyRNfvv/Locations3.png" width="300px">
+
 _Sedii Factiuni_
 
 ### Case
@@ -48,7 +53,8 @@ In cazul in care selectati al patrulea element din lista, o sa va fie afisat un 
 
 ### HQ-uri Clanuri
 
-In cazul in care selectati al cincelea element din lista, o sa va fie afisat un dialog in care va trebui sa selectati clanul pe care doriti sa-l localizati.  
+In cazul in care selectati al cincelea element din lista, o sa va fie afisat un dialog in care va trebui sa selectati clanul pe care doriti sa-l localizati.
+
 _Nota: Pentru mai multe informatii despre id-urile clan hq-urilor se foloseste comanda [/clanhqs]._
 
 <img src="https://i.postimg.cc/c4z4jLX0/gta-sa-Kl-YO7M3XFs.png" width="400px">

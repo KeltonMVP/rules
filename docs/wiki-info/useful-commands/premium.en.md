@@ -1,13 +1,16 @@
 # Premium
 
-<img src="https://i.postimg.cc/WbdZGR87/cmd-shop.jpg" width="300px">  
-_/shop Interface_
+<figure markdown="span">
+  ![Shop Interface](/images/wiki/general/shop_interface.jpg){ width="400" }
+  <figcaption>Shop Interface</figcaption>
+</figure>
 
 This category of commands uses exclusively the server's real currency (gold), so please use them carefully to avoid unwanted situations.
 
 ## /shop
 
 Any player can use this command to open the B-Zone community's virtual store (see the store in the image), on the RPG server. The store consists of a dialog with rows that present information following the model:
+
 - Product name - Amount of gold required for purchase
 
 The dialog title contains the amount of gold you have at that moment. If you have enough gold to buy a certain product from the store, the product's price will be colored green, otherwise red.

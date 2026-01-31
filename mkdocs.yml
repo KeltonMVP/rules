@@ -17,7 +17,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.tracking
-    - navigation.expand
+    # - navigation.expand
     - search.highlight
     - search.share
     - search.suggest

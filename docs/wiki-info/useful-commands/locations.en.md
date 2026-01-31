@@ -5,6 +5,7 @@ The B-Zone RPG server has a single command that includes absolutely all importan
 ## /locations | /gps
 
 Using this command, the server will display a frame that includes 10 elements:
+
 - Important locations
 - Faction HQs
 - Houses
@@ -16,22 +17,25 @@ Using this command, the server will display a frame that includes 10 elements:
 - Clothing stores
 - Food stores
 
-<img src="https://i.imgur.com/5P2YTtJ.png" style="width: 300px;background: rgb(247, 247, 247);border: 0.5px solid #BDBDBD;padding: 0px, 0px, 10px, 0px;">
+<img src="https://i.postimg.cc/TKmjFwTp/5P2YTt-J.png" style="width: 300px;background: rgb(247, 247, 247);border: 0.5px solid #BDBDBD;padding: 0px, 0px, 10px, 0px;">
 
 ### Important locations
 
-If you select the first element from the list, you will be shown a list of all important server locations.  
+If you select the first element from the list, you will be shown a list of all important server locations.
+
 _Example: Banks, CNNs, Gun shops, DMV, City Hall, etc._
 
-<img src="https://i.postimg.cc/fLwFp7Lf/locations2.png" width="300px">  
+<img src="https://i.postimg.cc/v1bnKtPt/Locations2.png" width="300px">
+
 _Important locations_
 
 ### Faction HQs
 
-If you select the second element from the list, you will be shown a list of all server faction headquarters.  
+If you select the second element from the list, you will be shown a list of all server faction headquarters.
 _Example: 69 Pier Mobs HQ, Hitmen Agency HQ, Tow Truck Company HQ, National Guard HQ._
 
-<img src="https://i.postimg.cc/vTFsmHsG/locations3.png" width="300px">  
+<img src="https://i.postimg.cc/wRyRNfvv/Locations3.png" width="300px">
+
 _Faction Headquarters_
 
 ### Houses
@@ -48,7 +52,8 @@ If you select the fourth element from the list, you will be shown a dialog in wh
 
 ### Clan HQs
 
-If you select the fifth element from the list, you will be shown a dialog in which you must select the clan you want to locate.  
+If you select the fifth element from the list, you will be shown a dialog in which you must select the clan you want to locate.
+
 _Note: For more information about clan HQ IDs, use the [/clanhqs] command._
 
 <img src="https://i.postimg.cc/c4z4jLX0/gta-sa-Kl-YO7M3XFs.png" width="400px">

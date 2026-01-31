@@ -16,7 +16,7 @@ The effect of this is to close a phone conversation. Both variants can be used: 
 
 ### /call
 
-It is used to call a player.  
+It is used to call a player.
 To use this command you need the ID or name of the player you want to call.
 
 _Example: /call Madalin_
@@ -43,7 +43,7 @@ This command displays the following set of commands:
 
 ### /enter
 
-The /enter command is usually used to enter buildings, in this case, houses. The command is executed successfully (you will be able to enter the house) only if you are close enough to the door of that building.  
+The /enter command is usually used to enter buildings, in this case, houses. The command is executed successfully (you will be able to enter the house) only if you are close enough to the door of that building.
 For a faster execution, you can use the equivalent of this command, namely the **"F"** key on your keyboard.
 
 ### /exit
@@ -52,7 +52,7 @@ The /exit command is usually used to exit a building, in this case, a house. The
 
 ### /tenants
 
-The command will display both the number and names of all tenants online (on the server) at the time of typing the command.  
+The command will display both the number and names of all tenants online (on the server) at the time of typing the command.
 Only tenants and the house owner have access to use this command.
 
 ### /unrentroom
@@ -95,6 +95,7 @@ This command displays the commands you can use at an event, and if you are the o
 ### /event
 
 If there is an ongoing event at the time of typing the command, you will receive the following information:
+
 - The title of the ongoing event.
 - The event prize.
 - The type and location of its deployment.
@@ -104,7 +105,7 @@ If there is an ongoing event at the time of typing the command, you will receive
 
 ### /requestevent
 
-This command represents a request form that level 2 helpers and B-Zone RPG server administrators can read, who will accept or not your request to organize an event. For more information about this command, access [this](/other-systems/events) page.
+This command represents a request form that level 2 helpers and B-Zone RPG server administrators can read, who will accept or not your request to organize an event.
 
 ### /join
 
@@ -120,9 +121,9 @@ This command displays the following set of commands:
 
 ### /members
 
-Using this command, you open an interactive menu with the faction members list and two separate options.  
-Within the members, you can see their names, the last time they logged in, rank and FWarns.  
-Regarding the 2 options, the first option is **Faction Applications**, and using this option you can open the faction applications directly in the game.  
+Using this command, you open an interactive menu with the faction members list and two separate options.
+Within the members, you can see their names, the last time they logged in, rank and FWarns.
+Regarding the 2 options, the first option is **Faction Applications**, and using this option you can open the faction applications directly in the game.
 The second option is **Faction Tests**, and using this option you can edit one of the 2 test logs of the faction.
 
 ### /factiontest
@@ -181,7 +182,7 @@ _Note: Members with rank 6+ can only use the command on players who have an acce
 
 ### /c
 
-The command transmits a message on the [clan](https://www.rpg.b-zone.ro/shop) chat you are part of (only if you are part of one).
+The command transmits a message on the clan chat you are part of (only if you are part of one).
 
 _Example: "/c message"_
 
@@ -242,8 +243,6 @@ The command displays all clan leaders who are on the server at that moment.
 This command prohibits using the /c command for a certain rank. (minimum rank 5+)
 
 ### /topclan
-
-<img src="https://i.postimg.cc/fRB6X9pX/clan-top.png" width="300px">
 
 The command displays the top clans holding turfs.
 

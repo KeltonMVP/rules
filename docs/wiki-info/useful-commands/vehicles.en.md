@@ -1,18 +1,28 @@
 # Vehicles
 
-<img src="https://i.postimg.cc/7YRPjRD7/vehiccle.jpg" width="400px">
+<figure markdown="span">
+  ![Vehicle Image](/images/wiki/general/bullet.jpg){ width="400" }
+  <figcaption>Vehicle Image</figcaption>
+</figure>
 
 Everyone wants to have a beautiful, perfectly functional and fast personal car, but at the same time you must also know how you can control your own vehicles. Below you will find a list of all commands you can apply to a vehicle:
 
 ## /vehicles
 
-<img src="https://i.postimg.cc/1Xyd6hpH/veh-menu.jpg" width="400px">
+<figure markdown="span">
+  ![Garage Image](/images/wiki/general/veh_garage.jpg){ width="400" }
+  <figcaption>Garage Image</figcaption>
+</figure>
 
-<img src="https://i.postimg.cc/ZqMcq7kV/veh-menu2.png" width="400px">
+<figure markdown="span">
+  ![Vehicle Options](/images/wiki/general/garage_options.png){ width="400" }
+  <figcaption>Vehicle Options</figcaption>
+</figure>
 
 This command represents the control center of all personal vehicles of a player. The /vehicles command also has alternatives for accessing the control center such as commands: **/v**, **/garage** and **/g**. All these commands lead to a single place, the control center.
 
 After using one of these commands, the server will display a list of all owned vehicles using the following model:
+
 - ID of the slot occupied by the vehicle
 - Vehicle name
 - Its status (available, occupied, hidden)
@@ -23,17 +33,18 @@ Due to SA:MP server limitations, players with premium accounts can spawn up to 8
 By selecting a vehicle from the list, the server provides you with several options with which you can control the vehicle.
 
 **Control options:**
+
 - **Information** - Information will be displayed such as: model, price, status (locked/unlocked), colors, kilometers, vehicle days, insurance, insurance cost, id, vip.
 - **Locate** - A checkpoint will be set at the vehicle's position.
 - **Tow** - Your vehicle will be respawned at the place where it was parked. The price of this service is $200.
 - **Spawn/Despawn** - With this option you can make your vehicle appear/disappear temporarily from the server.
 - **Unblock** - This option can be useful when your vehicle has been parked improperly and can no longer be used (example: in a wall, in water). The vehicle will be parked in a safe location. Then use the location service to find your vehicle.
 - **Sell** - Through this option you can sell the vehicle at DealerShip, only if you are around it.
-- **Convert to VIP vehicle** - Through this option you can convert a normal vehicle into a [VIP Vehicle](https://www.rpg.b-zone.ro/shop).
+- **Convert to VIP vehicle** - Through this option you can convert a normal vehicle into a [VIP Vehicle](https://www.rpg.b-zone.ro/shop/shopProducts).
 - **Spawn on login** - Through this option you can select which vehicles will spawn automatically when connecting to the server.
 - **Buy insurance** - Through this option you can buy insurance for the vehicle.
 
-By default, a player has 4 vehicle slots, these can be supplemented from the [Shop](https://www.rpg.b-zone.ro/shop).
+By default, a player has 4 vehicle slots, these can be supplemented from the [Shop](https://www.rpg.b-zone.ro/shop/shopProducts).
 
 ## /engine
 
@@ -61,7 +72,7 @@ By typing the command, the vehicle owner will buy insurance for the vehicle they
 
 ## /buyvehicle
 
-It only works if you are near one of the two dealership doors. Once the command is typed, the server will teleport you into a garage from where you can select the desired vehicle using the menu provided. The server also provides information such as the vehicle's price and speed, allows you to change its colors and most importantly, to do a test drive. For more details, access the [How to Buy](/vehicles/buy-vehicles) page.
+It only works if you are near one of the two dealership doors. Once the command is typed, the server will teleport you into a garage from where you can select the desired vehicle using the menu provided. The server also provides information such as the vehicle's price and speed, allows you to change its colors and most importantly, to do a test drive.
 
 ## /givekey
 
