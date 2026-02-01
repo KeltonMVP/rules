@@ -1,11 +1,7 @@
 # Vehicule Gold
 
 <figure markdown="span">
-    ![Premium Logo](../../images/wiki/shop/PremiumLogo.png){ width=200" }
-</figure>
-
-<figure markdown="span">
-    ![Interfata Dealership-ului premium](../../images/wiki/shop/Premiumdealership.png){ width=500" }
+    ![Interfata Dealership-ului premium](../../images/wiki/general/Premiumdealership.png){ width=500" }
     <figcaption>Interfata Dealership-ului premium</figcaption>
 </figure>
 
@@ -22,7 +18,7 @@ Pentru lista completa a vehiculelor Gold disponibile in DealerShip, inclusiv pre
 ### Exemple de vehicule disponibile:
 
 - **Buffalo** - 2.149 Gold
-- **Premier** - 299 Gold  
+- **Premier** - 299 Gold
 - **Sabre** - 1.699 Gold
 - **Comet** - 1.949 Gold
 - **Sandking** - 1.599 Gold
@@ -52,7 +48,7 @@ Pentru lista completa a vehiculelor Gold disponibile in DealerShip, inclusiv pre
 
 ## Legenda
 
-- **Pret DealerShip (Gold)** - pretul bunului cumparat cu Gold in DealerShip-ul de pe shop.
+- **Pret Dealership (Gold)** - pretul bunului cumparat cu Gold in DealerShip-ul de pe shop.
 - **Dealership Gold refund** - Suma de bani pe care o primesti in cazul in care iti vinzi masina DealerShip-ului (/v -> vehicul -> vinde).
 - **Viteza maxima** - Viteza maxima pe care vehiculul o poate atinge.
 - **Provenit din** - Nume de masini reale asociate prin asemamete cu cele din San Andreas.

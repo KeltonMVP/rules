@@ -1,12 +1,12 @@
 # Culoare Clan
 
 <figure markdown="span">
-    ![Schimbare Gratuita](../../images/wiki/shop/ClanColor.png){ width=400" }
+    ![Schimbare Gratuita](../../images/wiki/general/ClanColor.png){ width=400" }
     <figcaption>Schimbare Gratuita</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Schimbare Platita](../../images/wiki/shop/ClanColorGold.png){ width=400" }
+    ![Schimbare Platita](../../images/wiki/general/ClanColorGold.png){ width=400" }
     <figcaption>Schimbare Platita</figcaption>
 </figure>
 

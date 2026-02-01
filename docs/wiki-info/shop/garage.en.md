@@ -1,22 +1,22 @@
 # Garage
 
 <figure markdown="span">
-    ![Garages available on /shop](../../images/wiki/shop/Shopgarage.png){ width=450" }
+    ![Garages available on /shop](/images/wiki/general/Shopgarage.png){ width=450" }
     <figcaption>Garages available on /shop</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Garage entrance](../../images/wiki/shop/Garage.png){ width=500" }
+    ![Garage entrance](/images/wiki/general/Garage.png){ width=500" }
     <figcaption>Garage entrance</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Garage interior](../../images/wiki/shop/Garageinterior.png){ width=500" }
+    ![Garage interior](/images/wiki/general/Garageinterior.png){ width=500" }
     <figcaption>Garage interior</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Cars in garage on /v](../../images/wiki/shop/Garagev.png){ width=500" }
+    ![Cars in garage on /v](/images/wiki/general/Garagev.png){ width=500" }
     <figcaption>Cars in garage on /v</figcaption>
 </figure>
 

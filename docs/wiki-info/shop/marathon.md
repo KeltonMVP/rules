@@ -1,22 +1,22 @@
 # Maraton
 
 <figure markdown="span">
-    ![Interfata maratonului](../../images/wiki/shop/Maraton.png){ width=400" }
+    ![Interfata maratonului](/images/wiki/general/Maraton.png){ width=400" }
     <figcaption>Interfata maratonului</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Premii revendicate](../../images/wiki/shop/MaratonPro.png){ width=400" }
+    ![Premii revendicate](/images/wiki/general/MaratonPro.png){ width=400" }
     <figcaption>Premii revendicate</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Bara de progres](../../images/wiki/shop/MaratonProgres.png){ width=400" }
+    ![Bara de progres](/images/wiki/general/MaratonProgres.png){ width=400" }
     <figcaption>Bara de progres</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Optiunea de Complete](../../images/wiki/shop/MaratonComplete.png){ width=400" }
+    ![Optiunea de Complete](/images/wiki/general/MaratonComplete.png){ width=400" }
     <figcaption>Optiunea de Complete</figcaption>
 </figure>
 

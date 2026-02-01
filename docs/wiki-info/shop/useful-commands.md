@@ -1,7 +1,7 @@
 # Comenzi Utile
 
 <figure markdown="span">
-    ![Interfata /shop](../../images/wiki/shop/cmd_shop.jpg){ width=300" }
+    ![Interfata /shop](/images/wiki/general/Cmd_shop.jpg){ width=300" }
     <figcaption>Interfata /shop</figcaption>
 </figure>
 

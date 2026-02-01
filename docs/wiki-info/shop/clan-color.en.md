@@ -1,12 +1,12 @@
 # Clan Color
 
 <figure markdown="span">
-    ![Free Change](../../images/wiki/shop/ClanColor.png){ width=400" }
+    ![Free Change](../../images/wiki/general/ClanColor.png){ width=400" }
     <figcaption>Free Change</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Paid Change](../../images/wiki/shop/ClanColorGold.png){ width=400" }
+    ![Paid Change](../../images/wiki/general/ClanColorGold.png){ width=400" }
     <figcaption>Paid Change</figcaption>
 </figure>
 

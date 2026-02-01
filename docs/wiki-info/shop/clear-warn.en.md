@@ -1,7 +1,7 @@
 # Clear Warn
 
 <figure markdown="span">
-    ![Warning](../../images/wiki/shop/warning.gif){ width=250" }
+    ![Warning](/images/wiki/general/Warning.gif){ width=250" }
 </figure>
 
 Are you upset that other players no longer trust you because you received warnings (warns) from the RPG server administrators? No problem, open the community shop (/shop) and get rid of unwanted warnings in a few simple steps.

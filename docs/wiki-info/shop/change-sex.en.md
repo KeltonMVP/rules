@@ -1,7 +1,7 @@
 # Change Sex
 
 <figure markdown="span">
-    ![Sex symbol](../../images/wiki/shop/sex_symbol.jpg){ width=400" }
+    ![Sex symbol](/images/wiki/general/Sex_symbol.jpg){ width=400" }
 </figure>
 
 B-Zone emphasizes reality and tries to bring reality into the game. In the real world, there are many examples of people who have changed their sex. Sex change is possible nowadays and as written above, B-Zone brings reality to you, so in-game on the community shop list (/shop) there is the possibility to change your sex.

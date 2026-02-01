@@ -1,12 +1,12 @@
 # Private Frequency
 
 <figure markdown="span">
-    ![Menu /myfreq](../../images/wiki/shop/Myfreq.png){ width=500" }
+    ![Menu /myfreq](/images/wiki/general/Myfreq.png){ width=500" }
     <figcaption>Menu /myfreq</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Choosing a frequency](../../images/wiki/shop/Buyfreq.png){ width=550" }
+    ![Choosing a frequency](/images/wiki/general/Buyfreq.png){ width=550" }
     <figcaption>Choosing a frequency</figcaption>
 </figure>
 

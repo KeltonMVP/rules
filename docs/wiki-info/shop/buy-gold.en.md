@@ -1,7 +1,7 @@
 # Buy Gold
 
 <figure markdown="span">
-    ![Gold shop B-Zone](../../images/wiki/shop/gold_shop_bzone.png){ width=300" }
+    ![Gold shop B-Zone](/images/wiki/general/Gold_shop_bzone.png){ width=300" }
 </figure>
 
 The main source of obtaining gold (the premium currency of the B-Zone RPG server) is represented by [RPG Website](http://rpg.b-zone.ro).

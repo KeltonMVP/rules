@@ -1,7 +1,7 @@
 # Discounts
 
 <figure markdown="span">
-    ![Discount logo](../../images/wiki/shop/discount_logo.png){ width=200" }
+    ![Discount logo](/images/wiki/general/Discount_logo.png){ width=200" }
 </figure>
 
 Each item purchasable using the premium currency, gold, has a standard price, but there are periods of time when these items are cheaper than the preset price.

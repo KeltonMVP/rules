@@ -1,7 +1,7 @@
 # Change Nickname
 
 <figure markdown="span">
-    ![Name change](../../images/wiki/shop/name_change.jpg){ width=400" }
+    ![Name change](/images/wiki/general/Name_change.jpg){ width=400" }
 </figure>
 
 Do you need a new identity? The community shop is always at your disposal (/shop).

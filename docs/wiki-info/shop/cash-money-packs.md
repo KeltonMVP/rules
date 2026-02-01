@@ -1,7 +1,7 @@
 # Pachete de Bani Cash
 
 <figure markdown="span">
-    ![Pachete de bani](../../images/wiki/shop/money_pack.jpg){ width=400" }
+    ![Pachete de bani](../../images/wiki/general/Money_pack.jpg){ width=400" }
 </figure>
 
 Poti sa devii un om important, bogat si care atrage multe priviri doar in cativa pasi simplii. Magazinul comunitatii B-Zone (/shop) te imbogateste!

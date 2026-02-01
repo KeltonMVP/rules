@@ -1,7 +1,7 @@
 # Vehicle KM Reset
 
 <figure markdown="span">
-    ![KM Reset](../../images/wiki/shop/km-reset_FPD_MOD.jpg){ width=250" }
+    ![KM Reset](/images/wiki/general/Km-reset_FPD_MOD.jpg){ width=250" }
 </figure>
 
 To get rid of the multitude of kilometers traveled with your vehicle and to increase your chances of someone being attracted to it and buying it, you need a small technical adjustment. Reset your vehicle's mileage to **0** and it will become like new! No one will know that your vehicle is not new.

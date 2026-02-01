@@ -1,9 +1,5 @@
 # Stergere Faction Punish
 
-<figure markdown="span">
-    ![FP Logo](../../images/wiki/shop/fp_loogo.jpg){ width=400" }
-</figure>
-
 Daca ai nevoie sa intri intr-o anumita factiune alaturi de prietenii tai, insa pedeapsa din ultima factiune (Faction Punish) nu-ti permite asta, atunci acceseaza rapid magazinul comunitatii B-Zone si scapa de acest incident neplacut.
 
 !!! note "Nota"

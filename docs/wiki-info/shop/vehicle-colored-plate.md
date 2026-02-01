@@ -1,7 +1,7 @@
 # Placuta de Inmatriculare Colorata
 
 <figure markdown="span">
-    ![Vehicul cu Placuta de Inmatriculare colorata](../../images/wiki/shop/colored_plate.jpg){ width=550" }
+    ![Vehicul cu Placuta de Inmatriculare colorata](/images/wiki/general/colored_plate.jpg){ width=550" }
     <figcaption>Vehicul cu Placuta de Inmatriculare colorata</figcaption>
 </figure>
 
@@ -15,8 +15,8 @@ Numarul de inmatriculoare colorat are urmatoarele caracteristici:
 
 - Numarul de inmatriculare colorat poate fi adaugat pe orice vehicul detinut, indiferent daca este premium sau nu.
 - Numarul de inmatriculare colorat poate avea o singura culoare, nu se poate colora pe portiuni.
-    - **RPG B-ZONE**
-    - **B-ZONE COMMUNITY**
+    - **<span style="color:red;">RPG B-ZONE</span>**
+    - **<span style="color:red;">B-ZONE COMMUNITY</span>**
 - In text-ul placutei de inmatriculoare colorate **NU** se vor putea folosi caractere speciale.
 - Numarul de inmatriculoare colorat nu poate fi stilizat.
     - Nu poate fi facut bold, italic, underline, etc.

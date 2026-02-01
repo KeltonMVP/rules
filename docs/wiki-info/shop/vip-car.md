@@ -1,17 +1,17 @@
 # VIP Car
 
 <figure markdown="span">
-    ![Convertirea in vehicul VIP](../../images/wiki/shop/Convertvip.png){ width=400" }
+    ![Convertirea in vehicul VIP](../../images/wiki/general/Convertvip.png){ width=400" }
     <figcaption>Convertirea in vehicul VIP</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Meniul de vehicule](../../images/wiki/shop/Vipmenu.png){ width=400" }
+    ![Meniul de vehicule](../../images/wiki/general/Vipmenu.png){ width=400" }
     <figcaption>Meniul de vehicule</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Meniul de editare vehicul VIP](../../images/wiki/shop/Editvip.png){ width=400" }
+    ![Meniul de editare vehicul VIP](../../images/wiki/general/Editvip.png){ width=400" }
     <figcaption>Meniul de editare vehicul VIP</figcaption>
 </figure>
 

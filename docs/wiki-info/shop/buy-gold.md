@@ -1,7 +1,7 @@
 # Cumparare Gold
 
 <figure markdown="span">
-    ![Gold shop B-Zone](../../images/wiki/shop/gold_shop_bzone.png){ width=300" }
+    ![Gold shop B-Zone](/images/wiki/general/Gold_shop_bzone.png){ width=300" }
 </figure>
 
 Principala sursa de procurare a goldului (moneda premium a serverului B-Zone RPG) este reprezentata de [RPG Website](http://rpg.b-zone.ro).

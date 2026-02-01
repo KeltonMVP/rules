@@ -1,7 +1,7 @@
 # Vehicle Age
 
 <figure markdown="span">
-    ![Vehicle age](../../images/wiki/shop/Vehicleage.png){ width=550" }
+    ![Vehicle age](/images/wiki/general/Vehicleage.png){ width=550" }
 </figure>
 
 To increase the value of your vehicle and to increase your chances of someone being attracted to it and buying it at a higher price than the DealerShip, it must have something special. Buy extra days for your vehicle and it will become much more valuable! No one will know that you bought days for your vehicle, so it can remain a secret.

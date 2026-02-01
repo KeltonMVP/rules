@@ -1,7 +1,7 @@
 # Hidden Color
 
 <figure markdown="span">
-    ![Hidden Color Menu](../../images/wiki/shop/hidden_menu.jpg){ width=400" }
+    ![Hidden Color Menu](../../images/wiki/general/Hidden_menu.jpg){ width=400" }
 </figure>
 
 Daca doresti un vehicul stralucitor cu o culoare aparte, speciala, deosebita fata de a tuturor celorlalti, atunci trebuie sa-ti cumperi un set de culori ascunse (hidden) pentru vehiculul tau.
@@ -31,3 +31,6 @@ In doar cativa pasi simplii, vehiculul tau poate sa dispuna de un astfel de set 
 8. Pentru a intra in meniul de selectare a setului de culori ascunse (hidden), trebuie sa tastati comanda **/hiddencolor** aflandu-va langa bizul CarColor.
 9. Dupa terminarea selectarii celor doua culori ascunse, apasati butonul **Buy Color**.
 10. **Felicitari!** Aveti un vehicul mai frumos.
+
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6trHsbrhig" frameborder="0" allowfullscreen></iframe>

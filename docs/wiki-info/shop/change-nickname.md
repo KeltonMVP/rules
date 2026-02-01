@@ -1,7 +1,7 @@
 # Schimbare Nickname
 
 <figure markdown="span">
-    ![Schimbare nume](../../images/wiki/shop/name_change.jpg){ width=400" }
+    ![Schimbare nume](/images/wiki/general/Name_change.jpg){ width=400" }
 </figure>
 
 Ai nevoie de o noua identitate? Magazinul comunitatii iti sta la dispozitie intotdeauna (/shop).

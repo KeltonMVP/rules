@@ -1,22 +1,22 @@
 # Clan HQ Interior
 
 <figure markdown="span">
-    ![Clan information](../../images/wiki/shop/ClanInfo.png){ width=400" }
+    ![Clan information](/images/wiki/general/ClanInfo.png){ width=400" }
     <figcaption>Clan information</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![HQ Interior purchase from shop](../../images/wiki/shop/ClanHQinterior.png){ width=400" }
+    ![HQ Interior purchase from shop](/images/wiki/general/ClanHQinterior.png){ width=400" }
     <figcaption>HQ Interior purchase from shop</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Select new Interior](../../images/wiki/shop/NewClanInterior.png){ width=400" }
+    ![Select new Interior](/images/wiki/general/NewClanInterior.png){ width=400" }
     <figcaption>Select new Interior</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Confirm new Interior](../../images/wiki/shop/ClanHQInteriorConfirm.png){ width=400" }
+    ![Confirm new Interior](/images/wiki/general/ClanHQInteriorConfirm.png){ width=400" }
     <figcaption>Confirm new Interior</figcaption>
 </figure>
 

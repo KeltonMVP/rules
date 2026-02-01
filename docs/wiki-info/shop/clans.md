@@ -1,7 +1,7 @@
 # Clanuri
 
 <figure markdown="span">
-    ![Spray clan](../../images/wiki/shop/clan_spray.jpg){ width=400" }
+    ![Spray clan](../../images/wiki/general/Clan_spray.jpg){ width=400" }
 </figure>
 
 Serverele B-Zone gazduiesc un numar considerabil de jucatori, fapt pentru care acestia se grupeaza intre ei si formeaza echipe de prieteni. De ce sa nu fiti si mai aproape unul de celalalt? Aveti la dispozitie un sistem ingenios pentru a va crea propria grupa sub un nume si un tag ales de catre voi, clanul. In clan exista o multitudine de activitati si cel mai important este ca oricine poate sa aiba propriul clan. Urmareste detaliile de mai jos si vei afla mai multe.

@@ -1,7 +1,7 @@
 # Clans
 
 <figure markdown="span">
-    ![Clan spray](../../images/wiki/shop/clan_spray.jpg){ width=400" }
+    ![Clan spray](../../images/wiki/general/Clan_spray.jpg){ width=400" }
 </figure>
 
 B-Zone servers host a considerable number of players, which is why they group together and form teams of friends. Why not be even closer to each other? You have an ingenious system at your disposal to create your own group under a name and tag chosen by you, the clan. In the clan, there are a multitude of activities and most importantly, anyone can have their own clan. Follow the details below and you will learn more.

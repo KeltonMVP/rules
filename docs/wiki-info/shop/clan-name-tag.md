@@ -1,17 +1,17 @@
 # Nume si Tag Clan
 
 <figure markdown="span">
-    ![Dialog confirmare](../../images/wiki/shop/ClanName.png){ width=400" }
+    ![Dialog confirmare](../../images/wiki/general/ClanName.png){ width=400" }
     <figcaption>Dialog confirmare</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Selectare nume nou](../../images/wiki/shop/ClanNewName.png){ width=400" }
+    ![Selectare nume nou](../../images/wiki/general/ClanNewName.png){ width=400" }
     <figcaption>Selectare nume nou</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Selectare TAG nou](../../images/wiki/shop/ClanTag.png){ width=400" }
+    ![Selectare TAG nou](../../images/wiki/general/ClanTag.png){ width=400" }
     <figcaption>Selectare TAG nou</figcaption>
 </figure>
 

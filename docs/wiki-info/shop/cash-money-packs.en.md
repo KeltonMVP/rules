@@ -1,7 +1,7 @@
 # Cash Money Packs
 
 <figure markdown="span">
-    ![Money packs](../../images/wiki/shop/money_pack.jpg){ width=400" }
+    ![Money packs](../../images/wiki/general/Money_pack.jpg){ width=400" }
 </figure>
 
 You can become an important, rich person who attracts a lot of attention in just a few simple steps. The B-Zone community shop (/shop) makes you rich!

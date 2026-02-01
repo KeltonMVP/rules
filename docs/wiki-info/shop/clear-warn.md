@@ -1,7 +1,7 @@
 # Stergere Warn
 
 <figure markdown="span">
-    ![Warning](../../images/wiki/shop/warning.gif){ width=250" }
+    ![Warning](/images/wiki/general/Warning.gif){ width=250" }
 </figure>
 
 Esti suparat ca alti jucatori nu mai au incredere in tine pentru ca ai primit avertizari (warns) din partea administratorilor servarului RPG? Nicio problema, deschide magazinul comunitatii (/shop) si scapa de avertizarile nedorite in cativa pasi simpli.

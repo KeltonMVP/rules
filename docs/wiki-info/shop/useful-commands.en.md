@@ -1,7 +1,7 @@
 # Useful Commands
 
 <figure markdown="span">
-    ![Interface /shop](../../images/wiki/shop/cmd_shop.jpg){ width=300" }
+    ![Interface /shop](/images/wiki/general/Cmd_shop.jpg){ width=300" }
     <figcaption>Interface /shop</figcaption>
 </figure>
 

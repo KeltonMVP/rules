@@ -1,7 +1,7 @@
 # Reduceri
 
 <figure markdown="span">
-    ![Discount logo](../../images/wiki/shop/discount_logo.png){ width=200" }
+    ![Discount logo](/images/wiki/general/Discount_logo.png){ width=200" }
 </figure>
 
 Fiecare obiect achizitionabil folosind moneda premium, goldul, are un pret standard, insa exista perioade de timp in care aceste obiecte sunt mai ieftine decat pretul prestabilit.

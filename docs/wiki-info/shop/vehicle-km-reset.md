@@ -1,7 +1,7 @@
 # Resetare KM Vehicul
 
 <figure markdown="span">
-    ![Resetare KM](../../images/wiki/shop/km-reset_FPD_MOD.jpg){ width=250" }
+    ![Resetare KM](/images/wiki/general/Km-reset_FPD_MOD.jpg){ width=250" }
 </figure>
 
 Pentru a scapa de multitudinea de kilometrii parcursi cu vehiculul tau si pentru a-ti spori sansele ca cineva sa fie atras de el si sa ti-l cumpere, ai nevoie de o mica ajustare tehnica. Reseteaza kilometrajul vehiculului tau la **0** si va deveni ca noua! Nimeni nu va sti ca vehiculul tau nu este nou.

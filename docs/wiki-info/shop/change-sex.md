@@ -1,7 +1,7 @@
 # Schimbare Sex
 
 <figure markdown="span">
-    ![Sex symbol](../../images/wiki/shop/sex_symbol.jpg){ width=400" }
+    ![Sex symbol](/images/wiki/general/Sex_symbol.jpg){ width=400" }
 </figure>
 
 B-Zone pune accent pe realitate si incearca sa aduca realitatea in joc. In lumea reala exista o multitudine de exemple de oameni care si-au schimbat sexul. Schimbarea de sex este ceva posibil in zilele noastre si dupa cum scrie mai sus, B-Zone aduce realitatea la voi, astfel in joc pe lista magazinului comunitatii (/shop) exista posibilitatea de a va schimba sexul.

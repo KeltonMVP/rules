@@ -1,7 +1,7 @@
 # Extra Vehicle Slot
 
 <figure markdown="span">
-    ![Garage with many slots](../../images/wiki/shop/garrage_alot_of_slots.jpg){ width=400" }
+    ![Garage with many slots](/images/wiki/general/Garrage_alot_of_slots.jpg){ width=400" }
 </figure>
 
 Each player's garage is limited to a maximum of 4 slots, which means that only 4 vehicles can fit in the garage. If you need even more vehicles, expand your garage. The B-Zone community shop helps you expand it, type the /shop command!

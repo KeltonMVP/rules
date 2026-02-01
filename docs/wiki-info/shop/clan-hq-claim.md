@@ -1,27 +1,27 @@
 # HQ Claim Clan
 
 <figure markdown="span">
-    ![Informatii despre clan](../../images/wiki/shop/ClanInfo.png){ width=400" }
+    ![Informatii despre clan](/images/wiki/general/ClanInfo.png){ width=400" }
     <figcaption>Informatii despre clan</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Achizitie HQ Claim de pe /shop](../../images/wiki/shop/HQClaim.png){ width=400" }
+    ![Achizitie HQ Claim de pe /shop](/images/wiki/general/HQClaim.png){ width=400" }
     <figcaption>Achizitie HQ Claim de pe /shop</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![HQ Vacant](../../images/wiki/shop/HQNoOwner.png){ width=400" }
+    ![HQ Vacant](/images/wiki/general/HQNoOwner.png){ width=400" }
     <figcaption>HQ Vacant</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![HQ Ocupat](../../images/wiki/shop/ClanHQ.jpg){ width=400" }
+    ![HQ Ocupat](/images/wiki/general/ClanHQ.jpg){ width=400" }
     <figcaption>HQ Ocupat</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Harta HQ-urilor de Clan](../../images/wiki/shop/ClanHQS.png){ width=500" }
+    ![Harta HQ-urilor de Clan](/images/wiki/general/ClanHQS.png){ width=500" }
     <figcaption>Harta HQ-urilor de Clan</figcaption>
 </figure>
 

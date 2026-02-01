@@ -1,7 +1,7 @@
 # Varsta Vehicul
 
 <figure markdown="span">
-    ![Varsta vehicul](../../images/wiki/shop/Vehicleage.png){ width=550" }
+    ![Varsta vehicul](/images/wiki/general/Vehicleage.png){ width=550" }
 </figure>
 
 Pentru a creste valoarea bolidului tau si pentru a-ti spori sansele ca cineva sa fie atras de el si sa ti-l cumpere la un pret mai mare decat cel din DealerShip, trebuie ca acesta sa aiba ceva special. Cumpara-i zile in plus vehiculului tau si acesta va deveni unul mult mai pretios! Nimeni nu va sti ca i-ai cumparat zile vehiculului tau, asadar poate ramane un secret.

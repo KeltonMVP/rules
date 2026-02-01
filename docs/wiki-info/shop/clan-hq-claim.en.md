@@ -1,27 +1,27 @@
 # Clan HQ Claim
 
 <figure markdown="span">
-    ![Clan information](../../images/wiki/shop/ClanInfo.png){ width=400" }
+    ![Clan information](/images/wiki/general/ClanInfo.png){ width=400" }
     <figcaption>Clan information</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![HQ Claim purchase from /shop](../../images/wiki/shop/HQClaim.png){ width=400" }
+    ![HQ Claim purchase from /shop](/images/wiki/general/HQClaim.png){ width=400" }
     <figcaption>HQ Claim purchase from /shop</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Vacant HQ](../../images/wiki/shop/HQNoOwner.png){ width=400" }
+    ![Vacant HQ](/images/wiki/general/HQNoOwner.png){ width=400" }
     <figcaption>Vacant HQ</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Occupied HQ](../../images/wiki/shop/ClanHQ.jpg){ width=400" }
+    ![Occupied HQ](/images/wiki/general/ClanHQ.jpg){ width=400" }
     <figcaption>Occupied HQ</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Clan HQ Map](../../images/wiki/shop/ClanHQS.png){ width=500" }
+    ![Clan HQ Map](/images/wiki/general/ClanHQS.png){ width=500" }
     <figcaption>Clan HQ Map</figcaption>
 </figure>
 

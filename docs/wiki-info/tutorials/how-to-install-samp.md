@@ -1,8 +1,6 @@
----
-outline: deep
----
-
-![samplogo_tut.png](https://wiki.b-zone.ro/images/samplogo_tut.png)
+<figure markdown="span">
+  ![samp](/images/wiki/general/Samplogo_tut.png){ width="400" }
+</figure>
 
 Pentru a putea juca pe serverul de SA:MP al B-Zone, aveti nevoie de 2 elemente:
 * Jocul **GTA San Andreas**

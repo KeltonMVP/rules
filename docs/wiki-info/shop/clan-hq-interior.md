@@ -1,22 +1,22 @@
 # Interior HQ Clan
 
 <figure markdown="span">
-    ![Informatii despre clan](../../images/wiki/shop/ClanInfo.png){ width=400" }
+    ![Informatii despre clan](/images/wiki/general/ClanInfo.png){ width=400" }
     <figcaption>Informatii despre clan</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Achizitie HQ Interior de pe shop](../../images/wiki/shop/ClanHQinterior.png){ width=400" }
+    ![Achizitie HQ Interior de pe shop](/images/wiki/general/ClanHQinterior.png){ width=400" }
     <figcaption>Achizitie HQ Interior de pe shop</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Selectare Interior nou](../../images/wiki/shop/NewClanInterior.png){ width=400" }
+    ![Selectare Interior nou](/images/wiki/general/NewClanInterior.png){ width=400" }
     <figcaption>Selectare Interior nou</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Confirmare nou Interior](../../images/wiki/shop/ClanHQInteriorConfirm.png){ width=400" }
+    ![Confirmare nou Interior](/images/wiki/general/ClanHQInteriorConfirm.png){ width=400" }
     <figcaption>Confirmare nou Interior</figcaption>
 </figure>
 

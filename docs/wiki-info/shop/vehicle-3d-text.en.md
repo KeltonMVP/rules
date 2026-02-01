@@ -1,7 +1,7 @@
 # Vehicle 3D Text
 
 <figure markdown="span">
-    ![Vehicle with 3D Text](../../images/wiki/shop/vehicle_3d_text.png){ width=550" }
+    ![Vehicle with 3D Text](/images/wiki/general/vehicle_3d_text.png){ width=550" }
     <figcaption>Vehicle with 3D Text</figcaption>
 </figure>
 
@@ -16,11 +16,11 @@ This 3D text is attached to the respective vehicle and behaves approximately lik
 
 - 3D text can be added to any owned vehicle, regardless of whether it is premium or not.
 - 3D text is dynamic, which means you can customize the text as you wish.
-    - **RPG B-ZONE**
-    - **RPG B-ZONE COMMUNITY**
+    - **<span style="color:red;">RPG</span> <span style="color:green;">B-ZONE</span>**
+    - **<span style="color:red;">RPG</span> <span style="color:green;">B-ZONE</span> <span style="color:blue;">COMMUNITY</span>**
 - 3D text gives you the possibility of using special characters.
-    - **'RPG B-ZONE'**
-    - **\`\`RPG B-ZONE\`\`**
+    - **<span style="color:red;">'RPG</span> <span style="color:green;">B-ZONE'</span>**
+    - **<span style="color:red;">\`\`RPG</span> <span style="color:green;">B-ZONE\`\`</span>**
 - 3D text cannot be styled.
     - Cannot be made bold, italic, underline, etc.
 - 3D text accepts a **maximum of 60 characters** in it.

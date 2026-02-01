@@ -1,7 +1,7 @@
 # Hidden Color
 
 <figure markdown="span">
-    ![Hidden Color Menu](../../images/wiki/shop/hidden_menu.jpg){ width=400" }
+    ![Hidden Color Menu](../../images/wiki/general/Hidden_menu.jpg){ width=400" }
 </figure>
 
 If you want a shiny vehicle with a special color, different from everyone else's, then you need to buy a set of hidden colors for your vehicle.
@@ -31,3 +31,6 @@ In just a few simple steps, your vehicle can have such a color set:
 8. To enter the hidden color selection menu, you must type the **/hiddencolor** command while being near the CarColor business.
 9. After finishing the selection of the two hidden colors, press the **Buy Color** button.
 10. **Congratulations!** You have a nicer vehicle.
+
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6trHsbrhig" frameborder="0" allowfullscreen></iframe>

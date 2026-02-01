@@ -1,7 +1,7 @@
 # Colored License Plate
 
 <figure markdown="span">
-    ![Vehicle with Colored License Plate](../../images/wiki/shop/colored_plate.jpg){ width=550" }
+    ![Vehicle with Colored License Plate](/images/wiki/general/colored_plate.jpg){ width=550" }
     <figcaption>Vehicle with Colored License Plate</figcaption>
 </figure>
 
@@ -15,8 +15,8 @@ The colored license plate has the following characteristics:
 
 - The colored license plate can be added to any owned vehicle, regardless of whether it is premium or not.
 - The colored license plate can have a single color, it cannot be colored in sections.
-    - **RPG B-ZONE**
-    - **B-ZONE COMMUNITY**
+    - **<span style="color:red;">RPG B-ZONE</span>**
+    - **<span style="color:red;">B-ZONE COMMUNITY</span>**
 - Special characters **CANNOT** be used in the colored license plate text.
 - The colored license plate cannot be styled.
     - Cannot be made bold, italic, underline, etc.

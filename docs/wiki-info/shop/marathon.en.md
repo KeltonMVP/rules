@@ -1,22 +1,22 @@
 # Marathon
 
 <figure markdown="span">
-    ![Marathon interface](../../images/wiki/shop/Maraton.png){ width=400" }
+    ![Marathon interface](/images/wiki/general/Maraton.png){ width=400" }
     <figcaption>Marathon interface</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Claimed rewards](../../images/wiki/shop/MaratonPro.png){ width=400" }
+    ![Claimed rewards](/images/wiki/general/MaratonPro.png){ width=400" }
     <figcaption>Claimed rewards</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Progress bar](../../images/wiki/shop/MaratonProgres.png){ width=400" }
+    ![Progress bar](/images/wiki/general/MaratonProgres.png){ width=400" }
     <figcaption>Progress bar</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Complete option](../../images/wiki/shop/MaratonComplete.png){ width=400" }
+    ![Complete option](/images/wiki/general/MaratonComplete.png){ width=400" }
     <figcaption>Complete option</figcaption>
 </figure>
 

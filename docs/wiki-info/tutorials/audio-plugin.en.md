@@ -1,8 +1,6 @@
----
-outline: deep
----
-
-![audioplugin.png](https://wiki.b-zone.ro/images/audioplugin.png)
+<figure markdown="span">
+  ![Audio Plugin](/images/wiki/general/Audioplugin.png){ width="400" }
+</figure>
 
 * The community's samp servers feature certain radio stations that do not work if you do not have a special plugin installed. To get rid of this problem, access [this link](http://b-zone.ro/audio/) to download the plugin.
 * Before starting the plugin installation, make sure the GTA San Andreas game is closed.

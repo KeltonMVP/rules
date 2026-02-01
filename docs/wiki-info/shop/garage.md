@@ -1,22 +1,22 @@
 # Garaj
 
 <figure markdown="span">
-    ![Garajele disponibile pe /shop](../../images/wiki/shop/Shopgarage.png){ width=450" }
+    ![Garajele disponibile pe /shop](/images/wiki/general/Shopgarage.png){ width=450" }
     <figcaption>Garajele disponibile pe /shop</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Intrarea in garaj](../../images/wiki/shop/Garage.png){ width=500" }
+    ![Intrarea in garaj](/images/wiki/general/Garage.png){ width=500" }
     <figcaption>Intrarea in garaj</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Interiorul garajului](../../images/wiki/shop/Garageinterior.png){ width=500" }
+    ![Interiorul garajului](/images/wiki/general/Garageinterior.png){ width=500" }
     <figcaption>Interiorul garajului</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Masinile din garaj pe /v](../../images/wiki/shop/Garagev.png){ width=500" }
+    ![Masinile din garaj pe /v](/images/wiki/general/Garagev.png){ width=500" }
     <figcaption>Masinile din garaj pe /v</figcaption>
 </figure>
 

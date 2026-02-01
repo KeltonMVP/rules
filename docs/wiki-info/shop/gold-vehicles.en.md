@@ -1,11 +1,7 @@
 # Gold Vehicles
 
 <figure markdown="span">
-    ![Premium Logo](../../images/wiki/shop/PremiumLogo.png){ width=200" }
-</figure>
-
-<figure markdown="span">
-    ![Premium Dealership Interface](../../images/wiki/shop/Premiumdealership.png){ width=500" }
+    ![Premium Dealership Interface](../../images/wiki/general/Premiumdealership.png){ width=500" }
     <figcaption>Premium Dealership Interface</figcaption>
 </figure>
 
@@ -52,7 +48,7 @@ For a complete list of Gold vehicles available at the DealerShip, including thei
 
 ## Legend
 
-- **DealerShip Price (Gold)** - the price of the good purchased with Gold in the DealerShip from the shop.
+- **Dealership Price (Gold)** - the price of the good purchased with Gold in the DealerShip from the shop.
 - **Dealership Gold refund** - The amount of money you receive if you sell your car to the DealerShip (/v -> vehicle -> sell).
 - **Maximum speed** - The maximum speed the vehicle can reach.
 - **Based on** - Names of real cars associated by similarity with those in San Andreas.

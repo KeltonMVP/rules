@@ -1,12 +1,12 @@
 # Frecventa Privata
 
 <figure markdown="span">
-    ![Meniu /myfreq](../../images/wiki/shop/Myfreq.png){ width=500" }
+    ![Meniu /myfreq](/images/wiki/general/Myfreq.png){ width=500" }
     <figcaption>Meniu /myfreq</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Alegerea unei frecvente](../../images/wiki/shop/Buyfreq.png){ width=550" }
+    ![Alegerea unei frecvente](/images/wiki/general/Buyfreq.png){ width=550" }
     <figcaption>Alegerea unei frecvente</figcaption>
 </figure>
 

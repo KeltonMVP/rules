@@ -1,17 +1,17 @@
 # Clan Name and Tag
 
 <figure markdown="span">
-    ![Confirmation dialog](../../images/wiki/shop/ClanName.png){ width=400" }
+    ![Confirmation dialog](../../images/wiki/general/ClanName.png){ width=400" }
     <figcaption>Confirmation dialog</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Select new name](../../images/wiki/shop/ClanNewName.png){ width=400" }
+    ![Select new name](../../images/wiki/general/ClanNewName.png){ width=400" }
     <figcaption>Select new name</figcaption>
 </figure>
 
 <figure markdown="span">
-    ![Select new TAG](../../images/wiki/shop/ClanTag.png){ width=400" }
+    ![Select new TAG](../../images/wiki/general/ClanTag.png){ width=400" }
     <figcaption>Select new TAG</figcaption>
 </figure>
 

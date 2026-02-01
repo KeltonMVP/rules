@@ -1,7 +1,7 @@
 # Text 3D Vehicul
 
 <figure markdown="span">
-    ![Vehicul cu 3D Text](../../images/wiki/shop/vehicle_3d_text.png){ width=550" }
+    ![Vehicul cu 3D Text](/images/wiki/general/vehicle_3d_text.png){ width=550" }
     <figcaption>Vehicul cu 3D Text</figcaption>
 </figure>
 
@@ -16,11 +16,11 @@ Acest text 3D este atasat vehiculului respectiv si se comporta aproximativ ca te
 
 - 3D text-ul poate fi adaugat pe orice vehicul detinut, indiferent daca este premium sau nu.
 - 3D text-ul este dinamic, ceea ce inseamna ca puteti customiza cum doriti textul.
-    - **RPG B-ZONE**
-    - **RPG B-ZONE COMMUNITY**
+    - **<span style="color:red;">RPG</span> <span style="color:green;">B-ZONE</span>**
+    - **<span style="color:red;">RPG</span> <span style="color:green;">B-ZONE</span> <span style="color:blue;">COMMUNITY</span>**
 - 3D text-ul va confera posibilitatea folosirii caracterelor speciale.
-    - **'RPG B-ZONE'**
-    - **\`\`RPG B-ZONE\`\`**
+    - **<span style="color:red;">'RPG</span> <span style="color:green;">B-ZONE'</span>**
+    - **<span style="color:red;">\`\`RPG</span> <span style="color:green;">B-ZONE\`\`</span>**
 - 3D text-ul nu poate fi stilizat.
     - Nu poate fi facut bold, italic, underline, etc.
 - 3D text-ul accepta un **maxim de 60 de caractere** in el.

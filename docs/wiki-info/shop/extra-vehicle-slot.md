@@ -1,7 +1,7 @@
 # Slot Vehicul Extra
 
 <figure markdown="span">
-    ![Garaj cu multe sloturi](../../images/wiki/shop/garrage_alot_of_slots.jpg){ width=400" }
+    ![Garaj cu multe sloturi](/images/wiki/general/Garrage_alot_of_slots.jpg){ width=400" }
 </figure>
 
 Garajul fiecarui jucator este limitat la maxim 4 sloturi, ceea ce inseamna ca in garaj pot intra doar 4 vehicule. Daca ai nevoie de si mai multe vehicule, largeste-ti garajul. Magazinul comunitatii B-Zone te ajuta sa-l largesti, tasteaza comanda /shop!
