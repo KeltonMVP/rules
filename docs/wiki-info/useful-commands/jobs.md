@@ -41,6 +41,7 @@ Aceasta comanda este una dintre cele mai folosite comenzi in privinta joburilor.
 ## /skills
 
 <img src="https://i.postimg.cc/BQCdDZ5Q/Skills-list.png" width="300px">
+
 _#3 Lista skilluri_
 
 Comanda /skills este una generala, jucatorii putand sa o acceseze chiar daca nu sunt angajati la vreun job. Prin tastarea comenzii, serverul va va afisa un dialog ce cuprinde informatii despre skillul detinut al fiecarui job.

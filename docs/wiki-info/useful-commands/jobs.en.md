@@ -13,7 +13,7 @@ This command opens a list of all jobs. The list includes the following details a
 _Note: To help your imagination, you can find such a list in image #1._
 
 <figure markdown="span">
-  ![Jobs List](/images/wiki/website/Jobs_list.png){ width="400" }
+  ![Jobs List](/images/wiki/general/Jobs_list.png){ width="400" }
   <figcaption>Jobs List</figcaption>
 </figure>
 
@@ -41,6 +41,7 @@ This command is one of the most used commands regarding jobs. With this command,
 ## /skills
 
 <img src="https://i.postimg.cc/BQCdDZ5Q/Skills-list.png" width="300px">
+
 _#3 Skills list_
 
 The /skills command is a general one, players can access it even if they are not employed at any job. By typing the command, the server will display a dialog that includes information about the skill held for each job.
