@@ -1,3 +1,7 @@
+---
+icon: material/restart
+---
+
 # Vehicle KM Reset
 
 <figure markdown="span">

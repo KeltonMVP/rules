@@ -1,3 +1,7 @@
+---
+icon: material/glass-cocktail
+---
+
 # Cluburi & Baruri
 
 <figure markdown="span">

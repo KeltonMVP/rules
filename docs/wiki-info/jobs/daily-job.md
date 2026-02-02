@@ -1,3 +1,7 @@
+---
+icon: material/calendar-star
+---
+
 # Jobul Zilei
 
 <figure markdown="span">

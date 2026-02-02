@@ -1,3 +1,7 @@
+---
+icon: material/treasure-chest
+---
+
 # Rewards System
 
 <figure markdown="span">

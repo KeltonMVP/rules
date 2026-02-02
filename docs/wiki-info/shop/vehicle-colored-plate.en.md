@@ -1,3 +1,7 @@
+---
+icon: material/card-text
+---
+
 # Colored License Plate
 
 <figure markdown="span">

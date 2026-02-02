@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # Interioare Case
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # General Description - Houses
 
 <figure markdown="span">

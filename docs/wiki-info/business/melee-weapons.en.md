@@ -1,3 +1,7 @@
+---
+icon: material/knife-military
+---
+
 # Melee Weapons Store
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/tag-text
+---
+
 # Nume si Tag Clan
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/star-plus
+---
+
 # Extra Favorite Slot
 
 An Extra Favorite Vehicle Slot (Extra Favorite Slot) represents the player's ability to purchase one more slot for the favorite vehicles list.

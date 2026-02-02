@@ -1,3 +1,7 @@
+---
+icon: material/spray
+---
+
 # Pay'n'Spray
 
 <figure markdown="span">

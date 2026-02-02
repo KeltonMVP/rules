@@ -1,3 +1,7 @@
+---
+icon: material/garage
+---
+
 # Garage
 
 <figure markdown="span">

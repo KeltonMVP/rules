@@ -1,3 +1,7 @@
+---
+icon: material/crown
+---
+
 # Cont Premium
 
 Cu totii incepem de la aceleasi statistici, insa pe parcurs, daca doriti sa dispuneti de si mai multe facilitati pe unul dintre serverului B-Zone RPG, trebuie sa achizitionati un astfel de pachet ce va transforma contul obisnuit intr-unul premium. Pentru a accesa magazinul virtual al comunitatii, folositi comanda /shop in joc.

@@ -1,3 +1,7 @@
+---
+icon: material/ammunition
+---
+
 # Arms Dealer
 
 <figure markdown="span">

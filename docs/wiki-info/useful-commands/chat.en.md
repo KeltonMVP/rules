@@ -1,3 +1,7 @@
+---
+icon: material/chat
+---
+
 # Chat
 
 The commands in this category are used strictly to socialize on chat with other players.

@@ -1,3 +1,7 @@
+---
+icon: material/target
+---
+
 # Job Goal
 
 <figure markdown="span">

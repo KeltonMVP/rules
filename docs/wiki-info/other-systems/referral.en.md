@@ -1,3 +1,7 @@
+---
+icon: material/account-arrow-right
+---
+
 # Referral System
 
 <figure markdown="span">

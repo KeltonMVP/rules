@@ -1,3 +1,7 @@
+---
+icon: material/eyedropper
+---
+
 # Hidden Color
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/shield-car
+---
+
 # FBI
 
 <figure markdown="span">![Logo-ul departamentului](/images/wiki/general/fbiLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>

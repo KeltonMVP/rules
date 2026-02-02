@@ -1,3 +1,11 @@
+﻿---
+icon: material/console
+---
+
+﻿---
+icon: material/car
+---
+
 ﻿# Comenzi utile pentru vehicule
 
 <figure markdown="span">

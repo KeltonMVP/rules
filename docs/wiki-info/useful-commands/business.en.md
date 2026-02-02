@@ -1,3 +1,7 @@
+---
+icon: material/store
+---
+
 # Business
 
 <figure markdown="span">

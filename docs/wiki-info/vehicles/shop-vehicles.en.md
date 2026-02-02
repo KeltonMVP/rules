@@ -1,3 +1,7 @@
+---
+icon: material/shopping
+---
+
 # Shop Vehicles
 
 - Vehicles are unique on the server and can only be purchased through a [ticket on the website](https://www.rpg.b-zone.ro/ticket).

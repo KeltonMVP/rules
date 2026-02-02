@@ -1,3 +1,7 @@
+---
+icon: material/baseball-bat
+---
+
 # Green Street Bloods
 
 <figure markdown="span">

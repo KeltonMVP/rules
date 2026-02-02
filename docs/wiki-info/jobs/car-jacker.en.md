@@ -1,3 +1,7 @@
+---
+icon: material/car-arrow-right
+---
+
 # Car Jacker
 
 <figure markdown="span">

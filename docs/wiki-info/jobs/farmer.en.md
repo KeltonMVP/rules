@@ -1,3 +1,7 @@
+---
+icon: material/tractor
+---
+
 # Farmer
 
 <figure markdown="span">

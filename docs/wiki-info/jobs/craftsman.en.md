@@ -1,3 +1,7 @@
+---
+icon: material/hammer
+---
+
 # Craftsman
 
 <figure markdown="span">

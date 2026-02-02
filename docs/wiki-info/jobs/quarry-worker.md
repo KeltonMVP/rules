@@ -1,3 +1,7 @@
+---
+icon: material/pickaxe
+---
+
 # Muncitor la Cariera
 
 <figure markdown="span">

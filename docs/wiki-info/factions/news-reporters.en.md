@@ -1,3 +1,7 @@
+---
+icon: material/radio-tower
+---
+
 # News Reporters
 
 <figure markdown="span">

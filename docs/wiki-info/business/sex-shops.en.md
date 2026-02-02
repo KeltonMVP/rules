@@ -1,3 +1,7 @@
+---
+icon: material/heart
+---
+
 # Sex Shops
 
 <figure markdown="span">

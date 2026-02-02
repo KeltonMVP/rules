@@ -1,3 +1,7 @@
+---
+icon: material/bomb
+---
+
 # El Loco Cartel
 
 <figure markdown="span">

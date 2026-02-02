@@ -1,3 +1,7 @@
+---
+icon: material/flag-checkered
+---
+
 # Race
 
 Races are illegal, recreational activities, held between a maximum of 2 players on the streets of San Andreas.

@@ -1,3 +1,7 @@
+---
+icon: material/dice-multiple
+---
+
 # Dice
 
 <figure markdown="span">

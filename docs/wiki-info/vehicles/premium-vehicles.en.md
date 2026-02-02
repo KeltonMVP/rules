@@ -1,3 +1,7 @@
+---
+icon: material/crown
+---
+
 * Below you will find a list of all B-Zone RPG servers vehicles that can be purchased from the DealerShip or from other players only by players who have a premium account.
 
 ## Premium cars

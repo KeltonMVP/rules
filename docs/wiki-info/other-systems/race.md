@@ -1,3 +1,7 @@
+---
+icon: material/flag-checkered
+---
+
 # Race
 
 Cursele sunt activitati ilegale, recreative, desfasurate intre maxim 2 jucatori pe strazile din San Andreas.

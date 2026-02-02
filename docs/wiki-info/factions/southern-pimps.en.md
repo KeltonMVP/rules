@@ -1,3 +1,7 @@
+---
+icon: material/star-crescent
+---
+
 # Southern Pimps
 
 <figure markdown="span">

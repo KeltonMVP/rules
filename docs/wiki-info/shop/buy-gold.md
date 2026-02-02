@@ -1,3 +1,7 @@
+---
+icon: material/currency-usd
+---
+
 # Cumparare Gold
 
 <figure markdown="span">

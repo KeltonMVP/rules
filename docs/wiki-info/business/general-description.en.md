@@ -1,3 +1,7 @@
+---
+icon: material/store
+---
+
 # General Description - Businesses
 
 <figure markdown="span">

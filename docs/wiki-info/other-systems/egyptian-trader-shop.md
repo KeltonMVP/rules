@@ -1,3 +1,7 @@
+---
+icon: material/pyramid
+---
+
 # Egyptian Trader
 
 Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea sunt foarte bine cunoscute in comunitatile de gaming, scopul lor fiind de a fi colectate de la diverse activitati precum questuri, gifturi, maratoane si asa mai departe. Aceste fragmente pot fi procesate si transformate intr-un Tichet care deblocheaza o multime de lucruri noi pentru jucator.

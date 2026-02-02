@@ -1,3 +1,7 @@
+---
+icon: material/guy-fawkes-mask
+---
+
 # Hitmen Agency
 
 <figure markdown="span">

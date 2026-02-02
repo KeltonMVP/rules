@@ -1,3 +1,7 @@
+---
+icon: material/cash
+---
+
 # Payday
 
 <figure markdown="span">

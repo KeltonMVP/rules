@@ -1,3 +1,7 @@
+---
+icon: material/puzzle
+---
+
 <figure markdown="span">
   ![Audio Plugin](/images/wiki/general/Audioplugin.png){ width="400" }
 </figure>

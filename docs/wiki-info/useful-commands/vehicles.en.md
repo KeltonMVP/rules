@@ -1,3 +1,7 @@
+---
+icon: material/car
+---
+
 # Vehicles
 
 <figure markdown="span">

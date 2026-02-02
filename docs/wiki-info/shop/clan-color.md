@@ -1,3 +1,7 @@
+---
+icon: material/palette
+---
+
 # Culoare Clan
 
 <figure markdown="span">

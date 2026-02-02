@@ -1,3 +1,7 @@
+---
+icon: material/ammunition
+---
+
 # Traficant de arme
 
 <figure markdown="span">

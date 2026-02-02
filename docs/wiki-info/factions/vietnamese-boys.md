@@ -1,3 +1,7 @@
+---
+icon: material/robot-angry
+---
+
 # Vietnamese Boys
 
 <figure markdown="span">

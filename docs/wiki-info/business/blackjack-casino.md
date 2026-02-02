@@ -1,3 +1,7 @@
+---
+icon: material/cards-playing
+---
+
 # Blackjack Casino
 
 <figure markdown="span">

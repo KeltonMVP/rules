@@ -1,3 +1,7 @@
+---
+icon: material/shovel
+---
+
 # Archeologist
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # Useful Job Commands
 
 <figure markdown="span">

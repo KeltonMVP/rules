@@ -1,3 +1,7 @@
+---
+icon: material/flag
+---
+
 # Clan HQ Claim
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/seal
+---
+
 # LV School Instructors
 
 <figure markdown="span">

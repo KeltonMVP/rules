@@ -1,3 +1,7 @@
+---
+icon: material/account-edit
+---
+
 # Change Nickname
 
 <figure markdown="span">

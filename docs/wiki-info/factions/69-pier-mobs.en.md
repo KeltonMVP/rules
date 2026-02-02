@@ -1,3 +1,7 @@
+---
+icon: material/knife-military
+---
+
 # 69 Pier Mobs
 
 <figure markdown="span">

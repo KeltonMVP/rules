@@ -1,3 +1,7 @@
+---
+icon: material/chat
+---
+
 # Chat
 
 Comenzile din aceasta categorie sunt folosite strict pentru a socializa pe chat cu ceilalti jucatori.

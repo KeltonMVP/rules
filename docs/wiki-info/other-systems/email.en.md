@@ -1,3 +1,7 @@
+---
+icon: material/email
+---
+
 # E-Mail
 
 A valid and current email address set on your account is very important for your in-game account.

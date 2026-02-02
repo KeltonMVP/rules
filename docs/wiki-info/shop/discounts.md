@@ -1,3 +1,7 @@
+---
+icon: material/sale
+---
+
 # Reduceri
 
 <figure markdown="span">

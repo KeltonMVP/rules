@@ -1,3 +1,7 @@
+---
+icon: material/car-convertible
+---
+
 # Gold Vehicles
 
 - Below you will find a list of all B-Zone RPG server vehicles that can be purchased from the Dealership using Gold.

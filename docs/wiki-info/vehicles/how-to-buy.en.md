@@ -1,3 +1,11 @@
+﻿---
+icon: material/cart
+---
+
+﻿---
+icon: material/car
+---
+
 ﻿# How to buy vehicles
 
 <figure markdown="span">

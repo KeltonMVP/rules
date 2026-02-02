@@ -1,3 +1,7 @@
+---
+icon: material/car-convertible
+---
+
 # Vehicule Gold
 
 <figure markdown="span">

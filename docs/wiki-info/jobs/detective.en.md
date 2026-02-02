@@ -1,3 +1,7 @@
+---
+icon: material/magnify
+---
+
 # Detective
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/slot-machine
+---
+
 # Slots
 
 <figure markdown="span">

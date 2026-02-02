@@ -1,3 +1,7 @@
+---
+icon: material/shield-car
+---
+
 # Asigurari Auto
 
 <figure markdown="span">

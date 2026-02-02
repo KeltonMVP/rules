@@ -1,3 +1,7 @@
+---
+icon: material/console-line
+---
+
 # Other Commands
 
 On this page you will find commands that once typed in the game, also display a new set of commands.

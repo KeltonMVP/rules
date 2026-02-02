@@ -1,3 +1,7 @@
+---
+icon: material/account-switch
+---
+
 # Schimbare Sex
 
 <figure markdown="span">

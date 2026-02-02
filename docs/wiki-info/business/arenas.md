@@ -1,3 +1,7 @@
+---
+icon: material/trophy
+---
+
 # Arene
 
 <figure markdown="span">

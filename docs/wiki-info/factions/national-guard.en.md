@@ -1,3 +1,7 @@
+---
+icon: material/tank
+---
+
 # National Guard
 
 <figure markdown="span">![Department Logo](/images/wiki/general/NGLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>

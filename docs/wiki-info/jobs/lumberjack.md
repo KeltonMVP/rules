@@ -1,3 +1,7 @@
+---
+icon: material/axe
+---
+
 # Lumberjack
 
 <figure markdown="span">

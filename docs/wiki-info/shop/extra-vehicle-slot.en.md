@@ -1,3 +1,7 @@
+---
+icon: material/car-2-plus
+---
+
 # Extra Vehicle Slot
 
 <figure markdown="span">

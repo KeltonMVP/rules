@@ -1,3 +1,7 @@
+---
+icon: material/swap-horizontal
+---
+
 # Trade
 
 <figure markdown="span">

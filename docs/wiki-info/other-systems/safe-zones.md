@@ -1,3 +1,7 @@
+---
+icon: material/shield
+---
+
 # Safezone
 
 <figure markdown="span">

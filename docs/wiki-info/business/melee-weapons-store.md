@@ -1,3 +1,7 @@
+---
+icon: material/knife-military
+---
+
 # Magazine de arme albe
 
 <figure markdown="span">

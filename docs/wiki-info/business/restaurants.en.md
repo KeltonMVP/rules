@@ -1,3 +1,7 @@
+---
+icon: material/silverware-fork-knife
+---
+
 # Restaurants
 
 <figure markdown="span">

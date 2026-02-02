@@ -1,3 +1,7 @@
+---
+icon: material/star-plus
+---
+
 # Slot Favorite Extra
 
 Un Extra Slot de Vehicul Favorit (Extra Favorite Slot) reprezinta posibilitatea jucatorului de a putea cumpara cate inca un slot pentru lista de vehicule favorite.

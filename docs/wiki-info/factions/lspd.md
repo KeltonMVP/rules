@@ -1,3 +1,7 @@
+---
+icon: material/police-badge
+---
+
 # LSPD
 
 <figure markdown="span">![Logo-ul departamentului](/images/wiki/general/lspdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>

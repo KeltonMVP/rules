@@ -1,3 +1,7 @@
+---
+icon: material/book-open-variant
+---
+
 # Tutorials
 
 <figure markdown="span">

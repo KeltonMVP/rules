@@ -1,3 +1,7 @@
+---
+icon: material/calendar
+---
+
 # Events
 
 Evenimentele sunt activitati interactive, de recreere, accesibile oricarui jucator de pe serverele B-Zone.

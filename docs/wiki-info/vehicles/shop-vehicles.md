@@ -1,3 +1,7 @@
+---
+icon: material/shopping
+---
+
 # Vehicule Shop
 
 - Vehiculele sunt unice pe server si pot fi cumparate doar printr-un [ticket pe website](https://www.rpg.b-zone.ro/ticket).

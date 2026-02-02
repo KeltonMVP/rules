@@ -1,3 +1,7 @@
+---
+icon: material/flash
+---
+
 # Electrician
 
 <figure markdown="span">

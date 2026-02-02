@@ -1,3 +1,7 @@
+---
+icon: material/cash-multiple
+---
+
 # Hot de buzunare
 
 <figure markdown="span">

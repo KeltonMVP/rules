@@ -1,3 +1,7 @@
+---
+icon: material/palette
+---
+
 # Car Color
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/ammunition
+---
+
 # Magazine de arme
 
 <figure markdown="span">

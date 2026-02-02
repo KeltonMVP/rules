@@ -1,3 +1,7 @@
+---
+icon: material/truck
+---
+
 # Trucker
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/map-marker
+---
+
 # Locations
 
 The B-Zone RPG server has a single command that includes absolutely all important locations, as well as faction headquarters.

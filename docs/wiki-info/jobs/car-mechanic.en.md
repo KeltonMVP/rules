@@ -1,3 +1,7 @@
+---
+icon: material/wrench
+---
+
 # Car Mechanic
 
 <figure markdown="span">

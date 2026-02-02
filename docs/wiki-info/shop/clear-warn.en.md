@@ -1,3 +1,7 @@
+---
+icon: material/eraser-variant
+---
+
 # Clear Warn
 
 <figure markdown="span">

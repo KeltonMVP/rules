@@ -1,3 +1,7 @@
+---
+icon: material/briefcase
+---
+
 # Jobs
 
 To be able to work at one of the jobs available on the servers, you need to know the commands available for them.

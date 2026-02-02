@@ -1,3 +1,7 @@
+---
+icon: material/flask
+---
+
 # Chemist
 
 <figure markdown="span">

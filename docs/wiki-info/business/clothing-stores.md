@@ -1,3 +1,7 @@
+---
+icon: material/tshirt-crew
+---
+
 # Magazine de haine
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/clipboard-check
+---
+
 # Missions
 
 <figure markdown="span">

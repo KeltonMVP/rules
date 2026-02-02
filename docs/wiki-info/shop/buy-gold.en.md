@@ -1,3 +1,7 @@
+---
+icon: material/currency-usd
+---
+
 # Buy Gold
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/shield-car
+---
+
 # FBI
 
 <figure markdown="span">![Faction Logo](/images/wiki/general/fbiLogo.png){ width="300" }<figcaption>Faction Logo</figcaption></figure>

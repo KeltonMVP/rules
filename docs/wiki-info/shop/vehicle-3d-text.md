@@ -1,3 +1,7 @@
+---
+icon: material/format-text
+---
+
 # Text 3D Vehicul
 
 <figure markdown="span">

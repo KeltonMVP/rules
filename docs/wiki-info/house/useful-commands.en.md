@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # Useful Commands - Houses
 
 <figure markdown="span">

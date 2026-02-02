@@ -1,3 +1,7 @@
+---
+icon: material/tshirt-crew
+---
+
 # Clothing Stores
 
 <figure markdown="span">

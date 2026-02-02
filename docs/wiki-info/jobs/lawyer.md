@@ -1,3 +1,7 @@
+---
+icon: material/gavel
+---
+
 # Lawyer
 
 <figure markdown="span">

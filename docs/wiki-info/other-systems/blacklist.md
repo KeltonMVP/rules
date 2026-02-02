@@ -1,3 +1,7 @@
+---
+icon: material/block-helper
+---
+
 # Blacklist
 
 <figure markdown="span">

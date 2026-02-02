@@ -1,3 +1,7 @@
+---
+icon: material/eraser
+---
+
 # Clear Faction Punish
 
 If you need to join a certain faction with your friends, but the punishment from the last faction (Faction Punish) doesn't allow it, then quickly access the B-Zone community shop and get rid of this unpleasant incident.

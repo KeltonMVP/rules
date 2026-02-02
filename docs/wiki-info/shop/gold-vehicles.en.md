@@ -1,3 +1,7 @@
+---
+icon: material/car-convertible
+---
+
 # Gold Vehicles
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/medal
+---
+
 # B-Olympics
 
 B-Olympics are a series of events that our server administrators can organize. These are primarily addressed to faction and clan members. When a challenge will be organized, participation steps will be announced on the global chat. The Olympics consist of eight challenges (**demolition, maze, jetpack, counter strike, parkour, derby, tuberace and fall**). At the end of a challenge, the winner or winners will be designated.

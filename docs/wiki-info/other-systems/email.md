@@ -1,3 +1,7 @@
+---
+icon: material/email
+---
+
 # E-Mail
 
 O adresa de email valida si actuala setata pe cont este foarte importanta pentru contul vostru din joc.

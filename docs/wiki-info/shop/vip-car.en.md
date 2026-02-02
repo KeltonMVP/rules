@@ -1,3 +1,7 @@
+---
+icon: material/car-sports
+---
+
 # VIP Car
 
 <figure markdown="span">

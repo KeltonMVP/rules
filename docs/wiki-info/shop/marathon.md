@@ -1,3 +1,7 @@
+---
+icon: material/run
+---
+
 # Maraton
 
 <figure markdown="span">

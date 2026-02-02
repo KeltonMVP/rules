@@ -1,3 +1,7 @@
+---
+icon: material/card-text
+---
+
 # Placuta de Inmatriculare Colorata
 
 <figure markdown="span">

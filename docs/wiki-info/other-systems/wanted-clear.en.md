@@ -1,3 +1,7 @@
+---
+icon: material/police-badge
+---
+
 # Wanted & Clear
 
 <figure markdown="span">

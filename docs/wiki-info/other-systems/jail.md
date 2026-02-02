@@ -1,3 +1,7 @@
+---
+icon: material/handcuffs
+---
+
 # Inchisoarea
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/taxi
+---
+
 # LS Taxi
 
 <figure markdown="span">

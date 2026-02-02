@@ -1,3 +1,7 @@
+---
+icon: material/bank
+---
+
 # Bank
 
 The B-Zone RPG server has 3 banks, one in each city (Las Venturas, Los Santos, San Fierro). The following commands can be used in any of the 3 banks (except command number 5, which can only be used near an ATM):

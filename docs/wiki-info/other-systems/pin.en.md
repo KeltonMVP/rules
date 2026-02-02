@@ -1,3 +1,7 @@
+---
+icon: material/pin
+---
+
 # PIN
 
 <figure markdown="span">

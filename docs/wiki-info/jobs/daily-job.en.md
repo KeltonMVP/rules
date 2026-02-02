@@ -1,3 +1,7 @@
+---
+icon: material/calendar-star
+---
+
 # Daily Job
 
 <figure markdown="span">

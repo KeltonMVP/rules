@@ -1,3 +1,7 @@
+---
+icon: material/hammer
+---
+
 # Mester
 
 <figure markdown="span">

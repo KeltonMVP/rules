@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # Comenzi Uzuale - Case
 
 <figure markdown="span">

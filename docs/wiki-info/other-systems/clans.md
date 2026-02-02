@@ -1,3 +1,7 @@
+---
+icon: material/shield-star
+---
+
 # Clans
 
 <figure markdown="span">

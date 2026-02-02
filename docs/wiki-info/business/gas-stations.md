@@ -1,3 +1,7 @@
+---
+icon: material/gas-station
+---
+
 # Benzinarii
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/spider
+---
+
 # Red Dragon Triad
 
 <figure markdown="span">

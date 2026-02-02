@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # Descriere Generala - Case
 
 <figure markdown="span">

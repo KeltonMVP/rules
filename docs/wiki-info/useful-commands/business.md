@@ -1,3 +1,7 @@
+---
+icon: material/store
+---
+
 # Afaceri
 
 <figure markdown="span">

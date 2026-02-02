@@ -1,3 +1,7 @@
+---
+icon: material/clipboard-text
+---
+
 # Activity Report
 
 <figure markdown="span">

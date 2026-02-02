@@ -1,3 +1,7 @@
+---
+icon: material/glass-cocktail
+---
+
 # Clubs & Bars
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/ambulance
+---
+
 # Paramedics
 
 <figure markdown="span">

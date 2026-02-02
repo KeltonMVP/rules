@@ -1,3 +1,7 @@
+---
+icon: material/radio-handheld
+---
+
 # Frecventa Privata
 
 <figure markdown="span">

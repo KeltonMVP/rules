@@ -1,3 +1,7 @@
+---
+icon: material/pickaxe
+---
+
 # Miner
 
 <figure markdown="span">

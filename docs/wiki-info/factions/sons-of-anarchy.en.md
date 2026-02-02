@@ -1,3 +1,7 @@
+---
+icon: material/motorbike
+---
+
 # Sons of Anarchy
 
 <figure markdown="span">

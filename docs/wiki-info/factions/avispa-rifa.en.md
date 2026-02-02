@@ -1,3 +1,7 @@
+---
+icon: material/cannabis
+---
+
 # Avispa Rifa
 
 <figure markdown="span">

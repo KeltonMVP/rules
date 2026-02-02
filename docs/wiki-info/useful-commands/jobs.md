@@ -1,3 +1,7 @@
+---
+icon: material/briefcase
+---
+
 # Joburi
 
 Pentru a putea lucra la unul dintre joburile disponibile pe servere, trebuie sa cunoasteti comenzile disponibile pentru acestea.

@@ -1,3 +1,7 @@
+---
+icon: material/store
+---
+
 # Descriere Generala - Bizuri
 
 <figure markdown="span">

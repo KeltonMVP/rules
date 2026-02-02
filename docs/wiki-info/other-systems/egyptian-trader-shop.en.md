@@ -1,3 +1,7 @@
+---
+icon: material/pyramid
+---
+
 # Egyptian Trader
 
 The skin upgrade system is based on Tickets and Fragments. These are very well known in gaming communities, their purpose being to be collected from various activities such as quests, gifts, marathons and so on. These fragments can be processed and transformed into a Ticket that unlocks a multitude of new things for the player.

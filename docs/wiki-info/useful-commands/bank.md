@@ -1,3 +1,7 @@
+---
+icon: material/bank
+---
+
 # Banca
 
 Serverul B-Zone RPG dispune de 3 banci, cate una in fiecare oras (Las Venturas, Los Santos, San Fierro). Urmatoarele comenzi pot fi utilizate in oricare dintre cele 3 banci (exceptand comanda numarul 5, aceea putand sa fie folosita doar langa un bancomat):

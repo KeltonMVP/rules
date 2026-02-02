@@ -1,3 +1,7 @@
+---
+icon: material/wrench
+---
+
 # Mecanic Auto
 
 <figure markdown="span">

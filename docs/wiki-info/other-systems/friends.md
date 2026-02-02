@@ -1,3 +1,7 @@
+---
+icon: material/account-group
+---
+
 # Friends
 
 <figure markdown="span">

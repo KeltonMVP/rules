@@ -1,3 +1,7 @@
+---
+icon: material/account
+---
+
 # Account
 
 The commands in this category are strictly focused on controlling your own account.

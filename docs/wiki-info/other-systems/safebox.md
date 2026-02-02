@@ -1,3 +1,7 @@
+---
+icon: material/safe
+---
+
 # Safebox
 
 <figure markdown="span">

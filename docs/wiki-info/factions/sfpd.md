@@ -1,3 +1,7 @@
+---
+icon: material/police-badge
+---
+
 # SFPD
 
 <figure markdown="span">![Logo-ul departamentului](/images/wiki/general/sfpdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>

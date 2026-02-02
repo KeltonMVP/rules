@@ -1,3 +1,7 @@
+---
+icon: material/city
+---
+
 # Mayor
 
 <figure markdown="span">

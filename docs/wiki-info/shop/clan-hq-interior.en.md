@@ -1,3 +1,7 @@
+---
+icon: material/home-city
+---
+
 # Clan HQ Interior
 
 <figure markdown="span">

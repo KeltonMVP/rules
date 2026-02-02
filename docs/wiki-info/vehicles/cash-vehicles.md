@@ -1,3 +1,7 @@
+---
+icon: material/car
+---
+
 # Vehicule Cash
 
 - Vehiculele standard (cash) ale serverelor RPG sunt vehiculele ce pot fi cumparate folosind moneda jocului ($) incepand cu nivel 3.

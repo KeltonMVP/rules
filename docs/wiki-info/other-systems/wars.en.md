@@ -1,3 +1,7 @@
+---
+icon: material/sword-cross
+---
+
 # Wars
 
 <figure markdown="span">

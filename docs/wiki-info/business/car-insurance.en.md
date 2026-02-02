@@ -1,3 +1,7 @@
+---
+icon: material/shield-car
+---
+
 # Car Insurance
 
 <figure markdown="span">

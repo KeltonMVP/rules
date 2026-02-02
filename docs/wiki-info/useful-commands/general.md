@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # Generale
 
 In aceasta sectiune sunt prezentate comenzile generale ale serverului **B-Zone RPG**.

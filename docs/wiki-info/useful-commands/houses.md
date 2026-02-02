@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # Case
 
 <img src="https://i.postimg.cc/62ssrzBQ/600px-House-SF.jpg" width="400px">

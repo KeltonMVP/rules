@@ -1,3 +1,7 @@
+---
+icon: material/account-group
+---
+
 # Descriere Generala
 
 <figure markdown="span">

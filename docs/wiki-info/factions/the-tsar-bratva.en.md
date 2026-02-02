@@ -1,3 +1,7 @@
+---
+icon: material/cigar
+---
+
 # The Tsar Bratva
 
 <figure markdown="span">

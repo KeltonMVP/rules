@@ -1,3 +1,7 @@
+---
+icon: material/storefront
+---
+
 # Other types of businesses
 
 <figure markdown="span">

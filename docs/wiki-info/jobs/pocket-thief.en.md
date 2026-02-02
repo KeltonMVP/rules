@@ -1,3 +1,7 @@
+---
+icon: material/cash-multiple
+---
+
 # Pocket Thief
 
 <figure markdown="span">

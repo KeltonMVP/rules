@@ -1,3 +1,7 @@
+---
+icon: material/card-account-details
+---
+
 # Licenses
 
 ## What are licenses?

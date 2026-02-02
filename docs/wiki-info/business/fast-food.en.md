@@ -1,3 +1,7 @@
+---
+icon: material/hamburger
+---
+
 # FastFoods
 
 <figure markdown="span">

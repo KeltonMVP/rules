@@ -1,3 +1,7 @@
+---
+icon: material/crown
+---
+
 # Premium Account
 
 We all start from the same statistics, but as you progress, if you want to have even more facilities on one of the B-Zone RPG servers, you need to purchase such a package that transforms your regular account into a premium one. To access the community's virtual shop, use the /shop command in-game.

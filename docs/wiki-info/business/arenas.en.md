@@ -1,3 +1,7 @@
+---
+icon: material/trophy
+---
+
 # Arenas
 
 <figure markdown="span">

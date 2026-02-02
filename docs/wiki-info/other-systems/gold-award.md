@@ -1,3 +1,7 @@
+---
+icon: material/currency-usd
+---
+
 # Gold Award
 
 <figure markdown="span">

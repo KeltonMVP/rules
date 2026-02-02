@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # General
 
 This section presents the general commands of the **B-Zone RPG** server.

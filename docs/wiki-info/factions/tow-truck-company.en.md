@@ -1,3 +1,7 @@
+---
+icon: material/tow-truck
+---
+
 # Tow Truck Company
 
 <figure markdown="span">

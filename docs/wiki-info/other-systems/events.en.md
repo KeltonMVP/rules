@@ -1,3 +1,7 @@
+---
+icon: material/calendar
+---
+
 # Events
 
 Events are interactive, recreational activities accessible to any player on the B-Zone servers.

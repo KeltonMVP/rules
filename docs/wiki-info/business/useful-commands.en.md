@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # Business Useful Commands
 
 <figure markdown="span">

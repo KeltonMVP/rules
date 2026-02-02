@@ -1,3 +1,7 @@
+---
+icon: material/police-badge
+---
+
 # LSPD
 
 <figure markdown="span">![Department Logo](/images/wiki/general/lspdLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>

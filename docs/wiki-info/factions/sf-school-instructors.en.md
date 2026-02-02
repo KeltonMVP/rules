@@ -1,3 +1,7 @@
+---
+icon: material/seal
+---
+
 # SF School Instructors
 
 <figure markdown="span">

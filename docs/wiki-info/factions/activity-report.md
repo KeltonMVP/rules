@@ -1,3 +1,7 @@
+---
+icon: material/clipboard-text
+---
+
 # Raport de Activitate
 
 <figure markdown="span">

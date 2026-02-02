@@ -1,3 +1,7 @@
+---
+icon: material/shield-star
+---
+
 # Clanuri
 
 <figure markdown="span">

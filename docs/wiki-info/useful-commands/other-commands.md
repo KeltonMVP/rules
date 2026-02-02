@@ -1,3 +1,7 @@
+---
+icon: material/console-line
+---
+
 # Alte Comenzi
 
 In aceasta pagina veti gasi comenzi care odata tastate in joc, afiseaza si ele la randul lor un nou set de comenzi.

@@ -1,3 +1,7 @@
+---
+icon: material/calendar-clock
+---
+
 # Varsta Vehicul
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/map-marker
+---
+
 # Locatii
 
 Serverul B-Zone RPG dispune de o singura comanda ce cuprinde absolut toate locatiile importante, cat si sediile factiunilor.

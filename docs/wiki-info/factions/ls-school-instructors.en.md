@@ -1,3 +1,7 @@
+---
+icon: material/seal
+---
+
 # LS School Instructors
 
 <figure markdown="span">

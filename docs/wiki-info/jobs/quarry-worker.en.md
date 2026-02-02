@@ -1,3 +1,7 @@
+---
+icon: material/pickaxe
+---
+
 # Quarry Worker
 
 <figure markdown="span">

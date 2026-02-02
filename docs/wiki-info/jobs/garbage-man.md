@@ -1,3 +1,7 @@
+---
+icon: material/trash-can
+---
+
 # Garbage Man
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/tank
+---
+
 # National Guard
 
 <figure markdown="span">![Logo-ul departamentului](/images/wiki/general/NGLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>

@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # House Interiors
 
 <figure markdown="span">

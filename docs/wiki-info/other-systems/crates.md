@@ -1,3 +1,7 @@
+---
+icon: material/package-variant
+---
+
 # Crates
 
 <figure markdown="span">

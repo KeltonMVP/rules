@@ -1,3 +1,7 @@
+---
+icon: material/trophy
+---
+
 # Achievements
 
 <figure markdown="span">

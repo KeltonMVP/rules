@@ -1,3 +1,7 @@
+---
+icon: material/ticket
+---
+
 # Lotto
 
 <figure markdown="span">

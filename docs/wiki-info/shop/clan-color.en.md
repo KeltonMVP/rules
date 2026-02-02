@@ -1,3 +1,7 @@
+---
+icon: material/palette
+---
+
 # Clan Color
 
 <figure markdown="span">

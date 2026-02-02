@@ -1,3 +1,7 @@
+---
+icon: material/key
+---
+
 # Rent
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/account-edit
+---
+
 # Schimbare Nickname
 
 <figure markdown="span">

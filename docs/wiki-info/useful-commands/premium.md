@@ -1,3 +1,7 @@
+---
+icon: material/crown
+---
+
 # Premium
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/account
+---
+
 # Cont
 
 Comenzile acestei categorii sunt axate strict pe controlul propriului cont.

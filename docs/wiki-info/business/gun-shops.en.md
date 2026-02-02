@@ -1,3 +1,7 @@
+---
+icon: material/ammunition
+---
+
 # Gun Shops
 
 <figure markdown="span">

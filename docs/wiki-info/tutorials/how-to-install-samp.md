@@ -1,3 +1,7 @@
+---
+icon: material/download
+---
+
 <figure markdown="span">
   ![samp](/images/wiki/general/Samplogo_tut.png){ width="400" }
 </figure>

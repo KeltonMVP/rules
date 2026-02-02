@@ -1,3 +1,7 @@
+---
+icon: material/gamepad-variant
+---
+
 # PUBG Arena
 
 <figure markdown="span">

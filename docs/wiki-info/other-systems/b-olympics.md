@@ -1,3 +1,7 @@
+---
+icon: material/medal
+---
+
 # B-Olympics
 
 B-Olympics sunt o serie de evenimente pe care administratorii serverelor noastre le pot organiza. Acestea se adreseaza in principal membrilor de facţiune si de clanuri. Cand se va organiza o proba se va anunţa pe chatul global pasii de participare. Olimpiada este compusa din opt probe (**demolition, maze, jetpack, counter strike, parkour, derby, tuberace şi fall**). La finalul unei probe va fi desemnat castigatorul sau castigatorii acesteia.

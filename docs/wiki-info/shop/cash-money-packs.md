@@ -1,3 +1,7 @@
+---
+icon: material/cash-multiple
+---
+
 # Pachete de Bani Cash
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/cash-multiple
+---
+
 # Cash Money Packs
 
 <figure markdown="span">

@@ -1,3 +1,7 @@
+---
+icon: material/fish
+---
+
 # Fisherman
 
 <figure markdown="span">

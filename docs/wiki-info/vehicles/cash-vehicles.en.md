@@ -1,3 +1,7 @@
+---
+icon: material/car
+---
+
 # Cash Vehicles
 
 - Standard (cash) vehicles on RPG servers are vehicles that can be purchased using in-game currency ($) starting from level 3.

@@ -1,3 +1,7 @@
+---
+icon: material/console
+---
+
 # Comenzi Utile pentru Joburi
 
 <figure markdown="span">

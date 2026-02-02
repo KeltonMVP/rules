@@ -1,3 +1,7 @@
+---
+icon: material/sale
+---
+
 # Discounts
 
 <figure markdown="span">

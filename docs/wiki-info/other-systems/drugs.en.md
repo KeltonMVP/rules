@@ -1,3 +1,7 @@
+---
+icon: material/cannabis
+---
+
 # Drugs
 
 <figure markdown="span">
