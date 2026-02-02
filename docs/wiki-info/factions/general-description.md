@@ -5,7 +5,7 @@ icon: material/account-group
 # Descriere Generala
 
 <figure markdown="span">
-  ![Membri optiuni](/images/wiki/general/membersoptions.png){ width="360" }
+  ![Membri optiuni](/images/wiki/general/Membersoptions.png){ width="360" }
   <figcaption>#1 Lider /members optiuni</figcaption>
 </figure>
 

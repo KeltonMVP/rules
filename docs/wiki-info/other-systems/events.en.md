@@ -9,7 +9,7 @@ Events are interactive, recreational activities accessible to any player on the 
 ## Requesting an event
 
 <figure markdown="span">
-  ![Event request form](/images/wiki/general/requestevent.png){ width="600" }
+  ![Event request form](/images/wiki/general/Requestevent.png){ width="600" }
   <figcaption>Event request form</figcaption>
 </figure>
 

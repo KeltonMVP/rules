@@ -5,12 +5,12 @@ icon: material/baseball-bat
 # Green Street Bloods
 
 <figure markdown="span">
-  ![Faction Logo](/images/wiki/general/greenstreetLogo.png){ width="300" }
+  ![Faction Logo](/images/wiki/general/GreenstreetLogo.png){ width="300" }
   <figcaption>Faction Logo</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![HQ Location](/images/wiki/general/gsbhq.png){ width="350" }
+  ![HQ Location](/images/wiki/general/Gsbhq.png){ width="350" }
   <figcaption>HQ Location</figcaption>
 </figure>
 

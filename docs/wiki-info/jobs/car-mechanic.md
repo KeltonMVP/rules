@@ -5,7 +5,7 @@ icon: material/wrench
 # Mecanic Auto
 
 <figure markdown="span">
-  ![Locatie job](/images/wiki/general/mechanic_radar_photo.png){ width="450" }
+  ![Locatie job](/images/wiki/general/Mechanic_radar_photo.png){ width="450" }
   <figcaption>#1 Locatia jobului de mecanic</figcaption>
 </figure>
 

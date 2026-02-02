@@ -10,7 +10,7 @@ icon: material/knife-military
 </figure>
 
 <figure markdown="span">
-  ![HQ Location](/images/wiki/general/hq69.png){ width="350" }
+  ![HQ Location](/images/wiki/general/Hq69.png){ width="350" }
   <figcaption>HQ Location</figcaption>
 </figure>
 

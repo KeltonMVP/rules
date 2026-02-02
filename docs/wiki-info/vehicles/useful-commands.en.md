@@ -2,14 +2,10 @@
 icon: material/console
 ---
 
-﻿---
-icon: material/car
----
-
-﻿# Useful commands for vehicles
+# Useful commands for vehicles
 
 <figure markdown="span">
-  ![Vehicle Representation](/images/wiki/general/vehiccle.jpg){ width="400" }
+  ![Vehicle Representation](/images/wiki/general/Vehiccle.jpg){ width="400" }
   <figcaption>Vehicle Representation</figcaption>
 </figure>
 
@@ -18,7 +14,7 @@ Everyone wants to have a beautiful, perfectly functional and fast personal car, 
 ## /vehicles
 
 <figure markdown="span">
-  ![Vehicle Garage](/images/wiki/general/veh_menu.jpg){ width="400" }
+  ![Vehicle Garage](/images/wiki/general/Veh_menu.jpg){ width="400" }
   <figcaption>Vehicle Garage</figcaption>
 </figure>
 
@@ -36,7 +32,7 @@ Due to SA:MP server limitations, players with premium accounts can spawn up to 8
 By selecting a vehicle from the list, the server will provide several options with which you can control the vehicle.
 
 <figure markdown="span">
-  ![Vehicle Options](/images/wiki/general/veh_menu2.png){ width="400" }
+  ![Vehicle Options](/images/wiki/general/Veh_menu2.png){ width="400" }
   <figcaption>Vehicle Options</figcaption>
 </figure>
 

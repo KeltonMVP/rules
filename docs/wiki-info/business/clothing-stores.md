@@ -5,7 +5,7 @@ icon: material/tshirt-crew
 # Magazine de haine
 
 <figure markdown="span">
-  ![Harta magazinelor de haine](/images/wiki/general/bincos_mapp.png){ width="350" }
+  ![Harta magazinelor de haine](/images/wiki/general/Bincos_mapp.png){ width="350" }
   <figcaption>Harta magazinelor de haine</figcaption>
 </figure>
 
@@ -15,17 +15,17 @@ icon: material/tshirt-crew
 </figure>
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/binco-cu-ochelari.png){ width="200" }
+  ![#1](/images/wiki/general/Binco-cu-ochelari.png){ width="200" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#2](/images/wiki/general/binco-icon.png){ width="300" }
+  ![#2](/images/wiki/general/Binco-icon.png){ width="300" }
   <figcaption>#2</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interfata costume](/images/wiki/general/costumes.png){ width="350" }
+  ![Interfata costume](/images/wiki/general/Costumes.png){ width="350" }
   <figcaption>Interfata costume</figcaption>
 </figure>
 

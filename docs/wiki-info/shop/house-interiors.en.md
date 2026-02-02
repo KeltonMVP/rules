@@ -5,7 +5,7 @@ icon: material/home
 # House Interiors
 
 <figure markdown="span">
-    ![Interior](/images/wiki/general/housee.jpg){ width=400" }
+    ![Interior](/images/wiki/general/Housee.jpg){ width=400" }
 </figure>
 
 Beautify your own home and become the most envied neighbor. The B-Zone community shop (/shop) provides you with approximately 40 different types of interiors that you can purchase for your house.

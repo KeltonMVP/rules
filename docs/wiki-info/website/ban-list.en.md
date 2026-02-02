@@ -11,7 +11,7 @@ Below you can find links to the Ban list:
 If an account has been banned or still is, it will definitely appear in the ban list. The information is presented in the form of a table, each line representing a sanction. The table is structured as follows:
 
 <figure markdown="span">
-  ![Banlist_example](/images/wiki/website/Banlist_example.PNG)
+  ![Banlist_example](/images/wiki/general/Banlist_example.PNG)
   <figcaption>Ban list example</figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ icon: material/city
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/mayor.jpg){ width="500" }
+  ![HQ](/images/wiki/general/Mayor.jpg){ width="500" }
   <figcaption>HQ</figcaption>
 </figure>
 

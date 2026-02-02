@@ -5,22 +5,22 @@ icon: material/glass-cocktail
 # Cluburi & Baruri
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/clubs1p.jpg){ width="100" }
+  ![#1](/images/wiki/general/Clubs1p.jpg){ width="100" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#2](/images/wiki/general/clibs2.jpg){ width="100" }
+  ![#2](/images/wiki/general/Clibs2.jpg){ width="100" }
   <figcaption>#2</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interiorul unui club - Alhambra, Los Santos](/images/wiki/general/int_alhambra.jpg){ width="450" }
+  ![Interiorul unui club - Alhambra, Los Santos](/images/wiki/general/Int_alhambra.jpg){ width="450" }
   <figcaption>Interiorul unui club - Alhambra, Los Santos</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Harta barurilor si a cluburilor](/images/wiki/general/clubs_bars_mapp.png){ width="450" }
+  ![Harta barurilor si a cluburilor](/images/wiki/general/Clubs_bars_mapp.png){ width="450" }
   <figcaption>Harta barurilor si a cluburilor</figcaption>
 </figure>
 

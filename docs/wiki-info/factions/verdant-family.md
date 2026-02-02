@@ -5,12 +5,12 @@ icon: material/arm-flex
 # Verdant Family
 
 <figure markdown="span">
-  ![Logo-ul mafiei](/images/wiki/general/verdantlogo.png){ width="300" }
+  ![Logo-ul mafiei](/images/wiki/general/Verdantlogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Locatia HQ-ului](/images/wiki/general/vdthq.png){ width="350" }
+  ![Locatia HQ-ului](/images/wiki/general/Vdthq.png){ width="350" }
   <figcaption>Locatia HQ-ului</figcaption>
 </figure>
 

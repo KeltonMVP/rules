@@ -5,12 +5,12 @@ icon: material/bus
 # Bus Driver
 
 <figure markdown="span">
-  ![Location #1](/images/wiki/general/busr_map.png){ width="450" }
+  ![Location #1](/images/wiki/general/Busr_map.png){ width="450" }
   <figcaption>Job location #1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Location #2](/images/wiki/general/busr_map2.png){ width="450" }
+  ![Location #2](/images/wiki/general/Busr_map2.png){ width="450" }
   <figcaption>Job location #2</figcaption>
 </figure>
 

@@ -4,13 +4,13 @@ icon: material/police-badge
 
 # LSPD
 
-<figure markdown="span">![Department Logo](/images/wiki/general/lspdLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>
+<figure markdown="span">![Department Logo](/images/wiki/general/LspdLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>
 
-<figure markdown="span">![HQ Location](/images/wiki/general/lspdhq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
+<figure markdown="span">![HQ Location](/images/wiki/general/Lspdhq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Police Officer](/images/wiki/general/scut.png){ width="350" }<figcaption>Police Officer</figcaption></figure>
+<figure markdown="span">![Police Officer](/images/wiki/general/Scut.png){ width="350" }<figcaption>Police Officer</figcaption></figure>
 
 ## General Description
 

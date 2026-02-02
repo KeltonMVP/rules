@@ -5,12 +5,12 @@ icon: material/arm-flex
 # Verdant Family
 
 <figure markdown="span">
-  ![Faction Logo](/images/wiki/general/verdantlogo.png){ width="300" }
+  ![Faction Logo](/images/wiki/general/Verdantlogo.png){ width="300" }
   <figcaption>Faction Logo</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![HQ Location](/images/wiki/general/vdthq.png){ width="350" }
+  ![HQ Location](/images/wiki/general/Vdthq.png){ width="350" }
   <figcaption>HQ Location</figcaption>
 </figure>
 

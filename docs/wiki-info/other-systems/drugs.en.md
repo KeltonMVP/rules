@@ -5,7 +5,7 @@ icon: material/cannabis
 # Drugs
 
 <figure markdown="span">
-  ![Drug effects](/images/wiki/general/drugs_effect.png){ width="350" }
+  ![Drug effects](/images/wiki/general/Drugs_effect.png){ width="350" }
   <figcaption>Drug effects</figcaption>
 </figure>
 

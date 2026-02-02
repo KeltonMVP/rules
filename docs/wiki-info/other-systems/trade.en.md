@@ -5,7 +5,7 @@ icon: material/swap-horizontal
 # Trade
 
 <figure markdown="span">
-  ![Trade](/images/wiki/general/trade_with_SuperSoldierNOOB.png){ width="500" }
+  ![Trade](/images/wiki/general/Trade_with_SuperSoldierNOOB.png){ width="500" }
   <figcaption>Trade</figcaption>
 </figure>
 

@@ -6,11 +6,11 @@ icon: material/tank
 
 <figure markdown="span">![Department Logo](/images/wiki/general/NGLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>
 
-<figure markdown="span">![HQ Location](/images/wiki/general/nghq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
+<figure markdown="span">![HQ Location](/images/wiki/general/Nghq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Soldier](/images/wiki/general/national.png){ width="350" }<figcaption>Soldier</figcaption></figure>
+<figure markdown="span">![Soldier](/images/wiki/general/National.png){ width="350" }<figcaption>Soldier</figcaption></figure>
 
 ## General Description
 

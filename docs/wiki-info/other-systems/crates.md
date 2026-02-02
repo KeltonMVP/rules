@@ -10,12 +10,12 @@ icon: material/package-variant
 </figure>
 
 <figure markdown="span">
-  ![Meniu deschidere cutie](/images/wiki/general/meniu_crate.png){ width="450" }
+  ![Meniu deschidere cutie](/images/wiki/general/Meniu_crate.png){ width="450" }
   <figcaption>Meniu deschidere cutie</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Locatie cutie pe minimap](/images/wiki/general/green_cp.png){ width="350" }
+  ![Locatie cutie pe minimap](/images/wiki/general/Green_cp.png){ width="350" }
   <figcaption>Locatie cutie pe minimap</figcaption>
 </figure>
 

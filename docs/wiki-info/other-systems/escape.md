@@ -5,7 +5,7 @@ icon: material/run-fast
 # Escape
 
 <figure markdown="span">
-  ![Un deţinut care incearca sa evadeze](/images/wiki/general/escape_photo.png){ width="450" }
+  ![Un deţinut care incearca sa evadeze](/images/wiki/general/Escape_photo.png){ width="450" }
   <figcaption>Un deţinut care incearca sa evadeze</figcaption>
 </figure>
 

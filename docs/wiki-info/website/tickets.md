@@ -4,7 +4,7 @@ icon: material/ticket
 
 # Tickete
 
-[Sectiune Tickete Site-ul RPG]https://www.rpg.b-zone.ro/ticket)
+[Sectiune Tickete Site-ul RPG](https://www.rpg.b-zone.ro/ticket)
 
 Sistemul de ticketing are urmatoarele trasaturi:
 

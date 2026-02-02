@@ -5,7 +5,7 @@ icon: material/cannabis
 # Drugs
 
 <figure markdown="span">
-  ![Efectul drogurilor](/images/wiki/general/drugs_effect.png){ width="350" }
+  ![Efectul drogurilor](/images/wiki/general/Drugs_effect.png){ width="350" }
   <figcaption>Efectul drogurilor</figcaption>
 </figure>
 

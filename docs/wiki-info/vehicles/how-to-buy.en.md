@@ -2,11 +2,7 @@
 icon: material/cart
 ---
 
-﻿---
-icon: material/car
----
-
-﻿# How to buy vehicles
+# How to buy vehicles
 
 <figure markdown="span">
   ![Dealership Location](/images/wiki/general/400px-DS_map_marker_red.png){ width="400" }

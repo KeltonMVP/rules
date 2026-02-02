@@ -5,7 +5,7 @@ icon: material/treasure-chest
 # Rewards System
 
 <figure markdown="span">
-  ![Interfata rewards](/images/wiki/general/dailychest.png){ width="350" }
+  ![Interfata rewards](/images/wiki/general/Dailychest.png){ width="350" }
   <figcaption>Interfata rewards</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/axe
 # Lumberjack
 
 <figure markdown="span">
-  ![Locatie job](/images/wiki/general/lemne.png){ width="450" }
+  ![Locatie job](/images/wiki/general/Lemne.png){ width="450" }
   <figcaption>#1 Locatia jobului</figcaption>
 </figure>
 

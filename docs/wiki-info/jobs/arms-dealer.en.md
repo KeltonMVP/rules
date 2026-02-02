@@ -5,7 +5,7 @@ icon: material/ammunition
 # Arms Dealer
 
 <figure markdown="span">
-  ![Job location](/images/wiki/general/armsdealer_job_radar_photo.png){ width="450" }
+  ![Job location](/images/wiki/general/Armsdealer_job_radar_photo.png){ width="450" }
   <figcaption>Job location</figcaption>
 </figure>
 

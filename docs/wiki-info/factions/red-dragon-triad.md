@@ -5,12 +5,12 @@ icon: material/spider
 # Red Dragon Triad
 
 <figure markdown="span">
-  ![Logo mafie](/images/wiki/general/reddragonLogo.png){ width="300" }
+  ![Logo mafie](/images/wiki/general/ReddragonLogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Locatie HQ](/images/wiki/general/rdthq.png){ width="350" }
+  ![Locatie HQ](/images/wiki/general/Rdthq.png){ width="350" }
   <figcaption>Locatia HQ-ului</figcaption>
 </figure>
 

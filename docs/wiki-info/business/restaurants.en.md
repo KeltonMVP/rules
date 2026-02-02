@@ -5,17 +5,17 @@ icon: material/silverware-fork-knife
 # Restaurants
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/restaurant_icon_map.png){ width="100" }
+  ![#1](/images/wiki/general/Restaurant_icon_map.png){ width="100" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interior of a restaurant](/images/wiki/general/restaurant_interior.jpg){ width="450" }
+  ![Interior of a restaurant](/images/wiki/general/Restaurant_interior.jpg){ width="450" }
   <figcaption>Interior of a restaurant</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Map of restaurants](/images/wiki/general/restaurants_mapp.png){ width="450" }
+  ![Map of restaurants](/images/wiki/general/Restaurants_mapp.png){ width="450" }
   <figcaption>Map of restaurants</figcaption>
 </figure>
 

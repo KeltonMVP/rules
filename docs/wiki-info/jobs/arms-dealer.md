@@ -5,7 +5,7 @@ icon: material/ammunition
 # Traficant de arme
 
 <figure markdown="span">
-  ![Locatie job](/images/wiki/general/armsdealer_job_radar_photo.png){ width="450" }
+  ![Locatie job](/images/wiki/general/Armsdealer_job_radar_photo.png){ width="450" }
   <figcaption>Locatia jobului</figcaption>
 </figure>
 

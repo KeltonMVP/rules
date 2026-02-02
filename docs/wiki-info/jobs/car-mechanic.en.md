@@ -5,7 +5,7 @@ icon: material/wrench
 # Car Mechanic
 
 <figure markdown="span">
-  ![Job location](/images/wiki/general/mechanic_radar_photo.png){ width="450" }
+  ![Job location](/images/wiki/general/Mechanic_radar_photo.png){ width="450" }
   <figcaption>#1 Mechanic job location</figcaption>
 </figure>
 

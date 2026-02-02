@@ -5,7 +5,7 @@ icon: material/tractor
 # Farmer
 
 <figure markdown="span">
-  ![Los Santos Farm #1](/images/wiki/general/farmer_job_radar_photo.png){ width="450" }
+  ![Los Santos Farm #1](/images/wiki/general/Farmer_job_radar_photo.png){ width="450" }
   <figcaption>Los Santos Farm #1</figcaption>
 </figure>
 

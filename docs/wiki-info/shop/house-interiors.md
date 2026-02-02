@@ -5,7 +5,7 @@ icon: material/home
 # Interioare Case
 
 <figure markdown="span">
-    ![Interior](/images/wiki/general/housee.jpg){ width=400" }
+    ![Interior](/images/wiki/general/Housee.jpg){ width=400" }
 </figure>
 
 Infrumusetează-ti propria locuinta si devino cel mai invidiat vecin. Magazinul comunitatii B-Zone (/shop) va pune la dispozitie aproximativ 40 de tipuri de interioare diferite pe care le poti achizitiona pentru casa ta.

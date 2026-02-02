@@ -5,7 +5,7 @@ icon: material/star-crescent
 # Southern Pimps
 
 <figure markdown="span">
-  ![Logo-ul mafiei](/images/wiki/general/southernpimpsLogo.png){ width="300" }
+  ![Logo-ul mafiei](/images/wiki/general/SouthernpimpsLogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/clipboard-text
 # Activity Report
 
 <figure markdown="span">
-  ![Report In-Game](/images/wiki/general/raportjoc.png){ width="450" }
+  ![Report In-Game](/images/wiki/general/Raportjoc.png){ width="450" }
   <figcaption>#1 Report dialog in-game</figcaption>
 </figure>
 

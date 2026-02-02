@@ -5,7 +5,7 @@ icon: material/magnify
 # Detective
 
 <figure markdown="span">
-  ![Locatie radar](/images/wiki/general/detective_radar_photo.jpg){ width="450" }
+  ![Locatie radar](/images/wiki/general/Detective_radar_photo.jpg){ width="450" }
   <figcaption>#1 Locatia punctului de angajare</figcaption>
 </figure>
 

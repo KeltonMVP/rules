@@ -5,17 +5,17 @@ icon: material/safe
 # Safebox
 
 <figure markdown="span">
-  ![Editarea pozitiei safeboxului #1](/images/wiki/general/safeboxedit.png){ width="450" }
+  ![Editarea pozitiei safeboxului #1](/images/wiki/general/Safeboxedit.png){ width="450" }
   <figcaption>Editarea pozitiei safeboxului #1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Dialog safeboxuri detinute #2](/images/wiki/general/safeboxadd.png){ width="450" }
+  ![Dialog safeboxuri detinute #2](/images/wiki/general/Safeboxadd.png){ width="450" }
   <figcaption>Dialog safeboxuri detinute #2</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Meniu safebox #3](/images/wiki/general/safeboxmenu.png){ width="450" }
+  ![Meniu safebox #3](/images/wiki/general/Safeboxmenu.png){ width="450" }
   <figcaption>Meniu safebox #3</figcaption>
 </figure>
 

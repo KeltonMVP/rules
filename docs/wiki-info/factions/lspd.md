@@ -4,13 +4,13 @@ icon: material/police-badge
 
 # LSPD
 
-<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/lspdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
+<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/LspdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
 
-<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/lspdhq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
+<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/Lspdhq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Politist](/images/wiki/general/scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
+<figure markdown="span">![Politist](/images/wiki/general/Scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
 
 ## Descriere generala
 

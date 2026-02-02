@@ -9,7 +9,7 @@ Evenimentele sunt activitati interactive, de recreere, accesibile oricarui jucat
 ## Solicitarea unui eveniment
 
 <figure markdown="span">
-  ![Formular cerere eveniment](/images/wiki/general/requestevent.png){ width="600" }
+  ![Formular cerere eveniment](/images/wiki/general/Requestevent.png){ width="600" }
   <figcaption>Formular cerere eveniment</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/cigar
 # The Tsar Bratva
 
 <figure markdown="span">
-  ![Faction Logo](/images/wiki/general/ttblogo.png){ width="300" }
+  ![Faction Logo](/images/wiki/general/Ttblogo.png){ width="300" }
   <figcaption>Faction Logo</figcaption>
 </figure>
 

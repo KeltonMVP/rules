@@ -5,7 +5,7 @@ icon: material/slot-machine
 # Slots
 
 <figure markdown="span">
-  ![Slots](/images/wiki/general/pacanele.jpg){ width="400" }
+  ![Slots](/images/wiki/general/Pacanele.jpg){ width="400" }
   <figcaption>Slot Machines</figcaption>
 </figure>
 

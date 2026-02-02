@@ -5,7 +5,7 @@ icon: material/car-wrench
 # Tuning
 
 <figure markdown="span">
-  ![Harta tuningurilor](/images/wiki/general/loc.jpg){ width="450" }
+  ![Harta tuningurilor](/images/wiki/general/Loc.jpg){ width="450" }
   <figcaption>Harta tuningurilor</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ icon: material/car-wrench
 </figure>
 
 <figure markdown="span">
-  ![Vehicule tunate](/images/wiki/general/neon.jpg){ width="450" }
+  ![Vehicule tunate](/images/wiki/general/Neon.jpg){ width="450" }
   <figcaption>Vehicule tunate</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/handcuffs
 # Inchisoarea
 
 <figure markdown="span">
-  ![Prizonier](/images/wiki/general/female_jail.png){ width="450" }
+  ![Prizonier](/images/wiki/general/Female_jail.png){ width="450" }
   <figcaption>Prizonier</figcaption>
 </figure>
 

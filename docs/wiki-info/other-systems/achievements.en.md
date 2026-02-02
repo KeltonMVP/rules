@@ -5,7 +5,7 @@ icon: material/trophy
 # Achievements
 
 <figure markdown="span">
-  ![Locked achievements](/images/wiki/general/realizari.jpg){ width="400" }
+  ![Locked achievements](/images/wiki/general/Realizari.jpg){ width="400" }
   <figcaption>Locked achievements</figcaption>
 </figure>
 

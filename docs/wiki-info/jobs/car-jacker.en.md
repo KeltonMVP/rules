@@ -5,7 +5,7 @@ icon: material/car-arrow-right
 # Car Jacker
 
 <figure markdown="span">
-  ![Radar Photo](/images/wiki/general/carjacker_radar_photo.jpg){ width="400" }
+  ![Radar Photo](/images/wiki/general/Carjacker_radar_photo.jpg){ width="400" }
   <figcaption>#1 Radar Photo</figcaption>
 </figure>
 

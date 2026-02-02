@@ -5,7 +5,7 @@ icon: material/cannabis
 # Avispa Rifa
 
 <figure markdown="span">
-  ![Faction Logo](/images/wiki/general/avispaLogo.png){ width="300" }
+  ![Faction Logo](/images/wiki/general/AvispaLogo.png){ width="300" }
   <figcaption>Faction Logo</figcaption>
 </figure>
 

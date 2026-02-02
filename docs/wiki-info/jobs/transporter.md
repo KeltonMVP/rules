@@ -5,7 +5,7 @@ icon: material/truck
 # Transporter
 
 <figure markdown="span">
-  ![Locatia jobului](/images/wiki/general/transporter_radar.jpg){ width="300" }
+  ![Locatia jobului](/images/wiki/general/Transporter_radar.jpg){ width="300" }
   <figcaption>Locatia jobului pe harta</figcaption>
 </figure>
 

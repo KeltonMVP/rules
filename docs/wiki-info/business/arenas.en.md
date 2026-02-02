@@ -10,27 +10,27 @@ icon: material/trophy
 </figure>
 
 <figure markdown="span">
-  ![Paintball Arena, LS](/images/wiki/general/paintball_arena_vw0.jpg){ width="450" }
+  ![Paintball Arena, LS](/images/wiki/general/Paintball_arena_vw0.jpg){ width="450" }
   <figcaption>Paintball Arena, LS</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Racing Arena, LS](/images/wiki/general/racing_arena_vw0.jpg){ width="450" }
+  ![Racing Arena, LS](/images/wiki/general/Racing_arena_vw0.jpg){ width="450" }
   <figcaption>Racing Arena, LS</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![War Arena, LV](/images/wiki/general/war_arena_vw0.jpg){ width="450" }
+  ![War Arena, LV](/images/wiki/general/War_arena_vw0.jpg){ width="450" }
   <figcaption>War Arena, LV</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Gun Game Arena, SF](/images/wiki/general/gungame_arena_vw0.jpg){ width="450" }
+  ![Gun Game Arena, SF](/images/wiki/general/Gungame_arena_vw0.jpg){ width="450" }
   <figcaption>Gun Game Arena, SF</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Last Car Standing Arena, SF](/images/wiki/general/lcsarena.png){ width="450" }
+  ![Last Car Standing Arena, SF](/images/wiki/general/Lcsarena.png){ width="450" }
   <figcaption>Last Car Standing Arena, SF</figcaption>
 </figure>
 

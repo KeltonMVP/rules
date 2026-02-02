@@ -5,7 +5,7 @@ icon: material/cash
 # Payday
 
 <figure markdown="span">
-  ![PayDay](/images/wiki/general/payday_chat.jpg){ width="300" }
+  ![PayDay](/images/wiki/general/Payday_chat.jpg){ width="300" }
   <figcaption>PayDay</figcaption>
 </figure>
 

@@ -4,13 +4,13 @@ icon: material/police-badge
 
 # SFPD
 
-<figure markdown="span">![Department Logo](/images/wiki/general/sfpdLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>
+<figure markdown="span">![Department Logo](/images/wiki/general/SfpdLogo.png){ width="300" }<figcaption>Department Logo</figcaption></figure>
 
-<figure markdown="span">![HQ Location](/images/wiki/general/sfpdhq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
+<figure markdown="span">![HQ Location](/images/wiki/general/Sfpdhq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Police Officer](/images/wiki/general/scut.png){ width="350" }<figcaption>Police Officer</figcaption></figure>
+<figure markdown="span">![Police Officer](/images/wiki/general/Scut.png){ width="350" }<figcaption>Police Officer</figcaption></figure>
 
 ## General Description
 

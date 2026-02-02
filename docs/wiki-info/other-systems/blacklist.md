@@ -5,7 +5,7 @@ icon: material/block-helper
 # Blacklist
 
 <figure markdown="span">
-  ![Interfata comenzii /blacklist](/images/wiki/general/bl.png){ width="400" }
+  ![Interfata comenzii /blacklist](/images/wiki/general/Bl.png){ width="400" }
   <figcaption>Interfata comenzii /blacklist</figcaption>
 </figure>
 

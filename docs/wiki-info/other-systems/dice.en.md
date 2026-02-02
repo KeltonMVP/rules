@@ -5,7 +5,7 @@ icon: material/dice-multiple
 # Dice
 
 <figure markdown="span">
-  ![Two players playing dice](/images/wiki/general/barbut.jpg){ width="400" }
+  ![Two players playing dice](/images/wiki/general/Barbut.jpg){ width="400" }
   <figcaption>Two players playing dice</figcaption>
 </figure>
 

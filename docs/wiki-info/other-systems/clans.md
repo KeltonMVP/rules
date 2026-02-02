@@ -15,7 +15,7 @@ icon: material/shield-star
 </figure>
 
 <figure markdown="span">
-  ![Clan Spray](/images/wiki/general/clan_spray.jpg){ width="450" }
+  ![Clan Spray](/images/wiki/general/Clan_spray.jpg){ width="450" }
   <figcaption>Clan Spray</figcaption>
 </figure>
 

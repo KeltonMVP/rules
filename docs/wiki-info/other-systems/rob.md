@@ -5,11 +5,11 @@ icon: material/robber
 # Rob
 
 <figure markdown="span">
-  ![Politia la patrula](/images/wiki/general/bank_police_antirob.jpg){ width="400" }
+  ![Politia la patrula](/images/wiki/general/Bank_police_antirob.jpg){ width="400" }
   <figcaption>Politia la patrula</figcaption>
 </figure>
 <figure markdown="span">
-  ![Meniul de rob](/images/wiki/general/rob_main.png){ width="400" }
+  ![Meniul de rob](/images/wiki/general/Rob_main.png){ width="400" }
   <figcaption>Meniul de rob</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Pentru a incepe tentativa de jaf la un ATM, jucatorul trebuie sa indeplineasca t
 * Dupa detonare, ATM-ul intra in stare stricata; apare langa ATM un sac cu bani personal, care poate fi ridicat doar de jucatorul care a efectuat jaful.
 
 <figure markdown="span">
-  ![Sacul cu bani](/images/wiki/general/rob_bag.png){ width="400" }
+  ![Sacul cu bani](/images/wiki/general/Rob_bag.png){ width="400" }
   <figcaption>Sacul cu bani</figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ Roluri disponibile sunt:
 ### Castigul din urma jafului (formula de calcul)
 
 <figure markdown="span">
-  ![Castigul unui jaf la care au participat 4 jucatori](/images/wiki/general/castig_rob.png){ width="400" }
+  ![Castigul unui jaf la care au participat 4 jucatori](/images/wiki/general/Castig_rob.png){ width="400" }
   <figcaption>Castigul unui jaf la care au participat 4 jucatori</figcaption>
 </figure>
 

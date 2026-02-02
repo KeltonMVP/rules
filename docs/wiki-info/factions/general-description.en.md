@@ -5,7 +5,7 @@ icon: material/account-group
 # General Description
 
 <figure markdown="span">
-  ![Members options](/images/wiki/general/membersoptions.png){ width="360" }
+  ![Members options](/images/wiki/general/Membersoptions.png){ width="360" }
   <figcaption>#1 Leader /members options</figcaption>
 </figure>
 

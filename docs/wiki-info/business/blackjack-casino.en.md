@@ -5,12 +5,12 @@ icon: material/cards-playing
 # Blackjack Casino
 
 <figure markdown="span">
-  ![Blackjack Casino](/images/wiki/general/blackjack_casino.png){ width="450" }
+  ![Blackjack Casino](/images/wiki/general/Blackjack_casino.png){ width="450" }
   <figcaption>Blackjack Casino</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Blackjack table](/images/wiki/general/blackjack_table.png){ width="450" }
+  ![Blackjack table](/images/wiki/general/Blackjack_table.png){ width="450" }
   <figcaption>Blackjack table</figcaption>
 </figure>
 

@@ -4,13 +4,13 @@ icon: material/shield-car
 
 # FBI
 
-<figure markdown="span">![Faction Logo](/images/wiki/general/fbiLogo.png){ width="300" }<figcaption>Faction Logo</figcaption></figure>
+<figure markdown="span">![Faction Logo](/images/wiki/general/FbiLogo.png){ width="300" }<figcaption>Faction Logo</figcaption></figure>
 
-<figure markdown="span">![HQ Location](/images/wiki/general/fbihq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
+<figure markdown="span">![HQ Location](/images/wiki/general/Fbihq.png){ width="350" }<figcaption>HQ Location</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Agent](/images/wiki/general/fbi.png){ width="350" }<figcaption>Agent</figcaption></figure>
+<figure markdown="span">![Agent](/images/wiki/general/Fbi.png){ width="350" }<figcaption>Agent</figcaption></figure>
 
 ## General Description
 

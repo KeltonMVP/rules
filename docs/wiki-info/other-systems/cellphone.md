@@ -5,7 +5,7 @@ icon: material/cellphone
 # Cellphone
 
 <figure markdown="span">
-  ![Jucator care sustine o conversatie](/images/wiki/general/phonee.png){ width="350" }
+  ![Jucator care sustine o conversatie](/images/wiki/general/Phonee.png){ width="350" }
   <figcaption>Jucator care sustine o conversatie</figcaption>
 </figure>
 

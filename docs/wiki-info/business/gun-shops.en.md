@@ -5,12 +5,12 @@ icon: material/ammunition
 # Gun Shops
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/gunshopicon.png){ width="150" }
+  ![#1](/images/wiki/general/Gunshopicon.png){ width="150" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Gun Shop Interior LV](/images/wiki/general/gunshopLVint.png){ width="450" }
+  ![Gun Shop Interior LV](/images/wiki/general/GunshopLVint.png){ width="450" }
   <figcaption>Gun Shop Interior LV</figcaption>
 </figure>
 

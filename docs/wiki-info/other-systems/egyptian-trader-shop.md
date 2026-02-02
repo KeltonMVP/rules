@@ -9,7 +9,7 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 ## Caracteristici Generale
 
 <figure markdown="span">
-  ![Interfaţa tradeului #1](/images/wiki/general/trade_interface.png){ width="400" }
+  ![Interfaţa tradeului #1](/images/wiki/general/Trade_interface.png){ width="400" }
   <figcaption>Interfaţa tradeului #1</figcaption>
 </figure>
 
@@ -19,17 +19,17 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 </figure>
 
 <figure markdown="span">
-  ![Interfata de fuzionare #3](/images/wiki/general/fusion_skin.png){ width="400" }
+  ![Interfata de fuzionare #3](/images/wiki/general/Fusion_skin.png){ width="400" }
   <figcaption>Interfata de fuzionare #3</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4](/images/wiki/general/fusion_skin_2.png){ width="400" }
+  ![Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4](/images/wiki/general/Fusion_skin_2.png){ width="400" }
   <figcaption>Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#5](/images/wiki/general/onyx_fused_bubble.png){ width="300" }
+  ![#5](/images/wiki/general/Onyx_fused_bubble.png){ width="300" }
   <figcaption>#5</figcaption>
 </figure>
 

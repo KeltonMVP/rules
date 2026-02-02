@@ -4,13 +4,13 @@ icon: material/police-badge
 
 # LVPD
 
-<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/lvpdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
+<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/LvpdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
 
-<figure markdown="span">![Locatia HQ-ul](/images/wiki/general/lvpdhq.png){ width="350" }<figcaption>Locatia HQ-ul</figcaption></figure>
+<figure markdown="span">![Locatia HQ-ul](/images/wiki/general/Lvpdhq.png){ width="350" }<figcaption>Locatia HQ-ul</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Politist](/images/wiki/general/scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
+<figure markdown="span">![Politist](/images/wiki/general/Scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
 
 ## Descriere generala
 

@@ -5,7 +5,7 @@ icon: material/car-wrench
 # Tuning
 
 <figure markdown="span">
-  ![Tuning Map](/images/wiki/general/loc.jpg){ width="450" }
+  ![Tuning Map](/images/wiki/general/Loc.jpg){ width="450" }
   <figcaption>Tuning Map</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ icon: material/car-wrench
 </figure>
 
 <figure markdown="span">
-  ![Tuned Vehicles](/images/wiki/general/neon.jpg){ width="450" }
+  ![Tuned Vehicles](/images/wiki/general/Neon.jpg){ width="450" }
   <figcaption>Tuned Vehicles</figcaption>
 </figure>
 

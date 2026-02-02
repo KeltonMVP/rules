@@ -5,7 +5,7 @@ icon: material/sword-cross
 # Wars
 
 <figure markdown="span">
-  ![Wars](/images/wiki/general/turfsimage.png){ width="300" }
+  ![Wars](/images/wiki/general/Turfsimage.png){ width="300" }
   <figcaption>Wars</figcaption>
 </figure>
 Warurile sunt confruntarile dintre ganguri, in urma carora se poate castiga respect si suprematie.

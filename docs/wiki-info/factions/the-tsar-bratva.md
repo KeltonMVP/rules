@@ -5,7 +5,7 @@ icon: material/cigar
 # The Tsar Bratva
 
 <figure markdown="span">
-  ![Logo-ul mafiei](/images/wiki/general/ttblogo.png){ width="300" }
+  ![Logo-ul mafiei](/images/wiki/general/Ttblogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 

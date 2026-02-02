@@ -2,14 +2,10 @@
 icon: material/console
 ---
 
-﻿---
-icon: material/car
----
-
-﻿# Comenzi utile pentru vehicule
+# Comenzi utile pentru vehicule
 
 <figure markdown="span">
-  ![Reprezentare Vehicul](/images/wiki/general/vehiccle.jpg){ width="400" }
+  ![Reprezentare Vehicul](/images/wiki/general/Vehiccle.jpg){ width="400" }
   <figcaption>Reprezentare Vehicul</figcaption>
 </figure>
 
@@ -18,7 +14,7 @@ Oricine doreste sa aiba o masina personala frumoasa, perfect functionala si rapi
 ## /vehicles
 
 <figure markdown="span">
-  ![Garaj Vehicule](/images/wiki/general/veh_menu.jpg){ width="400" }
+  ![Garaj Vehicule](/images/wiki/general/Veh_menu.jpg){ width="400" }
   <figcaption>Garaj Vehicule</figcaption>
 </figure>
 
@@ -36,7 +32,7 @@ Datorita limitarilor serverelor de SA:MP, jucatorii cu cont premium pot spawna p
 Prin selectarea unui vehicul din lista serverul va pune la dispozitie cateva optiuni cu ajutorul carora va puteti controla vehiculul.
 
 <figure markdown="span">
-  ![Optiuni Vehicule](/images/wiki/general/veh_menu2.png){ width="400" }
+  ![Optiuni Vehicule](/images/wiki/general/Veh_menu2.png){ width="400" }
   <figcaption>Optiuni Vehicule</figcaption>
 </figure>
 

@@ -5,17 +5,17 @@ icon: material/silverware-fork-knife
 # Restaurante
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/restaurant_icon_map.png){ width="100" }
+  ![#1](/images/wiki/general/Restaurant_icon_map.png){ width="100" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interiorul unui restaurant](/images/wiki/general/restaurant_interior.jpg){ width="450" }
+  ![Interiorul unui restaurant](/images/wiki/general/Restaurant_interior.jpg){ width="450" }
   <figcaption>Interiorul unui restaurant</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Harta restaurantelor](/images/wiki/general/restaurants_mapp.png){ width="450" }
+  ![Harta restaurantelor](/images/wiki/general/Restaurants_mapp.png){ width="450" }
   <figcaption>Harta restaurantelor</figcaption>
 </figure>
 

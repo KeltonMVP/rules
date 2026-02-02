@@ -5,7 +5,7 @@ icon: material/police-badge
 # Wanted & Clear
 
 <figure markdown="span">
-  ![incarcerat](/images/wiki/general/female_jail.png){ width="450" }
+  ![incarcerat](/images/wiki/general/Female_jail.png){ width="450" }
   <figcaption>incarcerat</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/clipboard-text
 # Raport de Activitate
 
 <figure markdown="span">
-  ![Raport Joc](/images/wiki/general/raportjoc.png){ width="450" }
+  ![Raport Joc](/images/wiki/general/Raportjoc.png){ width="450" }
   <figcaption>#1 Dialog raport in joc</figcaption>
 </figure>
 

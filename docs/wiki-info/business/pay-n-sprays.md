@@ -10,7 +10,7 @@ icon: material/spray
 </figure>
 
 <figure markdown="span">
-  ![Harta garajelor Pay'n'Spray](/images/wiki/general/pnss_map.jpg){ width="450" }
+  ![Harta garajelor Pay'n'Spray](/images/wiki/general/Pnss_map.jpg){ width="450" }
   <figcaption>Harta garajelor Pay'n'Spray</figcaption>
 </figure>
 

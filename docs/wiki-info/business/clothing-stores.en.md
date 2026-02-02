@@ -5,7 +5,7 @@ icon: material/tshirt-crew
 # Clothing Stores
 
 <figure markdown="span">
-  ![Clothing Stores Map](/images/wiki/general/bincos_mapp.png){ width="350" }
+  ![Clothing Stores Map](/images/wiki/general/Bincos_mapp.png){ width="350" }
   <figcaption>Clothing Stores Map</figcaption>
 </figure>
 
@@ -15,17 +15,17 @@ icon: material/tshirt-crew
 </figure>
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/binco-cu-ochelari.png){ width="200" }
+  ![#1](/images/wiki/general/Binco-cu-ochelari.png){ width="200" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#2](/images/wiki/general/binco-icon.png){ width="300" }
+  ![#2](/images/wiki/general/Binco-icon.png){ width="300" }
   <figcaption>#2</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Costumes Interface](/images/wiki/general/costumes.png){ width="350" }
+  ![Costumes Interface](/images/wiki/general/Costumes.png){ width="350" }
   <figcaption>Costumes Interface</figcaption>
 </figure>
 

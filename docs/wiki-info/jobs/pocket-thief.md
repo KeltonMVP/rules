@@ -5,7 +5,7 @@ icon: material/cash-multiple
 # Hot de buzunare
 
 <figure markdown="span">
-  ![Locatie job](/images/wiki/general/theft_photo.jpg){ width="450" }
+  ![Locatie job](/images/wiki/general/Theft_photo.jpg){ width="450" }
   <figcaption>Locatia jobului</figcaption>
 </figure>
 

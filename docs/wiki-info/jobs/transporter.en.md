@@ -5,7 +5,7 @@ icon: material/truck
 # Transporter
 
 <figure markdown="span">
-  ![Job location](/images/wiki/general/transporter_radar.jpg){ width="300" }
+  ![Job location](/images/wiki/general/Transporter_radar.jpg){ width="300" }
   <figcaption>Job location on the map</figcaption>
 </figure>
 

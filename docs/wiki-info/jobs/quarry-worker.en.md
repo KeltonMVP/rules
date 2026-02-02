@@ -5,7 +5,7 @@ icon: material/pickaxe
 # Quarry Worker
 
 <figure markdown="span">
-  ![Quarry Worker](/images/wiki/general/quaryworker_radar_photo.png){ width="450" }
+  ![Quarry Worker](/images/wiki/general/Quaryworker_radar_photo.png){ width="450" }
   <figcaption>#1</figcaption>
 </figure>
 
@@ -33,12 +33,12 @@ A worker at the Las Venturas quarry must load various materials from the top of 
 - Skill 9 - Approximately $540 without bonuses.
 - Skill 10 - Approximately $562 without bonuses.
 
-*The average time to complete a run at skill 1-2 is 123 seconds.*  
-*The average time to complete a run at skill 3-4 is 92 seconds.*  
+*The average time to complete a run at skill 1-2 is 123 seconds.*
+*The average time to complete a run at skill 3-4 is 92 seconds.*
 *The average time to complete a run at skill 5-10 is 76 seconds.*
 
-**Please note:**  
-The above payment is approximate and does not include premium account bonus or other bonuses active on the account.  
+**Please note:**
+The above payment is approximate and does not include premium account bonus or other bonuses active on the account.
 Players with premium accounts receive 50% more from the base job payment.
 
 ## Runs required to advance in skill

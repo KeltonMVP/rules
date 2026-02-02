@@ -15,7 +15,7 @@ icon: material/radio-tower
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/pasnice.png){ width="500" }
+  ![HQ](/images/wiki/general/Pasnice.png){ width="500" }
   <figcaption>HQ</figcaption>
 </figure>
 

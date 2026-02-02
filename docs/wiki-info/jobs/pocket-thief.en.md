@@ -5,7 +5,7 @@ icon: material/cash-multiple
 # Pocket Thief
 
 <figure markdown="span">
-  ![Job location](/images/wiki/general/theft_photo.jpg){ width="450" }
+  ![Job location](/images/wiki/general/Theft_photo.jpg){ width="450" }
   <figcaption>Job location</figcaption>
 </figure>
 

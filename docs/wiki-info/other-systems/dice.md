@@ -5,7 +5,7 @@ icon: material/dice-multiple
 # Dice
 
 <figure markdown="span">
-  ![Doi jucatori care joaca barbut](/images/wiki/general/barbut.jpg){ width="400" }
+  ![Doi jucatori care joaca barbut](/images/wiki/general/Barbut.jpg){ width="400" }
   <figcaption>Doi jucatori care joaca barbut</figcaption>
 </figure>
 

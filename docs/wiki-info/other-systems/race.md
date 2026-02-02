@@ -7,7 +7,7 @@ icon: material/flag-checkered
 Cursele sunt activitati ilegale, recreative, desfasurate intre maxim 2 jucatori pe strazile din San Andreas.
 
 <figure markdown="span">
-  ![O cursa ilegala pe B-Zone RPG](/images/wiki/general/race.jpg){ width="400" }
+  ![O cursa ilegala pe B-Zone RPG](/images/wiki/general/Race.jpg){ width="400" }
   <figcaption>O cursa ilegala pe B-Zone RPG</figcaption>
 </figure>
 

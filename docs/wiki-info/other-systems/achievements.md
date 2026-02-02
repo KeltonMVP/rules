@@ -5,7 +5,7 @@ icon: material/trophy
 # Achievements
 
 <figure markdown="span">
-  ![Realizari blocate](/images/wiki/general/realizari.jpg){ width="400" }
+  ![Realizari blocate](/images/wiki/general/Realizari.jpg){ width="400" }
   <figcaption>Realizari blocate</figcaption>
 </figure>
 

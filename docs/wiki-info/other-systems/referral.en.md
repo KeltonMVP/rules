@@ -28,7 +28,7 @@ icon: material/account-arrow-right
     * 100% of the amount paid by your friend when purchasing a new level. Example: If your friend pays $3,000 to advance in level, you will receive $6,000.
 
 <figure markdown="span">
-  ![Referrals](/images/wiki/general/referrals.png){ width="200" }
+  ![Referrals](/images/wiki/general/Referrals.png){ width="200" }
   <figcaption>Referrals</figcaption>
 </figure>
 

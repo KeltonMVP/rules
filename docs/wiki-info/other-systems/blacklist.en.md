@@ -5,7 +5,7 @@ icon: material/block-helper
 # Blacklist
 
 <figure markdown="span">
-  ![Blacklist command interface](/images/wiki/general/bl.png){ width="400" }
+  ![Blacklist command interface](/images/wiki/general/Bl.png){ width="400" }
   <figcaption>Blacklist command interface</figcaption>
 </figure>
 

@@ -5,12 +5,12 @@ icon: material/bus
 # Sofer de Autobuz
 
 <figure markdown="span">
-  ![Locatie #1](/images/wiki/general/busr_map.png){ width="450" }
+  ![Locatie #1](/images/wiki/general/Busr_map.png){ width="450" }
   <figcaption>Locatia punctului de angajare #1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Locatie #2](/images/wiki/general/busr_map2.png){ width="450" }
+  ![Locatie #2](/images/wiki/general/Busr_map2.png){ width="450" }
   <figcaption>Locatia punctului de angajare #2</figcaption>
 </figure>
 

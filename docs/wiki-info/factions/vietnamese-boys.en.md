@@ -5,12 +5,12 @@ icon: material/robot-angry
 # Vietnamese Boys
 
 <figure markdown="span">
-  ![Mafia logo](/images/wiki/general/vtblogo.png){ width="300" }
+  ![Mafia logo](/images/wiki/general/Vtblogo.png){ width="300" }
   <figcaption>Mafia logo</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![HQ Location](/images/wiki/general/vtbhqa2a.png){ width="350" }
+  ![HQ Location](/images/wiki/general/Vtbhqa2a.png){ width="350" }
   <figcaption>HQ Location</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/handcuffs
 # Jail
 
 <figure markdown="span">
-  ![jailer](/images/wiki/general/female_jail.png){ width="450" }
+  ![jailer](/images/wiki/general/Female_jail.png){ width="450" }
   <figcaption>jailer</figcaption>
 </figure>
 

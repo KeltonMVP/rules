@@ -5,7 +5,7 @@ icon: material/magnify
 # Detective
 
 <figure markdown="span">
-  ![Radar location](/images/wiki/general/detective_radar_photo.jpg){ width="450" }
+  ![Radar location](/images/wiki/general/Detective_radar_photo.jpg){ width="450" }
   <figcaption>#1 Employment point location</figcaption>
 </figure>
 

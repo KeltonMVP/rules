@@ -11,7 +11,7 @@ Mai jos gasesti link-uri catre Ban list:
 Daca un cont a fost banat sau inca mai este, cu siguranta va aparea in lista banurilor. Informatiile sunt prezentate sub forma unui tabel, fiecare linie reprezentand o sanctiune. Tabelul este structurat dupa cum urmeaza:
 
 <figure markdown="span">
-  ![Banlist_example](/images/wiki/website/Banlist_example.PNG)
+  ![Banlist_example](/images/wiki/general/Banlist_example.PNG)
   <figcaption>Exemplu lista ban</figcaption>
 </figure>
 

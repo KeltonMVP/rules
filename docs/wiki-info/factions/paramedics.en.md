@@ -10,12 +10,12 @@ icon: material/ambulance
 </figure>
 
 <figure markdown="span">
-  ![HQ Location](/images/wiki/general/parahq.png){ width="350" }
+  ![HQ Location](/images/wiki/general/Parahq.png){ width="350" }
   <figcaption>HQ Location</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/pasnice.png){ width="500" }
+  ![HQ](/images/wiki/general/Pasnice.png){ width="500" }
   <figcaption>HQ</figcaption>
 </figure>
 

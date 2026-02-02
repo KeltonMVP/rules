@@ -5,12 +5,12 @@ icon: material/baseball-bat
 # Green Street Bloods
 
 <figure markdown="span">
-  ![Logo-ul mafiei](/images/wiki/general/greenstreetLogo.png){ width="300" }
+  ![Logo-ul mafiei](/images/wiki/general/GreenstreetLogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Locatia HQ-ului](/images/wiki/general/gsbhq.png){ width="350" }
+  ![Locatia HQ-ului](/images/wiki/general/Gsbhq.png){ width="350" }
   <figcaption>Locatia HQ-ului</figcaption>
 </figure>
 

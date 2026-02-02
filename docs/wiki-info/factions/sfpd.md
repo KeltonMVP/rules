@@ -4,13 +4,13 @@ icon: material/police-badge
 
 # SFPD
 
-<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/sfpdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
+<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/SfpdLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
 
-<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/sfpdhq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
+<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/Sfpdhq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Politist](/images/wiki/general/scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
+<figure markdown="span">![Politist](/images/wiki/general/Scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
 
 ## Descriere generala
 

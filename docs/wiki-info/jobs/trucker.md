@@ -5,7 +5,7 @@ icon: material/truck
 # Trucker
 
 <figure markdown="span">
-  ![Locatie Job](/images/wiki/general/trucker_sf_job_radar_photo_secondplace.png){ width="400" }
+  ![Locatie Job](/images/wiki/general/Trucker_sf_job_radar_photo_secondplace.png){ width="400" }
   <figcaption>Locatia jobului Trucker</figcaption>
 </figure>
 
@@ -15,12 +15,12 @@ icon: material/truck
 </figure>
 
 <figure markdown="span">
-  ![Meniu curse](/images/wiki/general/trucker_menu.png){ width="400" }
+  ![Meniu curse](/images/wiki/general/Trucker_menu.png){ width="400" }
   <figcaption>Lista curselor disponibile</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Meniu transport](/images/wiki/general/trucker_menu2.png){ width="400" }
+  ![Meniu transport](/images/wiki/general/Trucker_menu2.png){ width="400" }
   <figcaption>Lista tipurilor de transport disponibile</figcaption>
 </figure>
 

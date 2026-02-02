@@ -7,7 +7,7 @@ icon: material/flag-checkered
 Races are illegal, recreational activities, held between a maximum of 2 players on the streets of San Andreas.
 
 <figure markdown="span">
-  ![An illegal race on B-Zone RPG](/images/wiki/general/race.jpg){ width="400" }
+  ![An illegal race on B-Zone RPG](/images/wiki/general/Race.jpg){ width="400" }
   <figcaption>An illegal race on B-Zone RPG</figcaption>
 </figure>
 

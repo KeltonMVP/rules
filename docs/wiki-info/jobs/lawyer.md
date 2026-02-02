@@ -5,7 +5,7 @@ icon: material/gavel
 # Lawyer
 
 <figure markdown="span">
-  ![Detective Radar Photo](/images/wiki/general/detective_radar_photo.jpg){ width="450" }
+  ![Detective Radar Photo](/images/wiki/general/Detective_radar_photo.jpg){ width="450" }
   <figcaption>#1 Locatia Primariei Los Santos</figcaption>
 </figure>
 

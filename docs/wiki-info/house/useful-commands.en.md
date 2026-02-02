@@ -15,7 +15,7 @@ icon: material/console
 </figure>
 
 <figure markdown="span">
-  ![House Lift](/images/wiki/general/house_lift.png){ width="400" }
+  ![House Lift](/images/wiki/general/House_lift.png){ width="400" }
   <figcaption>House Lift</figcaption>
 </figure>
 

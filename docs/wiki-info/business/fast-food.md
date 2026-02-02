@@ -5,22 +5,22 @@ icon: material/hamburger
 # FastFood-uri
 
 <figure markdown="span">
-  ![Harta FastFood-urilor](/images/wiki/general/ff_mapp.png){ width="450" }
+  ![Harta FastFood-urilor](/images/wiki/general/Ff_mapp.png){ width="450" }
   <figcaption>Harta FastFood-urilor</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Diverse FastFood-uri](/images/wiki/general/fastfood+icon.png){ width="450" }
+  ![Diverse FastFood-uri](/images/wiki/general/Fastfood+icon.png){ width="450" }
   <figcaption>Diverse FastFood-uri</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/fastfood+eat+message.png){ width="300" }
+  ![#1](/images/wiki/general/Fastfood+eat+message.png){ width="300" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#2](/images/wiki/general/fastfood.png){ width="200" }
+  ![#2](/images/wiki/general/Fastfood.png){ width="200" }
   <figcaption>#2</figcaption>
 </figure>
 

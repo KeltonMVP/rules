@@ -28,7 +28,7 @@ icon: material/account-arrow-right
     * 100% din suma platita de prietenul tau la achizitionarea unui nivel nou. Exemplu: Daca prietenul tau va plati $3.000 pentru a avansa in nivel, tu vei primi $6.000.
 
 <figure markdown="span">
-  ![Referrals](/images/wiki/general/referrals.png){ width="200" }
+  ![Referrals](/images/wiki/general/Referrals.png){ width="200" }
   <figcaption>Referrals</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/truck
 # Trucker
 
 <figure markdown="span">
-  ![Job Location](/images/wiki/general/trucker_sf_job_radar_photo_secondplace.png){ width="400" }
+  ![Job Location](/images/wiki/general/Trucker_sf_job_radar_photo_secondplace.png){ width="400" }
   <figcaption>Trucker job location</figcaption>
 </figure>
 
@@ -15,12 +15,12 @@ icon: material/truck
 </figure>
 
 <figure markdown="span">
-  ![Routes menu](/images/wiki/general/trucker_menu.png){ width="400" }
+  ![Routes menu](/images/wiki/general/Trucker_menu.png){ width="400" }
   <figcaption>List of available routes</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Transport menu](/images/wiki/general/trucker_menu2.png){ width="400" }
+  ![Transport menu](/images/wiki/general/Trucker_menu2.png){ width="400" }
   <figcaption>List of available transport types</figcaption>
 </figure>
 

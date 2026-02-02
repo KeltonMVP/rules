@@ -2,11 +2,7 @@
 icon: material/cart
 ---
 
-﻿---
-icon: material/car
----
-
-﻿# Cum sa cumperi vehicule
+# Cum sa cumperi vehicule
 
 <figure markdown="span">
   ![Locatie Dealership](/images/wiki/general/400px-DS_map_marker_red.png){ width="400" }

@@ -5,17 +5,17 @@ icon: material/heart
 # Sex Shops
 
 <figure markdown="span">
-  ![Sex Shops Map](/images/wiki/general/sexshops.png){ width="450" }
+  ![Sex Shops Map](/images/wiki/general/Sexshops.png){ width="450" }
   <figcaption>Sex Shops Map</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Purchasing dildos](/images/wiki/general/dildo.png){ width="450" }
+  ![Purchasing dildos](/images/wiki/general/Dildo.png){ width="450" }
   <figcaption>Purchasing dildos</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interface](/images/wiki/general/buydildo.png){ width="450" }
+  ![Interface](/images/wiki/general/Buydildo.png){ width="450" }
   <figcaption>Interface</figcaption>
 </figure>
 

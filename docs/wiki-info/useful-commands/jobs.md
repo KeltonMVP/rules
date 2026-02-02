@@ -34,7 +34,7 @@ Cu ajutorul acestei comenzi orice jucator poate sa se angajeze, daca indeplinest
 - Sa se afle destul de aproape de marcajul special (i - vezi imaginea #2).
 
 <figure markdown="span">
-  ![Marcaj Job](/images/wiki/general/I_job.jpg){ width="250" }
+  ![Marcaj Job](/images/wiki/general/i_job.jpg){ width="250" }
   <figcaption>Marcaj Job</figcaption>
 </figure>
 

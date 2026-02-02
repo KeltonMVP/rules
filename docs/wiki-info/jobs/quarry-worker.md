@@ -5,7 +5,7 @@ icon: material/pickaxe
 # Muncitor la Cariera
 
 <figure markdown="span">
-  ![Quarry Worker](/images/wiki/general/quaryworker_radar_photo.png){ width="450" }
+  ![Quarry Worker](/images/wiki/general/Quaryworker_radar_photo.png){ width="450" }
   <figcaption>#1</figcaption>
 </figure>
 
@@ -33,12 +33,12 @@ Un muncitor la cariera din Las Venturas, trebuie sa incarce diverse materiale di
 - Skill 9 - Aproximativ $540 fara bonusuri.
 - Skill 10 - Aproximativ $562 fara bonusuri.
 
-*Timpul mediu pentru terminarea unei curse la skill 1-2 este de 123 secunde.*  
-*Timpul mediu pentru terminarea unei curse la skill 3-4 este de 92 secunde.*  
+*Timpul mediu pentru terminarea unei curse la skill 1-2 este de 123 secunde.*
+*Timpul mediu pentru terminarea unei curse la skill 3-4 este de 92 secunde.*
 *Timpul mediu pentru terminarea unei curse la skill 5-10 este de 76 secunde.*
 
-**De retinut:**  
-Plata de mai sus este aproximativa si nu include bonusul de cont premium sau alte bonusuri active pe cont.  
+**De retinut:**
+Plata de mai sus este aproximativa si nu include bonusul de cont premium sau alte bonusuri active pe cont.
 Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 
 ## Curse necesare pentru avansare in skill

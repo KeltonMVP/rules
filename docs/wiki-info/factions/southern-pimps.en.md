@@ -5,7 +5,7 @@ icon: material/star-crescent
 # Southern Pimps
 
 <figure markdown="span">
-  ![Faction Logo](/images/wiki/general/southernpimpsLogo.png){ width="300" }
+  ![Faction Logo](/images/wiki/general/SouthernpimpsLogo.png){ width="300" }
   <figcaption>Faction Logo</figcaption>
 </figure>
 

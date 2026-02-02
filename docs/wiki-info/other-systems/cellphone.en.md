@@ -5,7 +5,7 @@ icon: material/cellphone
 # Cellphone
 
 <figure markdown="span">
-  ![Player having a conversation](/images/wiki/general/phonee.png){ width="350" }
+  ![Player having a conversation](/images/wiki/general/Phonee.png){ width="350" }
   <figcaption>Player having a conversation</figcaption>
 </figure>
 

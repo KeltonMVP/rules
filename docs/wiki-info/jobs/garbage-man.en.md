@@ -5,7 +5,7 @@ icon: material/trash-can
 # Garbage Man
 
 <figure markdown="span">
-  ![Garbage Man LS Location](/images/wiki/general/mapcheckpointLS.png){ width="450" }
+  ![Garbage Man LS Location](/images/wiki/general/MapcheckpointLS.png){ width="450" }
   <figcaption>Garbage Man LS Location</figcaption>
 </figure>
 

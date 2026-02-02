@@ -9,7 +9,7 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 ## General Characteristics
 
 <figure markdown="span">
-  ![Trade interface #1](/images/wiki/general/trade_interface.png){ width="400" }
+  ![Trade interface #1](/images/wiki/general/Trade_interface.png){ width="400" }
   <figcaption>Trade interface #1</figcaption>
 </figure>
 
@@ -19,17 +19,17 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 </figure>
 
 <figure markdown="span">
-  ![Fusion interface #3](/images/wiki/general/fusion_skin.png){ width="400" }
+  ![Fusion interface #3](/images/wiki/general/Fusion_skin.png){ width="400" }
   <figcaption>Fusion interface #3</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Fusion interface - kept skin & chosen bonuses #4](/images/wiki/general/fusion_skin_2.png){ width="400" }
+  ![Fusion interface - kept skin & chosen bonuses #4](/images/wiki/general/Fusion_skin_2.png){ width="400" }
   <figcaption>Fusion interface - kept skin & chosen bonuses #4</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#5](/images/wiki/general/onyx_fused_bubble.png){ width="300" }
+  ![#5](/images/wiki/general/Onyx_fused_bubble.png){ width="300" }
   <figcaption>#5</figcaption>
 </figure>
 

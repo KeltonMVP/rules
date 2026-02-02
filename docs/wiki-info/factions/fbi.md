@@ -4,13 +4,13 @@ icon: material/shield-car
 
 # FBI
 
-<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/fbiLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
+<figure markdown="span">![Logo-ul departamentului](/images/wiki/general/FbiLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
 
-<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/fbihq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
+<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/Fbihq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Agent](/images/wiki/general/fbi.png){ width="350" }<figcaption>Agent</figcaption></figure>
+<figure markdown="span">![Agent](/images/wiki/general/Fbi.png){ width="350" }<figcaption>Agent</figcaption></figure>
 
 ## Descriere generala
 

@@ -5,17 +5,17 @@ icon: material/safe
 # Safebox
 
 <figure markdown="span">
-  ![Editing safebox position #1](/images/wiki/general/safeboxedit.png){ width="450" }
+  ![Editing safebox position #1](/images/wiki/general/Safeboxedit.png){ width="450" }
   <figcaption>Editing safebox position #1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Owned safeboxes dialog #2](/images/wiki/general/safeboxadd.png){ width="450" }
+  ![Owned safeboxes dialog #2](/images/wiki/general/Safeboxadd.png){ width="450" }
   <figcaption>Owned safeboxes dialog #2</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Safebox menu #3](/images/wiki/general/safeboxmenu.png){ width="450" }
+  ![Safebox menu #3](/images/wiki/general/Safeboxmenu.png){ width="450" }
   <figcaption>Safebox menu #3</figcaption>
 </figure>
 

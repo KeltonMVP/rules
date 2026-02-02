@@ -5,7 +5,7 @@ icon: material/pickaxe
 # Miner
 
 <figure markdown="span">
-  ![Locatie job](/images/wiki/general/miner_map.png){ width="450" }
+  ![Locatie job](/images/wiki/general/Miner_map.png){ width="450" }
   <figcaption>Locatia punctului de angajare</figcaption>
 </figure>
 

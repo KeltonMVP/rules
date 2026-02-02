@@ -10,7 +10,7 @@ icon: material/spray
 </figure>
 
 <figure markdown="span">
-  ![Map of Pay'n'Spray garages](/images/wiki/general/pnss_map.jpg){ width="450" }
+  ![Map of Pay'n'Spray garages](/images/wiki/general/Pnss_map.jpg){ width="450" }
   <figcaption>Map of Pay'n'Spray garages</figcaption>
 </figure>
 

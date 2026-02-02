@@ -34,7 +34,7 @@ With this command, any player can get employed, if they meet the following condi
 - Be close enough to the special marker (i - see image #2).
 
 <figure markdown="span">
-  ![Job Marker](/images/wiki/general/I_job.jpg){ width="250" }
+  ![Job Marker](/images/wiki/general/i_job.jpg){ width="250" }
   <figcaption>Job Marker</figcaption>
 </figure>
 

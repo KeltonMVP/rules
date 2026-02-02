@@ -6,11 +6,11 @@ icon: material/tank
 
 <figure markdown="span">![Logo-ul departamentului](/images/wiki/general/NGLogo.png){ width="300" }<figcaption>Logo-ul departamentului</figcaption></figure>
 
-<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/nghq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
+<figure markdown="span">![Locatia HQ-ului](/images/wiki/general/Nghq.png){ width="350" }<figcaption>Locatia HQ-ului</figcaption></figure>
 
 <figure markdown="span">![HQ](/images/wiki/general/Dept.jpg){ width="500" }<figcaption>HQ</figcaption></figure>
 
-<figure markdown="span">![Soldat](/images/wiki/general/national.png){ width="350" }<figcaption>Soldat</figcaption></figure>
+<figure markdown="span">![Soldat](/images/wiki/general/National.png){ width="350" }<figcaption>Soldat</figcaption></figure>
 
 ## Descriere generala
 

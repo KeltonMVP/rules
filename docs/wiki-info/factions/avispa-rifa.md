@@ -5,7 +5,7 @@ icon: material/cannabis
 # Avispa Rifa
 
 <figure markdown="span">
-  ![Logo-ul mafiei](/images/wiki/general/avispaLogo.png){ width="300" }
+  ![Logo-ul mafiei](/images/wiki/general/AvispaLogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 

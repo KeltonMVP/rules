@@ -5,7 +5,7 @@ icon: material/bomb
 # El Loco Cartel
 
 <figure markdown="span">
-  ![Faction Logo](/images/wiki/general/ellocoLogo.png){ width="300" }
+  ![Faction Logo](/images/wiki/general/EllocoLogo.png){ width="300" }
   <figcaption>Faction Logo</figcaption>
 </figure>
 

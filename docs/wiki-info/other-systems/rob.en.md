@@ -5,11 +5,11 @@ icon: material/robber
 # Rob
 
 <figure markdown="span">
-  ![Police on patrol](/images/wiki/general/bank_police_antirob.jpg){ width="400" }
+  ![Police on patrol](/images/wiki/general/Bank_police_antirob.jpg){ width="400" }
   <figcaption>Police on patrol</figcaption>
 </figure>
 <figure markdown="span">
-  ![Rob menu](/images/wiki/general/rob_main.png){ width="400" }
+  ![Rob menu](/images/wiki/general/Rob_main.png){ width="400" }
   <figcaption>Rob menu</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ To start an ATM robbery attempt, the player must meet all of the following condi
 * After detonation, the ATM enters a broken state; a personal money bag appears next to the ATM, which can only be picked up by the player who performed the robbery.
 
 <figure markdown="span">
-  ![Money bag](/images/wiki/general/rob_bag.png){ width="400" }
+  ![Money bag](/images/wiki/general/Rob_bag.png){ width="400" }
   <figcaption>Money bag</figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ Available roles are:
 ### Earnings from the robbery (calculation formula)
 
 <figure markdown="span">
-  ![Earnings from a robbery with 4 players participating](/images/wiki/general/castig_rob.png){ width="400" }
+  ![Earnings from a robbery with 4 players participating](/images/wiki/general/Castig_rob.png){ width="400" }
   <figcaption>Earnings from a robbery with 4 players participating</figcaption>
 </figure>
 

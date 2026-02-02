@@ -10,12 +10,12 @@ icon: material/package-variant
 </figure>
 
 <figure markdown="span">
-  ![Crate opening menu](/images/wiki/general/meniu_crate.png){ width="450" }
+  ![Crate opening menu](/images/wiki/general/Meniu_crate.png){ width="450" }
   <figcaption>Crate opening menu</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Crate location on minimap](/images/wiki/general/green_cp.png){ width="350" }
+  ![Crate location on minimap](/images/wiki/general/Green_cp.png){ width="350" }
   <figcaption>Crate location on minimap</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ icon: material/bomb
 # El Loco Cartel
 
 <figure markdown="span">
-  ![Logo-ul mafiei](/images/wiki/general/ellocoLogo.png){ width="300" }
+  ![Logo-ul mafiei](/images/wiki/general/EllocoLogo.png){ width="300" }
   <figcaption>Logo-ul mafiei</figcaption>
 </figure>
 

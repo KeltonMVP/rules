@@ -5,17 +5,17 @@ icon: material/heart
 # Sex Shopuri
 
 <figure markdown="span">
-  ![Harta Sex Shopurilor](/images/wiki/general/sexshops.png){ width="450" }
+  ![Harta Sex Shopurilor](/images/wiki/general/Sexshops.png){ width="450" }
   <figcaption>Harta Sex Shopurilor</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Cumparare dildouri](/images/wiki/general/dildo.png){ width="450" }
+  ![Cumparare dildouri](/images/wiki/general/Dildo.png){ width="450" }
   <figcaption>Cumparare dildouri</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interfata](/images/wiki/general/buydildo.png){ width="450" }
+  ![Interfata](/images/wiki/general/Buydildo.png){ width="450" }
   <figcaption>Interfata</figcaption>
 </figure>
 

@@ -5,12 +5,12 @@ icon: material/ammunition
 # Magazine de arme
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/gunshopicon.png){ width="150" }
+  ![#1](/images/wiki/general/Gunshopicon.png){ width="150" }
   <figcaption>#1</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interior magazin de arme LV](/images/wiki/general/gunshopLVint.png){ width="450" }
+  ![Interior magazin de arme LV](/images/wiki/general/GunshopLVint.png){ width="450" }
   <figcaption>Interior magazin de arme LV</figcaption>
 </figure>
 

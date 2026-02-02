@@ -5,17 +5,17 @@ icon: material/gas-station
 # Benzinarii
 
 <figure markdown="span">
-  ![Harta benzinariilor](/images/wiki/general/gas_mapp.png){ width="450" }
+  ![Harta benzinariilor](/images/wiki/general/Gas_mapp.png){ width="450" }
   <figcaption>Harta benzinariilor</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Benzinarie Los Santos](/images/wiki/general/benzinarieLS2.png){ width="450" }
+  ![Benzinarie Los Santos](/images/wiki/general/BenzinarieLS2.png){ width="450" }
   <figcaption>Benzinarie Los Santos</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![#1](/images/wiki/general/benzinarie.png){ width="300" }
+  ![#1](/images/wiki/general/Benzinarie.png){ width="300" }
   <figcaption>#1</figcaption>
 </figure>
 
