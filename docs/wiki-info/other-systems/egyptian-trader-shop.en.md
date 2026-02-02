@@ -8,31 +8,6 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 
 ## General Characteristics
 
-<figure markdown="span">
-  ![Trade interface #1](/images/wiki/general/Trade_interface.png){ width="400" }
-  <figcaption>Trade interface #1</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Skin viewing #2](/images/wiki/general/Wardrobeview.png){ width="400" }
-  <figcaption>Skin viewing #2</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Fusion interface #3](/images/wiki/general/Fusion_skin.png){ width="400" }
-  <figcaption>Fusion interface #3</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Fusion interface - kept skin & chosen bonuses #4](/images/wiki/general/Fusion_skin_2.png){ width="400" }
-  <figcaption>Fusion interface - kept skin & chosen bonuses #4</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![#5](/images/wiki/general/Onyx_fused_bubble.png){ width="300" }
-  <figcaption>#5</figcaption>
-</figure>
-
 * There are **3** types of fragments:
     * Diamond Fragments.
     * Onyx Fragments.
@@ -59,6 +34,12 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 * Unlike other types of skins, Onyx and Diamond skins **can be traded** with other players.
     * **Note:** If players do not have the same gender (Male/Female) they will not be able to trade with owned skins.
 
+<figure markdown="span">
+  ![Trade interface #1](/images/wiki/general/Trade_interface.png){ width="400" }
+  <figcaption>Trade interface #1</figcaption>
+</figure>
+
+
 ## Diamond and Onyx Skins
 * There are a total of 100 Bonuses that the player can discover and enjoy if they own a Diamond or Onyx type skin. These bonuses can create various advantages within a faction or as a player in general.
 * If the player upgrades the <span style="color:#2c2e2e">**Platinum**</span> skin to a <span style="color:#11c8fa">**Diamond**</span> Skin:
@@ -73,6 +54,11 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
     * After upgrading the Diamond Skin to Onyx Skin, the player will receive *2 more random bonuses* different from those already received on the Diamond skin. Those already owned will remain intact and 2 new bonuses will be added to the upgraded skin. Therefore, the skin will have a total of 4 bonuses that will be active as long as the skin is worn.
 * If the player does not wear the skin then bonuses of any type will not be applied.
 
+<figure markdown="span">
+  ![Skin viewing #2](/images/wiki/general/Wardrobeview.png){ width="400" }
+  <figcaption>Skin viewing #2</figcaption>
+</figure>
+
 ## Reroll mechanic
 * If the player doesn't like the bonuses received and wants to change them without changing the skin completely, they can change them **using the Reroll option** at the *Egyptian Trader*.
 * Note that you will have to pay the full price again and you may receive weaker or better bonuses depending on luck.
@@ -82,22 +68,38 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 
 ## Fusion mechanic
 
-*Players will be able to fuse two <span style="color:#11c8fa">**Diamond**</span> skins or two <span style="color:#fa8e0a">**Onyx**</span> skins regardless of gender and will keep only one skin at the end of the fusion (*see image **#3***).
+* Players will be able to fuse two <span style="color:#11c8fa">**Diamond**</span> skins or two <span style="color:#fa8e0a">**Onyx**</span> skins regardless of gender and will keep only one skin at the end of the fusion (_see image **#3**_).
 
 * The skin not selected for fusion will be <span style="color:#FF0000;">**LOST**</span> upon fusion, bonuses not selected for fusion will also be lost.
-**The skin selected for fusion will be the one kept, including selected bonuses (*see image **#4***).
+* The skin selected for fusion will be the one kept, including selected bonuses (_see image **#4**_).
 * For Diamond skins, 2 bonuses can be selected from the fused skins, and for Onyx skins 4 bonuses can be selected (including all bonuses from the other skin if the player wants to transfer all bonuses from one skin to another).
-* Each selected bonus will display an image with a checkmark next to it (<img src="https://i.postimg.cc/c1m07y25/keep.png" width=25px; height=25px; style="border-radius: 20px">), when all bonuses are selected an image with X (<img src="https://i.postimg.cc/5NKJG5xB/lost.png"  width=25px; height=25px; style="border-radius: 20px">) will be placed next to unselected bonuses (those that will be lost upon fusion).
+* Each selected bonus will display an image with a checkmark next to it (<img src="https://i.postimg.cc/c1m07y25/keep.png" width=30px; height=30px; style="border-radius: 20px; vertical-align: middle;">), when all bonuses are selected an image with X (<img src="https://i.postimg.cc/5NKJG5xB/lost.png"  width=30px; height=30px; style="border-radius: 20px; vertical-align: middle;">) will be placed next to unselected bonuses (those that will be lost upon fusion).
     * You cannot select 2 bonuses of the same type from different skins. Each selected bonus must be unique at the end of fusion.
     * Selecting another skin for fusion while other bonuses have been selected will reset the bonus selection.
-**All selections can be canceled by pressing the **Reset** button.
+    * All selections can be canceled by pressing the **Reset** button.
 * The fusion price is as follows:
-**For <span style="color:#11c8fa">**Diamond**</span> skins the price will be **$4,000,000**, **400 Mission Points** and **3 Diamond Tickets**.
-**For <span style="color:#fa8e0a">**Onyx**</span> skins the price will be **$6,000,000**, **600 Mission Points** and **5 Onyx Tickets**.
+    * For <span style="color:#11c8fa">**Diamond**</span> skins the price will be **$4,000,000**, **400 Mission Points** and **3 Diamond Tickets**.
+    * For <span style="color:#fa8e0a">**Onyx**</span> skins the price will be **$6,000,000**, **600 Mission Points** and **5 Onyx Tickets**.
 * At the end of fusion if you had the desired skin to be kept on you, you will keep the skin, if instead you have the desired skin on you and select another skin to keep (you lose the skin you have on you and the kept skin's gender matches your character's) the new fused skin will be set.
     * If you select to keep an opposite gender skin and lose the one of your gender, a skin corresponding to the faction you are part of will be set.
-* The fused skin will display on /id the text **FUSED** next to the skin ID, same in the Skin Bubble, if activated it will display under the skin type the text **FUSED**. This will also be displayed in [/trade].
+* The fused skin will display on /id the text **FUSED** next to the skin ID, same in text above player head skin (Skin Bubble), if activated it will display under the skin type the text **FUSED**. This will also be displayed in [/trade].
 * The **FUSED** status will be reset only if you reroll the skin or lose it in another fusion process.
+
+
+<figure markdown="span">
+  ![Fusion interface #3](/images/wiki/general/Fusion_skin.png){ width="400" }
+  <figcaption>Fusion interface #3</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Fusion interface - kept skin & chosen bonuses #4](/images/wiki/general/Fusion_skin_2.png){ width="400" }
+  <figcaption>Fusion interface - kept skin & chosen bonuses #4</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Text above player head  #5](/images/wiki/general/Onyx_fused_bubble.png){ width="300" }
+  <figcaption>Text above player head #5</figcaption>
+</figure>
 
 ### Skin Rarity
 
@@ -195,7 +197,7 @@ There are 4 rarities of Diamond/Onyx skins:
   <p style="line-height: normal;">15% chance to receive double PayDay.</p>
   <p style="line-height: normal;">20% chance to receive double PayDay.</p>
   <p style="line-height: normal;">25% chance to receive double PayDay.</p>
-**Note:** This bonus will be multiplied if Fun Hours or First Payday of the Day exist.</div>
+<b>Note:</b> This bonus will be multiplied if Fun Hours or First Payday of the Day exist.</div>
 
 
 <div style="width: 33.33%;text-align: center; margin-top:40vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Hard Worker</span>
@@ -204,7 +206,7 @@ There are 4 rarities of Diamond/Onyx skins:
   <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
   <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
   <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
-**Note:** Bonus is not valid for jobs: Fisherman, Farmer, Detective, Lawyer and Pickpocket.</div>
+<b>Note:</b> Bonus is not valid for jobs: Fisherman, Farmer, Detective, Lawyer and Pickpocket.</div>
 </div>
 
 
@@ -283,7 +285,7 @@ There are 4 rarities of Diamond/Onyx skins:
   <p style="line-height: normal;">15 seconds delay.</p>
   <p style="line-height: normal;">20 seconds delay.</p>
   <p style="line-height: normal;">25 seconds delay.</p>
-**Note:** Wanted is normally given at exactly 1 minute after escape, players will receive this time on top of normal time before receiving wanted.</div>
+<b>Note:</b> Wanted is normally given at exactly 1 minute after escape, players will receive this time on top of normal time before receiving wanted.</div>
 </div>
 
 <div style="display:flex; align-items: center; height:25vh;">
@@ -293,7 +295,7 @@ There are 4 rarities of Diamond/Onyx skins:
   <p style="line-height: normal;">3 robbery points less.</p>
   <p style="line-height: normal;">4 robbery points less.</p>
   <p style="line-height: normal;">5 robbery points less.</p>
-**Note:** This bonus will apply to both types of robbery (solo or team).</div>
+<b>Note:</b> This bonus will apply to both types of robbery (solo or team).</div>
 
 
 <div style="width: 33.33%;text-align: center; margin-top:82vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Escaper</span>
@@ -310,7 +312,7 @@ There are 4 rarities of Diamond/Onyx skins:
   <p style="line-height: normal;">3 additional damage per /hit.</p>
   <p style="line-height: normal;">4 additional damage per /hit.</p>
   <p style="line-height: normal;">5 additional damage per /hit.</p>
-**Note:** The initial damage value at /hit is 3, if the player receives this bonus the total damage will be added (3 + amount offered by bonus).</div>
+<b>Note:</b> The initial damage value at /hit is 3, if the player receives this bonus the total damage will be added (3 + amount offered by bonus).</div>
 </div>
 
 
@@ -321,7 +323,7 @@ There are 4 rarities of Diamond/Onyx skins:
   <p style="line-height: normal;">3 minutes reduction wanted expiration time.</p>
   <p style="line-height: normal;">4 minutes reduction wanted expiration time.</p>
   <p style="line-height: normal;">5 minutes reduction wanted expiration time.</p>
-**Note:** This will only work when the player receives wanted while wearing this skin. If you receive wanted and then change the skin you will not benefit from this bonus.</div>
+<b>Note:</b> This will only work when the player receives wanted while wearing this skin. If you receive wanted and then change the skin you will not benefit from this bonus.</div>
 
 
 <div style="width: 33.33%;text-align: center; margin-top:93vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Greedy One</span>
