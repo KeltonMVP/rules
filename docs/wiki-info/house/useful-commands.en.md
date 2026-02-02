@@ -47,6 +47,16 @@ With the help of this command you can lock and unlock your own house. If you cho
 
 You can benefit from this command only if you are the owner of a house. For successful execution of the command, you must be inside the house as close as possible to the exit door, or outside it, as close as possible to the entrance door.
 
+### /rentroom
+
+With this command you can rent a house, to have a new spawn point when you connect to the server, so you can use the [**/sleep**] command inside it.
+
+To rent a house you need money in the bank. The rent is paid automatically every Payday (fixed time) from your bank account.
+
+### /unrentroom
+
+With this command you give up the current rent you have. You can use this command before choosing a new rent.
+
 ### /setrentable
 
 The command tells the server whether you want players to be able to become your tenants. To offer the house for rent, use the command "/setrentable Yes", otherwise use "/setrentable No".
