@@ -47,6 +47,16 @@ Cu ajutorul comenzii va puteti incuia si descuia propria casa. Daca alegeti sa i
 
 Puteti beneficia de aceasta comanda numai in cazul in care sunteti detinatorul unei case. Pentru o executie cu succes a comenzii, trebuie sa va aflati in interiorul casei cat mai aproape de usa iesirii, sau in exteriorul acesteia, cat mai aproape de usa intrarii.
 
+### /rentroom
+
+Cu ajutorul acestei comenzi va puteti inchiria o casa, pentru a avea un nou loc de spawn in momentul in care va conectati pe server, pentru a putea folosi comanda [**/sleep**] in interiorul acesteia.
+
+Pentru a putea inchiria o casa aveti nevoie de bani in banca. Pretul chiriei se plateste in mod automat la fiecare Payday (ora fixa) din contul bancar.
+
+### /unrentroon
+
+Cu ajutorul acestei comenzi renuntati la chiria curenta pe care o detineti. Puteti folosi aceasta comanda inainte de alegerea unei noi chirii.
+
 ### /setrentable
 
 Comanda ii comunica serverului daca doriti ca jucatorii sa poata deveni chiriasii vostri. Pentru a oferi casa spre inchiriere, folositi comanda "/setrentable Yes", in caz contrar folositi "/setrentable No".
