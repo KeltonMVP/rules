@@ -17,7 +17,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.tracking
-    - navigation.expand
+    # - navigation.expand
     - search.highlight
     - search.share
     - search.suggest
@@ -110,12 +110,12 @@ extra:
 
 # Navigation
 nav:
-  - Server Rules: 
+  - Server Rules:
     - Server Rules: index.md
   - Leader Rules:
     - Leader Rules: leaders/leader-rules.md
   - Faction Rules:
-    - General Rules: 
+    - General Rules:
       - Peaceful Faction and Mixt General Rules: factions/peaceful-and-mixt-faction-rules.md
       - Gang General Rules: factions/gang-rules.md
       - Department General Rules: factions/department-rules.md
@@ -144,3 +144,186 @@ nav:
         - Hitmen Agency Rules: factions/mixt/hitmen.md
         - Sons Of Anarchy Rules: factions/mixt/soa.md
         - Mayor Rules: factions/mixt/mayor.md
+  - SA:MP Wiki:
+    - Wiki Info:
+      - Vehicles:
+        - Cash Vehicles: wiki-info/vehicles/cash-vehicles.md
+        - Gold Vehicles: wiki-info/vehicles/gold-vehicles.md
+        - Shop Vehicles: wiki-info/vehicles/shop-vehicles.md
+        - Premium Vehicles: wiki-info/vehicles/premium-vehicles.md
+        - How to Buy: wiki-info/vehicles/how-to-buy.md
+        - Useful Commands: wiki-info/vehicles/useful-commands.md
+      - House:
+        - General Description: wiki-info/house/general-description.md
+        - Useful Commands: wiki-info/house/useful-commands.md
+      - Business:
+        - General Description: wiki-info/business/general-description.md
+        - Gas Stations: wiki-info/business/gas-stations.md
+        - 24/7: wiki-info/business/24-7.md
+        - Fast Food: wiki-info/business/fast-food.md
+        - Clothing Stores: wiki-info/business/clothing-stores.md
+        - Gun Shops: wiki-info/business/gun-shops.md
+        - Clubs & Bars: wiki-info/business/clubs-bars.md
+        - Restaurants: wiki-info/business/restaurants.md
+        - Pay n Sprays: wiki-info/business/pay-n-sprays.md
+        - Tuning: wiki-info/business/tuning.md
+        - Arenas: wiki-info/business/arenas.md
+        - CNN: wiki-info/business/cnn.md
+        - Rent: wiki-info/business/rent.md
+        - Melee Weapons Store: wiki-info/business/melee-weapons-store.md
+        - Sex Shops: wiki-info/business/sex-shops.md
+        - Poker Casino: wiki-info/business/poker-casino.md
+        - Blackjack Casino: wiki-info/business/blackjack-casino.md
+        - Car Insurance: wiki-info/business/car-insurance.md
+        - PubG Arena: wiki-info/business/pubg-arena.md
+        - Car Color: wiki-info/business/car-color.md
+        - Other Business: wiki-info/business/other-business.md
+        - Useful Commands: wiki-info/business/useful-commands.md
+      - Factions:
+        - General Description: wiki-info/factions/general-description.md
+        - Activity Report: wiki-info/factions/activity-report.md
+        - SF School Instructors: wiki-info/factions/sf-school-instructors.md
+        - LS School Instructors: wiki-info/factions/ls-school-instructors.md
+        - LV School Instructors: wiki-info/factions/lv-school-instructors.md
+        - LV Taxi: wiki-info/factions/lv-taxi.md
+        - LS Taxi: wiki-info/factions/ls-taxi.md
+        - SF Taxi: wiki-info/factions/sf-taxi.md
+        - News Reporters: wiki-info/factions/news-reporters.md
+        - Tow Truck Company: wiki-info/factions/tow-truck-company.md
+        - Mayor: wiki-info/factions/mayor.md
+        - Paramedics: wiki-info/factions/paramedics.md
+        - El Loco Cartel: wiki-info/factions/el-loco-cartel.md
+        - Avispa Rifa: wiki-info/factions/avispa-rifa.md
+        - Southern Pimps: wiki-info/factions/southern-pimps.md
+        - 69 Pier Mobs: wiki-info/factions/69-pier-mobs.md
+        - Vietnamese Boys: wiki-info/factions/vietnamese-boys.md
+        - Verdant Family: wiki-info/factions/verdant-family.md
+        - Green Street Bloods: wiki-info/factions/green-street-bloods.md
+        - Red Dragon Triad: wiki-info/factions/red-dragon-triad.md
+        - The Tsar Bratva: wiki-info/factions/the-tsar-bratva.md
+        - FBI: wiki-info/factions/fbi.md
+        - LVPD: wiki-info/factions/lvpd.md
+        - SFPD: wiki-info/factions/sfpd.md
+        - LSPD: wiki-info/factions/lspd.md
+        - National Guard: wiki-info/factions/national-guard.md
+        - Hitmen Agency: wiki-info/factions/hitmen-agency.md
+        - Sons of Anarchy: wiki-info/factions/sons-of-anarchy.md
+      - Jobs:
+        - Pocket Thief: wiki-info/jobs/pocket-thief.md
+        - Detective: wiki-info/jobs/detective.md
+        - Lawyer: wiki-info/jobs/lawyer.md
+        - Transporter: wiki-info/jobs/transporter.md
+        - Drugs Dealer: wiki-info/jobs/drugs-dealer.md
+        - Car Jacker: wiki-info/jobs/car-jacker.md
+        - Car Mechanic: wiki-info/jobs/car-mechanic.md
+        - Arms Dealer: wiki-info/jobs/arms-dealer.md
+        - Trucker: wiki-info/jobs/trucker.md
+        - Farmer: wiki-info/jobs/farmer.md
+        - Quarry Worker: wiki-info/jobs/quarry-worker.md
+        - Garbage Man: wiki-info/jobs/garbage-man.md
+        - Lumberjack: wiki-info/jobs/lumberjack.md
+        - Miner: wiki-info/jobs/miner.md
+        - Bus Driver: wiki-info/jobs/bus-driver.md
+        - Fisherman: wiki-info/jobs/fisherman.md
+        - Chemist: wiki-info/jobs/chemist.md
+        - Craftsman: wiki-info/jobs/craftsman.md
+        - Archeologist: wiki-info/jobs/archeologist.md
+        - Electrician: wiki-info/jobs/electrician.md
+        - Daily Job: wiki-info/jobs/daily-job.md
+        - Useful Commands: wiki-info/jobs/useful-commands.md
+      - Website:
+        - My Account: wiki-info/website/my-account.md
+        - Players: wiki-info/website/players.md
+        - Reports: wiki-info/website/reports.md
+        - Factions: wiki-info/website/factions.md
+        - Leader Panel: wiki-info/website/leader-panel.md
+        - Staff: wiki-info/website/staff.md
+        - Clans: wiki-info/website/clans.md
+        - Wars: wiki-info/website/wars.md
+        - Ban List: wiki-info/website/ban-list.md
+        - Statistics: wiki-info/website/statistics.md
+        - Updates: wiki-info/website/updates.md
+        - Tickets: wiki-info/website/tickets.md
+        - Password Recovery: wiki-info/website/password-recovery.md
+        - Account Recovery: wiki-info/website/account-recovery.md
+        - 2FA Recovery: wiki-info/website/2fa-recovery.md
+        - Economy: wiki-info/website/economy.md
+        - Shop: wiki-info/website/shop.md
+      - Other Systems:
+        - Rob: wiki-info/other-systems/rob.md
+        - Escape: wiki-info/other-systems/escape.md
+        - Jail: wiki-info/other-systems/jail.md
+        - Wanted & Clear: wiki-info/other-systems/wanted-clear.md
+        - Referral: wiki-info/other-systems/referral.md
+        - Friends: wiki-info/other-systems/friends.md
+        - Cellphone: wiki-info/other-systems/cellphone.md
+        - PIN: wiki-info/other-systems/pin.md
+        - Drugs: wiki-info/other-systems/drugs.md
+        - Wars: wiki-info/other-systems/wars.md
+        - Race: wiki-info/other-systems/race.md
+        - Safe Zones: wiki-info/other-systems/safe-zones.md
+        - Tutorials: wiki-info/other-systems/tutorials.md
+        - PayDay: wiki-info/other-systems/payday.md
+        - Trade: wiki-info/other-systems/trade.md
+        - Email: wiki-info/other-systems/email.md
+        - Events: wiki-info/other-systems/events.md
+        - Clans: wiki-info/other-systems/clans.md
+        - Slots: wiki-info/other-systems/slots.md
+        - Dice: wiki-info/other-systems/dice.md
+        - Blacklist: wiki-info/other-systems/blacklist.md
+        - Achievements: wiki-info/other-systems/achievements.md
+        - Missions: wiki-info/other-systems/missions.md
+        - Crates: wiki-info/other-systems/crates.md
+        - Safebox: wiki-info/other-systems/safebox.md
+        - Job Goal: wiki-info/other-systems/job-goal.md
+        - Car Market: wiki-info/other-systems/car-market.md
+        - Gold Award: wiki-info/other-systems/gold-award.md
+        - B-Olympics: wiki-info/other-systems/b-olympics.md
+        - Lotto: wiki-info/other-systems/lotto.md
+        - Bunker System: wiki-info/other-systems/bunker-system.md
+        - Rewards/Chest System: wiki-info/other-systems/rewards-chest-system.md
+        - Licenses: wiki-info/other-systems/licenses.md
+        - Egyptian Trader Shop: wiki-info/other-systems/egyptian-trader-shop.md
+      - Useful Commands:
+        - Account: wiki-info/useful-commands/account.md
+        - General: wiki-info/useful-commands/general.md
+        - Chat: wiki-info/useful-commands/chat.md
+        - Jobs: wiki-info/useful-commands/jobs.md
+        - Locations: wiki-info/useful-commands/locations.md
+        - Bank: wiki-info/useful-commands/bank.md
+        - Houses: wiki-info/useful-commands/houses.md
+        - Vehicles: wiki-info/useful-commands/vehicles.md
+        - Business: wiki-info/useful-commands/business.md
+        - Premium: wiki-info/useful-commands/premium.md
+        - Other Commands: wiki-info/useful-commands/other-commands.md
+      - Shop:
+        - Gold Vehicles: wiki-info/shop/gold-vehicles.md
+        - Premium Account: wiki-info/shop/premium-account.md
+        - Hidden Color: wiki-info/shop/hidden-color.md
+        - VIP Car: wiki-info/shop/vip-car.md
+        - Cash Money Packs: wiki-info/shop/cash-money-packs.md
+        - Clans: wiki-info/shop/clans.md
+        - Clan Color: wiki-info/shop/clan-color.md
+        - Clan Name & Tag: wiki-info/shop/clan-name-tag.md
+        - Clan HQ Claim: wiki-info/shop/clan-hq-claim.md
+        - Clan HQ Interior: wiki-info/shop/clan-hq-interior.md
+        - Marathon: wiki-info/shop/marathon.md
+        - House Interiors: wiki-info/shop/house-interiors.md
+        - Clear Faction Punish: wiki-info/shop/clear-faction-punish.md
+        - Change Nickname: wiki-info/shop/change-nickname.md
+        - Extra Vehicle Slot: wiki-info/shop/extra-vehicle-slot.md
+        - Clear Warn: wiki-info/shop/clear-warn.md
+        - Change Sex: wiki-info/shop/change-sex.md
+        - Vehicle KM Reset: wiki-info/shop/vehicle-km-reset.md
+        - Discounts: wiki-info/shop/discounts.md
+        - Buy Gold: wiki-info/shop/buy-gold.md
+        - Garage: wiki-info/shop/garage.md
+        - Private Frequency: wiki-info/shop/private-frequency.md
+        - Vehicle Age: wiki-info/shop/vehicle-age.md
+        - Vehicle 3D Text: wiki-info/shop/vehicle-3d-text.md
+        - Vehicle Colored Plate: wiki-info/shop/vehicle-colored-plate.md
+        - Extra Favorite Slot: wiki-info/shop/extra-favorite-slot.md
+        - Useful Commands: wiki-info/shop/useful-commands.md
+      - Tutorials:
+        - How to Install SA:MP: wiki-info/tutorials/how-to-install-samp.md
+        - Audio Plugin: wiki-info/tutorials/audio-plugin.md
