@@ -19,13 +19,13 @@ icon: material/ambulance
   <figcaption>HQ</figcaption>
 </figure>
 
-## Descriere generala
+## Descriere Generala
 
 In aceasta factiune, veti fi intampinati de un aer dominat de bun-simt, respect si totodata veti putea lucra in echipa cu cei mai buni jucatori. Este o factiune pasnica, cu sediul in inima orasului Las Venturas si are ca scop mentinerea pulsului pe server.
 
 Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea jucatorilor noi si ajutarea acestora in cariera. Aceasta factiune are o importanta deosebita pe server, fiind singura care are ca obiectiv salvarea persoanelor ranite si tratarea acestora. Pentru a te putea alatura factiunii ai nevoie de minim nivel 7, o activitate ridicata, seriozitate si bun-simt.
 
-### Informatii importante
+### Informatii Importante
 
 * Daca medicul transporta un cadavru cu acelasi IP ca al sau, acesta nu va primi punct la raportul de activitate si nici bani.
 * Daca medicul pierde vehiculul in care transporta cadavrul, acesta va fi pierdut automat si nu va mai putea fi transportat.
@@ -35,7 +35,7 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 * Daca jucatorul moare (respawn de la admini / omorat de hitman etc.) in timp ce se afla pe drum catre un cadavru, acesta va pierde dreptul de a-l mai ridica, cadavrul in cauza ramanand la locatia respectiva pana se va descompune sau un alt medic il va ridica.
 * Daca medicul paraseste vehiculul cu care transporta un cadavru / se indrepta inspre un cadavru timp de 20 de secunde, acesta va pierde dreptul de a-l mai ridica sau cadavrul va disparea daca deja era in vehicul.
 
-## Skinurile factiunii
+## Skinurile Factiunii
 
 **Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functie de regulamentul intern al factiunii.**
 
@@ -255,6 +255,9 @@ Aceasta comanda poate fi folosita doar daca:
 ### /corpses
 
 Aceasta comanda va arata toate cadavrele generate pe harta.
+
+### /beacon
+Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
 
 ### /ftalkpower
 

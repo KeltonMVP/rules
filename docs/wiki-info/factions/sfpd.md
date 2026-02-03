@@ -380,6 +380,12 @@ Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
 * Scutul va disparea daca politistul va intra intr-un vehicul.
 * Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
 
+### /siren
+Cu ajutorul acestei comenzi veti putea amplasat girofar de politie pe masina personala atunci cand va faceti datoria cu masina persoanala pentru a fi recunoscuti ca sunteti in misiune.
+
+### /beacon
+Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
+
 ### /ftalkpower
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.
 

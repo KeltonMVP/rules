@@ -12,7 +12,7 @@ icon: material/police-badge
 
 <figure markdown="span">![Politist](/images/wiki/general/Scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
 
-## Descriere generala
+## Descriere Generala
 
 Las Venturas Police Department este o institutie guvernamentala ce elimina criminalitatea de pe strazile Las Venturas, cu ajutorul armelor moderne si autospecialelor ce le au in subordine.
 Ca si in cazul celorlalte departamente locale, LS Police Department si SF Police Department, factiunea LV Police Department este impartita in doua echipe principale:
@@ -24,7 +24,7 @@ Echipa rutiera se ocupa cu supravegherea traficului si amendarea jucatorilor ce 
 Echipa S.W.A.T. este alcatuita din detectivi cu experienta, acestia trecand de rangul de ofitari si actioneaza pentru a prinde toti criminalii orasului.
 Daca ai simt civic si iti place sa respecti legea, aici este locul tau.
 
-## Skinurile factiunii
+## Skinurile Factiunii
 
 **Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functie de regulamentul intern al factiunii.**
 
@@ -66,7 +66,7 @@ Daca ai simt civic si iti place sa respecti legea, aici este locul tau.
 
 <figure markdown="span">![Skin 309](/images/wiki/skins/309.png){ width="250" }<figcaption>Skin 309</figcaption></figure>
 
-## Vehiculele factiunii
+## Vehiculele Factiunii
 
 ### HPV-1000
 
@@ -379,6 +379,12 @@ Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
 * Prezenta scutului va absorbi 100 de unitati damage (echivalentul unei armuri) si numai daca daunele sunt provocate de arme cu gloante (nu *explozii).
 * Scutul va disparea daca politistul va intra intr-un vehicul.
 * Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
+
+### /siren
+Cu ajutorul acestei comenzi veti putea amplasat girofar de politie pe masina personala atunci cand va faceti datoria cu masina persoanala pentru a fi recunoscuti ca sunteti in misiune.
+
+### /beacon
+Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
 
 ### /ftalkpower
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.

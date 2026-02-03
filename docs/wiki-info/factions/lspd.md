@@ -12,7 +12,7 @@ icon: material/police-badge
 
 <figure markdown="span">![Politist](/images/wiki/general/Scut.png){ width="350" }<figcaption>Politist</figcaption></figure>
 
-## Descriere generala
+## Descriere Generala
 
 Los Santos Police Department este o institutie guvernamentala ce elimina criminalitatea de pe strazile Los Santos, cu ajutorul armelor moderne si autospecialelor ce le au in subordine.
 Ca si in cazul celorlalte departamente locale, SF Police Department si LV Police Department, factiunea LS Police Department este impartita in doua echipe principale:
@@ -66,7 +66,7 @@ Daca ai simt civic si iti place sa respecti legea, aici este locul tau.
 
 <figure markdown="span">![Skin 306](/images/wiki/skins/306.png){ width="250" }<figcaption>Skin 306</figcaption></figure>
 
-## Vehiculele factiunii
+## Vehiculele Factiunii
 
 ### HPV-1000
 
@@ -218,7 +218,7 @@ Note:
 * ***random(15)*** reprezinta un numar aleatoriu de la 1 la 15.
 * ***WantedLevel*** reprezinta numarul de stelute de wanted ale suspectului.
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /fvr
 Prin executarea comenzii, toate vehiculele neocupate ale factiunii vor fi respawnate. Comanda este accesibila de la rang 5 in orice factiune.
@@ -370,7 +370,7 @@ Tastarea acestei comenzi va trimite un mesaj specific catre infractor, ce-l info
 *Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /shield
-Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
+Cu ajutorul acestei comenzi veti putea cumpara, folosi sau inlatura un scut de aparare.
 * Pentru a cumpara un scut se va tasta comanda "/shield buy" in timp ce va aflati in depozitul de arme al unui departament (armoury).
 * Pentru a utiliza un scut, va trebui sa tastati comanda "/shield use" si un scut se va atasa skin-ului.
 * Pentru a inlatura scutul de pe skin (si efectul acestuia), se poate tasta comanda "/shield remove".
@@ -378,6 +378,12 @@ Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
 * Prezenta scutului va absorbi 100 de unitati damage (echivalentul unei armuri) si numai daca daunele sunt provocate de arme cu gloante (nu *explozii).
 * Scutul va disparea daca politistul va intra intr-un vehicul.
 * Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
+
+### /siren
+Cu ajutorul acestei comenzi veti putea amplasat girofar de politie pe masina personala atunci cand va faceti datoria cu masina persoanala pentru a fi recunoscuti ca sunteti in misiune.
+
+### /beacon
+Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
 
 ### /ftalkpower
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.

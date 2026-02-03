@@ -9,7 +9,8 @@ icon: material/gavel
   <figcaption>#1 Los Santos City Hall Location</figcaption>
 </figure>
 
-## General characteristics
+
+## General Characteristics
 
 A lawyer is the one who releases imprisoned players from jail and helps married couples get divorced.
 
@@ -22,14 +23,16 @@ A lawyer is the one who releases imprisoned players from jail and helps married 
 - You cannot release from jail players who received ajail.
 - Also, lawyers are needed for divorces. You can offer your services to one of the spouses for an amount between $1,000 and $3,000.
 
-## Skill advancement
+
+## Skill Advancement
 
 1. To advance from skill 1 to skill 2, you must release 50 prisoners.
 2. To advance from skill 2 to skill 3, you must release another 50 prisoners. (total: 100)
 3. To advance from skill 3 to skill 4, you must release 100 prisoners. (total: 200)
 4. To advance from skill 4 to skill 5, you must release 200 prisoners. (total: 400)
 
-## Specific commands
+
+## Specific Commands
 
 ### /free
 
@@ -37,11 +40,18 @@ Along with the command, you must specify the prisoner's name (or id) and the pri
 
 *Example: /free Nic.eXe 15000*
 
-This command allows you to release a player from jail, for a mutually agreed price (in this case, $15,000). The beneficiary can accept or decline this offer. You must have enough accept lawyer points.
+This command allows you to release a player from jail once every 30 minutes after the last release from jail, for a mutually agreed price (in this case, $15,000). The beneficiary can accept or decline this offer. You must have enough accept lawyer points.
+
+
+### /jaillist
+
+When using the command, a dialog box will be displayed with all imprisoned players. To be executed, you must be in Jail, next to the desk.
+
 
 ### /acceptlaws
 
 The command displays in chat the number of accept lawyer points you have.
+
 
 ### /ldivorce
 
@@ -51,6 +61,7 @@ It is necessary to specify the name of the married player and the price.
 
 When using this command, the player will be sent a divorce offer, which they can accept or decline. You must be next to the player in question.
 
-### /jaillist
 
-When using the command, a dialog box will be displayed with all imprisoned players. To be executed, you must be in Jail, next to the desk.
+### /getlawyers
+
+This command allows you to purchase a warrant to release a prisoner from jail from the city hall office in exchange for $40,000.

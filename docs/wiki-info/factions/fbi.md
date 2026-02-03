@@ -12,7 +12,7 @@ icon: material/shield-car
 
 <figure markdown="span">![Agent](/images/wiki/general/Fbi.png){ width="350" }<figcaption>Agent</figcaption></figure>
 
-## Descriere generala
+## Descriere Generala
 
 Federal Bureau of Investigations este un departament guvernamental, cu o mare importanta in rezolvarea cazurilor infractionale din cele trei orase.
 Avand sediul in San Fierro, agentii au la dispozitie o cladire spatioas pentru a se desfasura in voie. Cu o strictete maxima in privinta regulilor, directorul alege agenti capabili de a lucra sub presiune. Avand in dotare vehicule de ultima generatie capabile sa intreaca orice limita, agentii reusesc sa prinda si cel mai agil criminal.
@@ -306,6 +306,12 @@ Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
 * Prezenta scutului va absorbi 100 de unitati damage (echivalentul unei armuri) si numai daca daunele sunt provocate de arme cu gloante (nu *explozii).
 * Scutul va disparea daca politistul va intra intr-un vehicul.
 * Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
+
+### /siren
+Cu ajutorul acestei comenzi veti putea amplasat girofar de politie pe masina personala atunci cand va faceti datoria cu masina persoanala pentru a fi recunoscuti ca sunteti in misiune.
+
+### /beacon
+Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
 
 ### /undercover
 Aceasta comanda ofera unui agent o identitate sub acoperire. Aveti nevoie de minim rang 2+ in acest departament pentru a folosi aceasta comanda.

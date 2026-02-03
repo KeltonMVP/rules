@@ -4,7 +4,7 @@ icon: material/crown
 
 * Mai jos veti gasi o lista a tuturor vehiculelor serverelor B-Zone RPG ce pot fi achizitionate din Dealership sau de la alti jucatori doar de catre jucatorii ce detin un cont premium.
 
-## Masini premium
+## Masini Premium
 
 ### Cheetah
 

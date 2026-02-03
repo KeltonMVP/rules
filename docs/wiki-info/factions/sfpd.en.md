@@ -380,6 +380,12 @@ With this command you can buy, use or remove a defense shield.
 * The shield will disappear if the police officer enters a vehicle.
 * The police officer cannot run constantly while having an active shield, periodically they will be blocked due to "fatigue".
 
+### /siren
+With this command you will be able to place a police beacon on your personal car when you are on duty in your personal car to be recognized as being on a mission.
+
+### /beacon
+With this command you will be able to activate or deactivate the sirens of department cars when they are not working by pressing the **H** key.
+
 ### /ftalkpower
 Through this command a member with rank 5+ can disable faction chat for members with lower rank than the one chosen by them.
 

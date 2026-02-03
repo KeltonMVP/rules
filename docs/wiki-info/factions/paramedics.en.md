@@ -262,6 +262,9 @@ This command can only be used if:
 
 This command shows you all corpses generated on the map.
 
+### /beacon
+With this command you will be able to activate or deactivate the sirens of department cars when they are not working by pressing the **H** key.
+
 ### /ftalkpower
 
 Through this command, a member with rank 5+ can disable faction chat for members with a rank lower than the one chosen by them.

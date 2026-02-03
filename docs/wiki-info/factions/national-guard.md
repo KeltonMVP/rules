@@ -12,13 +12,13 @@ icon: material/tank
 
 <figure markdown="span">![Soldat](/images/wiki/general/National.png){ width="350" }<figcaption>Soldat</figcaption></figure>
 
-## Descriere generala
+## Descriere Generala
 
 National Guard, o institutie militara, asezata in inima desertului Las Venturas, in zona 51, asigura controlul in situatii critice. Interventii organizate si strategic desfasurate, duc la indeplinirea misiunilor cu succes si inlaturarea pericolului. Fiind echipati cu avioane de lupta, elicoptere Hunter si autovehicule ce pot trece peste orice teren si vreme, membrii departamentului ajung la timp oriunde, oricand. Ca sa intri in aceasta armata trebuie sa ai un comportament si limbaj adecvat. National Guard are 2 tipuri de antrenament pentru a va invata cum sa va descurcati in aer, cat si in manuirea armelor. Daca veti reusi sa intrati in acest departament ca rang 1 va veti ocupa cu ordinea si disciplina in inchisoare. Ce inseamna asta mai exact? Trebuie sa aveti grija ca detinutii sa primeasca apa/mancare ori de cate ori este nevoie, sa le deschideti celulele la un anumit interval de timp pentru o pauza, si asa mai departe. De asemenea, detinutii pot fi pedepsiti. Daca se lovesc intre ei, daca lovesc gratiile, ei vor fi pedepsiti in functie de gravitatea situatiei.
 
 Dupa ce veti reusi sa avansati in rang, si anume rang 2+, veti avea posibilitatea sa mergeti dupa infractorii care sparg banca sau cei care nu coopereaza cand sunteti in urmarire dupa acestia. Cu timpul, aveti posibilitatea de a avansa in rang, dar pentru acest lucru trebuie sa aveti o vechime, un comportament aparte, un limbaj corespunzator si sa fiti capabili sa lucrati in echipa indiferent de situatie.
 
-## Skinurile factiunii
+## Skinurile Factiunii
 
 **Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functie de regulamentul intern al factiunii.**
 
@@ -341,6 +341,12 @@ Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
 * Prezenta scutului va absorbi 100 de unitati damage (echivalentul unei armuri) si numai daca daunele sunt provocate de arme cu gloante (nu *explozii).
 * Scutul va disparea daca politistul va intra intr-un vehicul.
 * Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
+
+### /siren
+Cu ajutorul acestei comenzi veti putea amplasat girofar de politie pe masina personala atunci cand va faceti datoria cu masina persoanala pentru a fi recunoscuti ca sunteti in misiune.
+
+### /beacon
+Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
 
 ### /ftalkpower
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.
