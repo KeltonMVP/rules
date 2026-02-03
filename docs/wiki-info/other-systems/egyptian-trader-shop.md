@@ -8,31 +8,6 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 
 ## Caracteristici Generale
 
-<figure markdown="span">
-  ![Interfaţa tradeului #1](/images/wiki/general/Trade_interface.png){ width="400" }
-  <figcaption>Interfaţa tradeului #1</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Vizualizarea skinurilor #2](/images/wiki/general/Wardrobeview.png){ width="400" }
-  <figcaption>Vizualizarea skinurilor #2</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Interfata de fuzionare #3](/images/wiki/general/Fusion_skin.png){ width="400" }
-  <figcaption>Interfata de fuzionare #3</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4](/images/wiki/general/Fusion_skin_2.png){ width="400" }
-  <figcaption>Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![#5](/images/wiki/general/Onyx_fused_bubble.png){ width="300" }
-  <figcaption>#5</figcaption>
-</figure>
-
 * Exista **3** tipuri de fragmente:
     * Fragmente Diamond.
     * Fragmente Onyx.
@@ -59,6 +34,13 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 * Spre deosebire de celelalte tipuri de skinuri, skinurile Onyx si Diamond **pot fi schimbate prin Trade** cu alti jucatori.
     * **Nota:** Daca jucatorii nu au acelasi sex (Masculin/Feminim) nu vor putea face trade cu skinurile detinute.
 
+<figure markdown="span">
+  ![Interfaţa tradeului #1](/images/wiki/general/Trade_interface.png){ width="400" }
+  <figcaption>Interfaţa tradeului #1</figcaption>
+</figure>
+
+
+
 ## Skinurile Diamond si Onyx
 * Exista un total de 100 de Bonusuri pe care jucatorul le poate descoperi si de care se poate bucura daca detine un skin de tip Diamond sau Onyx. Aceste bonusuri pot crea diverse avantaje in cadrul unei factiuni sau ca jucator in general.
 * Daca jucatorul imbunatateste skinul <span style="color:#2c2e2e">**Platinum**</span> intr-un Skin <span style="color:#11c8fa">**Diamond**</span>:
@@ -73,6 +55,12 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
     * Dupa imbunatatirea Skinului Diamond in Skin Onyx jucatorul va mai primi *inca 2 bonusuri aleatorii* diferite de cele primite deja la skinul Diamond. Cele detinute deja vor ramane intacte si 2 noi bonusuri vor fi adaugate pe skinul imbunatatit. Asadar, skinul va avea un total de 4 bonusuri care vor fi active cat timp skinul este purtat.
 * Daca jucatorul nu poarta skinul atunci bonusurile de orice tip nu vor fi aplicate.
 
+<figure markdown="span">
+  ![Vizualizarea skinurilor #2](/images/wiki/general/Wardrobeview.png){ width="400" }
+  <figcaption>Vizualizarea skinurilor #2</figcaption>
+</figure>
+
+
 ## Mecanica de reroll
 * Daca jucatorului nu-i plac bonusurile primite si doreste sa le schimbe fara a schimba skinul cu totul, acesta poate sa le schimbe **folosind optiunea de Reroll** la *Traderul Egiptean*.
 * De retinut ca va trebui sa platiti din nou pretul intreg si ca s-ar putea sa primiti bonusuri mai slabe sau mai bune in functie de noroc.
@@ -82,22 +70,39 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 
 ## Mecanica de fuzionare
 
-*Jucatorii vor putea fuziona doua skinuri <span style="color:#11c8fa">**Diamond**</span> sau doua skinuri <span style="color:#fa8e0a">**Onyx**</span> indiferent de sex si vor pastra un singur skin la finalul fuzionarii (*vezi imaginea **#3***).
+* Jucatorii vor putea fuziona doua skinuri <span style="color:#11c8fa">**Diamond**</span> sau doua skinuri <span style="color:#fa8e0a">**Onyx**</span> indiferent de sex si vor pastra un singur skin la finalul fuzionarii (_vezi imaginea **#3**_).
 
 * Skinul neselectat la fuzionare va fi <span style="color:#FF0000;">**PIERDUT**</span> la fuzionare, bonusurile neselectate pentru fuzionare vor fi si ele pierdute.
-**Skinul selectat pentru fuzionare va fi cel pastrat, inclusiv bonusurile selectate (*vezi imaginea **#4***).
+* Skinul selectat pentru fuzionare va fi cel pastrat, inclusiv bonusurile selectate (_vezi imaginea **#4**_).
 * Pentru skinurile Diamond se vor putea selecta 2 bonusuri de la skinurile fuzionate, iar pentru skinurile Onyx se vor putea selecta 4 bonusuri (inclusiv toate bonusurile de la celalalt skin daca jucatorul doreste transferul tuturor bonusurilor de pe un skin pe celalalt).
-* Fiecare bonus selectat va afisa o imagine cu o bifa in dreptul sau (<img src="https://i.postimg.cc/c1m07y25/keep.png" width=25px; height=25px; style="border-radius: 20px">), cand vor fi selectate toate bonusurile se va pune o imagine cu X (<img src="https://i.postimg.cc/5NKJG5xB/lost.png"  width=25px; height=25px; style="border-radius: 20px">) in dreptul bonusurilor neselectate (cele care vor fi pierdute la fuzionare).
+* Fiecare bonus selectat va afisa o imagine cu o bifa in dreptul sau (<img src="https://i.postimg.cc/c1m07y25/keep.png" width=30px; height=30px; style="border-radius: 20px;vertical-align: middle;">), cand vor fi selectate toate bonusurile se va pune o imagine cu X (<img src="https://i.postimg.cc/5NKJG5xB/lost.png"  width=30px; height=30px; style="border-radius: 20px;vertical-align: middle;">) in dreptul bonusurilor neselectate (cele care vor fi pierdute la fuzionare).
     * Nu se vor putea selecta 2 bonusuri de acelasi tip de la skinuri diferite. Fiecare bonus selectat trebuie sa fie unic la finalul fuzionarii.
     * Selectarea unui alt skin pentru fuziune in timp ce s-au selectat alte bonusuri va duce la resetarea selectiei bonusurilor.
-**Se pot anula toate selectiile apasand butonul **Resetare**.
+    * Se pot anula toate selectiile apasand butonul **Resetare**.
 * Pretul fuzionarii este dupa cum urmeaza:
-**Pentru skinurile <span style="color:#11c8fa">**Diamond**</span> pretul va fi **$4.000.000**, **400 Mission Points** si **3 Tichete Diamond**.
-**Pentru skinurile <span style="color:#fa8e0a">**Onyx**</span> pretul va fi **$6.000.000**, **600 Mission Points** si **5 Tichete Onyx**.
+    * Pentru skinurile <span style="color:#11c8fa">**Diamond**</span> pretul va fi **$4.000.000**, **400 Mission Points** si **3 Tichete Diamond**.
+    * Pentru skinurile <span style="color:#fa8e0a">**Onyx**</span> pretul va fi **$6.000.000**, **600 Mission Points** si **5 Tichete Onyx**.
 * La finalul fuzionarii daca aveati skinul dorit pentru a fi pastrat pe voi va veti pastra skinul, daca in schimb aveti skinul dorit pe voi si selectati alt skin pentru pastrare (pierdeti skinul pe care-l aveti pe voi si sexul skinului pastrat corespunde cu cel pe care-l are caracterul vostru) vi se va seta noul skin fuzionat.
     * Daca selectati sa pastrati un skin de sex opus si sa-l pierdeti pe cel de sexul vostru vi se va seta un skin corespunzator cu factiunea din care faceti parte.
-* Skinul fuzionat va afisa pe /id textul **FUSED** langa ID-ul skinului, la fel si in Skin Bubble-ul skinului, daca este activat va afisa sub tipul skinului textul **FUSED**. Acest lucru va fi afisat si in [/trade].
+* Skinul fuzionat va afisa pe /id textul **FUSED** langa ID-ul skinului, la fel si in text-ul de deasupra capului skinului jucatorului (Skin Bubble), daca este activat va afisa sub tipul skinului textul **FUSED**. Acest lucru va fi afisat si in [/trade].
 * Statusul de **FUSED** va fi resetat doar daca dati reroll la skin sau il pierdeti intr-un alt proces de fuzionare.
+
+
+<figure markdown="span">
+  ![Interfata de fuzionare #3](/images/wiki/general/Fusion_skin.png){ width="400" }
+  <figcaption>Interfata de fuzionare #3</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4](/images/wiki/general/Fusion_skin_2.png){ width="400" }
+  <figcaption>Interfata de fuzionare - skin-ul pastrat & bonusurile alese  #4</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Text deasupra capului jucatorului #5](/images/wiki/general/Onyx_fused_bubble.png){ width="300" }
+  <figcaption>Text deasupra capului jucatorului #5</figcaption>
+</figure>
+
 
 ### Raritatea Skinurilor
 
@@ -195,7 +200,7 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <p style="line-height: normal;">15% sansa de a primi dublu PayDay.</p>
   <p style="line-height: normal;">20% sansa de a primi dublu PayDay.</p>
   <p style="line-height: normal;">25% sansa de a primi dublu PayDay.</p>
-**Nota:** Acest bonus se va multiplica daca existaFun Hours sau First Payday of the Day.</div>
+<b>Nota:</b> Acest bonus se va multiplica daca existaFun Hours sau First Payday of the Day.</div>
 
 
 <div style="width: 33.33%;text-align: center; margin-top:40vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Hard Worker</span>
@@ -204,7 +209,7 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
   <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
   <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-**Nota:** Bonusul nu este valabil la joburile:Pescar, Fermier, Detectiv, Avocat şi Hoţ de Buzunare.</div>
+<b>Nota:</b> Bonusul nu este valabil la joburile:Pescar, Fermier, Detectiv, Avocat şi Hoţ de Buzunare.</div>
 </div>
 
 
@@ -283,7 +288,7 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <p style="line-height: normal;">Intarziere de 15 secunde.</p>
   <p style="line-height: normal;">Intarziere de 20 secunde.</p>
   <p style="line-height: normal;">Intarziere de 25 secunde.</p>
-**Nota:** Wanted-ul este in mod normal oferit la exact 1 minut dupa evadare, jucatorii vor primi acest timp peste timpul normal inainte de a primi wanted.</div>
+<b>Nota:</b> Wanted-ul este in mod normal oferit la exact 1 minut dupa evadare, jucatorii vor primi acest timp peste timpul normal inainte de a primi wanted.</div>
 </div>
 
 
@@ -294,7 +299,7 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <p style="line-height: normal;">3 punct de jaf mai putin.</p>
   <p style="line-height: normal;">4 punct de jaf mai putin.</p>
   <p style="line-height: normal;">5 punct de jaf mai putin.</p>
-**Nota:** Acest bonus se va aplica la ambele tipuri de jaf (singur sau in echipa).</div>
+<b>Nota:</b> Acest bonus se va aplica la ambele tipuri de jaf (singur sau in echipa).</div>
 
 
 <div style="width: 33.33%;text-align: center; margin-top:82vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Escaper</span>
@@ -311,7 +316,7 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <p style="line-height: normal;">3 daune suplimentare per /hit.</p>
   <p style="line-height: normal;">4 daune suplimentare per /hit.</p>
   <p style="line-height: normal;">5 daune suplimentare per /hit.</p>
-**Nota:** Valoarea initiala a daunelor la /hit este de 3, daca jucatorul primeste acest bonus daunele totale vor fi adunate (3 + suma oferita de bonus).</div>
+<b>Nota:</b> Valoarea initiala a daunelor la /hit este de 3, daca jucatorul primeste acest bonus daunele totale vor fi adunate (3 + suma oferita de bonus).</div>
 </div>
 
 
@@ -322,7 +327,7 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <p style="line-height: normal;">3 minut reducere timp de expirare wanted.</p>
   <p style="line-height: normal;">4 minut reducere timp de expirare wanted.</p>
   <p style="line-height: normal;">5 minut reducere timp de expirare wanted.</p>
-**Nota:** Acest lucru va functiona numai atunci cand jucatorul primeste wanted in timp ce poarta acest skin. Daca primesti wanted si apoi schimbi skinul nu vei beneficia de acest bonus.</div>
+<b>Nota:</b> Acest lucru va functiona numai atunci cand jucatorul primeste wanted in timp ce poarta acest skin. Daca primesti wanted si apoi schimbi skinul nu vei beneficia de acest bonus.</div>
 
 
 <div style="width: 33.33%;text-align: center; margin-top:93vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Greedy One</span>
