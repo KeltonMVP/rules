@@ -81,6 +81,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - rank 1 members do not have the right to inactivity.
 - rank 2 members are entitled to a maximum of one week of inactivity.
 - rank 3+ members are entitled to a maximum of two weeks of inactivity.
+- rank 6 members are allowed to inactivity after at least 14 days spent in the faction.
 
 !!! example "Info note"
     Members with approved inactivity requests are allowed to connect to the server and play. They will be exempt from the activity report.<br/>

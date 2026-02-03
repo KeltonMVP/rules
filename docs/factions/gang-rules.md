@@ -81,6 +81,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - membrii de rank 1 nu au dreptul la inactivitati.
 - membrii de rank 2 au dreptul la cel mult o saptamana de inactivitate.
 - membrii de rank 3+ au dreptul la cel mult doua saptamani de inactivitate.
+- membrii de rank 6 nu au dreptul la inactivitati decat dupa minimum 14 zile vechime in factiune.
 
 !!! example "Nota informativa"
     Membrii cu cerere de inactivitate acceptata au voie sa se conecteze pe server si sa joace. Acestia vor fi scutiti de raportul de activitate.<br/>
