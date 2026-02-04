@@ -28,6 +28,7 @@
 <div align="center" style="padding-top:100px">
 <img src="https://b-zone.ro/assets/icons/head.png" width="40" style="vertical-align:middle; border-radius: 5px;"> <b>3. Connect on server</b></img>
 </p>Open the SA-MP client and add to your favorites server list <b>rpg.b-zone.ro</b>.<br>Don't forget to read the server rules!<br><b>Have fun!</b></p>
+<a href="samp://rpg.b-zone.ro:7777"><button style="padding-top: 15px; padding-bottom: 15px; padding-left: 40px;padding-right: 40px; background-color: #7453f5; border-color:#7453f5; border-style: solid; border-radius: 10px; font-family: Lucida Sans Unicode; font-weight: 700; letter-spacing: 2px; color: white; font-size: 1.25rem; line-height: 1.75rem; cursor:pointer; font-size: 18px;">ADD</button></a>
 </div>
 
 

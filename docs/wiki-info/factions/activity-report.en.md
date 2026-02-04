@@ -46,7 +46,8 @@ Factions such as the Mayor and Gangs do not have an activity report per se.
 
 ## The Bonus
 
-- Players who complete a double report compared to what is normal receive a bonus worth $25,000.
+- Players who complete a double report compared to what is normal receive a bonus worth **$25,000**.
+- Players who complete a triple report (3x the points required for a normal report) will receive: **-3** days to rank up, **-3** days to Clear Faction Warn (if exist active) and **$100,000**.
 - Players who have an optional report can receive the bonus if they complete the points for the equivalent of a normal report.
 - Players who have a halved report can receive the bonus if they complete the points for the equivalent of a normal report.
 - In the case of gangs, the bonus will be allocated at the end of the report week only to players who managed to participate in at least 75% of the wars held that week.

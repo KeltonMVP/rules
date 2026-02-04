@@ -28,6 +28,7 @@
 <div align="center" style="padding-top:100px">
 <img src="https://b-zone.ro/assets/icons/head.png" width="40" style="vertical-align:middle; border-radius: 5px;"> <b>3. Conectează-te pe server</b></img>
 </p>Deschide clientul de SA-MP și adaugă în listă de servere favorite adresa <b>rpg.b-zone.ro</b>.<br>Nu uita să citești regulamentul serverului!<br><b>Distracție plăcută!</b></p>
+<a href="samp://rpg.b-zone.ro:7777"><button style="padding-top: 15px; padding-bottom: 15px; padding-left: 40px;padding-right: 40px; background-color: #7453f5; border-color:#7453f5; border-style: solid; border-radius: 10px; font-family: Lucida Sans Unicode; font-weight: 700; letter-spacing: 2px; color: white; font-size: 1.25rem; line-height: 1.75rem; cursor:pointer; font-size: 18px;">ADAUGĂ</button></a>
 </div>
 
 
