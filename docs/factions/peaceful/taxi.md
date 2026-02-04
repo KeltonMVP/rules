@@ -8,7 +8,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 1. Comenzile Factiunii
 
-- <span style="color:var(--pink);">[/fare < pret >]</span> - devii on duty.
+- <span style="color:var(--pink);">[/fare < pret >]</span> - setezi fare active.
 - <span style="color:var(--pink);">[/accept taxi < Nume/ID >]</span> - accepti o comanda.
 - <span style="color:var(--pink);">[/cancel taxi < Nume/ID >]</span> - anulezi o comanda.
 - <span style="color:var(--pink);">[/servicecalls]</span> - vezi comenzile nepreluate.
@@ -41,7 +41,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/recon]</span> sau <span style="color:var(--pink);">[/spec]</span> - supraveghezi un membru ca Lider.
 - <span style="color:var(--pink);">[/fines]</span> - cu aceasta comanda puteti vedea lista cu membri amendati in factiune.
 - <span style="color:var(--pink);">[/switchjob]</span> - cu aceasta comanda puteti schimba job-ul curent cu job-ul Mechanic.
-- <span style="color:var(--pink);">[/onduty]</span> - vezi membrii la datorie ca Lider.
+- <span style="color:var(--pink);">[/onduty]</span> - vezi membrii cu fare activ ca Lider.
 - <span style="color:var(--pink);">[/bl]</span> - vezi jucatorii care se afla pe blacklistul factiunii, data cand au fost adaugati si ce blacklist are 1/2 sau 2/3.
 - <span style="color:var(--pink);">[/mybl]</span> - verifici daca esti pe blacklistul unei factiuni.
 
@@ -150,7 +150,7 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 - atunci cand clientul este pe o cladire sau in aer cu un vehicul zburator (necesita SS).
 - atunci cand checkpointul se tot schimba dintr-un oras in altul (necesita SS, Video).
 - atunci cand clientul te insulta, jigneste, ameninta pe [<span style="color:var(--pink);">/sms</span>] sau [<span style="color:var(--pink);">/call</span>] (necesita dovezi).
-- acesta este AFK atunci cand ajungeti la el. 
+- acesta este AFK atunci cand ajungeti la el.
 
 Lipsa dovezilor in cazul reclamatiilor pentru [<span style="color:var(--pink);">/cancel taxi</span>] aiurea, se va <span style="color:red;">sanctiona cu Faction Warn.</span>
 
@@ -164,7 +164,7 @@ Lipsa dovezilor in cazul reclamatiilor pentru [<span style="color:var(--pink);">
 
 <span style="color:var(--pink);">5.11</span> Taximetristul este obligat sa roage <span style="color:var(--pink);">minim o data</span> clientul sa zica locatia (<span style="color:var(--pink);">si in engleza</span>), daca dupa 30 de secunde de la intrebare clientul nu zice nimic (o locatie), taximetristul ii poate da [<span style="color:var(--pink);">/eject</span>] (<span style="color:red;">sanctiune: Faction Warn</span>). <strong>Puteti scrie in aceeasi propozitie de exemplu:  RO: Unde doresti sa mergi? / EN: Where do you want to go?</strong>
 
-<span style="color:var(--pink);">5.12</span> Un taximetrist are dreptul sa dea afara [<span style="color:var(--pink);">/eject</span>] un client din masina atunci cand: 
+<span style="color:var(--pink);">5.12</span> Un taximetrist are dreptul sa dea afara [<span style="color:var(--pink);">/eject</span>] un client din masina atunci cand:
 
 - acesta il insulta sau acuza sub orice forma verbala jignitoare.
 - acesta doreste sa fie plimbat, cand sunt alte comenzi de indeplinit.
@@ -178,7 +178,7 @@ Lipsa dovezilor in cazul reclamatiilor pentru [<span style="color:var(--pink);">
 - are wanted fara drept de predare si sunteti somati de catre politisti (o singura somatie este suficienta), fiind obligati sa-i dati eject altfel riscati complice.
 - acesta va ameninta ca va face reclamatie (SS).
 - acesta refuza sa coboare din taxi la destinatie.
-- acesta se urca in Taxi inainte de a cobori clientul deja existent in masina si refuza sa coboare pentru a se urca din nou (evident necesita SS). 
+- acesta se urca in Taxi inainte de a cobori clientul deja existent in masina si refuza sa coboare pentru a se urca din nou (evident necesita SS).
 
 La toate regulile de mai sus trebuie sa aveti dovezi (SS) pentru a dovedi ca nu ati dat [<span style="color:var(--pink);">/eject</span>] aiurea, asta in caz de reclamatie (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -190,7 +190,7 @@ La toate regulile de mai sus trebuie sa aveti dovezi (SS) pentru a dovedi ca nu 
 
 <span style="color:var(--pink);">5.16</span> Atunci cand duceti mai multi clienti in taxi (cand sunt mai multi prieteni) si cel de-al doilea sau al treilea urcat dupa primul urcat in taxi, nu doreste sa coboare la aceeasi locatie cu primul, aveti obligatia sa il rugati sa urce iar in taxi, deoarece daca il lasati in taxi fara sa urce iar in taxi, o sa-l duceti cu plata 0$, ceea ce duce la incalcarea regulamentului.
 
-<span style="color:var(--pink);">5.17</span> Nu aveti voie sa faceti raport, sa fiti [<span style="color:var(--pink);">/duty</span>] cu fare avand wanted cu drept de predare sau fara drept (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.17</span> Nu aveti voie sa faceti raport, sa fiti [<span style="color:var(--pink);">cu fare activ</span>] avand wanted cu drept de predare sau fara drept (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.18</span> Cine nu cunoaste toate locatiile importante de pe server va fi sanctionat cu <span style="color:red;">Faction Warn.</span>
 
@@ -274,5 +274,3 @@ Atunci cand acordati o amenda sunteti obligati sa o postati pe forum in topicul 
 <span style="color:var(--pink);">12.1</span> Dovezile din reclamatie trebuie sa fie incarcate pe [imgur.com](http://imgur.com/), [google photos](https://photos.google.com/), [postimages.org](https://postimages.org/), [streamable.com](https://streamable.com/) sau pe [Youtube](https://youtube.com/upload). Daca dovezile nu sunt incarcate pe aceste platforme, liderul nu le va accesa. Liderul nu isi pericliteaza datele PC-ului.
 
 <span style="color:var(--pink);">12.2</span> Este strict interzis sa reclamati aiurea (sa deschideti PM-uri) unui coleg de factiune sau din alta companie de taxi cu scopul de a-l incurca, de a-i baga bete in roate, situatia in prealabil neafectandu-va in mod direct (nerespectarea acestei reguli este sanctionabila in functie de gravitatea situatiei, <span style="color:red;">sanctiune: Avertisment Verbal</span> <span style="color:var(--pink);">si ignorarea PM-urilor</span> la prima abatere, ori <span style="color:red;">Faction Warn</span> sau <span style="color:red;">Demitere</span>, daca se repeta).
-
-

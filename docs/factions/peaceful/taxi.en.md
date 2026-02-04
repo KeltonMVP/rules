@@ -8,7 +8,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 1. Faction Commands
 
-- <span style="color:var(--pink);">[/fare < price >]</span> - become on duty.
+- <span style="color:var(--pink);">[/fare < price >]</span> - set an active fare.
 - <span style="color:var(--pink);">[/accept taxi < Name/ID >]</span> - accept an order.
 - <span style="color:var(--pink);">[/cancel taxi < Name/ID >]</span> - cancel an order.
 - <span style="color:var(--pink);">[/servicecalls]</span> - see unclaimed orders.
@@ -41,7 +41,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/recon]</span> or <span style="color:var(--pink);">[/spec]</span> - monitor a member as Leader.
 - <span style="color:var(--pink);">[/fines]</span> - with this command, you can see the list of fined members in the faction.
 - <span style="color:var(--pink);">[/switchjob]</span> - with this command, you can switch your current job to the Mechanic job.
-- <span style="color:var(--pink);">[/onduty]</span> - see members on duty as Leader.
+- <span style="color:var(--pink);">[/onduty]</span> - see members with active fare as Leader.
 - <span style="color:var(--pink);">[/bl]</span> - see players on the faction's blacklist, the date they were added, and which blacklist they have 1/2 or 2/3.
 - <span style="color:var(--pink);">[/mybl]</span> - check if you are on a faction's blacklist.
 
@@ -190,7 +190,7 @@ For all the above rules, you must have evidence (SS) to prove that you did not u
 
 <span style="color:var(--pink);">5.16</span> When you are transporting multiple clients in the taxi (when there are several friends), and the second or third person to get in after the first person does not want to get off at the same location as the first person, you are obliged to ask them to get out of the taxi and get back in. If you leave them in the taxi without asking them to get back in, you will transport them for $0, which violates the rules.
 
-<span style="color:var(--pink);">5.17</span> You are not allowed to report, be on [<span style="color:var(--pink);">/duty</span>] with fare while having a wanted level with surrender rights or without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.17</span> You are not allowed to fulfill activity report, have [<span style="color:var(--pink);">/fare active</span>] while having a wanted level with surrender rights or without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.18</span> Anyone who does not know all the important locations on the server will be sanctioned with a <span style="color:red;">Faction Warn</span>.
 
@@ -274,6 +274,3 @@ When issuing a fine, you are required to post it on the forum within 48 hours in
 <span style="color:var(--pink);">12.1</span> Evidence in complaints must be uploaded to [imgur.com](http://imgur.com/), [google photos](https://photos.google.com/), [postimages.org](https://postimages.org/), [streamable.com](https://streamable.com/), or [Youtube](https://youtube.com/upload). If the evidence is not uploaded to these platforms, the leader will not access it. The leader does not risk their PC data.
 
 <span style="color:var(--pink);">12.2</span> It is strictly forbidden to randomly complain (open PMs) to a faction colleague or from another taxi company with the aim of causing trouble, hindering them, the situation not directly affecting you beforehand (violation of this rule is punishable according to the severity of the situation, <span style="color:red;">sanction: Verbal Warning</span> <span style="color:var(--pink);">and ignoring PMs</span> for the first offense, or <span style="color:red;">Faction Warn</span> or <span style="color:red;">Dismissal</span> if repeated).
-
-
-
