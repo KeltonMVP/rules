@@ -191,7 +191,8 @@ Notes:
 ## Specific Commands
 
 ### /fvr
-By executing the command, all unoccupied faction vehicles will be respawned. The command is accessible from rank 5 in any faction.
+By executing the command, all unoccupied faction vehicles will be respawned.<br>
+The command is accessible from rank 5 in any faction.
 
 ### /clothes
 To change your skin according to your rank, any faction member can use the /clothes command only if they are in a clothing store.
@@ -199,148 +200,125 @@ To change your skin according to your rank, any faction member can use the /clot
 ### /m
 Using this command, a member of police departments can send a visible message at a certain radius containing the name and rank held by the department member.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /su
-This command is used by law enforcement on servers to give a certain level of pursuit (wanted) to players. The command has a single parameter, namely the suspect's name or ID.
+This command is used by law enforcement on servers to give a certain level of pursuit (wanted) to players.<br>
+The command has a single parameter, namely the suspect's name or ID.
 
 *Example: /su Adi007*
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /mdc
-The command provides information about a player's criminal record. It has a single parameter, the name or ID of the player you want to check.
-The server will display the player's name, total crimes committed on the server, wanted level, total arrests, number of crimes for which they have not yet been sent to prison, information about each active unpunished crime and the number of police officers currently pursuing the suspect. To use the command you must be in any department vehicle, in a personal vehicle if you are a rank 3+ member, or in the prison compound.
+The command provides information about a player's criminal record. It has a single parameter, the name or ID of the player you want to check.<br>
+The server will display the player's name, total crimes committed on the server, wanted level, total arrests, number of crimes for which they have not yet been sent to prison, information about each active unpunished crime and the number of police officers currently pursuing the suspect.<br>
+To use the command you must be in any department vehicle, in a personal vehicle if you are a rank 3+ member, or in the prison compound.
 
 *Example: /mdc Nic.eXe*
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /arrest
-Has a single parameter, the name or ID of the player you want to check. *Example: /arrest Nic.eXe*
-By using this command, a player with a wanted level can be sent to prison. For a player to be arrested, a department member must use this command while in the prison compound or in a department vehicle, near the special marker of the department headquarters, together with the suspect.
+Has a single parameter, the name or ID of the player you want to check.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
+*Example: /arrest Nic.eXe*
+
+By using this command, a player with a wanted level can be sent to prison.<br>
+For a player to be arrested, a department member must use this command while in the prison compound or in a department vehicle, near the special marker of the department headquarters, together with the suspect.
 
 ### /wanted
 This command provides the user with a list of information about all suspects on the server.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /nearwanted
 This command provides the user with a list of information about suspects on the server located near their location.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /clear
 Used to remove a player's wanted level.
 The command uses one parameter, the name or ID of the player whose record you want to clear.
 
 *Example: /clear Adi007*
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /cuff & /uncuff
-By using the /cuff command, a member of a police department can handcuff a player. By using the /uncuff command, a player can be released from handcuffs. Both commands have one parameter, the name or ID of the player you want to handcuff.
+By using the /cuff command, a member of a police department can handcuff a player.<br>
+By using the /uncuff command, a player can be released from handcuffs.<br>
+Both commands have one parameter, the name or ID of the player you want to handcuff.
 
 *Example: /cuff Adi007 & /uncuff Adi007*
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /punish
-The /punish command is used to immobilize a player in prison. The command has a single parameter, the player's name or ID, with the server automatically setting the suspect's punishment.
+The /punish command is used to immobilize a player in prison.<br>
+The command has a single parameter, the player's name or ID, with the server automatically setting the suspect's punishment.<br>
 When you punish a prisoner you will receive **$600** for each /punish you issue.
 
 *Example: /punish Adi007*
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /confiscate
-With this command, you can confiscate drugs, materials and weapons from a player.
-
+With this command, you can confiscate drugs, materials and weapons from a player.<br>
 The command uses two parameters, the name or ID of the player from whom you want to confiscate an item and the name of the object you are going to confiscate.
 
 *Example: /confiscate Madalin Weapons*
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard. The National Guard faction is limited compared to police departments.*
 
 ### /gov
 This command is used to send a government announcement to all server players.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /duty
-For a department member to be able to apply sanctions to players who break the rules, they need to equip themselves. To do this, use the /duty command.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
+For a department member to be able to apply sanctions to players who break the rules, they need to equip themselves.<br>
+To do this, use the /duty command.
 
 ### /lawyer
-* Using this command you will sell release warrants to lawyers. The command uses two parameters, the name or ID of the lawyer to whom you want to sell the release warrant and the price of the warrant.
-* The price of a release warrant can be minimum $5,000 and maximum $20,000.
-* To sell a warrant you need 15 accept points.
-* The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
+Using this command you will sell release warrants to lawyers.<br>
+The command uses two parameters, the name or ID of the lawyer to whom you want to sell the release warrant and the price of the warrant.<br>
+The price of a release warrant can be minimum $5,000 and maximum $20,000.<br>
+To sell a warrant you need 15 accept points.
+
+### /acceptpoints
+Using this command you will be able to see how many accept points you have in total at that moment.
 
 ### /tazer
-The /tazer command installs a shock absorber on the pistol. When you shoot a suspect with the pistol, having the shock absorber installed, the suspect is immobilized for 8 seconds.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
+The /tazer command installs a shock absorber on the pistol.<br>
+When you shoot a suspect with the pistol, having the shock absorber installed, the suspect is immobilized for 8 seconds.
 
 ### /opengate
-It is a command used to open a certain gate in the prison.
+It is a command used to open a certain gate in the prison.<br>
 A single parameter is used to complete the command, namely the ID of the gate you want to open.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /frisk
-To find out what items a player has, use the /frisk command. This displays the weapons a player has and other quantities such as drugs and materials.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
+To find out what items a player has, use the /frisk command.<br>
+This displays the weapons a player has and other quantities such as drugs and materials.
 
 ### /backup
 If a department member needs help against criminals, they can use this command, all police units are notified and all members of these units get a red point set on the map to lead them to the one in need of help.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /cbackup
 This command cancels a help request initiated by the /backup command.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /ram
 The command has the same effect as the /enter command, but is only used if a police member needs to enter a faction/house to catch a criminal.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /jaillist
 Typing the command will display some details about all prisoners logged on the server at that time.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
 
 ### /untie
 A police officer can release a player tied by gangsters following a kidnapping.
 
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
-
 ### /opencell & /closecell
-These are two commands used to open or close a certain cell in the prison.
+These are two commands used to open or close a certain cell in the prison.<br>
 A single parameter is used to complete the commands, namely the ID of the cell you want to open/close.
-
-*Note: The command is available only for National Guard members.*
 
 ### /opencellsall & /closecellsall
 These are two commands used to open or close all cells in the prison.
 
-*Note 1: The command is available only for National Guard members of rank 3+.*
+*Note 1: The command is available only for National Guard members of rank 3+.*<br>
 *Note 2: The commands cannot be used between XX:00-XX:11 and XX:30-XX:41.*
 
 ### /ms
-Typing this command will send a specific message to the criminal, informing them that they are being pursued by a police member and must immediately pull over or surrender. For the message to be sent successfully to the criminal, you must be near them and have an active checkpoint generated by the /find command on the tracked player.
-
-*Note: The command is available for LSPD, SFPD, LVPD, FBI and National Guard.*
+Typing this command will send a specific message to the criminal, informing them that they are being pursued by a police member and must immediately pull over or surrender.<br>
+For the message to be sent successfully to the criminal, you must be near them and have an active checkpoint generated by the /find command on the tracked player.
 
 ### /shield
-With this command you can buy, use or remove a defense shield.
-* To buy a shield, type the command "/shield buy" while in a department's weapon depot (armoury).
-* To use a shield, you will need to type the command "/shield use" and a shield will attach to the skin.
-* To remove the shield from the skin (and its effect), you can type the command "/shield remove".
-* A police officer can own a maximum of one shield, and the price of a shield is $500.
-* The presence of the shield will absorb 100 damage units (equivalent to armor) and only if the damage is caused by bullet weapons (not explosions).
-* The shield will disappear if the police officer enters a vehicle.
-* The police officer cannot run constantly while having an active shield, periodically they will be blocked due to "fatigue".
+<p>With this command you can buy, use or remove a defense shield.</p>
+- To buy a shield, type the command "/shield buy" while in a department's weapon depot (armoury).
+- To use a shield, you will need to type the command "/shield use" and a shield will attach to the skin.
+- To remove the shield from the skin (and its effect), you can type the command "/shield remove".
+- A police officer can own a maximum of one shield, and the price of a shield is $500.
+- The presence of the shield will absorb 100 damage units (equivalent to armor) and only if the damage is caused by bullet weapons (not explosions).
+- The shield will disappear if the police officer enters a vehicle.
+- The police officer cannot run constantly while having an active shield, periodically they will be blocked due to "fatigue".
 
 ### /siren
 With this command you will be able to place a police beacon on your personal car when you are on duty in your personal car to be recognized as being on a mission.

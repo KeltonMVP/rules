@@ -218,10 +218,11 @@ Note:
 * ***random(15)*** reprezinta un numar aleatoriu de la 1 la 15.
 * ***WantedLevel*** reprezinta numarul de stelute de wanted ale suspectului.
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /fvr
-Prin executarea comenzii, toate vehiculele neocupate ale factiunii vor fi respawnate. Comanda este accesibila de la rang 5 in orice factiune.
+Prin executarea comenzii, toate vehiculele neocupate ale factiunii vor fi respawnate.<br>
+Comanda este accesibila de la rang 5 in orice factiune.
 
 ### /clothes
 Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei factiuni poate sa utilizeze comanda /clothes si numai daca se afla intr-un magazin de haine.
@@ -229,156 +230,136 @@ Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei fa
 ### /m
 Folosind aceasta comanda, un membru al departamentelor de politie poate sa trimeata un mesaj vizibil pe o anumita raza ce contine numele si rangul detinut de membrul departamentului.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /su
-Aceasta comanda este folosita de oamenii legii de pe servere pentru a acorda un anumit nivel de urmarire (wanted) jucatorilor. Comanda prezinta un singur paramentru si anume numele sau ID-ul suspectului.
+Aceasta comanda este folosita de oamenii legii de pe servere pentru a acorda un anumit nivel de urmarire (wanted) jucatorilor.<br>
+Comanda prezinta un singur paramentru si anume numele sau ID-ul suspectului.
 
 *Exemplu: /su Adi007*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /mdc
-Comanda ofera informatii despre cazierul unui anumit jucator. Prezinta un singur parametru, numele sau ID-ul jucatorului pe care doriti sa-l verificati.
-Serverul va va afisa numele jucatorului, totalul de crime comise pe server, nivelul de urmarire (wanted), totalul de arestari, numarul de crime pentru care nu a fost inca trimis la inchisoare, informatii despre fiecare crima activa nepedepsita inca si numarul de politisti de care este urmarit in acel moment suspectul. Pentru a putea folosi comanda trebuie sa va aflati in orice vehicul al unui departament, intr-un vehicul personal daca sunteti un membru de rank 3+ sau in incinta inchisorii.
+Comanda ofera informatii despre cazierul unui anumit jucator. Prezinta un singur parametru, numele sau ID-ul jucatorului pe care doriti sa-l verificati.<br>
+Serverul va va afisa numele jucatorului, totalul de crime comise pe server, nivelul de urmarire (wanted), totalul de arestari, numarul de crime pentru care nu a fost inca trimis la inchisoare, informatii despre fiecare crima activa nepedepsita inca si numarul de politisti de care este urmarit in acel moment suspectul.<br>
+Pentru a putea folosi comanda trebuie sa va aflati in orice vehicul al unui departament, intr-un vehicul personal daca sunteti un membru de rank 3+ sau in incinta inchisorii.
 
 *Exemplu: /mdc Nic.eXe*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /arrest
-Prezinta un singur parametru, numele sau ID-ul jucatorului pe care doriti sa-s verificati. *Exemplu: /arrest Nic.eXe*
-Prin utilizarea acestei comenzi, un jucator ce prezinta nivel de urmarire (wanted) poate sa fie trimis la inchisoare. Pentru ca un jucator sa fie arestat, membrul unui departament trebuie sa foloseasca aceasta comanda aflandu-se in incinta inchisorii sau intr-un vehicul al unui departament, aproape de marcajul special amenajat al sediilor departamentelor, alaturi de suspect.
+Prezinta un singur parametru, numele sau ID-ul jucatorului pe care doriti sa-s verificati.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
+*Exemplu: /arrest Nic.eXe*
+
+Prin utilizarea acestei comenzi, un jucator ce prezinta nivel de urmarire (wanted) poate sa fie trimis la inchisoare.<br>
+Pentru ca un jucator sa fie arestat, membrul unui departament trebuie sa foloseasca aceasta comanda aflandu-se in incinta inchisorii sau intr-un vehicul al unui departament, aproape de marcajul special amenajat al sediilor departamentelor, alaturi de suspect.
 
 ### /wanted
 Aceasta comanda ofera celui ce o foloseste o lista cu informatii in legatura cu toti suspectii de pe server.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /nearwanted
 Aceasta comanda ofera celui ce o foloseste o lista cu informatii in legatura cu suspectii de pe server aflati in apropiere de locul in care se afla.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /clear
-Se foloseste pentru a elimina nivelul de urmarire al unui jucator.
+Se foloseste pentru a elimina nivelul de urmarire al unui jucator.<br>
 Comanda foloseste un parametru, numele sau ID-ul jucatorului al carui cazier doriti sa-l curatati.
 
 *Exemplu: /clear Adi007*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /cuff & /uncuff
-Prin utilizarea comenzii /cuff, un membru al unui departament de politie poate sa incatuseze un jucator. Prin utilizarea comenzii /uncuff, un jucator poate sa fie lasat liber din catuse. Ambele comenzi prezinta un parametru, numele sau ID-ul jucatorului pe are doriti sa-l incatusati.
+Prin utilizarea comenzii /cuff, un membru al unui departament de politie poate sa incatuseze un jucator.<br>
+Prin utilizarea comenzii /uncuff, un jucator poate sa fie lasat liber din catuse.<br>
+Ambele comenzi prezinta un parametru, numele sau ID-ul jucatorului pe are doriti sa-l incatusati.
 
 *Exemplu: /cuff Adi007 & /uncuff Adi007*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /punish
-Comanda /punish este folosita pentru a imobiliza un jucator aflat in inchisoare. Comanda dispune de un singur parametru, numele sau ID-ul jucatorului, serverul setand automat pedeapsa suspectului.
+Comanda /punish este folosita pentru a imobiliza un jucator aflat in inchisoare.<br>
+Comanda dispune de un singur parametru, numele sau ID-ul jucatorului, serverul setand automat pedeapsa suspectului.
 
 *Exemplu: /punish Adi007*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /confiscate
-Cu ajutorul acestei comenzi, puteti confisca drogurile, materialele si armele unui jucator, una dintre urmatoarele licente in cazul in care le detine:
-1. Licenta de condus
-2. Licenta de zbor
-3. Licenta de navigat
-4. Licenta de materiale
-5. Licenta de arme
+Cu ajutorul acestei comenzi, puteti confisca drogurile, materialele si armele unui jucator, una dintre urmatoarele licente in cazul in care le detine:<br>
+1. Licenta de condus<br>
+2. Licenta de zbor<br>
+3. Licenta de navigatie<br>
+4. Licenta de materiale<br>
+5. Licenta de arme<br>
 
 Comanda foloseste doi parametrii, numele sau ID-ul jucatorului caruia doriti sa-i confiscati un item si numele obiectului pe care urmeaza sa-l confiscati, exceptie facand licenta de condus care accepta si un al treilea parametru, numarul de ore, care este implicit 3 si poate fi cuprins intre 1 si 5.
 
 *Exemplu: /confiscate Adi007 Drivinglic*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /gov
 Aceasta comanda este folosita pentru a trimite un anunt guvernamental catre toti jucatorii serverului.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /duty
-Pentru ca un membru al unui departament sa poata aplica sanctiuni jucatorilor ce incalca regulile, acestia au nevoie sa se echipeze. Pentru a face acest lucru, se foloseste comanda /duty.
-
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
+Pentru ca un membru al unui departament sa poata aplica sanctiuni jucatorilor ce incalca regulile, acestia au nevoie sa se echipeze.<br>
+Pentru a face acest lucru, se foloseste comanda /duty.
 
 ### /lawyer
-* Folosind aceasta comanda veti vinde mandate de eliberare avocatilor. Comanda foloseste doi parametrii, numele sau ID-ul avocatului caruia doriti sa-i vindeti mandatul de eliberare si pretul mandatului.
-* Pretul unui mandat de eliberare poate fi minim $5.000 si maxim $20.000.
-* Pentru a vinde un mandat aveti nevoie de 15 puncte de accept.
-* Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.
+Folosind aceasta comanda veti vinde mandate de eliberare avocatilor.<br>
+Comanda foloseste doi parametrii, numele sau ID-ul avocatului caruia doriti sa-i vindeti mandatul de eliberare si pretul mandatului.<br>
+Pretul unui mandat de eliberare poate fi minim $5.000 si maxim $20.000.<br>
+Pentru a vinde un mandat aveti nevoie de 15 puncte de accept.<br>
+
+### /acceptpoints
+Folosind aceasta comanda veti putea vedea cate puncte de accept detineti in total la acel moment. 
 
 ### /tazer
-Comanda /tazer instaleaza un amortizor pe pistol. Atunci cand trageti cu pistolul intr-un suspect, avand amortizorul instalat, suspectul este imobilizat pentru 8 secunde.
-
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
+Comanda /tazer instaleaza un amortizor pe pistol.<br>
+Atunci cand trageti cu pistolul intr-un suspect, avand amortizorul instalat, suspectul este imobilizat pentru 8 secunde.
 
 ### /opengate
-Este o comanda folosita pentru a deschide o anumita poarta din inchisoare.
+Este o comanda folosita pentru a deschide o anumita poarta din inchisoare.<br>
 Se foloseste un singur parametru in completarea comenzii si anume ID-ul portii pe care doriti s-o deschideti.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /frisk
-Pentru a afla ce obiecte detine la el un jucator, se foloseste comanda /frisk. Aceasta afiseaza armele pe care le are un jucator si alte cantitati precum drogurile si materialele.
-
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
+Pentru a afla ce obiecte detine la el un jucator, se foloseste comanda /frisk.<br>
+Aceasta afiseaza armele pe care le are un jucator si alte cantitati precum drogurile si materialele.
 
 ### /backup
 In cazul in care un membru al unui departament are nevoie de ajutor contra infractorilor, acesta poate sa foloseasca aceasta comanda, toate unitatile de politie fiind anuntate si tuturor membrilor acestor unitati fiindu-le setat un punct rosu pe harta care sa-i conduca spre cel ce are nevoie de ajutor.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /cbackup
 Aceasta comanda anuleaza o cerere de ajutor initiata prin comanda /backup.
-
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /ram
 Comanda are acelasi efect precum comanda /enter, insa este folosita numai daca un membru al politiei trebue sa patrunda in interiorul unei factiuni/case pentru a prinde un infractor.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /jaillist
 Tastarea comenzii va afisa cateva detalii despre absolut toti detinutii logati pe server in acel moment.
-
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
 
 ### /untie
 Un politist poate sa elibereze un jucator legat de catre mafioti in urma unei rapiri.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
-
 ### /startradar & /stopradar
-Utilizarea comenzilor se face doar in interiorul unui vehicul de politie. Comanda /startradar foloseste un parametru, viteza maxima admisa.
+Utilizarea comenzilor se face doar in interiorul unui vehicul de politie. Comanda /startradar foloseste un parametru, viteza maxima admisa.<br>
+
 *Exemplu: /startradar 130* - va seta limita de viteza a radarului la 130km/h.
+
 Comanda /stopradar va dezactiva radarul.
 
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD*
-
 ### /ticket
-Politistii serverului folosesc aceasta comanda pentru a acorda amenzi jucatorilor. Aceasta foloseste un singur parametru, ID-ul sau numele jucatorului caruia doriti sa-i acordati amenda.
+Politistii serverului folosesc aceasta comanda pentru a acorda amenzi jucatorilor.<br>
+Aceasta foloseste un singur parametru, ID-ul sau numele jucatorului caruia doriti sa-i acordati amenda.
 
 *Exemplu: /ticket 130*
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD*
 
 ### /radars
 Comanda /radars este disponibila membrilor de rank 4+ din factiunile LSPD, LVPD si SFPD care va afisa un tabel informativ cu privire la toate radarele amplasate (numele politistului, factiunea, zona amplasarii si limita de viteza impusa).
 
 ### /ms
-Tastarea acestei comenzi va trimite un mesaj specific catre infractor, ce-l informeaza cum ca este urmarit de un membru al politiei si trebuie sa traga imediat pe dreapta sau sa se predea. Pentru ca mesajul sa fie trimis cu succes catre infractor, trebuie sa va aflati in apropierea acestuia si sa detineti un checkpoint activ generat de comanda /find asupra jucatorului urmarit.
-
-*Nota: Comanda este disponibila pentru LSPD, SFPD, LVPD, FBI si National Guard.*
+Tastarea acestei comenzi va trimite un mesaj specific catre infractor, ce-l informeaza cum ca este urmarit de un membru al politiei si trebuie sa traga imediat pe dreapta sau sa se predea.<br>
+Pentru ca mesajul sa fie trimis cu succes catre infractor, trebuie sa va aflati in apropierea acestuia si sa detineti un checkpoint activ generat de comanda /find asupra jucatorului urmarit.
 
 ### /shield
-Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.
-* Pentru a cumpara un scut se va tasta comanda "/shield buy" in timp ce va aflati in depozitul de arme al unui departament (armoury).
-* Pentru a utiliza un scut, va trebui sa tastati comanda "/shield use" si un scut se va atasa skin-ului.
-* Pentru a inlatura scutul de pe skin (si efectul acestuia), se poate tasta comanda "/shield remove".
-* Un politist poate sa detina maxim un scut, iar pretul unui scut este de $500.
-* Prezenta scutului va absorbi 100 de unitati damage (echivalentul unei armuri) si numai daca daunele sunt provocate de arme cu gloante (nu *explozii).
-* Scutul va disparea daca politistul va intra intr-un vehicul.
-* Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
+<p>Cu ajutorul comenzii veti putea cumpara, folosi sau inlatura un scut de aparare.</p>
+- Pentru a cumpara un scut se va tasta comanda [*/shield buy*] in timp ce va aflati in depozitul de arme al unui departament (armoury).
+- Pentru a utiliza un scut, va trebui sa tastati comanda [*/shield use*] si un scut se va atasa skin-ului.
+- Pentru a inlatura scutul de pe skin (si efectul acestuia), se poate tasta comanda [*/shield remove*].
+- Un politist poate sa detina maxim un scut, iar pretul unui scut este de $500.
+- Prezenta scutului va absorbi 100 de unitati damage (echivalentul unei armuri) si numai daca daunele sunt provocate de arme cu gloante (nu explozii).
+- Scutul va disparea daca politistul va intra intr-un vehicul.
+- Politistul nu poate sa alerge constant cat timp are un scut activ, periodic va fi blocat din cauza "oboselii".
 
 ### /siren
 Cu ajutorul acestei comenzi veti putea amplasat girofar de politie pe masina personala atunci cand va faceti datoria cu masina persoanala pentru a fi recunoscuti ca sunteti in misiune.

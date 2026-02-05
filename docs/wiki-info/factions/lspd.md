@@ -235,7 +235,6 @@ Aceasta comanda este folosita de oamenii legii de pe servere pentru a acorda un 
 
 *Exemplu: /su Adi007*
 
-
 ### /mdc
 Comanda ofera informatii despre cazierul unui anumit jucator. Prezinta un singur parametru, numele sau ID-ul jucatorului pe care doriti sa-l verificati.<br>
 Serverul va va afisa numele jucatorului, totalul de crime comise pe server, nivelul de urmarire (wanted), totalul de arestari, numarul de crime pentru care nu a fost inca trimis la inchisoare, informatii despre fiecare crima activa nepedepsita inca si numarul de politisti de care este urmarit in acel moment suspectul. 
@@ -281,7 +280,7 @@ Comanda dispune de un singur parametru, numele sau ID-ul jucatorului, serverul s
 Cu ajutorul acestei comenzi, puteti confisca drogurile, materialele si armele unui jucator, una dintre urmatoarele licente in cazul in care le detine:<br>
 1. Licenta de condus<br>
 2. Licenta de zbor<br>
-3. Licenta de navigat<br>
+3. Licenta de navigatie<br>
 4. Licenta de materiale<br>
 5. Licenta de arme
 
@@ -297,7 +296,8 @@ Pentru ca un membru al unui departament sa poata aplica sanctiuni jucatorilor ce
 Pentru a face acest lucru, se foloseste comanda /duty.
 
 ### /lawyer
-Folosind aceasta comanda veti vinde mandate de eliberare avocatilor. Comanda foloseste doi parametrii, numele sau ID-ul avocatului caruia doriti sa-i vindeti mandatul de eliberare si pretul mandatului.<br>
+Folosind aceasta comanda veti vinde mandate de eliberare avocatilor.<br>
+Comanda foloseste doi parametrii, numele sau ID-ul avocatului caruia doriti sa-i vindeti mandatul de eliberare si pretul mandatului.<br>
 Pretul unui mandat de eliberare poate fi minim $5.000 si maxim $20.000.<br>
 Pentru a vinde un mandat aveti nevoie de 15 puncte de accept.
 

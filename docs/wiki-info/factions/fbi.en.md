@@ -251,6 +251,9 @@ For a department member to be able to apply sanctions to players who break the r
 * To sell a warrant you need 15 accept points.
 * The command is available for LSPD, SFPD, LVPD, FBI and National Guard.
 
+### /acceptpoints
+Using this command you will be able to see how many accept points you have in total at that moment.
+
 ### /tazer
 The /tazer command installs a shock device on the pistol. When you shoot the pistol at a suspect, having the shock device installed, the suspect is immobilized for 8 seconds.
 
@@ -299,11 +302,11 @@ Typing this command will send a specific message to the criminal, informing them
 
 ### /shield
 With the help of the command you can buy, use or remove a defense shield.
-* To buy a shield, the command "/shield buy" will be typed while you are in a department's weapons depot (armoury).
-* To use a shield, you will need to type the command "/shield use" and a shield will attach to the skin.
-* To remove the shield from the skin (and its effect), you can type the command "/shield remove".
+* To buy a shield, the command [*/shield buy*] will be typed while you are in a department's weapons depot (armoury).
+* To use a shield, you will need to type the command [*/shield use*] and a shield will attach to the skin.
+* To remove the shield from the skin (and its effect), you can type the command [*/shield remove*].
 * A police officer can own a maximum of one shield, and the price of a shield is $500.
-* The presence of the shield will absorb 100 units of damage (equivalent to armor) and only if the damage is caused by guns with bullets (not *explosions).
+* The presence of the shield will absorb 100 units of damage (equivalent to armor) and only if the damage is caused by guns with bullets (not explosions).
 * The shield will disappear if the police officer enters a vehicle.
 * The police officer cannot run constantly while having an active shield, periodically they will be blocked due to "fatigue".
 

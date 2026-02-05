@@ -292,9 +292,13 @@ This command is used to send a government announcement to all server players.<br
 For a department member to be able to apply sanctions to players who break the rules, they need to equip themselves. To do this, use the /duty command.
 
 ### /lawyer
-Using this command you will sell release warrants to lawyers. The command uses two parameters, the name or ID of the lawyer to whom you want to sell the release warrant and the price of the warrant.<br>
+Using this command you will sell release warrants to lawyers.<br>
+The command uses two parameters, the name or ID of the lawyer to whom you want to sell the release warrant and the price of the warrant.<br>
 The price of a release warrant can be minimum $5,000 and maximum $20,000.<br>
 To sell a warrant you need 15 accept points.<br>
+
+### /acceptpoints
+Using this command you will be able to see how many accept points you have in total at that moment.
 
 ### /tazer
 The /tazer command installs a shock absorber on the pistol.<br>
@@ -345,9 +349,9 @@ For the message to be sent successfully to the criminal, you must be near them a
 
 ### /shield
 <p>With this command you can buy, use or remove a defense shield.</p>
-- To buy a shield, type the command "/shield buy" while in a department's weapon depot (armoury).
-- To use a shield, you will need to type the command "/shield use" and a shield will attach to the skin.
-- To remove the shield from the skin (and its effect), you can type the command "/shield remove".
+- To buy a shield, type the command [*/shield buy*] while in a department's weapon depot (armoury).
+- To use a shield, you will need to type the command [*/shield use*] and a shield will attach to the skin.
+- To remove the shield from the skin (and its effect), you can type the command [*/shield remove*].
 - A police officer can own a maximum of one shield, and the price of a shield is $500.
 - The presence of the shield will absorb 100 damage units (equivalent to armor) and only if the damage is caused by bullet weapons (not explosions).
 - The shield will disappear if the police officer enters a vehicle.
