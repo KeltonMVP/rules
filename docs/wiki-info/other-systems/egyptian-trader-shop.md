@@ -18,6 +18,7 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
     * Tichete Upgrade
 * Tichetele pot fi transformate la *Traderul Egiptean* langa War Arena LV sau direct din Shop. Traderul Egiptean poate fi gasit folosind comanda [→ **Locatii Importante** → **Trader Shop (LV)**. (*vezi imaginea **#1***)
 * Pentru a transforma un tichet de un anumit tip (Diamond/Onyx/Upgrade), ai nevoie de minim 5 fragmente de acelasi tip.
+* Transformarea fragmentelor in tickete se face prin apasarea pe imaginea cu fragmentul pe care vrei sa-l convertesti in ticket.
 * Nu exista o limita de cate fragmente sau tichete poate detine un jucator.
 * Numarul de Fragmente (Diamond/Onyx/Upgrade) detinute va aparea pe [/stats](**/gps**]).
 * Numarul de Tichete (Diamond/Onyx/Upgrade) detinute va aparea pe [# Sistemul de skinuri
