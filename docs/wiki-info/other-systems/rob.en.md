@@ -154,7 +154,7 @@ To rob a house or business you need:
 * In the special room you have at most 5 minutes to go through these two stages, otherwise the robbery will fail.
 * If the player fits in the required time, they will be taken out of the robbed house or business with a money bag, also receiving wanted 6 without the right to surrender for robbery.
 * The next step is to hide the stolen money at two different houses, the player receiving a checkpoint where they need to go. Therefore, we recommend having a vehicle waiting when you do such a robbery.
-* If the player manages to take the money to the two locations, then the robbery is successfully completed, at which point the player receives payment for the robbery, another 5 robbery points are deducted and a skill point is added.
+* If the player manages to take the money to the two locations, then the player moves on to the escape stage <b>provided they have at least 4 successful prison escapes</b>, at which point the player receives payment per slave, another 5 robbery points are deducted, and one point is added to their skill.
 * If the player is killed along the way by police officers, they will lose the robbery and will not receive payment, being locked in prison.
 
 ### Earnings from Solo Rob
@@ -165,8 +165,15 @@ To rob a house or business you need:
 * Skill 4: between $55,000 - $65,000
 * Skill 5: between $65,000 - $70,000
 
-
 These amounts represent the basic earnings, without other bonuses offered by other systems on the server.
+
+
+### Solo Rob Escape Process
+* After hiding the money at the two locations, you will receive another red dot on the map where you must go to escape further with a boat made available automatically by the server provided that <b>you have at least 4 prison escapes completed successfully</b>, otherwise, you will not enter the escape process.
+* Once you get on the boat, you will receive another checkpoint to another vehicle made available automatically by the server.
+* When you reach the checkpoint with the boat, your wanted level is reduced by half and you are automatically put in the vehicle with which you must escape to the nearest **Pay'n Spray** type biz.
+* Once you enter Pay'n Spray, the completion process is successfully completed and you completely get rid of the wanted.
+* If you are caught by the police during this escape process and are killed by any means, you will fail the escape and go straight to prison.
 
 
 ## Team Robbery
