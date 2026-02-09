@@ -10,7 +10,7 @@ icon: material/police-badge
 </figure>
 
 <figure markdown="span">
-  ![Interface of /su command](/images/wiki/general/Wantedlist.png){ width="450" }
+  ![Interface of /su command](/images/wiki/general/wanted_list_en.png){ width="450" }
   <figcaption>Interface of /su command</figcaption>
 </figure>
 

@@ -48,6 +48,7 @@ In pagina destinata informatiilor generale se gasesc lucruri de baza, aceste inf
     * Numarul de puncte de respect pe care jucatorul le detine in acel moment.
     * Numarul de ore jucate pe server.
     * Numarul de ore jucate in luna respectiva pe server (reale + sleep).
+        * *<b>Nota:</b> Numarul de ore din fiecare luna se reseteaza la fiecare inceput de luna pe data de 1 la ora 00:20.
     * Numarul de ore reale jucate in luna respectiva pe server.
     * Suma de bani pe care jucatorul o detine in mana.
     * Suma de bani pe care jucatorul o detine in banca.

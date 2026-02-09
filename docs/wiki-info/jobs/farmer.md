@@ -33,20 +33,20 @@ Exista cate o ferma in fiecare oras. Fermierii se trezesc devreme si incep munca
 
 ## Caracteristici Generale
 
-* Fiecare ferma detine un numar de parcele (64 parcele in total).
+* Fiecare ferma detine un numar de **24** de parcele (grupe) din care 20 sunt publice, iar 4 sunt private.
+* O parcela publica poate fi lucrata de 5 jucatori simultan, fiecare cu propriile lui plante.
 * O parcela este formata din 16 plante.
-* O parcela publica poate fi lucrata de maxim 5 fermieri simultan.
 * Exista doua tipuri de parcele:
-    * **Parcela Privata - costa 200 Gold pentru 24 de ore.**
+    * **Parcela Privata** - costa **200 Gold** pentru 24 de ore.**
         * Los Santos - ID-uri de la **21** pana la **24**.
         * Las Venturas - ID-uri de la **49** pana la **52**.
         * San Fierro - ID-uri de la **25** pana la **28**.
         * Avantajul parcelei private este ca aceasta nu se usuca vreodata, nu veti pierde chiria daca nu plantati si veti putea planta orice indiferent de skill.
-    * **Parcela Publica - costa $1000 pentru 24 de ore.**
+    * **Parcela Publica** - costa *$1,000* pentru 24 de ore.**
         * Los Santos - ID-uri de la **1** pana la **20**.
         * Las Venturas - ID-uri de la **53** pana la **64**.
         * San Fierro - ID-uri de la **29** pana la **48**.
-* Fiecare parcela contine un text 3D cu informatii despre aceasta (*imaginea #2*).
+* Fiecare gruparcela contine un text 3D cu informatii despre aceasta (*imaginea #2*).
 * Parcelele pot fi inchiriate pentru 24 de ore mergand la textul 3D de pe parcela si apasand tasta Y.
 * Din momentul inchirierii aveti o ora la dispozitie sa plantati ceva sau chiria se va anula.
 * Un jucator poate detine simultan o parcela privata si una publica.
@@ -131,3 +131,9 @@ Pentru a avansa in skill aveti nevoie de urmatoarele puncte:
 * Pentru a se efectua trecerea de la skill 2 la skill 3, un muncitor are nevoie de 6144 puncte.
 * Pentru a se efectua trecerea de la skill 3 la skill 4, un muncitor are nevoie de 13824 puncte.
 * Pentru a se efectua trecerea de la skill 4 la skill 5, un muncitor are nevoie de 23040 puncte.
+
+## Comenzi disponibile
+
+### /abandonparcel
+Cu ajutorul acestei comenzi puteti renunta la inchirierea unei parceli in cazul in care nu mai aveti nevoie de aceasta.<br>
+De mentionat este faptul ca nu primiti nimic inapoi in schimb.

@@ -18,6 +18,7 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
     * Upgrade Tickets
 * Tickets can be converted at the *Egyptian Trader* near War Arena LV or directly from the Shop. The Egyptian Trader can be found using the command [→ **Important Locations** → **Trader Shop (LV)**. (*see image **#1***)
 * To convert a ticket of a certain type (Diamond/Onyx/Upgrade), you need at least 5 fragments of the same type.
+* Converting fragments into tickets is done by clicking on the image with the fragment you want to convert into a ticket.
 * There is no limit to how many fragments or tickets a player can hold.
 * The number of Fragments (Diamond/Onyx/Upgrade) held will appear on [/stats](**/gps**]).
 * The number of Tickets (Diamond/Onyx/Upgrade) held will appear on [# Skin system

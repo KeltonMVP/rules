@@ -154,7 +154,7 @@ Pentru a jefui o casa sau un biz aveti nevoie de:
 * in incaperea speciala aveti la dispozitie cel mult 5 minute sa treceti prin aceste doua etape, in caz contrar robul va esua.
 * Daca jucatorul se incadreaza in timpul necesar, acesta va fi scos in afara casei sau bizului jefuit cu un sac cu bani, primind totodata wanted 6 fara drept de predare pentru jaf.
 * Urmatorul pas este ascunderea banilor furati la doua case diferite, jucatorul primind cate un checkpoint unde trebuie sa mearga. Asadar va recomandam sa aveti un vehicul in asteptare in momentul in care dati un astfel de jaf.
-* Daca jucatorul reuseste sa duca banii la cele doua locatii atunci robul este finalizat cu succes, moment in care jucatorul primeste plata pe rob, i se mai scad inca 5 puncte de jaf si i se adauga un punct la skill.
+* Daca jucatorul reuseste sa duca banii la cele doua locatii atunci jucatorul trece in etapa de evadare <b>cu conditia sa aibe cel putin 4 evadari din inchisoare finalizate cu succes</b>, moment in care jucatorul primeste plata pe rob, i se mai scad inca 5 puncte de jaf si i se adauga un punct la skill.
 * Daca jucatorul este omorat pe parcurs de catre politisti acesta va pierde robul si nu va mai primi plata, fiind inchis in puscarie.
 
 ### Castigul la Solo Rob
@@ -165,8 +165,14 @@ Pentru a jefui o casa sau un biz aveti nevoie de:
 * Skill 4: intre $55.000 - $65.000
 * Skill 5: intre $65.000 - $70.000
 
-
 Aceste sume reprezinta castigul de baza, fara alte bonusuri oferite de alte sisteme de pe server.
+
+### Procesul de Evadare la Solo Rob
+* Dupa ce ati ascuns banii la cele doua locatii o sa primesti un alt punct rosu pe harta la care trebuie sa mergeti pentru a fugi mai departe cu o barca pusa la dispozitie in mod automat de catre server cu conditia <b>sa aveti cel putin 4 evadari din inchisoare finalizate cu succes</b>, in caz contrar, nu veti intra in procesul de evadare.
+* Odata urcati in barca o sa primesti un alt checkpoint catre un alt vehicul pus la dizpotie de catre server in mod automat.
+* In momentul in care ajungeti in checkpoint cu barca, nivelul de wanted vi se reduce la jumate si sunteti urcati automat in vehiculul cu care trebuie sa fugiti spre cel mai apropiat biz de tip **Pay'n Spray**.
+* Odata intrati in Pay'n Spray procesul de finalizare este finalizat cu succes si scapat complet de wanted.
+* Daca sunteti prinsi de politie pe parcursul acestui proces de evadare si sunteti omorati prin orice modalitate veti esua evadarea si mergeti direct in inchisoare.
 
 
 ## Robul in echipa

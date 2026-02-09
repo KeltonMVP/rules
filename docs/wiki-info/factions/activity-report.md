@@ -46,7 +46,8 @@ Factiunile precum Primaria si Gangurile nu au un raport de activitate propriu-zi
 
 ## Bonusul
 
-- Jucatorii care efectueaza un raport dublu fata de cat este normal primesc un bonus in valoare de $25,000.
+- Jucatorii care efectueaza un raport dublu fata de cat este normal primesc un bonus in valoare de **$25,000**.
+- Jucatorii care efectueaza raport triplu (de 3x punctele necesare raportului normal) vor primi: **-3** zile la rank up, **-3** zile la Clear Faction Warn (daca au la activ) si **$100,000**.
 - Jucatorii care au raport optional pot primi bonusul daca punctele pentru echivalentul unui raport normal.
 - Jucatorii care au raport injumatatit pot primi bonusul daca efectueaza punctele pentru echivalentul unui raport normal.
 - In cazul gangurilor bonusul va fi alocat la finalul saptamanii de raport numai jucatorilor care au reusit sa participe la cel putin 75% din warurile avute in saptamana respectiva.

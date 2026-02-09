@@ -5,7 +5,7 @@ icon: material/cart
 # How to buy vehicles
 
 <figure markdown="span">
-  ![Dealership Location](/images/wiki/general/400px-DS_map_marker_red.png){ width="400" }
+  ![Dealership Location](/images/wiki/general/400px-DS_map_marker_red.png){ width="600" }
   <figcaption>Dealership Location</figcaption>
 </figure>
 
@@ -13,10 +13,10 @@ Reading this article, you will find out how you can buy a certain vehicle direct
 The Dealership is a building located in the east of Los Santos city and is known as a vehicle distribution agency.<br/>
 Vehicles purchased from Dealership are new, have no damage and have the mileage set to 0 kilometers.
 
-## General features
+## General Features
 
 <figure markdown="span">
-  ![Dealership Exterior](/images/wiki/general/400px-DS_both_doors.png){ width="400" }
+  ![Dealership Exterior](/images/wiki/general/400px-DS_both_doors.png){ width="600" }
   <figcaption>Dealership Exterior</figcaption>
 </figure>
 
@@ -30,11 +30,11 @@ Vehicles purchased from Dealership are new, have no damage and have the mileage 
 ## How to buy a new vehicle?
 
 <figure markdown="span">
-  ![Dealership Interior](/images/wiki/general/Interiords.png){ width="400" }
+  ![Dealership Interior](/images/wiki/general/Interiords.png){ width="600" }
   <figcaption>Dealership Interior</figcaption>
 </figure>
 
-### Standard vehicles
+### Standard Vehicles
 
 To buy one of the standard vehicles from RPG servers, follow these steps:
 
@@ -44,9 +44,9 @@ To buy one of the standard vehicles from RPG servers, follow these steps:
 4. Make sure the vehicle you want to buy is in stock. If it has 0 stock then it cannot be purchased from the Dealership but only from other players.
 5. As soon as you press the **Buy Model** button, you will exit the Dealership, and your new vehicle will be positioned in the underground parking of the Dealership. In case of boats and helicopters, use the */v* command to locate the newly purchased vehicle.
 
-*Note: Find the standard vehicles list on the Standard Vehicles page.*
+*Note: Find the standard vehicles list on the [Standard Vehicles](../wiki-info/vehicles/shop-vehicles.en.md) page.*
 
-### Premium vehicles
+### Premium Vehicles
 
 To buy one of the premium vehicles from RPG servers, follow these steps:
 
@@ -59,9 +59,9 @@ To buy one of the premium vehicles from RPG servers, follow these steps:
 4. Select the desired vehicle (using the < and > arrows), then press the **Buy Model** or **Test Model** button if you want to test the vehicle. If you opt for testing the vehicle, you will have three minutes at your disposal. Vehicle testing will be done in a virtual world, which means you will not be able to meet any other player.
 5. As soon as you press the **Buy Model** button, you will exit the Dealership, and your new vehicle will be positioned in the underground parking of the Dealership. In case of boats and helicopters, use the */v* command to locate the newly purchased vehicle.
 
-*Note: Find the premium vehicles list on the Premium Vehicles page.*
+*Note: Find the premium vehicles list on the [Premium Vehicles](../wiki-info/vehicles/premium-vehicles.en.md) page.*
 
-### Special vehicles
+### Special Vehicles
 
 To buy one of the special vehicles from RPG servers, follow these steps:
 
@@ -69,4 +69,4 @@ To buy one of the special vehicles from RPG servers, follow these steps:
 2. Fill in the form with the desired vehicle and payment method (euro or in-game money).
 3. As soon as possible an administrator will take care of your ticket and will withdraw the amount from your account, respectively will set the desired vehicle on your account.
 
-*Note: Find the special vehicles list on the Shop Vehicles page.*
+*Note: Find the special vehicles list on the [Shop Vehicles](../wiki-info/vehicles/shop-vehicles.en.md) page.*

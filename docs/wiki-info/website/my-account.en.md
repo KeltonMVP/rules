@@ -48,6 +48,7 @@ The page dedicated to general information contains basic things, this informatio
     * Number of respect points the player has at that moment.
     * Number of hours played on the server.
     * Number of hours played in that month on the server (real + sleep).
+        * *<b>Note:</b> The number of hours in each month is reset at the beginning of each month on the 1st at 00:20.*.
     * Number of real hours played in that month on the server.
     * Amount of money the player has in hand.
     * Amount of money the player has in the bank.

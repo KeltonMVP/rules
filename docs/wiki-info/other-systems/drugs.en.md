@@ -24,10 +24,10 @@ icon: material/cannabis
 Enhanced versions of **Marijuana, Cocaine, Ecstasy and Methamphetamine** can be consumed with /useedrugs <type> (not to be confused with /usedrugs, which is for normal drugs).
 Each type requires grams from the enhanced stock and offers higher health increases, stronger addiction levels and unique effects compared to normal drugs:
 
-* **Marijuana** → **+10 HP** (12g, lower addiction, shorter cooldown).
-* **Cocaine** → **+30 HP** (18g, lower addiction, faster recovery).
-* **Ecstasy** → **+70 HP** (26g, lower addiction, shorter immobilization).
-* **Methamphetamine** → Full health (38g, reduced addiction, 15s immobilization)
+* **Marijuana** → offer: **+10 HP**, **1%** dependence, shorter cooldown → needs: **12g**.
+* **Cocaine** → offer: **+30 HP** **3%** dependece, faster recovery → needs: **18g**.
+* **Ecstasy** → offer: **+70 HP**, **8%** dependence, shorter immobilization → needs: **26g**.
+* **Methamphetamine** → offer: Full health **15%** dependence, 15 seconds immobilization → needs: **38g**.
 
 Only Sons of Anarchy members can sell enhanced drugs using /selledrugs Name/ID Amount Price (not to be confused with /selldrugs for normal drugs).
 

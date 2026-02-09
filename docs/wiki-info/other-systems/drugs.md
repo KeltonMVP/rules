@@ -24,10 +24,10 @@ icon: material/cannabis
 Versiunile imbunatatite de **Marijuana, Cocaina, Ecstasy si Metamfetamina** pot fi consumate cu /useedrugs <type> (nu trebuie confundat cu /usedrugs, care este pentru droguri normale).
 Fiecare tip necesita grame din stocul imbunatatit si ofera cresteri mai mari de sanatate, niveluri de dependenta mai puternice si efecte unice comparativ cu drogurile normale:
 
-* **Marijuana** → **+10 HP** (12g, dependenta mai mica, timp de reutilizare mai scurt).
-* **Cocaina** → **+30 HP** (18g, dependenta mai mica, recuperare mai rapida).
-* **Ecstasy** → **+70 HP** (26g, dependenta mai mica, imobilizare mai scurta).
-* **Metamfetamina** → Sanatate completa (38g, dependenta redusa, imobilizare de 15s)
+* **Marijuana** → iti ofera: **+10 HP**, **1%** dependenta, timp de reutilizare mai scurt → necesita: **12g**.
+* **Cocaina** → iti ofera: **+30 HP**, **3%** dependenta, recuperare mai rapida → necesita: **18g**.
+* **Ecstasy** → iti ofera: **+70 HP**, **8%** dependenta, imobilizare mai scurta → necesita: **26g**.
+* **Metamfetamina** → iti ofera: **Sanatate completa**, **15%** dependenta, imobilizare de 15 secunde → necesita: **38g**.
 
 Doar membrii Sons of Anarchy pot vinde droguri imbunatatite folosind /selledrugs Name/ID Amount Price (nu trebuie confundat cu /selldrugs pentru droguri normale).
 

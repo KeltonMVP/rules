@@ -33,16 +33,16 @@ There is one farm in each city. Farmers wake up early and start working so that 
 
 ## General Characteristics
 
-* Each farm has a number of parcels (64 parcels in total).
+* Each farm owns a total of **24** plots (groups), of which 20 are public and 4 are private.
+* A public plot can be worked by 5 players simultaneously, each with their own plants.
 * A parcel consists of 16 plants.
-* A public parcel can be worked by a maximum of 5 farmers simultaneously.
 * There are two types of parcels:
-    * **Private Parcel - costs 200 Gold for 24 hours.**
+    * **Private Parcel** - costs **200 Gold** for 24 hours.
         * Los Santos - IDs from **21** to **24**.
         * Las Venturas - IDs from **49** to **52**.
         * San Fierro - IDs from **25** to **28**.
         * The advantage of a private parcel is that it never dries out, you won't lose the rent if you don't plant and you can plant anything regardless of skill.
-    * **Public Parcel - costs $1000 for 24 hours.**
+    * **Public Parcel** - costs **$1,000** for 24 hours.
         * Los Santos - IDs from **1** to **20**.
         * Las Venturas - IDs from **53** to **64**.
         * San Fierro - IDs from **29** to **48**.
@@ -131,3 +131,9 @@ To advance in skill you need the following points:
 * To make the transition from skill 2 to skill 3, a worker needs 6144 points.
 * To make the transition from skill 3 to skill 4, a worker needs 13824 points.
 * To make the transition from skill 4 to skill 5, a worker needs 23040 points.
+
+## Available commands
+
+### /abandonparcel
+With this command you can give up renting a plot if you no longer need it.<br>
+It is worth mentioning that you do not receive anything back in return.
