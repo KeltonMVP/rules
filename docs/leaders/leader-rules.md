@@ -163,6 +163,8 @@ mari de 5 zile.
 
 <span style="color:var(--pink);">2.1.7</span> Daca subliderul a primit rank down acesta va putea obtine din nou gradul de sublider dupa minim o luna de zile de la degradare (<span style="color:red;">sanctiune: Leader Warn + rank down jucatorului promovat</span>).
 
+<span style="color:var(--pink);">2.1.8</span> Se interzice promovarea de noi sublideri odata ce liderul si-a depus cererea de demisie. Stafful isi rezerva dreptul de a anula orice promovare de sublider facuta dupa depunerea demisiei cat si in apropierea unei cereri de demisie sau demiteri a unui lider (<span style="color:red;">sanctiune: Faction Punish 300, daca e cazul</span>).
+
 ### Inlocuirea Subliderilor
 
 <span style="color:var(--pink);">2.2.1</span> Un Lider poate inlatura gradul subliderului atunci cand considera ca nu mai are nevoie de serviciile sale si-l va degrada acordandu-i rankul in functie de vechimea sa in factiune, de numarul de bonusuri deblocate si de regulile cu privire la acordarea rankului unui membru.

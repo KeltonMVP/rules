@@ -162,6 +162,8 @@
 
 <span style="color:var(--pink);">2.1.7</span> If the subleader has been demoted, they will be eligible to regain the subleader rank after a minimum of one month from the demotion (<span style="color:red;">sanction: Leader Warn + demotion of the promoted player's rank</span>).
 
+<span style="color:var(--pink);">2.1.8</span> It is forbidden to promote new sub-leaders once the leader has submitted their resignation request. The staff reserves the right to cancel any sub-leader promotion made after the resignation has been submitted, as well as any promotion made close to a leader’s resignation request or dismissal (<span style="color:red;">Sanction: Faction Punish 300, if applicable</span>).
+
 ### Replacing Subleaders
 
 <span style="color:var(--pink);">2.2.1</span> A Leader can remove the subleader's rank when they consider their services are no longer needed and will demote them by granting a rank based on their seniority in the faction, the number of unlocked bonuses, and the rules regarding rank assignment for a member.
