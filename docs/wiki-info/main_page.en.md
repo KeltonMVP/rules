@@ -46,7 +46,8 @@
 <a href="https://forum.b-zone.ro" style="text-decoration:none;"><h3>Forum RPG B-Zone</h3></a>
 <a href="https://www.rpg.b-zone.ro/account/billing" style="text-decoration:none;"><h3>Shop RPG B-Zone</h3></a>
 <h5 style="padding-top: 60px;">Do you want to contact the server staff ? Open an <a href="https://www.rpg.b-zone.ro/ticket/addSupportTicket">ticket</a></h5>
-</div>
+<h5>Do you have a suggestion for the Wiki page? Did you find a mistake on a page?<br>You can open a topic <a href="https://forum.b-zone.ro/forum/3443-wiki-website/">here</a> to be solved.</h5
+>
 <h4>Contributors:</h4>
 <div style="display:inline-block; text-align:center; vertical-align: top;">
 <img src="https://forum.b-zone.ro/uploads/monthly_2022_12/IMG_0064.thumb.JPG.597ed68c997fcd99d8e9fee43ed15461.JPG" style="margin:0 auto 7px auto; object-fit: cover; width:60px; height:60px; border-radius:50%; display:block;">
