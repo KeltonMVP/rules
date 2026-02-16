@@ -10,6 +10,16 @@ icon: material/tractor
 </figure>
 
 <figure markdown="span">
+  ![Las Venturas Farm #1'](/images/wiki/jobs/farm_lv_map.png) { style="width: 450px; height: 350px;" }
+  <figcaption>Las Venturas Farm #1'</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![San Fierro Farm #1''](/images/wiki/jobs/farm_sf_map.png){ style="width: 450px; height: 350px;" }
+  <figcaption>San Fierro Farm #1''</figcaption>
+</figure>
+
+<figure markdown="span">
   ![3D Text of parcel #2](/images/wiki/general/ParcelText.png){ width="500" }
   <figcaption>3D Text of parcel #2</figcaption>
 </figure>
@@ -29,7 +39,7 @@ icon: material/tractor
   <figcaption>Plant seeding menu #5</figcaption>
 </figure>
 
-There is one farm in each city. Farmers wake up early and start working so that their skill develops day by day, thus, depending on their skill, they can plant more things. More details about the farmers' life, earnings and skill can be found below on this page.
+There is one farm in each city (*see images #1 / #1' / #1''*). Farmers wake up early and start working so that their skill develops day by day, thus, depending on their skill, they can plant more things. More details about the farmers' life, earnings and skill can be found below on this page.
 
 ## General Characteristics
 

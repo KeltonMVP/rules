@@ -19,7 +19,7 @@ icon: material/pickaxe
 * Cu ajutorul jobului *Miner* veti aduna si livra minereuri in schimbul unei sume de bani.
 * Jobul Miner este unul legal.
 * Pentru a deveni un miner, aveti nevoie de minim nivel 1.
-* Pentru acest job, veti folosi vehiculul Bobcat la skill 1-6 si vehiculul Yosemite pentru skill 6-10.
+* Pentru acest job, veti folosi vehiculul **Bobcat** la **skill 1-5** si vehiculul **Yosemite** pentru **skill 6 - 10**.
 * Locatia punctului de angajare poate fi gasita pe harta in imaginea #1.
 * Pentru o singura livrare (livrarea se face la punctul de angajare) trebuie sa adunati un total de 5 minereuri.
 * Jucatorii care detin cont premium primesc cu 50% mai mult la sfarsitul fiecarei curse.

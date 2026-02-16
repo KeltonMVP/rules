@@ -5,28 +5,38 @@ icon: material/shovel
 # Archeologist
 
 <figure markdown="span">
-  ![Procedura arheologica](/images/wiki/general/Archprocedure.png){ width="300" }
-  <figcaption>Procedura arheologica #1</figcaption>
+  ![Locatia job-ului pe harta in LV](/images/wiki/jobs/arheologist_lv_map.png){ width="450" }
+  <figcaption>#1 Locatia job-ului pe harta in LV</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Locatia job-ului pe harta in SF](/images/wiki/jobs/arheologist_sf_map.png){ width="450" }
+  <figcaption>#1' Locatia job-ului pe harta in SF</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Locatia jobului](/images/wiki/general/Archlocation.jpg){ width="450" }
-  <figcaption>Locatia de /getjob #2</figcaption>
+  <figcaption>#2 Locatia de /getjob</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interfata colectare](/images/wiki/general/Archartefact.png){ width="300" }
+  ![Procedura arheologica](/images/wiki/general/Archprocedure.png){ width="450" }
+  <figcaption>Procedura arheologica #3</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Interfata colectare](/images/wiki/general/Archartefact.png){ width="450" }
   <figcaption>Interfata colectarii artefactului #4</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Interfata vanzare](/images/wiki/general/Archsell.png){ width="300" }
+  ![Interfata vanzare](/images/wiki/general/Archsell.png){ width="450" }
   <figcaption>Interfata vanzarii la Negustorul Egiptean #5</figcaption>
 </figure>
 
-Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de Arheolog consta in gasirea artefactelor din diverse locatii specifice localizarii artefactelor (vezi imaginea **#3** si **#4**), respectiv de urmare a unor proceduri de curatare si conservare a acestora specificate in procedura unica a fiecarui arheolog (vezi imaginea **#1**), dupa conservarea artefactului va trebui livrat la Negustorul Egiptean (vezi imaginea **#5**).
+Locatia jobului poate fi vizualizata in imaginea **#1 / #1'**. Jobul de Arheolog consta in gasirea artefactelor din diverse locatii specifice localizarii artefactelor (vezi imaginea **#2** si **#3**), respectiv de urmare a unor proceduri de curatare si conservare a acestora specificate in procedura unica a fiecarui arheolog (vezi imaginea **#4**), dupa conservarea artefactului va trebui livrat la Negustorul Egiptean (vezi imaginea **#5**).
 
-## Caracteristici generale
+## Caracteristici Generale
 
 - Jobul este unul legal, se afla in orasul Las Venturas in zona Lil' Probe Inn (**in apropierea HQ National Guard**) si poti lucra la acesta incepand cu nivel 3.
 - Jobul are in principal trei activitati:
@@ -40,6 +50,11 @@ Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de Arheolog const
 - Puteti vizualiza cantitatea de artefacte pe care o aveti prin intermediul comenzilor, **/inventory**, **/inventar**, **/backpack** sau **/inv** daca detineti minim skill 3 la acest job sau la jobul Craftsman.
 - Skillul maxim al acestui job este 10.
 - Daca arheologul nu reuseste sa localizeze artefactul si sa-l colecteze in 10 minute, acesta va esua in a-l colecta.
+- La skillurile mai mari veti avea o sansa sa primiti un Fragment de Skin:
+    - **Skill 1-7:** 0% sansa.
+    - **Skill 8:** 1% sansa.
+    - **Skill 9:** 2% sansa.
+    - **Skill 10:** 3% sansa.
 
 ## Timpul de localizare al artefactelor
 
@@ -101,13 +116,7 @@ Noua valoare este determinata de formula: (**valoarea_de_baza** / 2) + **valoare
 - Skill 9 la Skill 10: veti avea nevoie de 3000 puncte, pentru un total de 11000 puncte.
 
 ## Beneficiile arheologilor care muncesc in San Fierro
-
 - Aveti o sansa de **50%** ca artefactul vostru sa fie upgradat la urmatorul nivel. (Ex: Artefactul Romanesc in Moldovenesc).
-- La skillurile mai mari veti avea o sansa sa primiti un Fragment de Skin:
-    - Skill 1-7: 0% sansa
-    - Skill 8: 1% sansa
-    - Skill 9: 2% sansa
-    - Skill 10: 3% sansa
 
 ## Postari similare
 

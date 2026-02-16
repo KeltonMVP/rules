@@ -5,34 +5,40 @@ icon: material/flash
 # Electrician
 
 <figure markdown="span">
+  ![Locatia jobului pe harta](/images/wiki/jobs/electrician_map.png){ width="450" }
+  <figcaption>#1 Locatia jobului pe harta</figcaption>
+</figure>
+
+
+<figure markdown="span">
   ![Electrician reparand un stalp electric](/images/wiki/general/Electrician.png){ width="450" }
-  <figcaption>#1 Electrician reparand un stalp electric</figcaption>
+  <figcaption>#2 Electrician reparand un stalp electric</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Taierea firelor](/images/wiki/general/Cut.png){ width="400" }
-  <figcaption>#2 Taierea firelor</figcaption>
+  <figcaption>#3 Taierea firelor</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Conectarea firelor](/images/wiki/general/Connect.png){ width="400" }
-  <figcaption>#3 Conectarea firelor</figcaption>
+  <figcaption>#4 Conectarea firelor</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Stabilizarea tensiunii](/images/wiki/general/Adjust.png){ width="400" }
-  <figcaption>#4 Stabilizarea tensiunii</figcaption>
+  <figcaption>#5 Stabilizarea tensiunii</figcaption>
 </figure>
 
 Jobul de electrician asigura repararea si mentenanta rapida a instalatiilor electrice, asigurand o functionare eficienta a infrastructurii electrice. Acestia sunt chemati mereu unde este necesar, la repararea unui stalp, repararea unui transformator, s.a.m.d.
 
 ## Caracteristici Generale
 
-* Jobul se afla in orasul Los Santos in zona Ocean Docks si puteti lucra la acesta incepand cu minim nivel 3.
-* Va trebui sa conduceti masina primita de la job catre punctul rosu de pe harta, odata ajunsi acolo trebuie sa coborati si sa incepeti sa reparati instalatia electrica.
+* Jobul se afla in orasul Los Santos in zona Ocean Docks (*vezi imaginea #1*) si puteti lucra la acesta incepand cu minim nivel 3.
+* Va trebui sa conduceti masina primita de la job catre punctul rosu de pe harta, odata ajunsi acolo trebuie sa coborati si sa incepeti sa reparati instalatia electrica. (*vezi imaginea #2*)
 * In caz de efectuati o operatiune gresita veti esua jobul si se va produce o explozie langa voi.
 * Puteti inceta munca folosind comanda [/killcp].
-* Puteti primi un minigame random intre taierea firelor (vezi imaginea **#2**), conectarea firelor (vezi imaginea **#3**) si stabilizarea tensiunii (vezi imaginea **#4**). Minigame-ul cu taierea firelor va fi disponibil la orice skill, conectarea firelor doar la skillurile 4 - 10 si stabilizarea tensiunii la skillurile 8 - 10. Minigame-ul ales este random in functie de skillul pe care-l aveti.
+* Puteti primi un minigame random intre taierea firelor (*vezi imaginea #3*), conectarea firelor (*vezi imaginea #4*) si stabilizarea tensiunii (*vezi imaginea #5*). Minigame-ul cu taierea firelor va fi disponibil la orice skill, conectarea firelor doar la skillurile 4 - 10 si stabilizarea tensiunii la skillurile 8 - 10. Minigame-ul ales este random in functie de skillul pe care-l aveti.
 * In functie de skillul avut veti primi si **1** Skill Point/XP Maraton/XP Clan la skillurile **1 - 4**, **2** Skill Point/XP Maraton/XP Clan la skillurile **5 - 6**, **3** Skill Point/XP Maraton/XP Clan la skillurile **7 - 10**.
 * Jobul poate fi inceput chiar daca aveti sau nu cazierul curat (cu/fara a avea wanted).
 

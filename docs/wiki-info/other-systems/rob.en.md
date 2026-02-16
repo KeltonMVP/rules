@@ -146,12 +146,26 @@ To rob a house or business you need:
 
 ### Robbery process
 
-* If the player meets all the conditions mentioned above, they will be able to initiate the /rob command in front of any house or business on the server.
-* When using the command, a window will open from where they must select the **Solo Rob** option (*image ##2*).
-* After selecting this option, the player will automatically enter a special interior, automatically losing 10 robbery points and will have the following tasks:
-    * Break the circuit to be able to open the door to the safe room (*image ##3*): with the help of the up, down, left, right keys they must direct the wire from one part of the circuit to the other without touching the walls. Touching the walls will result in restarting from the initial end of the circuit.
-    * Break the safe with the help of a drill using the space key (*image ##4*). The drill heats up the more it is used, at which point it becomes inefficient and breaking the safe takes much longer. For a faster break, it is recommended to keep the drill as cool as possible. You also have a temperature index on the drill so you can see when it gets too hot.
-* In the special room you have at most 5 minutes to go through these two stages, otherwise the robbery will fail.
+- If the player meets all the conditions mentioned above, they will be able to initiate the /rob command in front of any house or business on the server.
+- When using the command, a window will open from where they must select the **Solo Rob** option (*image ##2*).
+- After selecting this option, the player will automatically enter a special interior, automatically losing 10 robbery points and will have the following tasks:
+    - **From Skill 1 to Skill 5:** Short Circuit Minigame (default minigame).
+        - To break the circuit to open the door to the safe room (*image ##3*): using the up, down, left, right keys, he must direct the wire from one side of the circuit to the other without touching the walls. Touching the walls will result in restarting from the original end of the circuit.
+    - **From Skill 6 to Skill 7:** Wire Cutting OR Wire Connecting Minigame.
+        - **Wire Cutting:** - you get the same minigame from the Electrician job, you get 3 wires, red, green, blue, and you have to cut the correct wire 3 times to move on.
+        - **Wire Connecting:** - you get the same minigame from the Electrician job, you get 1 point on the left, red, green or blue, and 3 points on the right, red, green and blue. You have to connect the color of the dot on the left with the corresponding color dot on the right. You have to connect the correct wire 3 times to move on.
+    - **From Skill 8 to Skill 10:** Wire Cutting Minigame OR Wire Connection OR Voltage Adjustment.
+        - **Wire Cutting:** - you get the same minigame from the Electrician job, you get 3 wires, red, green, blue, and you have to cut the correct wire 3 times to move on.
+        - **Wire Connection:** - you get the same minigame from the Electrician job, you get 1 dot on the left, red, green or blue, and 3 dots on the right, red, green and blue. You have to connect the color of the dot on the left with the corresponding color dot on the right. You have to connect the correct wire 3 times to move on.
+        - **Voltage Adjustment:** - you get the optimal voltage on the left, and the current voltage on the right, the current voltage must be helped (increased/decreased) until it is identical to the optimal one. To move on you must adjust the current voltage to the optimal one 3 times.
+- Break the safe with a drill using the space key (*image #4*). The drill heats up the more it is used, at which point it becomes ineffective and breaking the safe takes much longer. For a faster break it is advisable to keep the drill as cool as possible. You also have a temperature indicator on the drill to see when it gets too hot.
+- In the special room you have a certain time to go through these two stages, otherwise the robot will fail:
+    - You have a certain time in which you can make the circuit as follows:
+        - **Skill 1:** 300 seconds.
+        - **Skill 2:** 310 seconds.
+        - **Skill 3:** 320 seconds.
+        - **Skill 4:** 330 seconds.
+        - **Skill 5:** 340 seconds.
 * If the player fits in the required time, they will be taken out of the robbed house or business with a money bag, also receiving wanted 6 without the right to surrender for robbery.
 * The next step is to hide the stolen money at two different houses, the player receiving a checkpoint where they need to go. Therefore, we recommend having a vehicle waiting when you do such a robbery.
 * If the player manages to take the money to the two locations, then the player moves on to the escape stage <b>provided they have at least 4 successful prison escapes</b>, at which point the player receives payment per slave, another 5 robbery points are deducted, and one point is added to their skill.

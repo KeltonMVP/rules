@@ -28,25 +28,28 @@ The base where all truckers load cargo into trailers is located between the thre
 
 ## General characteristics
 
-* Each player will receive a vehicle and a trailer when using the /work command.
-* The truck will be locked during work and will not consume fuel.
-* There is a limit of 50 players who can work simultaneously at the Trucker job.
-* Drivers will have 15 minutes to get from one end of the route to the other. Otherwise, they will lose the mission.
-* If you leave the vehicle, you have 20 seconds to get back in, otherwise you will lose the race.
-* In the bottom right corner there is a box with information about the job.
+- Each player will receive a vehicle and a trailer when using the /work command.
+- The truck will be locked during work and will not consume fuel.
+- There is a limit of 50 players who can work simultaneously at the Trucker job.
+- Drivers will have 15 minutes to get from one end of the route to the other. Otherwise, they will lose the mission.
+- If you leave the vehicle, you have 20 seconds to get back in, otherwise you will lose the race.
+- In the bottom right corner there is a box with information about the job.
 
 ## Performing Transport
 
 When selecting the desired route, you will be asked what you want to transport. There are 4 types of transport: **Commercial, Construction Materials, Fuel and Cargo**.
 
-* **Commercial** - when performing a round trip transport of this type you have **a 15% chance** to receive from the company **an extra skill point**.
-    * This type of transport is unlocked starting with skill 1.
-* **Construction Materials** - when performing a round trip transport of this type you **are guaranteed** to receive a quantity of **materials for craftsman**.
-    * This type of transport is unlocked starting with skill 4.
-* **Fuel** - when performing a round trip transport of this type you have **a 25% chance** to receive from the company **30% more money** on that route.
-    * This type of transport is unlocked starting with skill 7.
-* **Cargo** - when performing a round trip transport of this type you have **a 5% chance** to receive from the company **a random box**.
-    * This type of transport is unlocked starting with skill 9.
+- **Commercial** - when performing a round trip transport of this type you have **a 15% chance** to receive from the company **an extra skill point**.
+    - This type of transport is unlocked starting with skill 1.
+- **Construction Materials** - when performing a round trip transport of this type you **are guaranteed** to receive a quantity of **materials for craftsman**.
+    - You can receive between 20 - 40 Wood / Cotton / Gold Materials.
+    - You can receive between 40 - 60 Silver Materials.
+    - Maximum quantity is 999 materials. If this limit is reached, the respective material will no longer be received.
+    - This type of transport is unlocked starting with skill 4.
+- **Fuel** - when performing a round trip transport of this type you have **a 25% chance** to receive from the company **30% more money** on that route.
+    - This type of transport is unlocked starting with skill 7.
+- **Cargo** - when performing a round trip transport of this type you have **a 5% chance** to receive from the company **a random box**.
+    - This type of transport is unlocked starting with skill 9.
 
 Depending on the type of transport, the trailer will be different.
 

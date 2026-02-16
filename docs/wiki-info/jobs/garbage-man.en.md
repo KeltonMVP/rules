@@ -6,12 +6,17 @@ icon: material/trash-can
 
 <figure markdown="span">
   ![Garbage Man LS Location](/images/wiki/general/MapcheckpointLS.png){ width="450" }
-  <figcaption>Garbage Man LS Location</figcaption>
+  <figcaption>#1 Garbage Man LS Location</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Garbage Man LV Location](/images/wiki/jobs/garbageman_lv_map.png){ style="width: 450px; height: 300px;" }
+  <figcaption>#1' Garbage Man LV Location</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Player working](/images/wiki/general/1garbage.jpg){ width="500" }
-  <figcaption>Player working as garbage collector</figcaption>
+  <figcaption>#2 Player working as garbage collector</figcaption>
 </figure>
 
 ## General characteristics

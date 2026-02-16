@@ -21,6 +21,7 @@ icon: material/cash-multiple
 - You cannot steal money deposited in banks, only the money in their pocket.
 - A player can only be robbed if they are **NOT** inside an interior.
 - A player cannot be robbed if they are in a vehicle.
+- The same player can be robbed **maximum** 2 times per PayDay by the same thief.
 - If a police officer is robbed, they can use the /su command (accessible to department members) to give the thief Wanted 3 (with surrender right) for the reason Pickpocketing.
 - The victim of a successfully executed robbery can use the /emergency command to give the thief Wanted 1 (with surrender right), or kill the thief, thus receiving the stolen money back.
 - Members of the same faction cannot rob each other.

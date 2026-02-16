@@ -40,7 +40,8 @@ Along with the command, you must specify the prisoner's name (or id) and the pri
 
 *Example: /free Nic.eXe 15000*
 
-This command allows you to release a player from jail once every 30 minutes after the last release from jail, for a mutually agreed price (in this case, $15,000). The beneficiary can accept or decline this offer. You must have enough accept lawyer points.
+This command allows you to release a player from jail once every 30 minutes after the last release from jail, for a mutually agreed price (in this case, $15,000).
+The beneficiary can only accept (or not) this offer if he has the amount requested by the lawyer in the bank. The lawyer must also have at least a release warrant.
 
 
 ### /jaillist

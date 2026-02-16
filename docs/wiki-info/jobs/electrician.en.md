@@ -5,34 +5,39 @@ icon: material/flash
 # Electrician
 
 <figure markdown="span">
+  ![Job location on map](/images/wiki/jobs/electrician_map.png){ width="450" }
+  <figcaption>#1 Job location on map</figcaption>
+</figure>
+
+<figure markdown="span">
   ![Electrician repairing an electric pole](/images/wiki/general/Electrician.png){ width="450" }
-  <figcaption>#1 Electrician repairing an electric pole</figcaption>
+  <figcaption>#2 Electrician repairing an electric pole</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Cutting wires](/images/wiki/general/Cut.png){ width="400" }
-  <figcaption>#2 Cutting wires</figcaption>
+  <figcaption>#3 Cutting wires</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Connecting wires](/images/wiki/general/Connect.png){ width="400" }
-  <figcaption>#3 Connecting wires</figcaption>
+  <figcaption>#4 Connecting wires</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Voltage stabilization](/images/wiki/general/Adjust.png){ width="400" }
-  <figcaption>#4 Voltage stabilization</figcaption>
+  <figcaption>#5 Voltage stabilization</figcaption>
 </figure>
 
 The electrician job ensures quick repair and maintenance of electrical installations, ensuring efficient operation of the electrical infrastructure. They are always called where needed, to repair a pole, repair a transformer, etc.
 
 ## General Characteristics
 
-* The job is located in the city of Los Santos in the Ocean Docks area and you can work on it starting with minimum level 3.
-* You will have to drive the car received from the job to the red point on the map, once you get there you have to get off and start repairing the electrical installation.
+* The job is located in the city of Los Santos in the Ocean Docks (*see image #1*) area and you can work on it starting with minimum level 3.
+* You will have to drive the car received from the job to the red point on the map, once you get there you have to get off and start repairing the electrical installation. (*see image #2*)
 * If you perform a wrong operation you will fail the job and an explosion will occur near you.
 * You can stop working using the [/killcp] command.
-* You can receive a random minigame between cutting wires (see image **#2**), connecting wires (see image **#3**) and voltage stabilization (see image **#4**). The wire cutting minigame will be available at any skill, wire connecting only at skills 4 - 10 and voltage stabilization at skills 8 - 10. The chosen minigame is random depending on the skill you have.
+* You can receive a random minigame between cutting wires (*see image #3*), connecting wires (*see image #4*) and voltage stabilization (*see image #5*). The wire cutting minigame will be available at any skill, wire connecting only at skills 4 - 10 and voltage stabilization at skills 8 - 10. The chosen minigame is random depending on the skill you have.
 * Depending on the skill you have, you will also receive **1** Skill Point/XP Marathon/XP Clan at skills **1 - 4**, **2** Skill Point/XP Marathon/XP Clan at skills **5 - 6**, **3** Skill Point/XP Marathon/XP Clan at skills **7 - 10**.
 * The job can be started even if you have or do not have a clean record (with/without having wanted).
 

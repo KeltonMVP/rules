@@ -59,7 +59,7 @@ The job location can be seen in image **#2**. The craftsman job consists of gath
     * between Skill 9 and Skill 10 you can process chairs, tables, accessories and doors
 * You can work at this job while having a criminal record (wanted).
 * The maximum amount of materials (gold bars/cotton/wood/silver) that the player can collect is 999.
-* You can view the amount of materials you have through the commands **/inventory**, **/inventar**, **/backpack** or **/inv** if you have at least skill 3 at this job.
+* You can view the amount of materials you have through the commands **/inventory**, **/inventar**, **/backpack** or **/inv** if you have at least skill 3 at this job or at **Archeologist** job.
 
 ## Artisan articles
 
@@ -101,101 +101,101 @@ Artisan articles are divided into several categories as follows:
 
 ### Skill 1
 
-* Chair 1: earnings Without Premium Account equal to $6250, with Premium Account equal to $9375 and you earn 3 skill points
-* Chair 2: earnings Without Premium Account equal to $6875, with Premium Account equal to $10312 and you earn 3 skill points
-* Chair 3: earnings Without Premium Account equal to $7500, with Premium Account equal to $11250 and you earn 3 skill points
-* Chair 4: earnings Without Premium Account equal to $8125, with Premium Account equal to $12187 and you earn 4 skill points
-* Chair 5: earnings Without Premium Account equal to $9750, with Premium Account equal to $14625 and you earn 6 skill points
+* **Chair 1:** earnings Without Premium Account equal to $6250, with Premium Account equal to $9375 and you earn 3 skill points
+* **Chair 2:** earnings Without Premium Account equal to $6875, with Premium Account equal to $10312 and you earn 3 skill points
+* **Chair 3:** earnings Without Premium Account equal to $7500, with Premium Account equal to $11250 and you earn 3 skill points
+* **Chair 4:** earnings Without Premium Account equal to $8125, with Premium Account equal to $12187 and you earn 4 skill points
+* **Chair 5:** earnings Without Premium Account equal to $9750, with Premium Account equal to $14625 and you earn 6 skill points
 * Only chairs can be produced at this skill.
 * Pony will be used as transport vehicle.
 
 ### Skill 2
 
-* Chair 1: earnings Without Premium Account equal to $6250, with Premium Account equal to $9375 and you earn 3 skill points
-* Chair 2: earnings Without Premium Account equal to $6875, with Premium Account equal to $10312 and you earn 3 skill points
-* Chair 3: earnings Without Premium Account equal to $7500, with Premium Account equal to $11250 and you earn 3 skill points
-* Chair 4: earnings Without Premium Account equal to $8125, with Premium Account equal to $12187 and you earn 4 skill points
-* Chair 5: earnings Without Premium Account equal to $9750, with Premium Account equal to $14625 and you earn 6 skill points
+* **Chair 1:** earnings Without Premium Account equal to $6250, with Premium Account equal to $9375 and you earn 3 skill points
+* **Chair 2:** earnings Without Premium Account equal to $6875, with Premium Account equal to $10312 and you earn 3 skill points
+* **Chair 3:** earnings Without Premium Account equal to $7500, with Premium Account equal to $11250 and you earn 3 skill points
+* **Chair 4:** earnings Without Premium Account equal to $8125, with Premium Account equal to $12187 and you earn 4 skill points
+* **Chair 5:** earnings Without Premium Account equal to $9750, with Premium Account equal to $14625 and you earn 6 skill points
 * Only chairs can be produced at this skill.
 * Pony will be used as transport vehicle.
 
 ### Skill 3
 
-* Chair 1: earnings Without Premium Account equal to $6250, with Premium Account equal to $9375 and you earn 3 skill points
-* Chair 2: earnings Without Premium Account equal to $6875, with Premium Account equal to $10312 and you earn 3 skill points
-* Chair 3: earnings Without Premium Account equal to $7500, with Premium Account equal to $11250 and you earn 3 skill points
-* Chair 4: earnings Without Premium Account equal to $8125, with Premium Account equal to $12187 and you earn 4 skill points
-* Chair 5: earnings Without Premium Account equal to $9750, with Premium Account equal to $14625 and you earn 6 skill points
+* **Chair 1:** earnings Without Premium Account equal to $6250, with Premium Account equal to $9375 and you earn 3 skill points
+* **Chair 2:** earnings Without Premium Account equal to $6875, with Premium Account equal to $10312 and you earn 3 skill points
+* **Chair 3:** earnings Without Premium Account equal to $7500, with Premium Account equal to $11250 and you earn 3 skill points
+* **Chair 4:** earnings Without Premium Account equal to $8125, with Premium Account equal to $12187 and you earn 4 skill points
+* **Chair 5:** earnings Without Premium Account equal to $9750, with Premium Account equal to $14625 and you earn 6 skill points
 * Only chairs can be produced at this skill.
 * Pony will be used as transport vehicle.
 
 ### Skill 4
 
-* Table 1: earnings Without Premium Account equal to $9375, with Premium Account equal to $14062 and you earn 5 skill points
-* Table 2: earnings Without Premium Account equal to $10000, with Premium Account equal to $15000 and you earn 5 skill points
-* Table 3: earnings Without Premium Account equal to $10625, with Premium Account equal to $15937 and you earn 6 skill points
-* Table 4: earnings Without Premium Account equal to $11250, with Premium Account equal to $16875 and you earn 6 skill points
-* Table 5: earnings Without Premium Account equal to $12875, with Premium Account equal to $19312 and you earn 8 skill points
+* **Table 1:** earnings Without Premium Account equal to $9375, with Premium Account equal to $14062 and you earn 5 skill points
+* **Table 2:** earnings Without Premium Account equal to $10000, with Premium Account equal to $15000 and you earn 5 skill points
+* **Table 3:** earnings Without Premium Account equal to $10625, with Premium Account equal to $15937 and you earn 6 skill points
+* **Table 4:** earnings Without Premium Account equal to $11250, with Premium Account equal to $16875 and you earn 6 skill points
+* **Table 5:** earnings Without Premium Account equal to $12875, with Premium Account equal to $19312 and you earn 8 skill points
 * Chairs and tables can be produced at this skill.
 * Pony will be used as transport vehicle.
 
 ### Skill 5
 
-* Table 1: earnings Without Premium Account equal to $9375, with Premium Account equal to $14062 and you earn 5 skill points
-* Table 2: earnings Without Premium Account equal to $10000, with Premium Account equal to $15000 and you earn 5 skill points
-* Table 3: earnings Without Premium Account equal to $10625, with Premium Account equal to $15937 and you earn 6 skill points
-* Table 4: earnings Without Premium Account equal to $11250, with Premium Account equal to $16875 and you earn 6 skill points
-* Table 5: earnings Without Premium Account equal to $12875, with Premium Account equal to $19312 and you earn 8 skill points
+* **Table 1:** earnings Without Premium Account equal to $9375, with Premium Account equal to $14062 and you earn 5 skill points
+* **Table 2:** earnings Without Premium Account equal to $10000, with Premium Account equal to $15000 and you earn 5 skill points
+* **Table 3:** earnings Without Premium Account equal to $10625, with Premium Account equal to $15937 and you earn 6 skill points
+* **Table 4:** earnings Without Premium Account equal to $11250, with Premium Account equal to $16875 and you earn 6 skill points
+* **Table 5:** earnings Without Premium Account equal to $12875, with Premium Account equal to $19312 and you earn 8 skill points
 * Chairs and tables can be produced at this skill.
 * A personal vehicle will be used as transport vehicle.
 
 ### Skill 6
 
-* Table 1: earnings Without Premium Account equal to $9375, with Premium Account equal to $14062 and you earn 5 skill points
-* Table 2: earnings Without Premium Account equal to $10000, with Premium Account equal to $15000 and you earn 5 skill points
-* Table 3: earnings Without Premium Account equal to $10625, with Premium Account equal to $15937 and you earn 6 skill points
-* Table 4: earnings Without Premium Account equal to $11250, with Premium Account equal to $16875 and you earn 6 skill points
-* Table 5: earnings Without Premium Account equal to $12875, with Premium Account equal to $19312 and you earn 8 skill points
+* **Table 1:** earnings Without Premium Account equal to $9375, with Premium Account equal to $14062 and you earn 5 skill points
+* **Table 2:** earnings Without Premium Account equal to $10000, with Premium Account equal to $15000 and you earn 5 skill points
+* **Table 3:** earnings Without Premium Account equal to $10625, with Premium Account equal to $15937 and you earn 6 skill points
+* **Table 4:** earnings Without Premium Account equal to $11250, with Premium Account equal to $16875 and you earn 6 skill points
+* **Table 5:** earnings Without Premium Account equal to $12875, with Premium Account equal to $19312 and you earn 8 skill points
 * Chairs and tables can be produced at this skill.
 * A personal vehicle will be used as transport vehicle.
 
 ### Skill 7
 
-* Skateboard: earnings Without Premium Account equal to $12500, with Premium Account equal to $18750 and you earn 7 skill points
-* Fan: earnings Without Premium Account equal to $13125, with Premium Account equal to $19687 and you earn 7 skill points
-* Beach chair: earnings Without Premium Account equal to $13750, with Premium Account equal to $20625 and you earn 7 skill points
-* Frame: earnings Without Premium Account equal to $14375, with Premium Account equal to $21562 and you earn 8 skill points
-* Television: earnings Without Premium Account equal to $15000, with Premium Account equal to $22500 and you earn 10 skill points
+* **Skateboard:** earnings Without Premium Account equal to $12500, with Premium Account equal to $18750 and you earn 7 skill points
+* **Fan:** earnings Without Premium Account equal to $13125, with Premium Account equal to $19687 and you earn 7 skill points
+* **Beach chair:** earnings Without Premium Account equal to $13750, with Premium Account equal to $20625 and you earn 7 skill points
+* **Frame:** earnings Without Premium Account equal to $14375, with Premium Account equal to $21562 and you earn 8 skill points
+* **Television:** earnings Without Premium Account equal to $15000, with Premium Account equal to $22500 and you earn 10 skill points
 * Chairs, tables and accessories can be produced at this skill.
 * A personal vehicle will be used as transport vehicle.
 
 ### Skill 8
 
-* Skateboard: earnings Without Premium Account equal to $12500, with Premium Account equal to $18750 and you earn 7 skill points
-* Fan: earnings Without Premium Account equal to $13125, with Premium Account equal to $19687 and you earn 7 skill points
-* Beach chair: earnings Without Premium Account equal to $13750, with Premium Account equal to $20625 and you earn 7 skill points
-* Frame: earnings Without Premium Account equal to $14375, with Premium Account equal to $21562 and you earn 8 skill points
-* Television: earnings Without Premium Account equal to $15000, with Premium Account equal to $22500 and you earn 10 skill points
+* **Skateboard:** earnings Without Premium Account equal to $12500, with Premium Account equal to $18750 and you earn 7 skill points
+* **Fan:** earnings Without Premium Account equal to $13125, with Premium Account equal to $19687 and you earn 7 skill points
+* **Beach chair:** earnings Without Premium Account equal to $13750, with Premium Account equal to $20625 and you earn 7 skill points
+* **Frame:** earnings Without Premium Account equal to $14375, with Premium Account equal to $21562 and you earn 8 skill points
+* **Television:** earnings Without Premium Account equal to $15000, with Premium Account equal to $22500 and you earn 10 skill points
 * Chairs, tables and accessories can be produced at this skill.
 * A personal vehicle will be used as transport vehicle.
 
 ### Skill 9
 
-* Door 1: earnings Without Premium Account equal to $15625, with Premium Account equal to $23437 and you earn 8 skill points
-* Door 2: earnings Without Premium Account equal to $16250, with Premium Account equal to $24375 and you earn 9 skill points
-* Door 3: earnings Without Premium Account equal to $16875, with Premium Account equal to $25312 and you earn 9 skill points
-* Door 4: earnings Without Premium Account equal to $17500, with Premium Account equal to $26250 and you earn 9 skill points
-* Door 5: earnings Without Premium Account equal to $19125, with Premium Account equal to $28687 and you earn 11 skill points
+* **Door 1:** earnings Without Premium Account equal to $15625, with Premium Account equal to $23437 and you earn 8 skill points
+* **Door 2:** earnings Without Premium Account equal to $16250, with Premium Account equal to $24375 and you earn 9 skill points
+* **Door 3:** earnings Without Premium Account equal to $16875, with Premium Account equal to $25312 and you earn 9 skill points
+* **Door 4:** earnings Without Premium Account equal to $17500, with Premium Account equal to $26250 and you earn 9 skill points
+* **Door 5:** earnings Without Premium Account equal to $19125, with Premium Account equal to $28687 and you earn 11 skill points
 * Chairs, tables, accessories and doors can be produced at this skill.
 * A personal vehicle will be used as transport vehicle.
 
 ### Skill 10
 
-* Door 1: earnings Without Premium Account equal to $15625 and with Premium Account equal to $23437
-* Door 2: earnings Without Premium Account equal to $16250 and with Premium Account equal to $24375
-* Door 3: earnings Without Premium Account equal to $16875 and with Premium Account equal to $25312
-* Door 4: earnings Without Premium Account equal to $17500 and with Premium Account equal to $26250
-* Door 5: earnings Without Premium Account equal to $19125 and with Premium Account equal to $28687
+* **Door 1:** earnings Without Premium Account equal to $15625 and with Premium Account equal to $23437
+* **Door 2:** earnings Without Premium Account equal to $16250 and with Premium Account equal to $24375
+* **Door 3:** earnings Without Premium Account equal to $16875 and with Premium Account equal to $25312
+* **Door 4:** earnings Without Premium Account equal to $17500 and with Premium Account equal to $26250
+* **Door 5:** earnings Without Premium Account equal to $19125 and with Premium Account equal to $28687
 * Chairs, tables, accessories and doors can be produced at this skill.
 * A personal vehicle will be used as transport vehicle.
 
@@ -246,11 +246,7 @@ You can obtain silver by working at Quarry Worker, the silver earnings are as fo
 ## Vehicles based on skill
 
 ### Pony
-
-<figure markdown="span">
-  ![Pony](/images/wiki/vehicles/413.png){ width="250" }
-  <figcaption>Pony</figcaption>
-</figure>
+[Pony](/images/wiki/vehicles/413.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 - DealerShip Price: $6,150
 - DealerShip Return: $3,690

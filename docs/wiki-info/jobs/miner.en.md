@@ -19,7 +19,7 @@ icon: material/pickaxe
 * With the *Miner* job you will collect and deliver ores in exchange for a sum of money.
 * The Miner job is a legal job.
 * To become a miner, you need a minimum level of 1.
-* For this job, you will use the Bobcat vehicle at skill 1-6 and the Yosemite vehicle for skill 6-10.
+* For this job, you will use the **Bobcat** vehicle at **skill 1 - 5** and the **Yosemite** vehicle for **skill 6 - 10**.
 * The location of the hiring point can be found on the map in image #1.
 * For a single delivery (delivery is made at the hiring point) you must collect a total of 5 ores.
 * Players who own a premium account receive 50% more at the end of each run.

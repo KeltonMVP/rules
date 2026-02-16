@@ -5,18 +5,23 @@ icon: material/flask
 # Chemist
 
 <figure markdown="span">
-  ![Working at job](/images/wiki/general/Chemistwork.png){ width="450" }
-  <figcaption>#1 Working at job</figcaption>
+  ![Job location on map](/images/wiki/jobs/chemist_map.png){ style="width: 450px; height: 350px;" }
+  <figcaption>#1 Job location on map</figcaption>
 </figure>
 
 <figure markdown="span">
+  ![Working at job](/images/wiki/general/Chemistwork.png){ width="450" }
+  <figcaption>#2 Working at job</figcaption>
+</figure> 
+
+<figure markdown="span">
   ![Job payout](/images/wiki/general/Payout.png){ width="450" }
-  <figcaption>#2 Job payout</figcaption>
+  <figcaption>#3 Job payout</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Using kits](/images/wiki/general/Usekit.png){ width="450" }
-  <figcaption>#3 Using kits</figcaption>
+  <figcaption>#4 Using kits</figcaption>
 </figure>
 
 The action of this job consists of packaging medicines and delivering them to hospitals, from where you will obtain money and, sometimes, certain medical / addiction kits.

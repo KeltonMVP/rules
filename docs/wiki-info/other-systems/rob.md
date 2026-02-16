@@ -144,18 +144,32 @@ Pentru a jefui o casa sau un biz aveti nevoie de:
 * Cazierul trebuie sa fie curat (fara wanted).
 * Ora serverului sa fie intre 08:00 - 04:00.
 
-### Procesul de jefuire
+### Procesul de Jefuire
 
-* Daca jucatorul indeplineste toate conditiile mentionate mai sus atunci acesta va putea initia comanda /rob in fata oricarei case sau biz de pe server.
-* La folosirea comenzii se va deschide o fereastra de unde va trebui sa selecteze optiunea de **Solo Rob** (*imaginea ##2*).
-* Dupa selectarea acestei optiuni jucatorul va intra automat intr-un interior special scazandu-i-se automat 10 puncte de jaf si va avea urmatoarele sarcini:
-    * Sa sparga circuitul pentru a putea deschide usa de la incaperea seifului (*imaginea ##3*): cu ajutorul tastelor sus, jos, stanga, dreapta acesta trebuie sa directioneze sarma dintr-o parte a circuitului pana in cealalta fara a atinge peretii. Atingerea peretilor va rezulta in reinceperea din capatul initial al circuitului.
-    * Sa sparga seiful cu ajutorul unui burghiu folosind tasta space (*imaginea ##4*). Burghiul se incalzeste cu cat este folosit mai mult, moment in care devine ineficient iar spargerea seifului dureaza mult mai mult. Pentru o spargere mai rapida este indicat sa pastrati burghiul cat mai rece. Aveti inclusiv un indice de temperatura pe burghiu ca sa vedeti cand se incalzeste prea tare.
-* in incaperea speciala aveti la dispozitie cel mult 5 minute sa treceti prin aceste doua etape, in caz contrar robul va esua.
-* Daca jucatorul se incadreaza in timpul necesar, acesta va fi scos in afara casei sau bizului jefuit cu un sac cu bani, primind totodata wanted 6 fara drept de predare pentru jaf.
-* Urmatorul pas este ascunderea banilor furati la doua case diferite, jucatorul primind cate un checkpoint unde trebuie sa mearga. Asadar va recomandam sa aveti un vehicul in asteptare in momentul in care dati un astfel de jaf.
-* Daca jucatorul reuseste sa duca banii la cele doua locatii atunci jucatorul trece in etapa de evadare <b>cu conditia sa aibe cel putin 4 evadari din inchisoare finalizate cu succes</b>, moment in care jucatorul primeste plata pe rob, i se mai scad inca 5 puncte de jaf si i se adauga un punct la skill.
-* Daca jucatorul este omorat pe parcurs de catre politisti acesta va pierde robul si nu va mai primi plata, fiind inchis in puscarie.
+- Daca jucatorul indeplineste toate conditiile mentionate mai sus atunci acesta va putea initia comanda /rob in fata oricarei case sau biz de pe server.
+- La folosirea comenzii se va deschide o fereastra de unde va trebui sa selecteze optiunea de **Solo Rob** (*imaginea ##2*).
+- Dupa selectarea acestei optiuni jucatorul va intra automat intr-un interior special scazandu-i-se automat 10 puncte de jaf si va avea urmatoarele sarcini in functie de skill-ul sau la Rob:
+  - **De la Skill 1 la Skill 5:** Minijocul de scurtcircuit (minijocul implicit).
+      - Sa sparga circuitul pentru a putea deschide usa de la incaperea seifului (*imaginea ##3*): cu ajutorul tastelor sus, jos, stanga, dreapta acesta trebuie sa directioneze sarma dintr-o parte a circuitului pana in cealalta fara a atinge peretii. Atingerea peretilor va rezulta in reinceperea din capatul initial al circuitului.
+  - **De la Skill 6 la Skill 7:** Minijocul de tăiere a firelor SAU conectarea firelor.
+      - **Taierea Firelor:** - primiti acelasi minigame de la jobul de Electrician, primiti 3 fire, rosu, verde, albastru, si trebuie sa taiati firul corect de 3 ori pentru a trece mai departe.
+      - **Conectarea Firelor:** - primiti acelasi minigame de la jobul de Electrician, primiti 1 punct in stanga, rosu, verde sau albastru, si 3 puncte in dreapta, rosu, verde si albastru. Trebuie sa conectati culoarea punctului din stanga cu punctul de culoare corespondent din dreapta. Trebuie sa conectati firul corect de 3 ori pentru a trece mai departe.
+  - **De la Skill 8 la Skill 10:** Minijocul de tăiere a firelor SAU conectarea firelor SAU reglarea voltajului.
+      - **Taierea Firelor:** - primiti acelasi minigame de la jobul de Electrician, primiti 3 fire, rosu, verde, albastru, si trebuie sa taiati firul corect de 3 ori pentru a trece mai departe.
+      - **Conectarea Firelor:** - primiti acelasi minigame de la jobul de Electrician, primiti 1 punct in stanga, rosu, verde sau albastru, si 3 puncte in dreapta, rosu, verde si albastru. Trebuie sa conectati culoarea punctului din stanga cu punctul de culoare corespondent din dreapta. Trebuie sa conectati firul corect de 3 ori pentru a trece mai departe.
+      - **Reglarea Voltajului:** - primiti voltajul optim in partea stanga, si voltajul curent in dreapta, voltajul curent trebuie ajutat (crescut/scazut) pana cand este identic cu cel optim. Pentru a trece mai departe trebuie sa reglati voltajul curent la cel optim de 3 ori.
+- Sa sparga seiful cu ajutorul unui burghiu folosind tasta space (*imaginea #4*). Burghiul se incalzeste cu cat este folosit mai mult, moment in care devine ineficient iar spargerea seifului dureaza mult mai mult. Pentru o spargere mai rapida este indicat sa pastrati burghiul cat mai rece. Aveti inclusiv un indice de temperatura pe burghiu ca sa vedeti cand se incalzeste prea tare.
+- In incaperea speciala aveti la dispozitie un anumit timp sa treceti prin aceste doua etape, in caz contrar robul va esua:
+    - Aveti un anumit timp la dispozitie in care puteti realiza circuitul dupa cum urmeaza:
+        - **Skill 1:** 300 secunde.
+        - **Skill 2:** 310 secunde.
+        - **Skill 3:** 320 secunde.
+        - **Skill 4:** 330 secunde.
+        - **Skill 5:** 340 secunde.
+- Daca jucatorul se incadreaza in timpul necesar, acesta va fi scos in afara casei sau bizului jefuit cu un sac cu bani, primind totodata wanted 6 fara drept de predare pentru jaf.
+- Urmatorul pas este ascunderea banilor furati la doua case diferite, jucatorul primind cate un checkpoint unde trebuie sa mearga. Asadar va recomandam sa aveti un vehicul in asteptare in momentul in care dati un astfel de jaf.
+- Daca jucatorul reuseste sa duca banii la cele doua locatii atunci jucatorul trece in etapa de evadare <b>cu conditia sa aibe cel putin 4 evadari din inchisoare finalizate cu succes</b>, moment in care jucatorul primeste plata pe rob, i se mai scad inca 5 puncte de jaf si i se adauga un punct la skill.
+- Daca jucatorul este omorat pe parcurs de catre politisti acesta va pierde robul si nu va mai primi plata, fiind inchis in puscarie.
 
 ### Castigul la Solo Rob
 

@@ -19,12 +19,12 @@ icon: material/truck
   <figcaption>Livrarea coletului la usa</figcaption>
 </figure>
 
-## Caracteristici generale
+## Caracteristici Generale
 
 - Jucatorii care lucreaza la curier, trebuie sa livreze colete la casele indicate de server.
 - Jobul de curier este legal si necesita minim nivel 3.
 - Va puteti angaja din zona K.A.C.C Military Fuels, Las Venturas.
-- Dupa aceea va trebuie sa livrezi pachetele la case individual.
+- Dupa aceea va trebui sa livrati pachetele la case individual.
 
 ## Procedura de livrare a coletelor la case
 
@@ -35,7 +35,7 @@ icon: material/truck
 **De retinut:**
 
 - Caracterul va este scos in mod automat din vehicul cand ajungeti suficient de aproape de casa indicata.
-- Aveti la dispozitie 40 de secunde sa va intoarceti in vehicul dupa ce livrati coletul, altfel pierdesi misiunea.
+- Aveti la dispozitie 40 de secunde sa va intoarceti in vehicul dupa ce livrati coletul, altfel pierdeti misiunea.
 
 ## Livrari maxime in functie de skill si distanta de livrare
 
