@@ -68,7 +68,6 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 
 ### Ambulance
 
-<figure markdown="span">
 ![Ambulance](/images/wiki/vehicles/416.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 - Color: 1 & 3

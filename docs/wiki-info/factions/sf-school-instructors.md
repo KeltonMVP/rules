@@ -35,8 +35,7 @@ SF School Instructors va poate inmana oricare dintre urmatoarele licente contra 
 
 ### Skin ID 171 - SF Boss (Leader) / SF Under Boss (6)
 
-<figure markdown="span">
-  ![Skin 171](/images/wiki/skins/171.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+![Skin 171](/images/wiki/skins/171.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 ### Skin ID 240 - SF Manager (5) / SF Supervisor (4)
 
