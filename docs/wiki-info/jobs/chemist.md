@@ -5,25 +5,30 @@ icon: material/flask
 # Chemist
 
 <figure markdown="span">
+  ![Locatia job-ului pe harta](/images/wiki/jobs/chemist_map.png){ style="width: 450px; height: 350px;" }
+  <figcaption>#1 Locatia job-ului pe harta.</figcaption>
+</figure>
+
+<figure markdown="span">
   ![Muncind la job](/images/wiki/general/Chemistwork.png){ width="450" }
-  <figcaption>#1 Muncind la job</figcaption>
+  <figcaption>#2 Muncind la job</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Plata la job](/images/wiki/general/Payout.png){ width="450" }
-  <figcaption>#2 Plata la job</figcaption>
+  <figcaption>#3 Plata la job</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Folosirea kiturilor](/images/wiki/general/Usekit.png){ width="450" }
-  <figcaption>#3 Folosirea kiturilor</figcaption>
+  <figcaption>#4 Folosirea kiturilor</figcaption>
 </figure>
 
 Actiunea acestui job consta in ambalarea medicamentelor si livrarea lor catre spitale, de unde veti obtine bani si, uneori, anumite kituri medicale / de dependenta.
 
 ## Caracteristici Generale
 
-* Jobul se afla in orasul Los Santos in zona Montgomery si poate fi folosit de la nivelul 1.
+* Jobul se afla in orasul Los Santos in zona Montgomery si poate fi folosit de la nivelul 1. (*vezi imaginea #1*)
 * La tastarea comenzii /work se va incepe munca la job, fiind plasati intr-un interior special amenajat.
 * Va trebui pe rand sa porniti generatoarele electrice, sa carati niste cutii in camera de ambalare si sa le plasati in masina care le ambaleaza. Mai departe veti avea ca misiune sa le livrati la un spital si sa va intoarceti inapoi la fabrica de medicamente, moment in care va veti primi recompensa.
 * Jobul va aduce cate 6XP la maraton daca e activ si cate 6XP la clan.

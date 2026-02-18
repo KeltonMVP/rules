@@ -5,8 +5,13 @@ icon: material/shovel
 # Archeologist
 
 <figure markdown="span">
-  ![Archaeological procedure](/images/wiki/general/Archprocedure.png){ width="300" }
-  <figcaption>Archaeological procedure #1</figcaption>
+  ![Job location on map in LV](/images/wiki/jobs/arheologist_lv_map.png){ width="450" }
+  <figcaption>#1 Job location on map in LV</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Job location on in SF](/images/wiki/jobs/arheologist_sf_map.png){ width="450" }
+  <figcaption>#1' Job location on map in SF</figcaption>
 </figure>
 
 <figure markdown="span">
@@ -15,18 +20,23 @@ icon: material/shovel
 </figure>
 
 <figure markdown="span">
-  ![Collection interface](/images/wiki/general/Archartefact.png){ width="300" }
+  ![Archaeological procedure](/images/wiki/general/Archprocedure.png){ width="450" }
+  <figcaption>Archaeological procedure #3</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Collection interface](/images/wiki/general/Archartefact.png){ width="450" }
   <figcaption>Artifact collection interface #4</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Selling interface](/images/wiki/general/Archsell.png){ width="300" }
+  ![Selling interface](/images/wiki/general/Archsell.png){ width="450" }
   <figcaption>Selling interface at the Egyptian Merchant #5</figcaption>
 </figure>
 
-The job location can be viewed in image **#2**. The Archeologist job consists of finding artifacts from various specific locations for artifact localization (see images **#3** and **#4**), respectively following cleaning and conservation procedures specified in each archaeologist's unique procedure (see image **#1**), after conserving the artifact it must be delivered to the Egyptian Merchant (see image **#5**).
+The job location can be viewed in image **#1 & #1'**. The Archeologist job consists of finding artifacts from various specific locations for artifact localization (see images **#2** and **#3**), respectively following cleaning and conservation procedures specified in each archaeologist's unique procedure (see image **#4**), after conserving the artifact it must be delivered to the Egyptian Merchant (see image **#5**).
 
-## General characteristics
+## General Characteristics
 
 - The job is legal, located in Las Venturas city in the Lil' Probe Inn area (**near the National Guard HQ**) and you can work here starting at level 3.
 - The job has three main activities:
@@ -40,6 +50,11 @@ The job location can be viewed in image **#2**. The Archeologist job consists of
 - You can view the number of artifacts you have through the commands **/inventory**, **/inventar**, **/backpack** or **/inv** if you have at least skill 3 at this job or at the Craftsman job.
 - The maximum skill for this job is 10.
 - If the archaeologist fails to locate the artifact and collect it within 10 minutes, they will fail to collect it.
+- At higher skill levels you will have a chance to receive a Skin Fragment:
+    - **Skill 1-7:** 0% chance
+    - **Skill 8:** 1% chance
+    - **Skill 9:** 2% chance
+    - **Skill 10:** 3% chance
 
 ## Artifact localization time
 
@@ -101,13 +116,7 @@ The new value is determined by the formula: (**base_value** / 2) + **base_value*
 - Skill 9 to Skill 10: you will need 3000 points, for a total of 11000 points.
 
 ## Benefits for archaeologists working in San Fierro
-
 - You have a **50%** chance that your artifact will be upgraded to the next level. (Ex: Romanian Artifact to Moldovan).
-- At higher skill levels you will have a chance to receive a Skin Fragment:
-    - Skill 1-7: 0% chance
-    - Skill 8: 1% chance
-    - Skill 9: 2% chance
-    - Skill 10: 3% chance
 
 ## Similar posts
 

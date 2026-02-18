@@ -46,4 +46,17 @@
 <a href="https://forum.b-zone.ro" style="text-decoration:none;"><h3>Forum RPG B-Zone</h3></a>
 <a href="https://www.rpg.b-zone.ro/account/billing" style="text-decoration:none;"><h3>Shop RPG B-Zone</h3></a>
 <h5 style="padding-top: 60px;">Do you want to contact the server staff ? Open an <a href="https://www.rpg.b-zone.ro/ticket/addSupportTicket">ticket</a></h5>
+<h5>Do you have a suggestion for the Wiki page? Did you find a mistake on a page?<br>You can open a topic <a href="https://forum.b-zone.ro/forum/3443-wiki-website/">here</a> to be solved.</h5
+>
+<h4>Contributors:</h4>
+<div style="display:inline-block; text-align:center; vertical-align: top;">
+<img src="https://forum.b-zone.ro/uploads/monthly_2022_12/IMG_0064.thumb.JPG.597ed68c997fcd99d8e9fee43ed15461.JPG" style="margin:0 auto 7px auto; object-fit: cover; width:60px; height:60px; border-radius:50%; display:block;">
+<div style="color:#453ff1; font-weight:bold;">KELTON</div>
+<div style="font-size: 9px; color: #453ff1; font-weight:bold; margin-top: 7px; background:#b5b2ff; padding:4px 8px; border-radius:8px; display:inline-block; letter-spacing: 1px;">COM. MANAGER</div>
+</div>
+
+<div style="display:inline-block; text-align:center; vertical-align: top;">
+<img src="https://forum.b-zone.ro/uploads/monthly_2026_01/avatar2026.png.b688f76884f52d57c11a59d844c174e3.png" style="margin:0 auto 7px auto; object-fit: cover; width:60px; height:60px; border-radius:50%; display:block;">
+<div><a href="https://forum.b-zone.ro/profile/118288-tupi" style="color: #FFCC00; font-weight:bold;">TUPI</a></div>
+<div style="font-size: 9px; color: #B38600; font-weight:bold; margin-top: 7px; background:#FFF8CC; padding:4px 8px; border-radius:8px; display:inline-block; letter-spacing: 1px;">WIKI TEAM</div>
 </div>

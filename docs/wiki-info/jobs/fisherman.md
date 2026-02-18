@@ -5,8 +5,18 @@ icon: material/fish
 # Fisherman
 
 <figure markdown="span">
-  ![Locatie pe harta](/images/wiki/general/Fisherman.png){ width="450" }
-  <figcaption>#1 Locatie pe harta</figcaption>
+  ![Locatie pe harta in LV](/images/wiki/general/Fisherman.png){ width="450" }
+  <figcaption>#1 Locatie pe harta in LV</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Locatie pe harta in LS](/images/wiki/jobs/fish_ls_map.png){ width="450" }
+  <figcaption>#1' Locatie pe harta in LS</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Locatie pe harta in SF](/images/wiki/jobs/fish_sf_map.png){ width="450" }
+  <figcaption>#1'' Locatie pe harta in SF</figcaption>
 </figure>
 
 <figure markdown="span">
@@ -21,7 +31,7 @@ icon: material/fish
 
 ## Caracteristici Generale
 
-* Jobul se afla in fiecare oras Los Santos, Las Venturas si San Fierro la locatiile specifice de pescuit. (''imaginea #1'').
+* Jobul se afla in fiecare oras Los Santos, Las Venturas si San Fierro la locatiile specifice de pescuit. (*vezi imaginile #1 / #1' / #1''*).
 * Jobul este unul legal.
 * Pentru a deveni pescar, aveti nevoie de minim nivel 1.
 * Cu ajutorul jobului ''Fisherman'' veti putea pescui si vinde pestii prinsi in schimbul unei sume de bani.

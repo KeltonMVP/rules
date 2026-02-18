@@ -21,6 +21,7 @@ icon: material/cash-multiple
 - Nu se pot fura banii depusi la banci, ci doar cei aflati in buzunar.
 - Un jucator poate sa fie jefuit doar daca **NU** se afla intr-un interior.
 - Un jucator nu poate sa fie jefuit daca se afla intr-un vehicul.
+- Acelasi jucator poate fi jefuit de **maxim** 2 ori per PayDay de catre acelasi hot.
 - Daca un politist este jefuit, acesta poate folosi comanda /su (accesibila membrilor departamentelor) pentru a acorda hotului Wanted 3 (cu drept de predare) pentru motivul Jefuire (Pickpocketing).
 - Victima unui jaf executat cu succes poate folosi comanda /emergency pentru a acorda hotului Wanted 1 (cu drept de predare), sau sa-l omoare pe hot, astfel primind suma de bani furata inapoi.
 - Membrii din aceeasi factiune nu se pot jefui intre ei.

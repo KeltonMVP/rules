@@ -170,123 +170,128 @@ Pentru a intra in poseasia unui vehicul special trebuie sa deschizi un ticket pe
 
 ### Lista vehiculelor speciale
 
-**Paramedics:** Ambulance / FireTruck
+#### Paramedics: Ambulance / FireTruck
 
-<figure markdown="span">
-  ![Ambulance](/images/wiki/vehicles/416.png){ width="300" }
-  <figcaption>Ambulance</figcaption>
+![Ambulance](/images/wiki/vehicles/416.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Ambulance</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![FireTruck](/images/wiki/vehicles/544.png){ width="300" }
-  <figcaption>FireTruck</figcaption>
+![FireTruck](/images/wiki/vehicles/544.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>FireTruck</figcaption>
 </figure>
 
-**News Reporters:** News Van / SAN News Maverick
+#### News Reporters: News Van / SAN News Maverick
 
-<figure markdown="span">
-  ![News Van](/images/wiki/vehicles/582.png){ width="300" }
-  <figcaption>News Van</figcaption>
+![News Van](/images/wiki/vehicles/582.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>News Van</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![SAN News Maverick](/images/wiki/vehicles/488.png){ width="300" }
-  <figcaption>SAN News Maverick</figcaption>
+![SAN News Maverick](/images/wiki/vehicles/488.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 87px;">
+   <figcaption>SAN News Maverick</figcaption>
 </figure>
 
-**Tow Truck Company:** Tow Truck / Utility
+#### Tow Truck Company: Tow Truck / Utility
 
-<figure markdown="span">
-  ![Tow Truck](/images/wiki/vehicles/525.png){ width="300" }
-  <figcaption>Tow Truck</figcaption>
+![Tow Truck](/images/wiki/vehicles/525.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Tow Truck</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Utility](/images/wiki/vehicles/552.png){ width="300" }
-  <figcaption>Utility</figcaption>
+![Utility](/images/wiki/vehicles/552.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Utility</figcaption>
 </figure>
 
-**Taxi:** Taxi / Cabbie
+#### Taxi: Taxi / Cabbie
 
-<figure markdown="span">
-  ![Taxi](/images/wiki/vehicles/420.png){ width="300" }
-  <figcaption>Taxi</figcaption>
+![Taxi](/images/wiki/vehicles/420.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Taxi</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Cabbie](/images/wiki/vehicles/438.png){ width="300" }
-  <figcaption>Cabbie</figcaption>
+![Cabbie](/images/wiki/vehicles/438.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Cabbie</figcaption>
 </figure>
 
-**School Instructors:** Coastguard / Skimmer
+#### School Instructors: Coastguard / Skimmer
 
-<figure markdown="span">
-  ![Coastguard](/images/wiki/vehicles/472.png){ width="300" }
-  <figcaption>Coastguard</figcaption>
+![Coastguard](/images/wiki/vehicles/472.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Coastguard</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Skimmer](/images/wiki/vehicles/460.png){ width="300" }
-  <figcaption>Skimmer</figcaption>
+![Skimmer](/images/wiki/vehicles/460.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Skimmer</figcaption>
 </figure>
 
-**Police Departments:** Police Car / Enforcer
+#### Police Departments: Police Car / Enforcer
 
-<figure markdown="span">
-  ![Police Car LS](/images/wiki/vehicles/596.png){ width="300" }
-  <figcaption>Police Car</figcaption>
+![Police Car LS](/images/wiki/vehicles/596.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Police Car LS</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Police Car LV](/images/wiki/vehicles/598.png){ width="300" }
-  <figcaption>Police Car</figcaption>
+![Police Car LV](/images/wiki/vehicles/598.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Police Car LV</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Police Car SF](/images/wiki/vehicles/597.png){ width="300" }
-  <figcaption>Police Car</figcaption>
+![Police Car SF](/images/wiki/vehicles/597.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Police Car SF</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Enforcer](/images/wiki/vehicles/427.png){ width="300" }
-  <figcaption>Enforcer</figcaption>
+![Enforcer](/images/wiki/vehicles/427.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Enforcer</figcaption>
 </figure>
 
-**FBI:** FBI Rancher / FBI Truck / Enforcer
+#### FBI: FBI Rancher / FBI Truck / Enforcer
 
-<figure markdown="span">
-  ![FBI Rancher](/images/wiki/vehicles/490.png){ width="300" }
-  <figcaption>FBI Rancher</figcaption>
+![FBI Rancher](/images/wiki/vehicles/490.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>FBI Rancher</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![FBI Truck](/images/wiki/vehicles/528.png){ width="300" }
-  <figcaption>FBI Truck</figcaption>
+![FBI Truck](/images/wiki/vehicles/528.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>FBI Truck</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Enforcer](/images/wiki/vehicles/427.png){ width="300" }
-  <figcaption>Enforcer</figcaption>
+![Enforcer](/images/wiki/vehicles/427.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Enforcer</figcaption>
 </figure>
 
-**National Guard:** Barracks
+#### National Guard: Barracks
 
-<figure markdown="span">
-  ![Barracks](/images/wiki/vehicles/433.png){ width="300" }
-  <figcaption>Barracks</figcaption>
+![Barracks](/images/wiki/vehicles/433.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Barracks</figcaption>
 </figure>
 
-**Hitman Agency:** Skimmer
+#### Hitman Agency: Boxville / Skimmer / Securicar
 
-<figure markdown="span">
-  ![Skimmer](/images/wiki/vehicles/460.png){ width="300" }
-  <figcaption>Skimmer</figcaption>
+![Boxville](/images/wiki/vehicles/609.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Boxville</figcaption>
+</figure>
+
+![Skimmer](/images/wiki/vehicles/460.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Skimmer</figcaption>
+</figure>
+
+![Securicar](/images/wiki/vehicles/428.png){ width="300" style="display:block; margin:0 0 8px 0;" }
+<figure style="display:block; margin:0 0 8px 0; padding-left: 135px;">
+   <figcaption>Securicar</figcaption>
 </figure>
 
 **De retinut: Cine foloseste sau imparte aceste vehicule speciale in scopuri abuzive risca sa ii fie luat vehiculul de pe cont.**
 
-## Tutorial
-
-<div class="video-wrapper">
-  <iframe width="920" height="480" src="https://www.youtube.com/watch?v=EGtjRxgkl-A" frameborder="0" allowfullscreen></iframe>
-</div>

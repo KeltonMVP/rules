@@ -31,7 +31,7 @@ icon: material/hammer
 
 Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de Mester consta in preluarea materialelor necesare crearii obiectelor de Mester, prelucrarea si transportarea acestora catre bizul House Upgrade. Dexteritatea pentru crearea unor obiecte artizanale va fi castigata in timp, capatand mai multa experienta si putand confectiona obiecte de o complexitate si de o valoare mai mare.
 
-## Caracteristici generale
+## Caracteristici Generale
 
 * Jobul este unul legal, se afla in orasul San Fierro in zona King's (**in apropierea Bank SF**) si poti lucra la acesta incepand cu nivel 5.
 * Jobul are in principal patru activitati:
@@ -59,9 +59,9 @@ Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de Mester consta 
     * intre Skill 9 si Skill 10 veti putea prelucra scaune, mese, accesorii si usi
 * La acest job puteti lucra avand cazier (wanted).
 * Cantitatea maxima de materiale (lingouri de aur/bumbac/lemn/argint) pe care jucatorul o poate aduna este de 999.
-* Puteti vizualiza cantitatea de materiale pe care o aveti prin intermediul comenzilor, **/inventory**, **/inventar**, **/backpack** sau **/inv** daca detineti minim skill 3 la acest job.
+* Puteti vizualiza cantitatea de materiale pe care o aveti prin intermediul comenzilor, **/inventory**, **/inventar**, **/backpack** sau **/inv** daca detineti minim skill 3 la acest job sau la jobul **Arheolog**.
 
-## Articolele artizanale
+## Articolele Artizanale
 
 Articolele artizanale se impart in mai multe categorii dupa cum urmeaza:
 
@@ -101,101 +101,101 @@ Articolele artizanale se impart in mai multe categorii dupa cum urmeaza:
 
 ### Skill 1
 
-* Scaunul 1: castigul Fara Cont Premium este egal cu 6250$, cu Cont Premium este egal cu 9375$ si castigati 3 puncte pentru skill
-* Scaunul 2: castigul Fara Cont Premium este egal cu 6875$, cu Cont Premium este egal cu 10312$ si castigati 3 puncte pentru skill
-* Scaunul 3: castigul Fara Cont Premium este egal cu 7500$, cu Cont Premium este egal cu 11250$ si castigati 3 puncte pentru skill
-* Scaunul 4: castigul Fara Cont Premium este egal cu 8125$, cu Cont Premium este egal cu 12187$ si castigati 4 puncte pentru skill
-* Scaunul 5: castigul Fara Cont Premium este egal cu 9750$, cu Cont Premium este egal cu 14625$ si castigati 6 puncte pentru skill
+* **Scaunul 1:** castigul Fara Cont Premium este egal cu 6250$, cu Cont Premium este egal cu 9375$ si castigati 3 puncte pentru skill
+* **Scaunul 2:** castigul Fara Cont Premium este egal cu 6875$, cu Cont Premium este egal cu 10312$ si castigati 3 puncte pentru skill
+* **Scaunul 3:** castigul Fara Cont Premium este egal cu 7500$, cu Cont Premium este egal cu 11250$ si castigati 3 puncte pentru skill
+* **Scaunul 4:** castigul Fara Cont Premium este egal cu 8125$, cu Cont Premium este egal cu 12187$ si castigati 4 puncte pentru skill
+* **Scaunul 5:** castigul Fara Cont Premium este egal cu 9750$, cu Cont Premium este egal cu 14625$ si castigati 6 puncte pentru skill
 * Se pot produce doar scaune la acest skill.
 * Se va folosi Pony ca vehicul de transport.
 
 ### Skill 2
 
-* Scaunul 1: castigul Fara Cont Premium este egal cu 6250$, cu Cont Premium este egal cu 9375$ si castigati 3 puncte pentru skill
-* Scaunul 2: castigul Fara Cont Premium este egal cu 6875$, cu Cont Premium este egal cu 10312$ si castigati 3 puncte pentru skill
-* Scaunul 3: castigul Fara Cont Premium este egal cu 7500$, cu Cont Premium este egal cu 11250$ si castigati 3 puncte pentru skill
-* Scaunul 4: castigul Fara Cont Premium este egal cu 8125$, cu Cont Premium este egal cu 12187$ si castigati 4 puncte pentru skill
-* Scaunul 5: castigul Fara Cont Premium este egal cu 9750$, cu Cont Premium este egal cu 14625$ si castigati 6 puncte pentru skill
+* **Scaunul 1:** castigul Fara Cont Premium este egal cu 6250$, cu Cont Premium este egal cu 9375$ si castigati 3 puncte pentru skill
+* **Scaunul 2:** castigul Fara Cont Premium este egal cu 6875$, cu Cont Premium este egal cu 10312$ si castigati 3 puncte pentru skill
+* **Scaunul 3:** castigul Fara Cont Premium este egal cu 7500$, cu Cont Premium este egal cu 11250$ si castigati 3 puncte pentru skill
+* **Scaunul 4:** castigul Fara Cont Premium este egal cu 8125$, cu Cont Premium este egal cu 12187$ si castigati 4 puncte pentru skill
+* **Scaunul 5:** castigul Fara Cont Premium este egal cu 9750$, cu Cont Premium este egal cu 14625$ si castigati 6 puncte pentru skill
 * Se pot produce doar scaune la acest skill.
 * Se va folosi Pony ca vehicul de transport.
 
 ### Skill 3
 
-* Scaunul 1: castigul Fara Cont Premium este egal cu 6250$, cu Cont Premium este egal cu 9375$ si castigati 3 puncte pentru skill
-* Scaunul 2: castigul Fara Cont Premium este egal cu 6875$, cu Cont Premium este egal cu 10312$ si castigati 3 puncte pentru skill
-* Scaunul 3: castigul Fara Cont Premium este egal cu 7500$, cu Cont Premium este egal cu 11250$ si castigati 3 puncte pentru skill
-* Scaunul 4: castigul Fara Cont Premium este egal cu 8125$, cu Cont Premium este egal cu 12187$ si castigati 4 puncte pentru skill
-* Scaunul 5: castigul Fara Cont Premium este egal cu 9750$, cu Cont Premium este egal cu 14625$ si castigati 6 puncte pentru skill
+* **Scaunul 1:** castigul Fara Cont Premium este egal cu 6250$, cu Cont Premium este egal cu 9375$ si castigati 3 puncte pentru skill
+* **Scaunul 2:** castigul Fara Cont Premium este egal cu 6875$, cu Cont Premium este egal cu 10312$ si castigati 3 puncte pentru skill
+* **Scaunul 3:** castigul Fara Cont Premium este egal cu 7500$, cu Cont Premium este egal cu 11250$ si castigati 3 puncte pentru skill
+* **Scaunul 4:** castigul Fara Cont Premium este egal cu 8125$, cu Cont Premium este egal cu 12187$ si castigati 4 puncte pentru skill
+* **Scaunul 5:** castigul Fara Cont Premium este egal cu 9750$, cu Cont Premium este egal cu 14625$ si castigati 6 puncte pentru skill
 * Se pot produce doar scaune la acest skill.
 * Se va folosi Pony ca vehicul de transport.
 
 ### Skill 4
 
-* Masa 1: castigul Fara Cont Premium este egal cu 9375$, cu Cont Premium este egal cu 14062$ si castigati 5 puncte pentru skill
-* Masa 2: castigul Fara Cont Premium este egal cu 10000$, cu Cont Premium este egal cu 15000$ si castigati 5 puncte pentru skill
-* Masa 3: castigul Fara Cont Premium este egal cu 10625$, cu Cont Premium este egal cu 15937$ si castigati 6 puncte pentru skill
-* Masa 4: castigul Fara Cont Premium este egal cu 11250$, cu Cont Premium este egal cu 16875$ si castigati 6 puncte pentru skill
-* Masa 5: castigul Fara Cont Premium este egal cu 12875$, cu Cont Premium este egal cu 19312$ si castigati 8 puncte pentru skill
+* **Masa 1:** castigul Fara Cont Premium este egal cu 9375$, cu Cont Premium este egal cu 14062$ si castigati 5 puncte pentru skill
+* **Masa 2:** castigul Fara Cont Premium este egal cu 10000$, cu Cont Premium este egal cu 15000$ si castigati 5 puncte pentru skill
+* **Masa 3:** castigul Fara Cont Premium este egal cu 10625$, cu Cont Premium este egal cu 15937$ si castigati 6 puncte pentru skill
+* **Masa 4:** castigul Fara Cont Premium este egal cu 11250$, cu Cont Premium este egal cu 16875$ si castigati 6 puncte pentru skill
+* **Masa 5:** castigul Fara Cont Premium este egal cu 12875$, cu Cont Premium este egal cu 19312$ si castigati 8 puncte pentru skill
 * Se pot produce scaune si mese la acest skill.
 * Se va folosi Pony ca vehicul de transport.
 
 ### Skill 5
 
-* Masa 1: castigul Fara Cont Premium este egal cu 9375$, cu Cont Premium este egal cu 14062$ si castigati 5 puncte pentru skill
-* Masa 2: castigul Fara Cont Premium este egal cu 10000$, cu Cont Premium este egal cu 15000$ si castigati 5 puncte pentru skill
-* Masa 3: castigul Fara Cont Premium este egal cu 10625$, cu Cont Premium este egal cu 15937$ si castigati 6 puncte pentru skill
-* Masa 4: castigul Fara Cont Premium este egal cu 11250$, cu Cont Premium este egal cu 16875$ si castigati 6 puncte pentru skill
-* Masa 5: castigul Fara Cont Premium este egal cu 12875$, cu Cont Premium este egal cu 19312$ si castigati 8 puncte pentru skill
+* **Masa 1:** castigul Fara Cont Premium este egal cu 9375$, cu Cont Premium este egal cu 14062$ si castigati 5 puncte pentru skill
+* **Masa 2:** castigul Fara Cont Premium este egal cu 10000$, cu Cont Premium este egal cu 15000$ si castigati 5 puncte pentru skill
+* **Masa 3:** castigul Fara Cont Premium este egal cu 10625$, cu Cont Premium este egal cu 15937$ si castigati 6 puncte pentru skill
+* **Masa 4:** castigul Fara Cont Premium este egal cu 11250$, cu Cont Premium este egal cu 16875$ si castigati 6 puncte pentru skill
+* **Masa 5:** castigul Fara Cont Premium este egal cu 12875$, cu Cont Premium este egal cu 19312$ si castigati 8 puncte pentru skill
 * Se pot produce scaune si mese la acest skill.
 * Se va folosi un vehicul personal ca vehicul de transport.
 
 ### Skill 6
 
-* Masa 1: castigul Fara Cont Premium este egal cu 9375$, cu Cont Premium este egal cu 14062$ si castigati 5 puncte pentru skill
-* Masa 2: castigul Fara Cont Premium este egal cu 10000$, cu Cont Premium este egal cu 15000$ si castigati 5 puncte pentru skill
-* Masa 3: castigul Fara Cont Premium este egal cu 10625$, cu Cont Premium este egal cu 15937$ si castigati 6 puncte pentru skill
-* Masa 4: castigul Fara Cont Premium este egal cu 11250$, cu Cont Premium este egal cu 16875$ si castigati 6 puncte pentru skill
-* Masa 5: castigul Fara Cont Premium este egal cu 12875$, cu Cont Premium este egal cu 19312$ si castigati 8 puncte pentru skill
+* **Masa 1:** castigul Fara Cont Premium este egal cu 9375$, cu Cont Premium este egal cu 14062$ si castigati 5 puncte pentru skill
+* **Masa 2:** castigul Fara Cont Premium este egal cu 10000$, cu Cont Premium este egal cu 15000$ si castigati 5 puncte pentru skill
+* **Masa 3:** castigul Fara Cont Premium este egal cu 10625$, cu Cont Premium este egal cu 15937$ si castigati 6 puncte pentru skill
+* **Masa 4:** castigul Fara Cont Premium este egal cu 11250$, cu Cont Premium este egal cu 16875$ si castigati 6 puncte pentru skill
+* **Masa 5:** castigul Fara Cont Premium este egal cu 12875$, cu Cont Premium este egal cu 19312$ si castigati 8 puncte pentru skill
 * Se pot produce scaune si mese la acest skill.
 * Se va folosi un vehicul personal ca vehicul de transport.
 
 ### Skill 7
 
-* Skateboard: castigul Fara Cont Premium este egal cu 12500$, cu Cont Premium este egal cu 18750$ si castigati 7 puncte pentru skill
-* Evantai: castigul Fara Cont Premium este egal cu 13125$, cu Cont Premium este egal cu 19687$ si castigati 7 puncte pentru skill
-* Scaun pentru plaja: castigul Fara Cont Premium este egal cu 13750$, cu Cont Premium este egal cu 20625$ si castigati 7 puncte pentru skill
-* Rama: castigul Fara Cont Premium este egal cu 14375$, cu Cont Premium este egal cu 21562$ si castigati 8 puncte pentru skill
-* Televizor: castigul Fara Cont Premium este egal cu 15000$, cu Cont Premium este egal cu 22500$ si castigati 10 puncte pentru skill
+* **Skateboard:** castigul Fara Cont Premium este egal cu 12500$, cu Cont Premium este egal cu 18750$ si castigati 7 puncte pentru skill
+* **Evantai:** castigul Fara Cont Premium este egal cu 13125$, cu Cont Premium este egal cu 19687$ si castigati 7 puncte pentru skill
+* **Scaun pentru plaja:** castigul Fara Cont Premium este egal cu 13750$, cu Cont Premium este egal cu 20625$ si castigati 7 puncte pentru skill
+* **Rama:** castigul Fara Cont Premium este egal cu 14375$, cu Cont Premium este egal cu 21562$ si castigati 8 puncte pentru skill
+* **Televizor:** castigul Fara Cont Premium este egal cu 15000$, cu Cont Premium este egal cu 22500$ si castigati 10 puncte pentru skill
 * Se pot produce scaune, mese si accesorii la acest skill.
 * Se va folosi un vehicul personal ca vehicul de transport.
 
 ### Skill 8
 
-* Skateboard: castigul Fara Cont Premium este egal cu 12500$, cu Cont Premium este egal cu 18750$ si castigati 7 puncte pentru skill
-* Evantai: castigul Fara Cont Premium este egal cu 13125$, cu Cont Premium este egal cu 19687$ si castigati 7 puncte pentru skill
-* Scaun pentru plaja: castigul Fara Cont Premium este egal cu 13750$, cu Cont Premium este egal cu 20625$ si castigati 7 puncte pentru skill
-* Rama: castigul Fara Cont Premium este egal cu 14375$, cu Cont Premium este egal cu 21562$ si castigati 8 puncte pentru skill
-* Televizor: castigul Fara Cont Premium este egal cu 15000$, cu Cont Premium este egal cu 22500$ si castigati 10 puncte pentru skill
+* **Skateboard:** castigul Fara Cont Premium este egal cu 12500$, cu Cont Premium este egal cu 18750$ si castigati 7 puncte pentru skill
+* **Evantai:** castigul Fara Cont Premium este egal cu 13125$, cu Cont Premium este egal cu 19687$ si castigati 7 puncte pentru skill
+* **Scaun pentru plaja:** castigul Fara Cont Premium este egal cu 13750$, cu Cont Premium este egal cu 20625$ si castigati 7 puncte pentru skill
+* **Rama:** castigul Fara Cont Premium este egal cu 14375$, cu Cont Premium este egal cu 21562$ si castigati 8 puncte pentru skill
+* **Televizor:** castigul Fara Cont Premium este egal cu 15000$, cu Cont Premium este egal cu 22500$ si castigati 10 puncte pentru skill
 * Se pot produce scaune, mese si accesorii la acest skill.
 * Se va folosi un vehicul personal ca vehicul de transport.
 
 ### Skill 9
 
-* Usa 1: castigul Fara Cont Premium este egal cu 15625$, cu Cont Premium este egal cu 23437$ si castigati 8 puncte pentru skill
-* Usa 2: castigul Fara Cont Premium este egal cu 16250$, cu Cont Premium este egal cu 24375$ si castigati 9 puncte pentru skill
-* Usa 3: castigul Fara Cont Premium este egal cu 16875$, cu Cont Premium este egal cu 25312$ si castigati 9 puncte pentru skill
-* Usa 4: castigul Fara Cont Premium este egal cu 17500$, cu Cont Premium este egal cu 26250$ si castigati 9 puncte pentru skill
-* Usa 5: castigul Fara Cont Premium este egal cu 19125$, cu Cont Premium este egal cu 28687$ si castigati 11 puncte pentru skill
+* **Usa 1:** castigul Fara Cont Premium este egal cu 15625$, cu Cont Premium este egal cu 23437$ si castigati 8 puncte pentru skill
+* **Usa 2:** castigul Fara Cont Premium este egal cu 16250$, cu Cont Premium este egal cu 24375$ si castigati 9 puncte pentru skill
+* **Usa 3:** castigul Fara Cont Premium este egal cu 16875$, cu Cont Premium este egal cu 25312$ si castigati 9 puncte pentru skill
+* **Usa 4**: castigul Fara Cont Premium este egal cu 17500$, cu Cont Premium este egal cu 26250$ si castigati 9 puncte pentru skill
+* **Usa 5:** castigul Fara Cont Premium este egal cu 19125$, cu Cont Premium este egal cu 28687$ si castigati 11 puncte pentru skill
 * Se pot produce scaune, mese, accesorii si usi la acest skill.
 * Se va folosi un vehicul personal ca vehicul de transport.
 
 ### Skill 10
 
-* Usa 1: castigul Fara Cont Premium este egal cu 15625$ si cu Cont Premium este egal cu 23437$
-* Usa 2: castigul Fara Cont Premium este egal cu 16250$ si cu Cont Premium este egal cu 24375$
-* Usa 3: castigul Fara Cont Premium este egal cu 16875$ si cu Cont Premium este egal cu 25312$
-* Usa 4: castigul Fara Cont Premium este egal cu 17500$ si cu Cont Premium este egal cu 26250$
-* Usa 5: castigul Fara Cont Premium este egal cu 19125$ si cu Cont Premium este egal cu 28687$
+* **Usa 1:** castigul Fara Cont Premium este egal cu 15625$ si cu Cont Premium este egal cu 23437$
+* **Usa 2:** castigul Fara Cont Premium este egal cu 16250$ si cu Cont Premium este egal cu 24375$
+* **Usa 3:** castigul Fara Cont Premium este egal cu 16875$ si cu Cont Premium este egal cu 25312$
+* **Usa 4:** castigul Fara Cont Premium este egal cu 17500$ si cu Cont Premium este egal cu 26250$
+* **Usa 5:** castigul Fara Cont Premium este egal cu 19125$ si cu Cont Premium este egal cu 28687$
 * Se pot produce scaune, mese, accesorii si usi la acest skill.
 * Se va folosi un vehicul personal ca vehicul de transport.
 
@@ -246,11 +246,7 @@ Puteti face rost de argint lucrand la Muncitor la Cariera, castigul de argint es
 ## Vehicule in functie de skill
 
 ### Pony
-
-<figure markdown="span">
-  ![Pony](/images/wiki/vehicles/413.png){ width="250" }
-  <figcaption>Pony</figcaption>
-</figure>
+![Pony](/images/wiki/vehicles/413.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 - Pret DealerShip: $6.150
 - Returnare DealerShip: $3.690

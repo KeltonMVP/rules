@@ -6,7 +6,17 @@ icon: material/fish
 
 <figure markdown="span">
   ![Map Location](/images/wiki/general/Fisherman.png){ width="450" }
-  <figcaption>#1 Map Location</figcaption>
+  <figcaption>#1 Map Location in LV</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Map Location](/images/wiki/jobs/fish_ls_map.png){ width="450" }
+  <figcaption>#1' Map Location in LS</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Map Location](/images/wiki/jobs/fish_sf_map.png){ width="450" }
+  <figcaption>#1'' Map Location in SF</figcaption>
 </figure>
 
 <figure markdown="span">

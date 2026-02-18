@@ -6,17 +6,22 @@ icon: material/trash-can
 
 <figure markdown="span">
   ![Locatie Garbage Man LS](/images/wiki/general/MapcheckpointLS.png){ width="450" }
-  <figcaption>Locatia Garbage Man LS</figcaption>
+  <figcaption>#1 Locatia Garbage Man LS</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Locatie Garbage Man LV](/images/wiki/jobs/garbageman_lv_map.png){ style="width: 450px; height: 300px;" }
+  <figcaption>#1' Locatia Garbage Man LV</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Jucator la munca](/images/wiki/general/1garbage.jpg){ width="500" }
-  <figcaption>Jucator muncind ca gunoier</figcaption>
+  <figcaption>#2 Jucator muncind ca gunoier</figcaption>
 </figure>
 
-## Caracteristici generale
+## Caracteristici Generale
 
-- Sediul jobului se afla in Los Santos si in Las Venturas (vezi locatia in imaginea alaturata).
+- Sediul jobului se afla in Los Santos si in Las Venturas (*vezi imaginile #1 / #1'*).
 - Fiecare jucator va primi vehiculul Trashmaster la folosirea comenzii /work.
 - Vehiculele jobului nu consuma combustibil si sunt incuiate pe toata durata muncii.
 - Pentru a finaliza o cursa completa, trebuie sa colectati gunoi de la 20 de pubele diferite din oras.

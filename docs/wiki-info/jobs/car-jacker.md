@@ -22,7 +22,7 @@ Hotul de masini (*car jacker*) fura vehicule publice, personale, de gang sau ale
 - Folosirea comenzii /picklock duce la wanted 1 automat.
 - Pentru furtul unui vehicul de politie, veti primi automat wanted 3, fara drept de predare.
 - Proprietarii masinilor si membrii gangurilor vor primi mesaje specifice atunci cand masinile lor sunt furate.
-- Mafiotiisi nu-si pot fura vehiculele propriei factiuni.
+- Mafiotii nu-si pot fura vehiculele propriei factiuni.
 - Nu va puteti fura propria masina personala.
 - Proprietarii vor putea folosi /locatecar pentru a gasi hotul, iar membrii de gang au la dispozitie /stealers.
 - Jucatorii care detin cont premium primesc cu 50% mai mult la sfarsitul fiecarei curse.

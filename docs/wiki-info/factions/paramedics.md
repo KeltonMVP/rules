@@ -14,11 +14,6 @@ icon: material/ambulance
   <figcaption>Locatia HQ-ului</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![HQ](/images/wiki/general/Pasnice.png){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
 ## Descriere Generala
 
 In aceasta factiune, veti fi intampinati de un aer dominat de bun-simt, respect si totodata veti putea lucra in echipa cu cei mai buni jucatori. Este o factiune pasnica, cu sediul in inima orasului Las Venturas si are ca scop mentinerea pulsului pe server.
@@ -39,112 +34,58 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 
 **Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functie de regulamentul intern al factiunii.**
 
-### Skin ID 228 - Lider / Rang 6
+### Skin ID 228 - Chief Paramedic (Leader) / Assistant Chief Paramedic (6)
+![Skin 228](/images/wiki/skins/228.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 228](/images/wiki/skins/228.png){ width="250" }
-  <figcaption>Chief Paramedic (Leader) / Assistant Chief Paramedic (6)</figcaption>
-</figure>
+### Skin ID 70 - Paramedic Field Chief (5)
+![Skin 70](/images/wiki/skins/70.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 70 - Rang 5
+### Skin ID 274 - Paramedic Ambulance Commander (4)
+![Skin 274](/images/wiki/skins/274.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 70](/images/wiki/skins/70.png){ width="250" }
-  <figcaption>Paramedic Field Chief (5)</figcaption>
-</figure>
+### Skin ID 277 / 278 / 279 - Paramedic in Charge (3)
+![Skin 277](/images/wiki/skins/277.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+![Skin 278](/images/wiki/skins/278.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+![Skin 279](/images/wiki/skins/279.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 274 - Rang 4
+### Skin ID 275 - Paramedic (2)
+![Skin 275](/images/wiki/skins/275.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 274](/images/wiki/skins/274.png){ width="250" }
-  <figcaption>Paramedic Ambulance Commander (4)</figcaption>
-</figure>
+### Skin ID 276 - Candidate Paramedic (1)
+![Skin 276](/images/wiki/skins/276.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 277 / 278 / 279 - Rang 3
-
-<figure markdown="span">
-  ![Skin 277](/images/wiki/skins/277.png){ width="250" }
-</figure>
-
-<figure markdown="span">
-  ![Skin 278](/images/wiki/skins/278.png){ width="250" }
-</figure>
-
-<figure markdown="span">
-  ![Skin 279](/images/wiki/skins/279.png){ width="250" }
-  <figcaption>Paramedic in Charge (3)</figcaption>
-</figure>
-
-### Skin ID 275 - Rang 2
-
-<figure markdown="span">
-  ![Skin 275](/images/wiki/skins/275.png){ width="250" }
-  <figcaption>Paramedic (2)</figcaption>
-</figure>
-
-### Skin ID 276 - Rang 1
-
-<figure markdown="span">
-  ![Skin 276](/images/wiki/skins/276.png){ width="250" }
-  <figcaption>Candidate Paramedic (1)</figcaption>
-</figure>
-
-### Skin ID 308 - Feminin
-
-<figure markdown="span">
-  ![Skin 308](/images/wiki/skins/308.png){ width="250" }
-  <figcaption>Skin feminin</figcaption>
-</figure>
+### Skin ID 308 - Skin feminin
+![Skin 308](/images/wiki/skins/308.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 ## Vehiculele factiunii
 
 ### Ambulance
+![Ambulance](/images/wiki/vehicles/416.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Ambulance](/images/wiki/vehicles/416.png){ width="250" }
-  <figcaption>Ambulance</figcaption>
-</figure>
-
-- Vehicul: ID 416
-- Culoarea: ID 1 & 3
+- Culoare: 1 & 3
 - Numarul de vehicule: 40
 - Viteza maxima: 154 KM/h
 - Disponibil in Dealership: Nu
 
 ### Police Ranger
+![Police Ranger](/images/wiki/vehicles/599.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Police Ranger](/images/wiki/vehicles/599.png){ width="250" }
-  <figcaption>Police Ranger</figcaption>
-</figure>
-
-- Vehicul: ID 599
-- Culoarea: ID 1 & 3
+- Culoarea: 1 & 3
 - Numarul de vehicule: 5
 - Viteza maxima: 158 KM/h
 - Disponibil in Dealership: Nu
 
 ### Raindance
+![Raindance](/images/wiki/vehicles/563.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Raindance](/images/wiki/vehicles/563.png){ width="250" }
-  <figcaption>Raindance</figcaption>
-</figure>
-
-- Vehicul: ID 563
 - Culoarea: ID 1 & 3
 - Numarul de vehicule: 1
 - Viteza maxima: 142 KM/h
 - Disponibil in Dealership: Nu
 
 ### Romero
+![Romero](/images/wiki/vehicles/442.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Romero](/images/wiki/vehicles/442.png){ width="250" }
-  <figcaption>Romero</figcaption>
-</figure>
-
-- Vehicul: ID 442
 - Culoarea: ID 1 & 3
 - Numarul de vehicule: 5
 - Viteza maxima: 139 KM/h
@@ -216,34 +157,27 @@ Paramedics este condusa de jucatori experimentati, ce au ca scop instruirea juca
 2. Pentru un rehab acordat: castig = 1,500$ per 10 puncte de dependenta.
 3. Pentru un cadavru transportat: castig =  [(15 * 65) * (0.6 + 1.5 + (6/10.0))] = 2,632$
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /duty
-
-Prin aceasta comanda un membru al factiunii se pune la datorie sau iese de la datorie. (daca primeste sau nu solicitari pentru licente)
+Prin aceasta comanda un membru al factiunii se pune la datorie sau iese de la datorie. (daca primeste sau nu solicitari pentru heal, rehab sau cadavre).
 
 ### /fvr
-
 Prin executarea comenzii, toate vehiculele neocupate ale factiunii vor fi respawnate. Comanda este accesibila de la rang 5 in orice factiune.
 
 ### /clothes
-
 Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei factiuni poate sa utilizeze comanda /clothes si numai daca se afla intr-un magazin de haine.
 
 ### /heal
-
 Comanda este folosita de catre orice paramedic pentru a umple procentul de viata al unui jucator.
 
 ### /servicecalls
-
 Prin aceasta comanda, paramedicii vor putea vedea comenzile nepreluate.
 
 ### /rehab
-
 Aceasta comanda scade procentul de dependeta de droguri pe care il are un jucator.
 
 ### /corpse
-
 Aceasta comanda este folosita pentru a ridica un cadavru.
 Nota: Comanda se foloseste urmata de ID-ul cadavrului corespunzator. ID-ul cadavrelor poate varia de la 0 la 19.
 
@@ -253,22 +187,18 @@ Aceasta comanda poate fi folosita doar daca:
 * Medicul se afla intr-un Romero sau Raindance apartinand factiunii.
 
 ### /corpses
-
 Aceasta comanda va arata toate cadavrele generate pe harta.
 
 ### /beacon
 Cu ajutorul acestei comenzi veti putea activa sau dezactiva sirenele masinilor de departament atunci cand acestea nu functioneaza prin apasarea tastei **H**.
 
 ### /ftalkpower
-
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.
 
 ### /fwithdrawpower
-
 Prin aceasta comanda liderul factiunii poate stabili rank-ul minim pentru extragerea banilor, drogurilor si respectiv al materialelor din HQ.
 
 ### /tduty
-
 Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre liderul factiunii se pot pune la datorie pentru a putea efectua teste de intrare in factiune.
 
 ## Sistemul de Cadavre
@@ -286,7 +216,7 @@ Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre lider
 * Pentru a ridica un cadavru, medicii trebuie sa foloseasca comanda [/corpse] urmata de ID-ul cadavrului corespunzator. ID-ul cadavrelor poate varia de la 0 la 19.
 * Pentru a vedea toate cadavrele de pe harta se foloseste comanda [/corpses].
 
-## Legaturi utile
+## Legaturi Utile
 
 - [Aplica in Paramedics](http://www.rpg.b-zone.ro/factions/apply/paramedics)
 - [Membrii Paramedics](http://www.rpg.b-zone.ro/factions/members/paramedics)

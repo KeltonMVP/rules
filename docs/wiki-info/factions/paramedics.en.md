@@ -39,115 +39,62 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 
 **Note: Skin ranks are general, they may differ according to the faction's internal regulations.**
 
-### Skin ID 228 - Leader / Rank 6
+### Skin ID 228 - Chief Paramedic (Leader) / Assistant Chief Paramedic (6)
+![Skin 228](/images/wiki/skins/228.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 228](/images/wiki/skins/228.png){ width="250" }
-  <figcaption>Chief Paramedic (Leader) / Assistant Chief Paramedic (6)</figcaption>
-</figure>
 
-### Skin ID 70 - Rank 5
+### Skin ID 70 - Paramedic Field Chief (5)
+![Skin 70](/images/wiki/skins/70.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 70](/images/wiki/skins/70.png){ width="250" }
-  <figcaption>Paramedic Field Chief (5)</figcaption>
-</figure>
 
-### Skin ID 274 - Rank 4
+### Skin ID 274 - Paramedic Ambulance Commander (4)
+![Skin 274](/images/wiki/skins/274.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 274](/images/wiki/skins/274.png){ width="250" }
-  <figcaption>Paramedic Ambulance Commander (4)</figcaption>
-</figure>
+### Skin ID 277 / 278 / 279 - Paramedic in Charge (3)
+![Skin 277](/images/wiki/skins/277.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+![Skin 278](/images/wiki/skins/278.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+![Skin 279](/images/wiki/skins/279.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 277 / 278 / 279 - Rank 3
+### Skin ID 275 - Paramedic (2)
+![Skin 275](/images/wiki/skins/275.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 277](/images/wiki/skins/277.png){ width="250" }
-  <figcaption>Paramedic in Charge (3)</figcaption>
-</figure>
+### Skin ID 276 - Candidate Paramedic (1)
+![Skin 276](/images/wiki/skins/276.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Skin 278](/images/wiki/skins/278.png){ width="250" }
-  <figcaption>Paramedic in Charge (3)</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Skin 279](/images/wiki/skins/279.png){ width="250" }
-  <figcaption>Paramedic in Charge (3)</figcaption>
-</figure>
-
-### Skin ID 275 - Rank 2
-
-<figure markdown="span">
-  ![Skin 275](/images/wiki/skins/275.png){ width="250" }
-  <figcaption>Paramedic (2)</figcaption>
-</figure>
-
-### Skin ID 276 - Rank 1
-
-<figure markdown="span">
-  ![Skin 276](/images/wiki/skins/276.png){ width="250" }
-  <figcaption>Candidate Paramedic (1)</figcaption>
-</figure>
-
-### Skin ID 308 - Female
-
-<figure markdown="span">
-  ![Skin 308](/images/wiki/skins/308.png){ width="250" }
-  <figcaption>Female skin</figcaption>
-</figure>
+### Skin ID 308 - Female skin
+![Skin 308](/images/wiki/skins/308.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 ## Faction Vehicles
 
 ### Ambulance
 
-<figure markdown="span">
-  ![Ambulance](/images/wiki/vehicles/416.png){ width="250" }
-  <figcaption>Ambulance</figcaption>
-</figure>
+![Ambulance](/images/wiki/vehicles/416.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicle: ID 416
-- Color: ID 1 & 3
+- Color: 1 & 3
 - Number of vehicles: 40
 - Maximum speed: 154 KM/h
 - Available in Dealership: No
 
 ### Police Ranger
+![Police Ranger](/images/wiki/vehicles/599.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Police Ranger](/images/wiki/vehicles/599.png){ width="250" }
-  <figcaption>Police Ranger</figcaption>
-</figure>
-
-- Vehicle: ID 599
-- Color: ID 1 & 3
+- Color: 1 & 3
 - Number of vehicles: 5
 - Maximum speed: 158 KM/h
 - Available in Dealership: No
 
 ### Raindance
+![Raindance](/images/wiki/vehicles/563.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-<figure markdown="span">
-  ![Raindance](/images/wiki/vehicles/563.png){ width="250" }
-  <figcaption>Raindance</figcaption>
-</figure>
-
-- Vehicle: ID 563
-- Color: ID 1 & 3
+- Color: 1 & 3
 - Number of vehicles: 1
 - Maximum speed: 142 KM/h
 - Available in Dealership: No
 
 ### Romero
+![Romero](/images/wiki/vehicles/442.png){ width="250" style="display:block; margin:0 0 8px 0;"  }
 
-<figure markdown="span">
-  ![Romero](/images/wiki/vehicles/442.png){ width="250" }
-  <figcaption>Romero</figcaption>
-</figure>
-
-- Vehicle: ID 442
-- Color: ID 1 & 3
+- Color: 1 & 3
 - Number of vehicles: 5
 - Maximum speed: 139 KM/h
 - Available in Dealership: Yes
@@ -221,35 +168,27 @@ Paramedics is led by experienced players, whose purpose is to train new players 
 ## Specific Commands
 
 ### /duty
-
-Through this command, a faction member goes on duty or off duty. (whether they receive requests for licenses or not)
+Through this command, a faction member goes on duty or off duty. (whether they receive requests for heal, rehab or corpses).
 
 ### /fvr
-
 By executing the command, all unoccupied faction vehicles will be respawned. The command is accessible from rank 5 in any faction.
 
 ### /clothes
-
 To change your skin according to your rank, any faction member can use the /clothes command only if they are in a clothing store.
 
 ### /duty
-
 For a paramedic to be notified through chat with corresponding messages when someone calls an ambulance (/service medic), they must activate this function through the /duty command.
 
 ### /heal
-
 The command is used by any paramedic to fill a player's health percentage.
 
 ### /servicecalls
-
 Through this command, paramedics will be able to see unclaimed commands.
 
 ### /rehab
-
 This command decreases the drug dependency percentage that a player has.
 
 ### /corpse
-
 This command is used to pick up a corpse.
 *Note: The command is used followed by the corresponding corpse ID. Corpse IDs can vary from 0 to 19.*
 
@@ -259,30 +198,21 @@ This command can only be used if:
 * The medic is in a Romero or Raindance belonging to the faction.
 
 ### /corpses
-
 This command shows you all corpses generated on the map.
 
 ### /beacon
 With this command you will be able to activate or deactivate the sirens of department cars when they are not working by pressing the **H** key.
 
 ### /ftalkpower
-
 Through this command, a member with rank 5+ can disable faction chat for members with a rank lower than the one chosen by them.
 
 ### /fwithdrawpower
-
 Through this command, the faction leader can set the minimum rank for withdrawing money, drugs, and materials from HQ.
 
 ### /tduty
-
 Through this command, those designated with the tester function by the faction leader can go on duty to conduct faction entry tests.
 
 ## Corpse System
-
-<figure markdown="span">
-  ![Corpse System](https://i.imgur.com/6rhVVjn.png){ width="500" }
-  <figcaption>Corpse System</figcaption>
-</figure>
 
 * When a player on the server is killed by a civilian or a member of any other faction, apart from Paramedics, they will leave behind a corpse at the location where they were killed.
 * A maximum of 20 corpses can exist simultaneously. If a player is killed, but there are already 20 existing corpses on the map, that player will not leave a corpse behind.
@@ -294,12 +224,6 @@ Through this command, those designated with the tester function by the faction l
   * the player has not left a corpse behind for at least 10 minutes
   * neither the killed player nor the one who killed them are part of Paramedics
 * When a player who meets all the above conditions dies, Paramedics members will receive an informative message about this. The message will contain the name of the killed player, their ID, the corpse location and the command they must use to head towards that corpse.
-
-<figure markdown="span">
-  ![Message](https://i.imgur.com/hCUpT9N.png){ width="500" }
-  <figcaption>Notification message</figcaption>
-</figure>
-
 * To pick up a corpse, medics must use the [/corpse] command followed by the corresponding corpse ID. Corpse IDs can vary from 0 to 19.
 * To see all corpses on the map, use the [/corpses] command.
 

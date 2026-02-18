@@ -45,8 +45,7 @@ Alaturi de comanda, trebuie specificat numele detinutului (sau id) si pretul.
 
 *Exemplu: /free Nic.eXe 15000*
 
-Aceasta comanda va permite sa eliberati din inchisoare un jucator **odata la 30 de minute** de la ultima eliberare, contra unui pret convenit de comun acord (in acest caz, $15.000). Beneficiarul poate sa accepte sau nu aceasta oferta. Trebuie sa aveti suficiente puncte accept lawyer.
-
+Aceasta comanda va permite sa eliberati din inchisoare un jucator **odata la 30 de minute** de la ultima eliberare, contra unui pret convenit de comun acord (in acest caz, $15.000). Beneficiarul poate sa accepte (sau nu) aceasta oferta doar daca are suma ceruta de catre avocat in banca. Avocatul de asemenea trebuie sa aibe minim un mandat de eliberare.
 
 ### /ldivorce
 Este necesara specificarea numelui jucatorului casatorit si pretul.

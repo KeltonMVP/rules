@@ -14,12 +14,7 @@ icon: material/seal
   <figcaption>Locatia HQ-ului</figcaption>
 </figure>
 
-<figure markdown="span">
-  ![HQ](/images/wiki/general/Pasnice.png){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-## Licente & descriere generala
+## Licente & Descriere Generala
 
 LV School Instructors va poate inmana oricare dintre urmatoarele licente contra unei sume de bani fixata prin regulamentul factiunii respective si pe care toti instructorii sunt oblicati sa-l respecte:
 
@@ -31,106 +26,75 @@ LV School Instructors va poate inmana oricare dintre urmatoarele licente contra 
 
 *Nota: Suma de bani necesara pentru obtinerea licentelor de mai sus, difera in functie de nivelul jucatorului aspirant.*
 
-## Skinurile factiunii
+## Skinurile Factiunii
 
 **Nota: Rangurile skinurilor sunt la general, acestea putand fi diferite in functie de regulamentul intern al factiunii.**
 
-### Skin ID 171 - Lider / Rang 6
+### Skin ID 171 - LV Boss (Leader) / LV Under Boss (6)
 
-<figure markdown="span">
-  ![Skin 171](/images/wiki/skins/171.png){ width="250" }
-  <figcaption>LV Boss (Leader) / LV Under Boss (6)</figcaption>
-</figure>
+![Skin 171](/images/wiki/skins/171.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 240 - Rang 5 si 4
+### Skin ID 240 - LV Manager (5) / LV Supervisor (4)
 
-<figure markdown="span">
-  ![Skin 240](/images/wiki/skins/240.png){ width="250" }
-  <figcaption>LV Manager (5) / LV Supervisor (4)</figcaption>
-</figure>
+![Skin 240](/images/wiki/skins/240.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 60 - Rang 3 si 2
+### Skin ID 60 - LV Senior Instructor (3) / LV Instructor (2)
 
-<figure markdown="span">
-  ![Skin 60](/images/wiki/skins/60.png){ width="250" }
-  <figcaption>LV Senior Instructor (3) / LV Instructor (2)</figcaption>
-</figure>
+![Skin 60](/images/wiki/skins/60.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 153 - Rang 1
+### Skin ID 153 - LV Trainee (1)
 
-<figure markdown="span">
-  ![Skin 153](/images/wiki/skins/153.png){ width="250" }
-  <figcaption>LV Trainee (1)</figcaption>
-</figure>
+![Skin 153](/images/wiki/skins/153.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-### Skin ID 172 - Feminin
+### Skin ID 172 - Skin Feminim
 
-<figure markdown="span">
-  ![Skin 172](/images/wiki/skins/172.png){ width="250" }
-  <figcaption>Skin feminin</figcaption>
-</figure>
+![Skin 172](/images/wiki/skins/172.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-## Vehiculele factiunii
+## Vehiculele Factiunii
 
 ### Merit
 
-<figure markdown="span">
-  ![Merit](/images/wiki/vehicles/551.png){ width="250" }
-  <figcaption>Merit</figcaption>
-</figure>
+![Merit](/images/wiki/vehicles/551.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 551
-- Culoarea: ID 128
+- Culoarea: 128 & 128
 - Numarul de vehicule: 4
 - Viteza maxima: 157 KM/h
 - Disponibil in DealerShip: Da
 
 ### Sultan
 
-<figure markdown="span">
-  ![Sultan](/images/wiki/vehicles/560.png){ width="250" }
-  <figcaption>Sultan</figcaption>
-</figure>
+![Sultan](/images/wiki/vehicles/560.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 560
-- Culoarea: ID 128
+- Culoarea: 128 & 128
 - Numarul de vehicule: 2
 - Viteza maxima: 169 KM/h
 - Disponibil in DealerShip: Da
 
 ### Maverick
 
-<figure markdown="span">
-  ![Maverick](/images/wiki/vehicles/487.png){ width="250" }
-  <figcaption>Maverick</figcaption>
-</figure>
+![Maverick](/images/wiki/vehicles/487.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 487
-- Culoarea: ID 128
+- Culoarea: 128 & 128
 - Numarul de vehicule: 3
 - Viteza maxima: 180 KM/h
 - Disponibil in DealerShip: Da
 
 ### Speeder
 
-<figure markdown="span">
-  ![Speeder](/images/wiki/vehicles/452.png){ width="250" }
-  <figcaption>Speeder</figcaption>
-</figure>
+![Speeder](/images/wiki/vehicles/452.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 452
-- Culoarea: ID 128
+- Culoarea: 128 & 128
 - Numarul de vehicule: 3
 - Viteza maxima: 153 KM/h
 - Disponibil in DealerShip: Da
 
 ## Castig in functie de licenta vanduta
 
-1. Weapon - $2.000
-2. Materials - $1.600
-3. Fishing - $500
-4. Flying - $1.800
-5. Sailing - $1.700
+1. Weapon - **$2.000**
+2. Materials - **$1.600**
+3. Fishing - **$500**
+4. Flying - **$1.800**
+5. Sailing - **$1.700**
 
 ## Nivelul necesar achizitionarii licentelor
 
@@ -159,76 +123,65 @@ LV School Instructors va poate inmana oricare dintre urmatoarele licente contra 
 - Daca nu este niciun instructor aflat la datorie la acel moment, dialogul de achizitionare a licentelor va fi afisat direct.
 - Preturile licentelor este considerabil mai mare decat in mod obisnuit la un instructor depinzand de nivelul jucatorului dupa cum urmeaza:
     - **Licenta de Zbor:**
-        - Nivel 1-9: se plateste $4,500
-        - Nivel 10-49: se plateste $9,000
-        - Nivel 50+: se plateste $18,000
+        - Nivel 1-9: se plateste **$4,500**
+        - Nivel 10-49: se plateste **$9,000**
+        - Nivel 50+: se plateste **$18,000**
     - **Licenta de Navigatie:**
-        - Nivel 1-9: se plateste $4,250
-        - Nivel 10-49: se plateste $8,500
-        - Nivel 50+: se plateste $17,000
+        - Nivel 1-9: se plateste **$4,250**
+        - Nivel 10-49: se plateste **$8,500**
+        - Nivel 50+: se plateste **$17,000**
     - **Licenta de Pescar:**
-        - Nivel 1-9: se plateste $1,250
-        - Nivel 10-49: se plateste $2,500
-        - Nivel 50+: se plateste $5,000
+        - Nivel 1-9: se plateste **$1,250**
+        - Nivel 10-49: se plateste **$2,500**
+        - Nivel 50+: se plateste **$5,000**
     - **Licenta de Arme:**
-        - Nivel 5-9: se plateste $5,000
-        - Nivel 10-49: se plateste $10,000
-        - Nivel 50+: se plateste $20,000
+        - Nivel 5-9: se plateste **$5,000**
+        - Nivel 10-49: se plateste **$10,000**
+        - Nivel 50+: se plateste **$20,000**
     - **Licenta de Materiale:**
-        - Nivel 1-9: se plateste $4,000
-        - Nivel 10-49: se plateste $8,000
-        - Nivel 50+: se plateste $16,000
+        - Nivel 1-9: se plateste **$4,000**
+        - Nivel 10-49: se plateste **$8,000**
+        - Nivel 50+: se plateste **$16,000**
 - Odata selectata licenta dorita din dialogul NPC-ului (vezi imaginea #2) orele disponibile pentru aceasta sunt setate automat la 100.
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /duty
-
 Prin aceasta comanda un membru al factiunii se pune la datorie sau iese de la datorie. (daca primeste sau nu solicitari pentru licente)
 
 ### /fvr
-
 Prin executarea comenzii, toate vehiculele neocupate ale factiunii vor fi respawnate. Comanda este accesibila de la rang 5 in orice factiune.
 
 ### /clothes
-
 Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei factiuni poate sa utilizeze comanda /clothes si numai daca se afla intr-un magazin de haine.
 
 ### /sx
-
 Cu ajutorul acestei comenzi toate cele trei scoli de instructori pot comunica intre ele.
 
 ### /startlesson
-
 Cu aceasta comanda un instructor incepe lectia unui client pentru a-i oferi licenta.
 
 ### /stoplesson
-
 Folosind aceasta comanda un instructor opreste lectia unui client.
 
 ### /givelicense
-
 Un instructor cu cel putin rang 1 poate sa foloseasca aceasta comanda. Prin folosirea ei, un instructor ofera o anumita licenta unui jucator, dupa sustinerea testelor.
 
 *Exemplu: /givelicense Adi007 Fishing*
 
 ### /servicecalls
-
 Prin aceasta comanda, instructorii vor putea vedea comenzile nepreluate.
 
 ### /ftalkpower
-
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.
 
 ### /fwithdrawpower
-
 Prin aceasta comanda liderul factiunii poate stabili rank-ul minim pentru extragerea banilor, drogurilor si respectiv al materialelor din HQ.
 
 ### /tduty
-
 Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre liderul factiunii se pot pune la datorie pentru a putea efectua teste de intrare in factiune.
 
-## Legaturi utile
+## Legaturi Utile
 
 - [Aplica in School Instructors LV](http://www.rpg.b-zone.ro/factions/apply/lvinstructors)
 - [Membrii School Instructors LV](http://www.rpg.b-zone.ro/factions/members/lvinstructors)

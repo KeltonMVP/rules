@@ -26,27 +26,30 @@ icon: material/truck
 
 Baza de unde toti camionagii incarca marfa in trailere se afla intre cele trei orase principale, in apropierea aeroportului din San Fierro. Zona respectiva este frecventata de un numar mare de jucatori, fapt pentru care este extrem de aglomerata, chiar si in conditiile in care complexul este destul de mare. Circulati cu grija in interiorul sediului pentru a nu exista incidente nedorite. Continuati sa cititi acest articol, mai jos veti afla informatii utile despre castigurile jobului, avansarea in skill si alte detalii.
 
-## Caracteristici generale
+## Caracteristici Generale
 
-* Fiecare jucator va primi un vehicul si o remorca la folosirea comenzii /work.
-* Camionul va fi incuiat pe durata muncii si nu va consuma combustibil.
-* Exista o limitare de 50 jucatori care pot munci simultan la jobul Trucker.
-* Soferii vor avea la dispozitie 15 minute pentru a ajunge dintr-un capat in altul al traseului. In caz contrar, vor pierde misiunea.
-* Daca parasiti vehiculul, aveti timp 20 de secunde sa intrati in el, altfel veti pierde cursa.
-* In partea dreapta-jos exista un chenar cu informatii privitoare la job.
+- Fiecare jucator va primi un vehicul si o remorca la folosirea comenzii /work.
+- Camionul va fi incuiat pe durata muncii si nu va consuma combustibil.
+- Exista o limitare de 50 jucatori care pot munci simultan la jobul Trucker.
+- Soferii vor avea la dispozitie 15 minute pentru a ajunge dintr-un capat in altul al traseului. In caz contrar, vor pierde misiunea.
+- Daca parasiti vehiculul, aveti timp 20 de secunde sa intrati in el, altfel veti pierde cursa.
+- In partea dreapta-jos exista un chenar cu informatii privitoare la job.
 
 ## Efectuarea Transportului
 
 In momentul seletarii cursei dorite, o sa fiti intrebati ce doriti sa transportati. Exista 4 tipuri de transport: **Comercial, Materiale de Constructii, Carburant si Marfa**.
 
-* **Comercial** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 15%** sa primiti de la companie **un punct extra de skill**.
-    * Acest tip de transport este deblocat incepand cu skill 1.
-* **Materiale de Constructii** - in momentul efectuarii unui transport de acest tip dus-intors **primiti garantat** o cantitate de **materiale pentru mester**.
-    * Acest tip de transport este deblocat incepand cu skill 4.
-* **Fuel** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 25%** sa primiti de la companie **cu 30% mai multi bani** pe cursa respectiva.
-    * Acest tip de transport este deblocat incepand cu skill 7.
-* **Marfa** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 5%** sa primiti de la companie **o cutie aleatorie**.
-    * Acest tip de transport este deblocat incepand cu skill 9.
+- **Comercial** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 15%** sa primiti de la companie **un punct extra de skill**.
+    - Acest tip de transport este deblocat incepand cu skill 1.
+- **Materiale de Constructii** - in momentul efectuarii unui transport de acest tip dus-intors **primiti garantat** o cantitate de **materiale pentru mester**.
+    - Se pot primi intre 20 - 40 Materiale Lemn / Bumbac / Aur.
+    - Se pot primi intre 40 - 60 Argint.
+    - Limita maxima este de 999 materiale. Daca aceasta limita s-a atins, respectivul material nu va mai putea fi primit.
+    - Acest tip de transport este deblocat incepand cu skill 4.
+- **Fuel** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 25%** sa primiti de la companie **cu 30% mai multi bani** pe cursa respectiva.
+    - Acest tip de transport este deblocat incepand cu skill 7.
+- **Marfa** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 5%** sa primiti de la companie **o cutie aleatorie**.
+    - Acest tip de transport este deblocat incepand cu skill 9.
 
 In functie de tipul de transport, remorca o sa fie diferita.
 

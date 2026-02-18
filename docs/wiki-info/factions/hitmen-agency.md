@@ -5,27 +5,22 @@ icon: material/guy-fawkes-mask
 # Hitmen Agency
 
 <figure markdown="span">
-  ![Logo-ul agentiei](/images/wiki/general/LOGOhitmen.png){ width="300" }
+  ![Logo-ul agentiei](/images/wiki/general/LOGOhitmen.png){ width="400" }
   <figcaption>Logo-ul agentiei</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Locatia HQ-ului](/images/wiki/general/HAHQa2a.png){ width="350" }
+  ![Locatia HQ-ului](/images/wiki/general/HAHQa2a.png){ width="450" }
   <figcaption>Locatia HQ-ului</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![HQ](/images/wiki/general/Hitman.jpg){ width="500" }
-  <figcaption>HQ</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Asasinatul](/images/wiki/general/Undercoveron.png){ width="450" }
+  ![Asasinatul](/images/wiki/general/Undercoveron.png){ width="550" }
   <figcaption>Asasinatul</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Contract efectuat cu succes](/images/wiki/general/Mesajcontract.png){ width="600" }
+  ![Contract efectuat cu succes](/images/wiki/general/Mesajcontract.png){ width="700" }
   <figcaption>Contract efectuat cu succes</figcaption>
 </figure>
 
@@ -42,210 +37,149 @@ Agentia dispune de un numar limitat de vehicule precum Sparrow, Buffalo. De cele
 
 ### Skin ID 294 - Lider / Rang 6
 
-<figure markdown="span">
-  ![Skin 294](/images/wiki/skins/294.png){ width="250" }
-  <figcaption>Director (Leader) / Vice Director (6)</figcaption>
-</figure>
+![Skin 294](/images/wiki/skins/294.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+
 
 ### Skin ID 120 - Rang 5
 
-<figure markdown="span">
-  ![Skin 120](/images/wiki/skins/120.png){ width="250" }
-  <figcaption>Special Agent in Charge (5)</figcaption>
-</figure>
+![Skin 120](/images/wiki/skins/120.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+
 
 ### Skin ID 240 - Rang 4
 
-<figure markdown="span">
-  ![Skin 165](/images/wiki/skins/165.png){ width="250" }
-  <figcaption>Special Agent (4)</figcaption>
-</figure>
+![Skin 165](/images/wiki/skins/165.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 ### Skin ID 186 - Rang 3
 
-<figure markdown="span">
-  ![Skin 186](/images/wiki/skins/186.png){ width="250" }
-  <figcaption>Agent (3)</figcaption>
-</figure>
+![Skin 186](/images/wiki/skins/186.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
 ### Skin ID 118 - Rang 1 si 2
 
-<figure markdown="span">
-  ![Skin 118](/images/wiki/skins/118.png){ width="250" }
-  <figcaption>Freelancer (1) / Marksman (2)</figcaption>
-</figure>
+![Skin 118](/images/wiki/skins/118.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+
 
 ### Skin ID 93 - Feminin
 
-<figure markdown="span">
-  ![Skin 93](/images/wiki/skins/93.png){ width="250" }
-  <figcaption>Skin 93</figcaption>
-</figure>
+![Skin 93](/images/wiki/skins/93.png){ width="250" style="display:block; margin:0 0 8px 0;" }
+
 
 ## Vehiculele factiunii
 
 ### Sparrow
 
-<figure markdown="span">
-  ![Vehicle 469](/images/wiki/vehicles/469.png){ width="250" }
-  <figcaption>Vehicle 469</figcaption>
-</figure>
+![Vehicle 469](/images/wiki/vehicles/469.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 469
-- Culoarea: ID 0
+- Culoarea: 0
 - Numarul de vehicule: 37
 - Viteza maxima: 133 KM/h
 - Disponibil in Dealership: Da
 
 ### Buffalo
 
-<figure markdown="span">
-  ![Vehicle 402](/images/wiki/vehicles/402.png){ width="250" }
-  <figcaption>Vehicle 402</figcaption>
-</figure>
+  ![Vehicle 402](/images/wiki/vehicles/402.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 402
-- Culoarea: ID 0
+- Culoarea: 0
 - Numarul de vehicule: 3
 - Viteza maxima: 186 KM/h
 - Disponibil in Dealership: Da
 
 ### Sultan
 
-<figure markdown="span">
-  ![Vehicle 560](/images/wiki/vehicles/560.png){ width="250" }
-  <figcaption>Vehicle 560</figcaption>
-</figure>
+![Vehicle 560](/images/wiki/vehicles/560.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 560
-- Culoarea: ID 0
+- Culoarea: 0
 - Numarul de vehicule: 1
 - Viteza maxima: 169 KM/h
 - Disponibil in Dealership: Da
 
 ### Maverick
 
-<figure markdown="span">
-  ![Vehicle 487](/images/wiki/vehicles/487.png){ width="250" }
-  <figcaption>Vehicle 487</figcaption>
-</figure>
+![Vehicle 487](/images/wiki/vehicles/487.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 487
-- Culoarea: ID 0
+- Culoarea: 0
 - Numarul de vehicule: 2
 - Viteza maxima: 180 KM/h
 - Disponibil in Dealership: Da
 
 ### FCR-900
 
-<figure markdown="span">
-  ![Vehicle 521](/images/wiki/vehicles/521.png){ width="250" }
-  <figcaption>Vehicle 521</figcaption>
-</figure>
+![Vehicle 521](/images/wiki/vehicles/521.png){ width="250" style="display:block; margin:0 0 8px 0;" }
 
-- Vehicul: ID 521
-- Culoarea: ID 0
+- Culoarea: 0
 - Numarul de vehicule: 3
 - Viteza maxima: 176 KM/h
 - Disponibil in Dealership: Da
 
 ## Salariu
 
-### Pentru jucatorii fara cont premium
+### Pentru jucatorii fara Cont Premium
 
-#### Rank 1
-castig = 1260 + (6 * random(15)) * 1,1 + valoare_contract
+- **Rank 1:** castig = 1260 + (6 * random(15)) * 1,1 + valoare_contract
+- **Rank 2:** castig = 1260 + (6 * random(15)) * 1,2 + valoare_contract
+- **Rank 3:** castig = 1260 + (6 * random(15)) * 1,3 + valoare_contract
+- **Rank 4:** castig = 1260 + (6 * random(15)) * 1,4 + valoare_contract
+- **Rank 5:** castig = 1260 + (6 * random(15)) * 1,5 + valoare_contract
+- **Rank 6 sau Lider:** castig = 1260 + (6 * random(15)) * 1,6 + valoare_contract
 
-#### Rank 2
-castig = 1260 + (6 * random(15)) * 1,2 + valoare_contract
+### Pentru jucatorii cu Cont Premium
 
-#### Rank 3
-castig = 1260 + (6 * random(15)) * 1,3 + valoare_contract
+- **Rank 1:** castig = 1260 + (6 * random(15)) * 1,6 + valoare_contract
+- **Rank 2:** castig = 1260 + (6 * random(15)) * 1,7 + valoare_contract
+- **Rank 3:** castig = 1260 + (6 * random(15)) * 1,8 + valoare_contract
+- **Rank 4:** castig = 1260 + (6 * random(15)) * 1,9 + valoare_contract
+- **Rank 5:** castig = 1260 + (6 * random(15)) * 2,0 + valoare_contract
+- **Rank 6 sau Lider:** castig = 1260 + (6 * random(15)) * 2,1 + valoare_contract
 
-#### Rank 4
-castig = 1260 + (6 * random(15)) * 1,4 + valoare_contract
+<p><i><b>Note:</b></i></p>
 
-#### Rank 5
-castig = 1260 + (6 * random(15)) * 1,5 + valoare_contract
-
-#### Rank 6 sau Lider
-castig = 1260 + (6 * random(15)) * 1,6 + valoare_contract
-
-### Pentru jucatorii cu cont premium
-
-#### Rank 1
-castig = 1260 + (6 * random(15)) * 1,6 + valoare_contract
-
-#### Rank 2
-castig = 1260 + (6 * random(15)) * 1,7 + valoare_contract
-
-#### Rank 3
-castig = 1260 + (6 * random(15)) * 1,8 + valoare_contract
-
-#### Rank 4
-castig = 1260 + (6 * random(15)) * 1,9 + valoare_contract
-
-#### Rank 5
-castig = 1260 + (6 * random(15)) * 2 + valoare_contract
-
-#### Rank 6 sau Lider
-castig = 1260 + (6 * random(15)) * 2,1 + valoare_contract
-
-Note:
-- **random(15)** reprezinta un numar aleatoriu de la 1 la 15.
+- **random(15)** reprezinta un numar aleatoriu de la 1 la 15.<br>
 - **valoare_contract** reprezinta banii platiti prin intermediul comenzii /contract de catre jucatorul care l-a plasat.
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /fvr
-
 Prin executarea comenzii, toate vehiculele neocupate ale factiunii vor fi respawnate. Comanda este accesibila de la rang 5 in orice factiune.
 
 ### /clothes
-
 Pentru a va schimba skinul in functie de rangul detinut, orice membru al unei factiuni poate sa utilizeze comanda /clothes si numai daca se afla intr-un magazin de haine.
 
 ### /portable
-
 Comanda il conecteaza pe asasin la serverul agentiei, de acolo putand sa-si procure un contract, sa-si comande arme, etc. O data folosita aceasta comanda, va va conecta la serverul agentiei si veti putea opera diferite comenzi.
 
-- MyContract, cu ajutorul acestei optiuni puteti vedea informatii despre tinta voastra.
-- GetHit, cu ajutorul acestei optiuni va puteti procura un contract.
-- LeaveHit, cu ajutorul acestei optiuni puteti sa abandonati contractul.
-- Order, cu ajutorul acestei optiuni va puteti procura arme.
-- Ranks, cu ajutorul acestei optiuni, puteti vedea membrii din agentie online.
-- Undercover, cu ajutorul acestei optiuni va puneti sub acoperire.
-- Logout, cu ajutorul acestei optiuni, va deconectati de la serverul agentiei.
+- **MyContract** - cu ajutorul acestei optiuni puteti vedea informatii despre tinta voastra.
+- **GetHit** - cu ajutorul acestei optiuni va puteti procura un contract.
+- **LeaveHit** - cu ajutorul acestei optiuni puteti sa abandonati contractul.
+- **Order** - cu ajutorul acestei optiuni va puteti procura arme.
+- **Ranks** - cu ajutorul acestei optiuni, puteti vedea membrii din agentie online.
+- **Undercover** - cu ajutorul acestei optiuni va puneti sub acoperire.
+- **Coverskin** - cu ajutorul acestei optiuni va puteti alege skinul de undercover.
+- **Logout** - cu ajutorul acestei optiuni, va deconectati de la serverul agentiei.
 
 *Nota: Dupa efectuarea contractului veti avea o perioada de asteptat in functie de distanta din care ati realizat contractul.*
 
 ### /ram
-
 Comanda are acelasi efect precum comanda /enter, insa este folosita numai daca un membru al agentiei de asasini trebuie sa patrunda in interiorul unei case pentru a asasina un jucator.
 
 ### /ftalkpower
-
 Prin aceasta comanda un membru cu rang 5+ poate dezactiva chatul factiunii pentru membrii cu rank mai mic decat cel ales de el.
 
 ### /fwithdrawpower
-
 Prin aceasta comanda liderul factiunii poate stabili rank-ul minim pentru extragerea banilor, drogurilor si respectiv al materialelor din HQ.
 
 ### /tduty
-
 Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre liderul factiunii se pot pune la datorie pentru a putea efectua teste de intrare in factiune.
 
+### /tog - Hitman Contract
+Prin aceasta optiune alegeti daca sa vedeti sau sa nu contractele care sunt distribuite in interiorul factiunii.
+
 ## Timpii de asteptare pentru luarea contractelor
-
 ### Pentru efectuarea contractului
-
-- De la peste 300 metri, sau daca efectuati contractul cu Knife, veti putea da gethit imediat.
-- De la 250 - 299 metri, sau tinta se sinucide, veti putea da gethit in 5 minute.
-- De la 200 - 249 metri, veti putea da gethit in 10 minute.
-- De la sub 199 de metri, veti putea da gethit in 15 minute.
+- De la peste 300 metri / daca efectuati contractul cu Knife - veti putea da gethit imediat.
+- De la 250 - 299 metri /  tinta se sinucide - veti putea da gethit in 5 minute.
+- De la 200 - 249 metri - veti putea da gethit in 10 minute.
+- De la sub 199 de metri - veti putea da gethit in 15 minute.
 
 ### Pentru abandonarea contractului
-
 Agentul nu primeste timp de asteptarea in urmatoarele situatii tratate de catre server:
 
 1. Daca tinta se pune pe /sleep in timp ce agentul este in urmarirea acestuia.
@@ -256,7 +190,7 @@ Agentul nu primeste timp de asteptarea in urmatoarele situatii tratate de catre 
 6. Daca tinta participa la un eveniment.
 7. Daca tinta participa la un live.
 8. Daca tinta este intr-o misiune.
-9. Daca tinta este intr-un business unde se desfasoara un eveniniment.
+9. Daca tinta este intr-un business unde se desfasoara un eveniment.
 10. Daca tinta este intr-un meci de Poker sau in business-ul de Poker.
 11. Daca tinta este AFK cu 0 HP.
 12. Daca tinta este in logare.

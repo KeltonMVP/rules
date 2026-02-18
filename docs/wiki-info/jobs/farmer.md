@@ -10,6 +10,16 @@ icon: material/tractor
 </figure>
 
 <figure markdown="span">
+  ![Ferma Las Venturas #1'](/images/wiki/jobs/farm_lv_map.png){ style="width: 450px; height: 350px;" }
+  <figcaption>Ferma Las Venturas #1'</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Ferma San Fierro #1''](/images/wiki/jobs/farm_sf_map.png){ style="width: 450px; height: 350px;"  }
+  <figcaption>Ferma San Fierro #1''</figcaption>
+</figure>
+
+<figure markdown="span">
   ![3D Text of parcel #2](/images/wiki/general/ParcelText.png){ width="500" }
   <figcaption>Text 3D al parcelei #2</figcaption>
 </figure>
@@ -29,7 +39,7 @@ icon: material/tractor
   <figcaption>Meniul de plantare a semintelor #5</figcaption>
 </figure>
 
-Exista cate o ferma in fiecare oras. Fermierii se trezesc devreme si incep munca, pentru ca indemanarea lor sa fie dezvoltata pe zi ce trece, astfel, in functie de indemanare (skill), acestia pot planta mai multe lucruri. Mai multe detalii despre viata fermierilor, castigurile si skill, gasiti mai jos, in aceasta pagina.
+Exista cate o ferma in fiecare oras (*vezi imaginile #1 / #1' / #1''*). Fermierii se trezesc devreme si incep munca, pentru ca indemanarea lor sa fie dezvoltata pe zi ce trece, astfel, in functie de indemanare (skill), acestia pot planta mai multe lucruri. Mai multe detalii despre viata fermierilor, castigurile si skill, gasiti mai jos, in aceasta pagina.
 
 ## Caracteristici Generale
 
@@ -46,7 +56,7 @@ Exista cate o ferma in fiecare oras. Fermierii se trezesc devreme si incep munca
         * Los Santos - ID-uri de la **1** pana la **20**.
         * Las Venturas - ID-uri de la **53** pana la **64**.
         * San Fierro - ID-uri de la **29** pana la **48**.
-* Fiecare gruparcela contine un text 3D cu informatii despre aceasta (*imaginea #2*).
+* Fiecare parcela (Grup) contine un text 3D cu informatii despre aceasta (*imaginea #2*).
 * Parcelele pot fi inchiriate pentru 24 de ore mergand la textul 3D de pe parcela si apasand tasta Y.
 * Din momentul inchirierii aveti o ora la dispozitie sa plantati ceva sau chiria se va anula.
 * Un jucator poate detine simultan o parcela privata si una publica.
@@ -115,7 +125,7 @@ Exista cate o ferma in fiecare oras. Fermierii se trezesc devreme si incep munca
 
 **Nota:** Suma finala de plata este calculata incluzand **Job Boost** daca acesta este activ pe cont.
 
-## Avansare skill
+## Avansare Skill
 
 Fiecare planta ofera un anumit punctaj pe baza caruia se face avansarea in skill:
 
@@ -132,7 +142,7 @@ Pentru a avansa in skill aveti nevoie de urmatoarele puncte:
 * Pentru a se efectua trecerea de la skill 3 la skill 4, un muncitor are nevoie de 13824 puncte.
 * Pentru a se efectua trecerea de la skill 4 la skill 5, un muncitor are nevoie de 23040 puncte.
 
-## Comenzi disponibile
+## Comenzi Disponibile
 
 ### /abandonparcel
 Cu ajutorul acestei comenzi puteti renunta la inchirierea unei parceli in cazul in care nu mai aveti nevoie de aceasta.<br>
