@@ -214,11 +214,6 @@ Through this command, those designated with the tester function by the faction l
 
 ## Corpse System
 
-<figure markdown="span">
-  ![Corpse System](https://i.imgur.com/6rhVVjn.png){ width="500" }
-  <figcaption>Corpse System</figcaption>
-</figure>
-
 * When a player on the server is killed by a civilian or a member of any other faction, apart from Paramedics, they will leave behind a corpse at the location where they were killed.
 * A maximum of 20 corpses can exist simultaneously. If a player is killed, but there are already 20 existing corpses on the map, that player will not leave a corpse behind.
 * These corpses can be picked up by a medic within a maximum interval of 15 minutes before decomposing.
@@ -229,12 +224,6 @@ Through this command, those designated with the tester function by the faction l
   * the player has not left a corpse behind for at least 10 minutes
   * neither the killed player nor the one who killed them are part of Paramedics
 * When a player who meets all the above conditions dies, Paramedics members will receive an informative message about this. The message will contain the name of the killed player, their ID, the corpse location and the command they must use to head towards that corpse.
-
-<figure markdown="span">
-  ![Message](https://i.imgur.com/hCUpT9N.png){ width="500" }
-  <figcaption>Notification message</figcaption>
-</figure>
-
 * To pick up a corpse, medics must use the [/corpse] command followed by the corresponding corpse ID. Corpse IDs can vary from 0 to 19.
 * To see all corpses on the map, use the [/corpses] command.
 
