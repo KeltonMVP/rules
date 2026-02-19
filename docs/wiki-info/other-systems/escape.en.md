@@ -15,6 +15,7 @@ If the possibility of ending up in prison is so high and the temptations to comm
 ## General characteristics
 
 * Teams of up to 6 prisoners will be formed, teams that can only be formed in the prison yard. Each team member must have at least 20 escape points to be invited / to create a team (leader).
+* To escape you need **at least 600 seconds** in jail.
 * Team members will lose 10 escape points when creating the team and another 10 when they manage to escape.
 * Players without premium accounts can have 20 escape points, while players with premium accounts have the limit set to 40.
 * At each payday, one escape point is received, except for police officers.

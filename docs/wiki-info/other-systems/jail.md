@@ -100,6 +100,7 @@ Aceasta comanda afiseaza jucatorului anumite informatii despre eliberarea sa con
     * Wanted 4 - bail 11.000$
     * Wanted 5 - bail 13.500$
     * Wanted 6 - bail 15.000$
+* Pentru a putea plati suma necesara aveti nevoie sa aveti banii in mana.
 
 ### /surrender
 

@@ -100,6 +100,7 @@ This command displays certain information to the player about their release for 
     * Wanted 4 - bail $11,000
     * Wanted 5 - bail $13,500
     * Wanted 6 - bail $15,000
+* In order to pay the required amount, you need to have the money in hand.
 
 ### /surrender
 

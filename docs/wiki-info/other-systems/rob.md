@@ -168,7 +168,7 @@ Pentru a jefui o casa sau un biz aveti nevoie de:
         - **Skill 5:** 340 secunde.
 - Daca jucatorul se incadreaza in timpul necesar, acesta va fi scos in afara casei sau bizului jefuit cu un sac cu bani, primind totodata wanted 6 fara drept de predare pentru jaf.
 - Urmatorul pas este ascunderea banilor furati la doua case diferite, jucatorul primind cate un checkpoint unde trebuie sa mearga. Asadar va recomandam sa aveti un vehicul in asteptare in momentul in care dati un astfel de jaf.
-- Daca jucatorul reuseste sa duca banii la cele doua locatii atunci jucatorul trece in etapa de evadare <b>cu conditia sa aibe cel putin 4 evadari din inchisoare finalizate cu succes</b>, moment in care jucatorul primeste plata pe rob, i se mai scad inca 5 puncte de jaf si i se adauga un punct la skill.
+- Daca jucatorul reuseste sa duca banii la cele doua locatii atunci jucatorul trece in etapa de evadare <b>cu conditia sa aibe cel putin 3 evadari din inchisoare finalizate cu succes</b>, moment in care jucatorul primeste plata pe rob, i se mai scad inca 5 puncte de jaf si i se adauga un punct la skill.
 - Daca jucatorul este omorat pe parcurs de catre politisti acesta va pierde robul si nu va mai primi plata, fiind inchis in puscarie.
 
 ### Castigul la Solo Rob

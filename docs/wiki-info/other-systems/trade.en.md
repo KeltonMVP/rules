@@ -17,6 +17,7 @@ The concept of **Trade** is found in several strategy games, being an easy metho
 To successfully complete a deal with one of the players on the B-Zone RPG servers, follow these steps:
 
 - Type the /trade command, specifying the ID or name of the partner player (*example: /trade Adi007*).
+    - To use this command you need **minimum level 3**.
 - Immediately, the server will open a simple table, as you can see in the image.
 - The table is divided into two equal parts, with your goods on the left side and your partner's goods on the right side.
 - To add an amount of money, a house, a business or a vehicle, press the **Add item** button and select one of the specified goods from the open list.

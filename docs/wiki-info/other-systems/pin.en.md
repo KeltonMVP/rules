@@ -40,3 +40,9 @@ Using this command, a player can set a security PIN code for the first time. Onc
 The command is used by players with the role of changing their PIN code.
 
 Typing this command will display the same panel as in the case of the */unlockacc*, */pin* or */addpin* commands. Once the panel is displayed, you must enter the current PIN code of the account. After entering the current PIN code, the server will ask you to enter the desired new PIN code.
+
+
+## PIN Recovery
+To recover your account PIN, you must request a Recovery request by accessing the website rpg.b-zone.ro > My Account > Security > Recover PIN via Email.
+
+After which the current account PIN is sent to the email address currently attached to the account. If you no longer have access to it, you cannot recover your account PIN and must open an account recovery request to have your email address changed by an administrator.
