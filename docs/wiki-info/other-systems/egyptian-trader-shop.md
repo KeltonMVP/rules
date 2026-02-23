@@ -62,14 +62,24 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 </figure>
 
 
-## Mecanica de reroll
+## Mecanica de Reroll
 * Daca jucatorului nu-i plac bonusurile primite si doreste sa le schimbe fara a schimba skinul cu totul, acesta poate sa le schimbe **folosind optiunea de Reroll** la *Traderul Egiptean*.
-* De retinut ca va trebui sa platiti din nou pretul intreg si ca s-ar putea sa primiti bonusuri mai slabe sau mai bune in functie de noroc.
-* Daca alegeti sa folositi *optiunea de reroll* si detineti un Skin <span style="color:#11c8fa">**Diamond**</span>, veti primi alte 2 bonusuri aleatorii care vor inlocui bonusurile deja existente.
-* Nota: Bonusurile sunt aleatorii, asadar exista sansa sa primesti aceleasi bonusuri dar cu valori diferite.*
-* Daca detineti un Skin <span style="color:#fa8e0a">**Onyx**</span> si folositi *optiunea de reroll*, toate cele 4 bonusuri de pe skin vor fi resetate.
+* Revizuirea consta in selectarea bonusurilor care trebuie schimbate si a celor care ar trebui pastrate.
+* De retinut ca va trebui sa platiti o sumă de bani, puncte de misiune si tickete de tipul skin-ului respectiv in functie de cate bonusuri vreti sa pastrati pe skinul curent. 
+* Exista posiblitatea ca bonusurile pe care le primiti sa fie mai slabe sau mai bune in functie de noroc.
+* O interfata va fi deschisa cu toate bonusurile tale pe skin si cateva butoane cu un **X** in dreapta, imediat dupa deschiderea interfetei.
+* Aceste butoane schimba statutul pastrarii bonusului cand sunt apasate.
+    * Daca butonul din dreapta numelui bonusului este marcat cu un **X**, apasarea lui va marca butonul cu o bifa.
+    * Bifa marcheaza un bonus care va fi **SCHIMBAT**, **X** marcheaza un bonus care va fi **PASTRAT**. **Mare atentie sa nu le confundati intre ele !**
+* Dupa acest proces, butonul **CONFIRM** poate fi apasat si va deschide o fereastra de confirmare cu toate informatiile necesare, cum ar fi ce bonusuri vor fi schimbate si care vor fi pastrate.
+* Preturile de reroll sunt urmatoarele:
+    * Un bonus va costa **$1.000.000** si **50 MP**. Aceste cerinte vor creste pentru fiecare bonus care este schimbat pe skin, dupa cum urmeaza:
+        * 2 bonusuri schimbate vor necesita **$2.000.000** si **100 MP**.
+        * 3 bonusuri schimbate vor necesita **$3.000.000** si **150 MP**.
+    * Daca schimbi **1 sau 2 bonusuri**, vei avea nevoie de **1 ticket** de tipul skin-ului.
+    * Daca schimbi **3 sau 4 bonusuri**, vei avea nevoie de **2 tickete** de tipul skin-ului.
 
-## Mecanica de fuzionare
+## Mecanica de Fuzionare
 
 * Jucatorii vor putea fuziona doua skinuri <span style="color:#11c8fa">**Diamond**</span> sau doua skinuri <span style="color:#fa8e0a">**Onyx**</span> indiferent de sex si vor pastra un singur skin la finalul fuzionarii (_vezi imaginea **#3**_).
 
@@ -156,6 +166,8 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
     * **Diamond Tickets:** 1 pentru 160 Gold sau 80,000$.
     * **Onyx Fragments:** 1 pentru 40 Gold sau 20,000$.
     * **Onyx Tickets:** 1 pentru 200 Gold sau 100,000$.
+    * **Skin Upgrade Ticket:** 1 pentru 120 Gold sau $60.000.
+    * **Skin Upgrade Fragment** 1 pentru 24 Gold sau $12.000.
 
 ## Bonusuri
 * Pentru a verifica bonusurile unui skin se va folosi comanda /skinbonus.<br/>

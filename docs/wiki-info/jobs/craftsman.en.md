@@ -31,7 +31,7 @@ icon: material/hammer
 
 The job location can be seen in image **#2**. The craftsman job consists of gathering the necessary materials to create carpentry objects, processing and transporting them to the House Upgrade business. Dexterity for creating artisan objects will be gained over time, gaining more experience and being able to craft objects of greater complexity and value.
 
-## General characteristics
+## General Characteristics
 
 * The job is legal, located in San Fierro in the King's area (**near Bank SF**) and you can work here starting from level 5.
 * The job has four main activities:
@@ -58,7 +58,9 @@ The job location can be seen in image **#2**. The craftsman job consists of gath
     * between Skill 7 and Skill 8 you can process chairs, tables and accessories
     * between Skill 9 and Skill 10 you can process chairs, tables, accessories and doors
 * You can work at this job while having a criminal record (wanted).
-* The maximum amount of materials (gold bars/cotton/wood/silver) that the player can collect is 999.
+* The maximum amount of materials (gold/cotton/wood/silver ingots) that the player can collect differs depending on the job skill:
+    * Skill 1 - 9: 999 maximum.
+    * Skill 10: 1999 maximum.
 * You can view the amount of materials you have through the commands **/inventory**, **/inventar**, **/backpack** or **/inv** if you have at least skill 3 at this job or at **Archeologist** job.
 
 ## Artisan articles
@@ -257,6 +259,15 @@ You can obtain silver by working at Quarry Worker, the silver earnings are as fo
 - Tunable: TransFender
 
 *From Skill 5 - Any personal vehicle*
+
+## Air Delivery
+* Players can use private jets or helicopters to deliver crafted furniture.
+* This functionality is unlocked at **skill 10**. Up until skill 10, deliveries will be made using a private car as usual.
+* The air delivery option uses a separate delivery system designed specifically for aircraft.
+* Instead of driving to the destination, players with skill 10 can complete deliveries by airdropping the package directly to the target location (House Upgrade Business).
+* The aircraft allowed for transport are:
+    * Helicopters: Leviathan, Sparrow, Maverick, Cargobob, Raindance.
+    * Airplanes: Skimmer, Beagle, Cropduster, Stuntplane, Shamal, Nevada, Dodo.
 
 ## Runs needed for skill advancement
 
