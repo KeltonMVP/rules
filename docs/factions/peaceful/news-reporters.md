@@ -301,17 +301,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 - reporterii beneficiaza intotdeauna de interviuri la pretul de <span style="color:var(--green);">$1 / persoana</span> (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.2.4</span> Interviurile pot fi sustinute doar cu o cerere de interviu acceptata in prealabil (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">6.2.4</span> Nu este permis sa sustineti un interviu cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.2.5</span> Este interzis sa sustineti un interviu cu un jucator dupa ce a expirat cererea acestuia de interviu (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">6.2.5</span> Numarul maxim de participanti la un interviu este de 7 participanti (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.2.6</span> Nu este permis sa sustineti un interviu cu un jucator sau mai multi jucatori aflati pe blacklistul factiunii (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">6.2.6</span> Durata maxima pe care o poate avea un interviu este de 60 minute (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.2.7</span> Numarul maxim de participanti la un interviu este de 7 participanti (<span style="color:red;">sanctiune: Faction Warn</span>).
-
-<span style="color:var(--pink);">6.2.8</span> Durata maxima pe care o poate avea un interviu este de 60 minute (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
-
-<span style="color:var(--pink);">6.2.9</span> Inainte de inceperea unui interviu aveti obligatia de clarifica invitatilor ca trebuie sa respecte regulile impuse pe [<span style="color:var(--pink);">/l</span>].
+<span style="color:var(--pink);">6.2.7</span> Inainte de inceperea unui interviu aveti obligatia de clarifica invitatilor ca trebuie sa respecte regulile impuse pe [<span style="color:var(--pink);">/l</span>].
 
 - fara jigniri si greseli gramaticale.
 - fara emoticoane si prescurtari.
@@ -322,11 +318,11 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
     Lipsa clarificarii regulilor impuse pe [<span style="color:var(--pink);">/l</span>] invitatilor se sanctioneaza cu <span style="color:red;">Avertisment Verba</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
     Sunteti obligati sa opriti cat mai repede interviul daca invitatii incep sa nu mai respecte regulile impuse (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.2.10</span> Aveti 48 de ore la dispozitie ca sa postati evidenta unui interviu dupa incheierea acestuia in topicul specific (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">6.2.8</span> Aveti 48 de ore la dispozitie ca sa postati evidenta unui interviu dupa incheierea acestuia in topicul specific (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">6.2.11</span> Daca un invitat este scos din interviu de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in interviu (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">6.2.9</span> Daca un invitat este scos din interviu de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in interviu (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.2.12</span> Lipsa unei dovezi cu minim 3 si maxim 5 poze din timpul interviului se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
+<span style="color:var(--pink);">6.2.10</span> Lipsa unei dovezi cu minim 3 si maxim 5 poze din timpul interviului se sanctioneaza cu <span style="color:red;">Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele.
 
 ### Emisiuni
 
@@ -416,8 +412,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - un membru de rank 2, dupa ce a terminat de scris un ziar, are obligatia de a cere unui membru de rank superior sa ii corecteze ziarul (<span style="color:red;">sanctiune: Faction Warn</span>).
 - reporterii de rank superior care neglijeaza cererile de corectare ale ziarelor celor de rank 2 vor fi sanctionati (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">7.6</span> Pentru a evita fraudarea in ceea ce priveste scrierea ziarelor, reporterul va trebui sa posteze evidenta ziarului redactat si corectat in topicul [News Reporters - Evidenta ziare](https://forum.b-zone.ro/topic/303895--) intrucat ziarele scrise total gresit se puncteaza la raport (<span style="color:red;">sanctiune: Recuperarea Ziarului</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">7.6</span> Pentru a evita fraudarea in ceea ce priveste scrierea ziarelor, reporterul va trebui sa posteze atat evidentele ziarelor redactate si corectate in topicul [News Reporters - Evidenta ziare](https://forum.b-zone.ro/topic/303895--) (daca a efectuat cu succes raportul la rubrica ziare in acea saptamana), dar si ziarele scrise gresit, intrucat acestea se puncteaza la raport (<span style="color:red;">sanctiune: Faction Warn</span>).
 
+- atat reporterii de rank 2, cat si cei de rank superior care corecteaza ziare sunt obligati sa aiba dovezi cu toate ziarele scrise corect si gresit din saptamana aferenta unui raport de activitate (<span style="color:red;">sanctiune: Faction Warn</span>).
 - daca ziarul este scris gresit, atat cel care a scris ziarul, cat si cel care l-a corectat va fi sanctionat (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 - daca ziarul are sub 10 randuri, atat cel care l-a scris cat si cel care l-a corectat va fi sanctionat (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 - folosirea fonturilor greu de citit este interzisa in pozele din topicul cu evidentele ziarelor (<span style="color:red;">sanctiune: Recuperarea Ziarului</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).

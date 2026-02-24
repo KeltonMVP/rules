@@ -204,7 +204,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">9.1</span> Jucatorii ce incalca limita minima de viteza 100, 130 sau 160 km/h) <span style="color:var(--pink);">cu 1 - 2 km/h</span> nu vor fi sanctionati.
 
-<span style="color:var(--pink);">9.2</span> Cand puneti/reluati un radar, indiferent de orasul din care faceti parte, sunteti obligati sa anuntati pe chatul departamentelor, [<span style="color:var(--pink);">/d</span>].
+<span style="color:var(--pink);">9.2</span> Cand puneti/reluati un radar, indiferent de orasul din care faceti parte, sunteti obligati sa anuntati pe chatul departamentelor, [<span style="color:var(--pink);">/d</span>] (<span style="color:red;">sanctiune: Avertisment Verbal</span>).
 
 <span style="color:var(--pink);">9.3</span> Inainte de a pune radar intr-o anumita zona trebuie sa intrebati de 3 ori pe [<span style="color:var(--pink);">/d</span>], cu minim 10 secunde intre ele, daca zona este libera, iar daca zona nu este din orasul vostru sa cereti permisiunea unui rank 4+ din acel oras, pe [<span style="color:var(--pink);">/d</span>]. Daca nu primiti niciun raspuns, dupa 1 minut puteti amplasa radarul. Daca sunteti refuzat (cu un motiv intemeiat) trebuie sa asteptati 5 minute pana la urmatoarea cerere.
 

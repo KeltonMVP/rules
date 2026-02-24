@@ -301,17 +301,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 - reporters always benefit from interviews at the price of <span style="color:var(--green);">$1 / person</span> (<span style="color:red;">sanction:</span> <span style="color:orange;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
-<span style="color:var(--pink);">6.2.4</span> Interviews can only be conducted with a previously accepted interview request (<span style="color:red;">sanction:</span> <span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">6.2.4</span> It is not allowed to conduct an interview with one or more players who are on the faction's blacklist (<span style="color:red;">sanction:</span> <span style="color:red;">Faction Warn</span>).
 
-<span style="color:var(--pink);">6.2.5</span> It is forbidden to conduct an interview with a player after their interview request has expired (<span style="color:red;">sanction:</span> <span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">6.2.5</span> The maximum number of participants in an interview is 7 participants (<span style="color:red;">sanction:</span> <span style="color:red;">Faction Warn</span>).
 
-<span style="color:var(--pink);">6.2.6</span> It is not allowed to conduct an interview with one or more players who are on the faction's blacklist (<span style="color:red;">sanction:</span> <span style="color:red;">Faction Warn</span>).
+<span style="color:var(--pink);">6.2.6</span> The maximum duration of an interview is 60 minutes (<span style="color:red;">sanction:</span> <span style="color:orange;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
-<span style="color:var(--pink);">6.2.7</span> The maximum number of participants in an interview is 7 participants (<span style="color:red;">sanction:</span> <span style="color:red;">Faction Warn</span>).
-
-<span style="color:var(--pink);">6.2.8</span> The maximum duration of an interview is 60 minutes (<span style="color:red;">sanction:</span> <span style="color:orange;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
-
-<span style="color:var(--pink);">6.2.9</span> Before starting an interview, you have the obligation to clarify to the guests that they must adhere to the rules imposed on [<span style="color:var(--pink);">/l</span>].
+<span style="color:var(--pink);">6.2.7</span> Before starting an interview, you have the obligation to clarify to the guests that they must adhere to the rules imposed on [<span style="color:var(--pink);">/l</span>].
 
 - no insults or grammatical errors.
 - no emoticons or abbreviations.
@@ -322,11 +318,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     Lack of clarification for the [<span style="color:var(--pink);">/l</span>] rules for your guests is punished with <span style="color:red;">Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses.
     You are required to stop the interview as soon as the guests start to disrespect the imposed rules (<span style="color:red;">sanction: Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
-<span style="color:var(--pink);">6.2.10</span> You have 48 hours to post evidence of an interview after its conclusion in the specific topic (<span style="color:red;">sanction: Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
+<span style="color:var(--pink);">6.2.8</span> You have 48 hours to post evidence of an interview after its conclusion in the specific topic (<span style="color:red;">sanction: Verbal Warning</span> on the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
-<span style="color:var(--pink);">6.2.11</span> If a guest is removed from the interview by an Admin for a reason related to the [<span style="color:var(--pink);">/l</span>] command, they cannot be re-invited to the interview (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">6.2.9</span> If a guest is removed from the interview by an Admin for a reason related to the [<span style="color:var(--pink);">/l</span>] command, they cannot be re-invited to the interview (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.2.12</span> Lack of proof with a minimum of 3 and a maximum of 5 pictures from the interview will be sanctioned with a <span style="color:red;">Verbal Warning</span> on the first offense, and a <span style="color:red;">Faction Warn</span> for subsequent offenses.
+<span style="color:var(--pink);">6.2.10</span> Lack of proof with a minimum of 3 and a maximum of 5 pictures from the interview will be sanctioned with a <span style="color:red;">Verbal Warning</span> on the first offense, and a <span style="color:red;">Faction Warn</span> for subsequent offenses.
 
 ### Shows
 
@@ -416,8 +412,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - a member of rank 2, after finishing writing a newspaper, is obligated to ask a higher-ranked member to correct their newspaper (<span style="color:red;">sanction: Faction Warn</span>).
 - higher-ranked reporters who neglect the correction requests of rank 2 members will be sanctioned (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">7.6</span> To prevent fraud regarding the writing of newspapers, the reporter will need to post evidence of the written and corrected newspaper in the topic [News Reporters - Newspaper Evidence](https://forum.b-zone.ro/topic/303895--) as incorrectly written newspapers are penalized in reports (<span style="color:red;">sanction: Newspaper Retrieval</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">7.6</span> To avoid fraud regarding the writing of newspapers, the reporter will need to post both the evidence of written and corrected newspapers in the topic [News Reporters - Newspaper Evidence](https://forum.b-zone.ro/topic/303895--) (if they successfully completed the report for the newspapers section that week), as well as the incorrectly written newspapers, as these are scored in the report (<span style="color:red;">sanction: Faction Warn</span>).
 
+- both rank 2 reporters and higher-ranked members who correct newspapers are obligated to have proof of all correctly and incorrectly written newspapers from the week of an activity report (<span style="color:red;">sanction: Faction Warn</span>).
 - if the newspaper is written incorrectly, both the writer and the corrector will be sanctioned (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 - if the newspaper has less than 10 lines, both the writer and the corrector will be sanctioned (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 - using hard-to-read fonts in the pictures from the newspaper evidence topic is prohibited (<span style="color:red;">sanction: Newspaper Retrieval</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
