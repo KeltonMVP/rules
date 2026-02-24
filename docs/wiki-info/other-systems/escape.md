@@ -15,6 +15,7 @@ Daca posibilitatea de a ajunge la inchisoare este atat de mare si tentatiile de 
 ## Caracteristici generale
 
 * Se vor forma echipe a maxim 6 puşcariaşi, echipe ce se pot forma doar in curtea inchisorii. Fiecare membru al echipei trebuie sa aiba cel puţin 20 de puncte de evadare pentru a putea fi invitat / pentru a crea o echipa (lider).
+* Pentru a putea evada aveti nevoie de **minim 600 de secunde** in inchisoare.
 * Membrii echipei vor pierde 10 puncte de evadare la crearea echipei şi inca 10 in momentul in care reuşesc sa evadeze.
 * Jucatorii fara cont premium vor putea avea 20 de puncte de evadare, iar jucatorii cu cont premium au limita setata la 40.
 * La fiecare payday se primeşte un punct de evadare, excepţie poliţiştii.

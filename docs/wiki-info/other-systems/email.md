@@ -7,14 +7,14 @@ icon: material/email
 O adresa de email valida si actuala setata pe cont este foarte importanta pentru contul vostru din joc.
 
 
-## Imporanta E-mail-ului
+## Importanta E-mail-ului
 
 * Pe adresa de email setata la cont o sa vina mail-urile pentru recuperarea parolei sau a codului PIN a contului, daca aceasta nu este una valida nu o sa le puteti primi si o veti putea schimba ulterior.
 * Adresa de email **valida** ofera ajutor in cazul recuperari contului de catre admini. *(daca acestia considera ca este cazul)*
 * Daca adresa de email este **validata** pe cont in cazul in care contul va este spart/furat nu se va putea schimba adresa de e-mail de pe cont fara confirmarea de pe adresa de e-mail curenta.
 
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /validate
 

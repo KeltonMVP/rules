@@ -17,6 +17,7 @@ Notiunea de **Trade** se intalneste in cadrul mai multor jocuri de strategie, fi
 Pentru a incheia o afacere cu succes cu unul dintre jucatorii serverelor B-Zone RPG, urmati acesti pasi:
 
 - Tastati comanda /trade, specificand ID-ul sau numele jucatorului partener (*exemplu: /trade Adi007*).
+    - Pentru a folosi aceasta comanda aveti nevoie de **minim nivel 3**.
 - Imediat, serverul va deschide o tabela simpla, asa cum vedeti in imagine.
 - Tabela este impartita in doua parti egale, in partea stanga aflandu-se bunurile voastre, iar in partea dreapta bunurile partenerului.
 - Pentru a adauga o suma de bani, o casa, un business sau un vehicul, se va apasa pe butonul **Adauga obiect** si se va selecta din lista deschisa unul dintre bunurile specificate.

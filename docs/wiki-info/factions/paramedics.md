@@ -202,19 +202,27 @@ Prin aceasta comanda liderul factiunii poate stabili rank-ul minim pentru extrag
 Prin aceasta comanda cei care sunt desemnati cu functia de tester de catre liderul factiunii se pot pune la datorie pentru a putea efectua teste de intrare in factiune.
 
 ## Sistemul de Cadavre
+<figure markdown="span">
+  ![Coffin](/images/wiki/factions/coffin.png){ width="350" }
+  <figcaption>Cosciug cu cadavru</figcaption>
+</figure>
 
 * Cand un jucator de pe server este omorat de catre un civil sau un membru al oricarei alte factiuni, in afara de Paramedics, acesta va lasa in urma un cadavru la locatia in care a fost omorat.
 * Pot exista maxim 20 de cadavre simultan. Daca un jucator este omorat, dar pe harta sunt deja 20 de cadavre existente, acel jucator nu va lasa un cadavru in urma.
 * Aceste cadavre pot fi ridicate de catre un medic intr-un interval de maxim 15 minute inainte de a se descompune.
 * Cadavrul se va spawna doar daca toate aceste conditii sunt indeplinite:
-  * cel putin 1 medic este la datorie
-  * jucatorul omorat se afla in Virtual World 0 si Interior 0
-  * limita de cadavre existente nu a fost atinsa (20 de cadavre spawnate)
-  * jucatorul nu a lasat un cadavru in urma de cel putin 10 minute
-  * atat jucatorul omorat cat si cel care l-a omorat nu fac parte din Paramedics
-* Cand un jucator care indeplineste toate conditiile de mai sus moare, membrii Paramedics vor primi un mesaj informativ legat de acest lucru. Mesajul va contine numele jucatorului omorat, ID-ul acestuia, locatia cadavrului si comanda pe care trebuie sa o foloseasca pentru a se indrepta spre cadavrul respectiv.
-* Pentru a ridica un cadavru, medicii trebuie sa foloseasca comanda [/corpse] urmata de ID-ul cadavrului corespunzator. ID-ul cadavrelor poate varia de la 0 la 19.
-* Pentru a vedea toate cadavrele de pe harta se foloseste comanda [/corpses].
+    * cel putin 1 medic este la datorie
+    * jucatorul omorat se afla in Virtual World 0 si Interior 0
+    * limita de cadavre existente nu a fost atinsa (20 de cadavre spawnate)
+    * jucatorul nu a lasat un cadavru in urma de cel putin 10 minute
+    * atat jucatorul omorat cat si cel care l-a omorat nu fac parte din Paramedics
+
+![Romero](/images/wiki/factions/corpse_message.png){ style="display:block; margin: 0 0 8px 30px; width: 700px;" }
+
+- Cand un jucator care indeplineste toate conditiile de mai sus moare, membrii Paramedics vor primi un mesaj informativ legat de acest lucru. Mesajul va contine numele jucatorului omorat, ID-ul acestuia, locatia cadavrului si comanda pe care trebuie sa o foloseasca pentru a se indrepta spre cadavrul respectiv.
+- Cand un jucator care indeplineste toate conditiile de mai sus moare, membrii Paramedics vor primi un mesaj informativ legat de acest lucru. Mesajul va contine numele jucatorului omorat, ID-ul acestuia, locatia cadavrului si comanda pe care trebuie sa o foloseasca pentru a se indrepta spre cadavrul respectiv.
+- Pentru a ridica un cadavru, medicii trebuie sa foloseasca comanda [/corpse] urmata de ID-ul cadavrului corespunzator. ID-ul cadavrelor poate varia de la 0 la 19.
+- Pentru a vedea toate cadavrele de pe harta se foloseste comanda [/corpses].
 
 ## Legaturi Utile
 

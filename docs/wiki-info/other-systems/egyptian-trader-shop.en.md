@@ -60,14 +60,24 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
   <figcaption>Skin viewing #2</figcaption>
 </figure>
 
-## Reroll mechanic
-* If the player doesn't like the bonuses received and wants to change them without changing the skin completely, they can change them **using the Reroll option** at the *Egyptian Trader*.
-* Note that you will have to pay the full price again and you may receive weaker or better bonuses depending on luck.
-* If you choose to use the *reroll option* and own a <span style="color:#11c8fa">**Diamond**</span> Skin, you will receive another 2 random bonuses that will replace the existing bonuses.
-* Note: Bonuses are random, so there is a chance to receive the same bonuses but with different values.*
-* If you own an <span style="color:#fa8e0a">**Onyx**</span> Skin and use the *reroll option*, all 4 bonuses on the skin will be reset.
+## Reroll Mechanic
+* If the player does not like the bonuses received and wants to change them without changing the skin completely, he can change them **using the Reroll option** at the *Egyptian Trader*.
+* The review consists of selecting the bonuses that need to be changed and those that should be kept.
+* Keep in mind that you will have to pay an amount of money, mission points and tickets of the respective skin type depending on how many bonuses you want to keep on the current skin.
+* There is a possibility that the bonuses you receive will be weaker or better depending on luck.
+* An interface will open with all your bonuses on the skin and several buttons with an **X** on the right, immediately after opening the interface.
+* These buttons change the status of keeping the bonus when pressed.
+    * If the button to the right of the bonus name is marked with an **X**, pressing it will mark the button with a check mark.
+    * A check mark marks a bonus that will be **CHANGED**, **X** marks a bonus that will be **KEPT**. **Be careful not to confuse them!**
+* After this process, the **CONFIRM** button can be pressed and will open a confirmation window with all the necessary information, such as which bonuses will be exchanged and which will be kept.
+* The reroll prices are as follows:
+    * One bonus will cost **$1,000,000** and **50 MP**. These requirements will increase for each bonus that is exchanged on the skin, as follows:
+        * 2 exchanged bonuses will require **$2,000,000** and **100 MP**.
+        * 3 exchanged bonuses will require **$3,000,000** and **150 MP**.
+  * If you exchange **1 or 2 bonuses**, you will need **1 ticket** of the skin type.
+  * If you exchange **3 or 4 bonuses**, you will need **2 tickets** of the skin type.
 
-## Fusion mechanic
+## Fusion Mechanic
 
 * Players will be able to fuse two <span style="color:#11c8fa">**Diamond**</span> skins or two <span style="color:#fa8e0a">**Onyx**</span> skins regardless of gender and will keep only one skin at the end of the fusion (_see image **#3**_).
 
@@ -153,6 +163,8 @@ There are 4 rarities of Diamond/Onyx skins:
     * **Diamond Tickets:** 1 for 160 Gold or $80,000.
     * **Onyx Fragments:** 1 for 40 Gold or $20,000.
     * **Onyx Tickets:** 1 for 200 Gold or $100,000.
+    * **Skin Upgrade Ticket:** 1 for 120 Gold or $60.000.
+    * **Skin Upgrade Fragment** 1 for 24 Gold or $12.000.
 
 ## Bonuses
 * To check a skin's bonuses use the /skinbonus command.<br/>

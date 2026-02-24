@@ -15,8 +15,26 @@
 <h1 align="left" style="padding-top: 50px; font-weight: 700">Joacă SA-MP</h1>
 <div align="center">
 <img src="https://b-zone.ro/assets/icons/gta_sa.jpg" width="35" style="vertical-align:middle; border-radius: 5px;"> <b>1. Instalează GTA San Andreas</b></img>
-</p>Descarcă fișierul executabil din link-ul de mai jos pentru a instala jocul de bază.<br>Locația de instalare o puteți alege oriunde doriți în PC, doar să o rețineți deoarece aveți nevoie de ea să știți unde să înstalați SA-MP.</p>
-<a href="https://b-zone.ro/downloads/GTA_B-Zone_Installer.exe"><button style="padding-top: 15px; padding-bottom: 15px; padding-left: 40px;padding-right: 40px; background-color: #7453f5; border-color:#7453f5; border-style: solid; border-radius: 10px; font-family: Lucida Sans Unicode; font-weight: 700; letter-spacing: 2px; color: white; font-size: 1.25rem; line-height: 1.75rem; cursor:pointer; font-size: 18px;">DESCARCĂ</button></a>
+<p style="padding-top: 20px;"><span style="font-weight: bold; font-size: 24px; text-decoration: underline; letter-spacing: 2px;">METODA I</span><br><span style="font-weight: bold; letter-spacing: 1px;">PRIN FIȘIER INSTALLER (.exe)</span></p>
+<p style="line-height: 35px;">Descarcă fișierul executabil din link-ul de mai jos pentru a instala jocul de bază.<br>Locația de instalare o puteți alege oriunde doriți în PC, doar să o rețineți deoarece aveți nevoie de ea să știți unde să înstalați SA-MP.</p>
+<a href="https://b-zone.ro/downloads/GTA_B-Zone_Installer.exe"><button style="margin-top: 15px; padding-top: 15px; padding-bottom: 15px; padding-left: 40px;padding-right: 40px; background-color: #7453f5; border-color:#7453f5; border-style: solid; border-radius: 10px; font-family: Lucida Sans Unicode; font-weight: 700; letter-spacing: 2px; color: white; font-size: 1.25rem; line-height: 1.75rem; cursor:pointer; font-size: 18px;">DESCARCĂ</button></a>
+<p style="padding-top: 60px;"><span style="font-weight: bold; font-size: 24px; text-decoration: underline; letter-spacing: 2px;">METODA II</span><br><span style="font-weight:bold; letter-spacing: 1px;">PINTR-O UNITATE VIRTUALA (.iso)</span></p>
+<details>
+<summary style="font-weight: bold; font-style: italic;">Citeste mai mult</summary>
+<p style="line-height: 35px;"><b>1.</b> Pentru a putea descarca jocul GTA San Andreas, aveti nevoie de aplicația <a href="http://www.utorrent.com/intl/en/downloads/complete/track/stable/os/windows">µTorrent</a>.<br>
+<b>2.</b> Descărcarea imaginii .iso este facilitată de <a href="magnet:?xt=urn:btih:6abb5be16784ee66dd2f1dbd5cb86730464974e0&dn=Grand+Theft+Auto+San+Andreas-HOODLUM+&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969">acest torrent (magnet) (3.95 GB)</a> pe care trebuie să îl accesați.<br>
+<b>3.</b> Aplicația µTorrent va începe descărcarea jocului GTA San Andreas.<br>
+<b>4.</b> După finalizarea descărcarii jocului, veți găsi un fișier denumit <b><i>hlm-gtasa.iso</i></b>. Pentru a deschide fișierul respectiv, există mai multe soluții, cea mai eficientă fiind folosirea software-ului <a href="http://www.disk-tools.com/download/daemon">Daemon Tools</a>.<br>
+<b>5.</b> După descărcarea și instalarea software-ului Daemon Tools, se va apăsa click-dreapta pe fișierul <b><i>hlm-gtasa.iso</i></b>, se va selecta <b>Deschide cu/Open with</b> și se va apăsa pe campul care descrie Daemon Tools.<br>
+<b>6.</b> În cateva momente, computerul se va comporta ca și cum ați fi introdus un stick USB, iar în <b>My Computer</b> va aparea o nouă unitate virtuală (similara cu partițiile computer-ului, Local Disk D, Local Disk C, etc.).<br>
+<b>7.</b> Deschideți respectiva unitate virtuală, care poartă numele jocului și accesați fișierul <b><i>setup.exe</i></b>.<br>
+<b>8.</b> Urmați instructiunile oferite și instalați GTA San Andreas. Este recomandat, dar nu obligatoriu, să instalați jocul intr-o partiție diferită de cea în care sistemul de operare este instalat.<br>
+<b>9.</b> După finalizarea instalarii jocului GTA San Andreas, accesați din nou unitatea virtuală creată la punctul 6. Veți găsi un folder denumit <b><i>HOODLUM</i></b>, accesați-l și copiați fișierele din conținutul acestuia, după care plasați-le în folderul în care tocmai ați instalat jocul GTA San Andreas (copy & paste).<br>
+<b>10.</b> După finalizarea pașilor anteriori, dacă doriți să eliminați unitatea virtuala creată la punctul 6, apăsați click dreapta pe aceasta și selectați <b>Eject</b>.<br>
+<b>11.</b> De asemenea, software-urile folosite pentru descărcarea jocului (Daemon Tools și µTorrent) se pot dezinstala din panoul de control al computer-ului.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FV8EzWFpjw" frameborder="0" allowfullscreen></iframe>
+</details>
 </div>
 
 <div align="center" style="padding-top:100px">

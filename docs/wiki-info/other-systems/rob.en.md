@@ -168,7 +168,7 @@ To rob a house or business you need:
         - **Skill 5:** 340 seconds.
 * If the player fits in the required time, they will be taken out of the robbed house or business with a money bag, also receiving wanted 6 without the right to surrender for robbery.
 * The next step is to hide the stolen money at two different houses, the player receiving a checkpoint where they need to go. Therefore, we recommend having a vehicle waiting when you do such a robbery.
-* If the player manages to take the money to the two locations, then the player moves on to the escape stage <b>provided they have at least 4 successful prison escapes</b>, at which point the player receives payment per slave, another 5 robbery points are deducted, and one point is added to their skill.
+* If the player manages to take the money to the two locations, then the player moves on to the escape stage <b>provided they have at least 3 successful prison escapes</b>, at which point the player receives payment per slave, another 5 robbery points are deducted, and one point is added to their skill.
 * If the player is killed along the way by police officers, they will lose the robbery and will not receive payment, being locked in prison.
 
 ### Earnings from Solo Rob

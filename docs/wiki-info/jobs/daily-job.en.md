@@ -5,13 +5,13 @@ icon: material/calendar-star
 # Daily Job
 
 <figure markdown="span">
-  ![Jobs list](/images/wiki/general/Jobs_list.png){ width="300" }
-  <figcaption>#1 Daily Job, marked in orange</figcaption>
+  ![Jobs list](/images/wiki/jobs/Jobs_list.png){ width="300" }
+  <figcaption>#1 Daily Job, marked with X2</figcaption>
 </figure>
 
-The Daily Job is a new system introduced on B-Zone servers, created to double the earnings from various server jobs for a period of 24 hours.
+The Daily Job is a system created to double the earnings from various server jobs for a period of 24 hours.
 
-## General characteristics
+## General Characteristics
 
 * It is marked differently in the server's job list (/jobs), as shown in image #1.
 * Every day at 00:00 (server time) the daily job will change to the next job in the list.

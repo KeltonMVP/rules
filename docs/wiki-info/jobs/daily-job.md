@@ -5,13 +5,13 @@ icon: material/calendar-star
 # Jobul Zilei
 
 <figure markdown="span">
-  ![Jobs list](/images/wiki/general/Jobs_list.png){ width="300" }
-  <figcaption>#1 Jobul zilei, marcat cu portocaliu</figcaption>
+  ![Jobs list](/images/wiki/jobs/Jobs_list.png){ width="300" }
+  <figcaption>#1 Jobul zilei, marcat cu 2X</figcaption>
 </figure>
 
-Jobul zilei este un nou sistem aparut pe serverele B-Zone, creat pentru a dubla castigurile la diferite joburi de pe server pe o perioada de 24 de ore.
+Jobul zilei este un sistem creat pentru a dubla castigurile la diferite joburi de pe server pe o perioada de 24 de ore.
 
-## Caracteristici generale
+## Caracteristici Generale
 
 * Este marcat diferit in lista joburilor de pe server (/jobs), se observa in imaginea #1.
 * In fiecare zi la ora 00:00 (ora serverului) jobul zilei se va schimba cu urmatorul job din lista.

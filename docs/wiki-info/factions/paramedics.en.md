@@ -213,6 +213,10 @@ Through this command, the faction leader can set the minimum rank for withdrawin
 Through this command, those designated with the tester function by the faction leader can go on duty to conduct faction entry tests.
 
 ## Corpse System
+<figure markdown="span">
+  ![Coffin](/images/wiki/factions/coffin.png){ width="350" }
+  <figcaption>Coffin with corpse</figcaption>
+</figure>
 
 * When a player on the server is killed by a civilian or a member of any other faction, apart from Paramedics, they will leave behind a corpse at the location where they were killed.
 * A maximum of 20 corpses can exist simultaneously. If a player is killed, but there are already 20 existing corpses on the map, that player will not leave a corpse behind.
@@ -223,6 +227,9 @@ Through this command, those designated with the tester function by the faction l
   * the limit of existing corpses has not been reached (20 spawned corpses)
   * the player has not left a corpse behind for at least 10 minutes
   * neither the killed player nor the one who killed them are part of Paramedics
+
+![Romero](/images/wiki/factions/corpse_message.png){ style="display:block; margin: 0 0 8px 30px; width: 700px;" }
+
 * When a player who meets all the above conditions dies, Paramedics members will receive an informative message about this. The message will contain the name of the killed player, their ID, the corpse location and the command they must use to head towards that corpse.
 * To pick up a corpse, medics must use the [/corpse] command followed by the corresponding corpse ID. Corpse IDs can vary from 0 to 19.
 * To see all corpses on the map, use the [/corpses] command.

@@ -28,7 +28,7 @@ Pentru a apara identitatea jucatorilor si pentru a-i impiedica pe cei ce vor sa 
 * Anumite comenzi si functii importante ale liderilor de factiuni.
 
 
-## Comenzi specifice
+## Comenzi Specifice
 
 ### /unlockacc sau /pin
 Utilizand una dintre aceste comenzi, serverul va va afisa panoul in care trebuie sa introduceti codul **PIN** pentru deblocarea completa a functiilor contului.
@@ -40,3 +40,9 @@ Folosind aceasta comanda, un jucator poate sa-si seteze pentru prima data un cod
 Comanda este utilizata de jucatori cu rolul de a-si schimba codul PIN.
 
 Tastarea acestei comenzi va afisa acelasi panou ca si in cazul comenzilor */unlockacc*, */pin* sau */addpin*. Odata afisat panoul, trebuie sa introduceti actualul cod PIN al contului. Dupa introducerea codului pin actual, serverul va va cere introducerea noului cod PIN dorit.
+
+
+## Recuperarea codului PIN
+Pentru a va recupera codul PIN al contului trebuie sa solicitati o cerere de Recovery accesand Website-ul rpg.b-zone.ro > My Account > Security > Recover PIN via Email.
+
+Dupa care codul PIN actual al contului va este trimis pe adresa de email atasata contului in acel moment. Daca nu mai aveti acces la ea, nu va puteti recupera contul PIN si trebuie sa deschideti o cerere de recuperare cont pentru a va schimba adresa de email de catre un administrator.

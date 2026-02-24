@@ -58,7 +58,9 @@ Locatia jobului poate fi vizualizata in imaginea **#2**. Jobul de Mester consta 
     * intre Skill 7 si Skill 8 veti putea prelucra scaune, mese si accesorii
     * intre Skill 9 si Skill 10 veti putea prelucra scaune, mese, accesorii si usi
 * La acest job puteti lucra avand cazier (wanted).
-* Cantitatea maxima de materiale (lingouri de aur/bumbac/lemn/argint) pe care jucatorul o poate aduna este de 999.
+* Cantitatea maxima de materiale (lingouri de aur/bumbac/lemn/argint) pe care jucatorul o poate aduna difera in functie de skill-ul la job:
+    * Skill 1 - 9: 999 maxim.
+    * Skill 10: 1999 maxim.
 * Puteti vizualiza cantitatea de materiale pe care o aveti prin intermediul comenzilor, **/inventory**, **/inventar**, **/backpack** sau **/inv** daca detineti minim skill 3 la acest job sau la jobul **Arheolog**.
 
 ## Articolele Artizanale
@@ -257,6 +259,15 @@ Puteti face rost de argint lucrand la Muncitor la Cariera, castigul de argint es
 - Tunabil: TransFender
 
 *De la Skill 5 - Orice vehicul personal*
+
+## Livrarea cu Aeronave
+* Jucatorii pot folosi avioane private sau elicoptere pentru a livra mobila craftata.
+* Aceasta functionalitate este deblocată la **skill 10**. Pana la skill 10 se va livra folosind o masina privata ca de obicei.
+* ​Optiunea de livrare aeriana foloseste un sistem de livrare separat proiectat specific pentru aeronave.
+* In loc sa conduci la destinatie, jucatorii cu skill 10 pot finaliza livrarile prin aruncarea pachetului din aer direct catre locatia tinta (House Upgrade Business).
+* Aeronavele permise pentru transport sunt:
+    * Elicoptere: Leviathan, Sparrow, Maverick, Cargobob, Raindance.
+    * Avioane: Skimmer, Beagle, Cropduster, Stuntplane, Shamal, Nevada, Dodo.
 
 ## Curse necesare pentru avansarea in skill
 

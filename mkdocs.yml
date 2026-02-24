@@ -210,27 +210,28 @@ nav:
         - Sons of Anarchy: wiki-info/factions/sons-of-anarchy.md
         - Mayor: wiki-info/factions/mayor.md
       - Jobs:
-        - Pocket Thief: wiki-info/jobs/pocket-thief.md
+        - Quarry Worker: wiki-info/jobs/quarry-worker.md
+        - Lumberjack: wiki-info/jobs/lumberjack.md
+        - Miner: wiki-info/jobs/miner.md
+        - Garbage Man: wiki-info/jobs/garbage-man.md
+        - Bus Driver: wiki-info/jobs/bus-driver.md
+        - Fisherman: wiki-info/jobs/fisherman.md
+        - Trucker: wiki-info/jobs/trucker.md
+        - Farmer: wiki-info/jobs/farmer.md
+        - Chemist: wiki-info/jobs/chemist.md
         - Detective: wiki-info/jobs/detective.md
-        - Lawyer: wiki-info/jobs/lawyer.md
         - Transporter: wiki-info/jobs/transporter.md
         - Drugs Dealer: wiki-info/jobs/drugs-dealer.md
         - Car Jacker: wiki-info/jobs/car-jacker.md
         - Car Mechanic: wiki-info/jobs/car-mechanic.md
         - Arms Dealer: wiki-info/jobs/arms-dealer.md
-        - Trucker: wiki-info/jobs/trucker.md
-        - Farmer: wiki-info/jobs/farmer.md
-        - Quarry Worker: wiki-info/jobs/quarry-worker.md
-        - Garbage Man: wiki-info/jobs/garbage-man.md
-        - Lumberjack: wiki-info/jobs/lumberjack.md
-        - Miner: wiki-info/jobs/miner.md
-        - Bus Driver: wiki-info/jobs/bus-driver.md
-        - Fisherman: wiki-info/jobs/fisherman.md
-        - Chemist: wiki-info/jobs/chemist.md
-        - Craftsman: wiki-info/jobs/craftsman.md
         - Archeologist: wiki-info/jobs/archeologist.md
         - Electrician: wiki-info/jobs/electrician.md
+        - Lawyer: wiki-info/jobs/lawyer.md
+        - Pocket Thief: wiki-info/jobs/pocket-thief.md
+        - Craftsman: wiki-info/jobs/craftsman.md
         - Daily Job: wiki-info/jobs/daily-job.md
+        - Job Clash: wiki-info/jobs/job-clash.md
         - Useful Commands: wiki-info/jobs/useful-commands.md
       - Website:
         - My Account: wiki-info/website/my-account.md
@@ -275,7 +276,6 @@ nav:
         - Achievements: wiki-info/other-systems/achievements.md
         - Missions: wiki-info/other-systems/missions.md
         - Crates: wiki-info/other-systems/crates.md
-        - Safebox: wiki-info/other-systems/safebox.md
         - Job Goal: wiki-info/other-systems/job-goal.md
         - Car Market: wiki-info/other-systems/car-market.md
         - Gold Award: wiki-info/other-systems/gold-award.md
@@ -298,33 +298,33 @@ nav:
         - Premium: wiki-info/useful-commands/premium.md
         - Other Commands: wiki-info/useful-commands/other-commands.md
       - Shop:
-        - Gold Vehicles: wiki-info/shop/gold-vehicles.md
-        - Premium Account: wiki-info/shop/premium-account.md
-        - Hidden Color: wiki-info/shop/hidden-color.md
-        - VIP Car: wiki-info/shop/vip-car.md
-        - Cash Money Packs: wiki-info/shop/cash-money-packs.md
-        - Clans: wiki-info/shop/clans.md
-        - Clan Color: wiki-info/shop/clan-color.md
-        - Clan Name & Tag: wiki-info/shop/clan-name-tag.md
-        - Clan HQ Claim: wiki-info/shop/clan-hq-claim.md
-        - Clan HQ Interior: wiki-info/shop/clan-hq-interior.md
-        - Marathon: wiki-info/shop/marathon.md
-        - House Interiors: wiki-info/shop/house-interiors.md
-        - Clear Faction Punish: wiki-info/shop/clear-faction-punish.md
-        - Change Nickname: wiki-info/shop/change-nickname.md
-        - Extra Vehicle Slot: wiki-info/shop/extra-vehicle-slot.md
-        - Clear Warn: wiki-info/shop/clear-warn.md
-        - Change Sex: wiki-info/shop/change-sex.md
-        - Vehicle KM Reset: wiki-info/shop/vehicle-km-reset.md
-        - Discounts: wiki-info/shop/discounts.md
         - Buy Gold: wiki-info/shop/buy-gold.md
-        - Garage: wiki-info/shop/garage.md
-        - Private Frequency: wiki-info/shop/private-frequency.md
+        - Premium Account: wiki-info/shop/premium-account.md
+        - Cash Money Packs: wiki-info/shop/cash-money-packs.md
+        - Gold Vehicles: wiki-info/shop/gold-vehicles.md
+        - Hidden Color: wiki-info/shop/hidden-color.md
+        - Extra Vehicle Slot: wiki-info/shop/extra-vehicle-slot.md
+        - Vehicle KM Reset: wiki-info/shop/vehicle-km-reset.md
+        - VIP Car: wiki-info/shop/vip-car.md
         - Vehicle Age: wiki-info/shop/vehicle-age.md
         - Vehicle 3D Text: wiki-info/shop/vehicle-3d-text.md
-        - Vehicle Colored Plate: wiki-info/shop/vehicle-colored-plate.md
         - Extra Favorite Slot: wiki-info/shop/extra-favorite-slot.md
+        - Vehicle Colored Plate: wiki-info/shop/vehicle-colored-plate.md
+        - House Interiors: wiki-info/shop/house-interiors.md
+        - House Garage: wiki-info/shop/garage.md
+        - Clans: wiki-info/shop/clans.md
+        - Clan Name & Tag: wiki-info/shop/clan-name-tag.md
+        - Clan Color: wiki-info/shop/clan-color.md
+        - Clan HQ Claim: wiki-info/shop/clan-hq-claim.md
+        - Clan HQ Interior: wiki-info/shop/clan-hq-interior.md
+        - Clear Faction Punish: wiki-info/shop/clear-faction-punish.md
+        - Change Nickname: wiki-info/shop/change-nickname.md
+        - Clear Warn: wiki-info/shop/clear-warn.md
+        - Change Sex: wiki-info/shop/change-sex.md
+        - Safebox: wiki-info/shop/safebox.md
+        - Marathon: wiki-info/shop/marathon.md
+        - Private Frequency: wiki-info/shop/private-frequency.md
+        - Discounts: wiki-info/shop/discounts.md
         - Useful Commands: wiki-info/shop/useful-commands.md
       - Tutorials:
-        - How to Install SA:MP: wiki-info/tutorials/how-to-install-samp.md
         - Audio Plugin: wiki-info/tutorials/audio-plugin.md
