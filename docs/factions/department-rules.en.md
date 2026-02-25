@@ -280,7 +280,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">9.2.1</span> Before giving a player a wanted level, they must be summoned <span style="color:var(--pink);">at least 3 times</span> (within a maximum interval of 5 minutes from the first summons), and if the player stays still and does not respond (AFK without an hourglass), you must wait at least 30 seconds before sanctioning them (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">9.2.2</span> If a player refuses to exit the vehicle for a routine check after being properly summoned at least 3 times, they will receive Wanted 2 for disobeying orders. Furthermore, if the suspect exits the vehicle when summoned to surrender, and after you use [<span style="color:var(--pink);">/frisk</span>] you notice they have drugs in their possession, you have the right to give them Wanted 3 for drug possession (totaling Wanted 5). If they are cuffed and you need to confiscate the drugs, you can use [<span style="color:var(--pink);">/eject</span>] followed by [<span style="color:var(--pink);">/confiscate</span>] in the department garage.
+<span style="color:var(--pink);">9.2.2</span> If a player refuses to exit the vehicle for a routine check after being properly summoned at least 3 times, they will receive Wanted 2 for disobeying orders. Furthermore, if the suspect exits the vehicle when summoned to surrender, and after you use [<span style="color:var(--pink);">/frisk</span>] you notice they have drugs, bombs in their possession, you have the right to give them Wanted 3 for drug/bomb possession (totaling Wanted 5). If they are cuffed and you need to confiscate the drugs/bombs, you can use [<span style="color:var(--pink);">/eject</span>] followed by [<span style="color:var(--pink);">/confiscate</span>] in the department garage.
 
 <span style="color:var(--pink);">9.2.3</span> If you are pursuing a suspect on foot without a wanted level and they continue to flee even after receiving 3 summons, you have the right to give them Wanted 2 for disobeying orders.
 
@@ -300,11 +300,11 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ### Confiscate Overview
 
-<span style="color:var(--pink);">10.2.1</span> It is not allowed to confiscate weapons, materials, or drugs from players with wanted levels without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.1</span> It is not allowed to confiscate weapons, materials, drugs, or bombs from players with wanted levels without surrender rights (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">10.2.2</span> It is not allowed to confiscate weapons from players without wanted levels who attack police officers, they are to be sanctioned with Wanted 3 for assaulting an officer (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.2.3</span> Do not sanction for possession or use of drugs without evidence obtained through [<span style="color:var(--pink);">/frisk</span>] or the message of drug use near you (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it continues).
+<span style="color:var(--pink);">10.2.3</span> Do not sanction for possession of drugs/bombs or use of drugs without evidence obtained through [<span style="color:var(--pink);">/frisk</span>] or the message of drug use near you (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if it continues).
 
 ### Confiscating the <span style="color:orange;">Driving License</span>
 
@@ -345,7 +345,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.5.6</span> Weapons can be confiscated by members of any department.
 
-### Confiscating <span style="color:orange;">Drugs</span>
+### Confiscating <span style="color:orange;">Drugs/Bombs</span>
 
 <span style="color:var(--pink);">10.6.1</span> They are confiscated when a player is found to have them in their possession, even if the player is AFK (with or without a hourglass).
 
@@ -390,7 +390,7 @@ Some examples:
 
 <span style="color:var(--pink);">13.1.1</span> Giving wanted status is not allowed in arenas (paintball, gungame, etc.) (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.2</span> You are not allowed to give wanted status to AFK players, except when they possess drugs or go AFK in front of you immediately after committing a crime (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">13.1.2</span> You are not allowed to give wanted status to AFK players, except when they possess drugs, bombs or go AFK in front of you immediately after committing a crime (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">13.1.3</span> You are not allowed to give wanted status for attacking a police officer if you attack a bunker for supplies and the owner tries to defend it. Likewise, if a police officer's bunker is attacked, they are allowed to defend it. The attack and defense must be carried out without department members having active duty (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -636,7 +636,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">21.2.2</span> The leader has the right to force members to use a certain job for a specific period of time in order to carry out faction work (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">21.2.3</span> It is forbidden to have materials, drugs, or other illegal items on you (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">21.2.3</span> It is forbidden to have materials, drugs, bombs, or other illegal items on you (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">21.2.4</span> If you use another job than Detective, you are required to be off-duty.
 

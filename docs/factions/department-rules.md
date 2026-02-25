@@ -280,7 +280,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">9.2.1</span> Inainte de a sanctiona cu wanted un jucator acesta trebuie somat de <span style="color:var(--pink);">minim 3 ori</span> (intr-un interval de maxim 5 minute de la prima somatie), iar in cazul in care jucatorul sta pe loc si nu raspunde (AFK fara clepsidra) se asteapta minim 30 de secunde inainte de a-l sanctiona (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">9.2.2</span> Daca un jucator refuza sa coboare din vehicul pentru control de rutina dupa ce a fost somat regulamentar de minim 3 ori, acesta o sa primeasca Wanted 2 pentru neconformare ordin. In continuare, daca suspectul coboara cand este somat sa se predea, si dupa ce ii acordati [<span style="color:var(--pink);">/frisk</span>] observati ca are in posesia sa droguri, aveti dreptul sa-i acordati si Wanted 3 pentru posesie droguri (in total Wanted 5). Daca a primit cuff si trebuie sa-i confiscati drogurile, se poate folosi [<span style="color:var(--pink);">/eject</span>] si dupa [<span style="color:var(--pink);">/confiscate</span>] in garajul departamentului.
+<span style="color:var(--pink);">9.2.2</span> Daca un jucator refuza sa coboare din vehicul pentru control de rutina dupa ce a fost somat regulamentar de minim 3 ori, acesta o sa primeasca Wanted 2 pentru neconformare ordin. In continuare, daca suspectul coboara cand este somat sa se predea, si dupa ce ii acordati [<span style="color:var(--pink);">/frisk</span>] observati ca are in posesia sa droguri sau bombe, aveti dreptul sa-i acordati si Wanted 3 pentru posesie droguri/bombe (in total Wanted 5). Daca a primit cuff si trebuie sa-i confiscati drogurile/bombele, se poate folosi [<span style="color:var(--pink);">/eject</span>] si dupa [<span style="color:var(--pink);">/confiscate</span>] in garajul departamentului.
 
 <span style="color:var(--pink);">9.2.3</span> In cazul in care urmariti un suspect fara wanted pe jos iar acesta continua sa fuga chiar si dupa ce a primit 3 somatii, aveti dreptul de a-i acorda Wanted 2 pentru neconformare ordin.
 
@@ -300,11 +300,11 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ### Generalitati Confiscare
 
-<span style="color:var(--pink);">10.2.1</span> Nu este permis sa confiscati armele, materialele sau drogurile jucatorilor cu wanted fara drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">10.2.1</span> Nu este permis sa confiscati armele, materialele, drogurile sau bombele jucatorilor cu wanted fara drept de predare (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">10.2.2</span> Nu este permis sa confiscati armele jucatorilor fara wanted care ataca politistii, acestia fiind sanctionati cu wanted 3 pentru atacare politist (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">10.2.3</span> Nu sanctionati pentru posesie sau folosire droguri fara a avea dovada cu [<span style="color:var(--pink);">/frisk</span>] sau mesajul folosirii drogurilor langa voi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
+<span style="color:var(--pink);">10.2.3</span> Nu sanctionati pentru posesie droguri/bombe sau folosire droguri fara a avea dovada cu [<span style="color:var(--pink);">/frisk</span>] sau mesajul folosirii drogurilor langa voi (<span style="color:red;">sanctiune: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> daca continua).
 
 ### Confiscarea <span style="color:orange;">Licentei Auto</span>
 
@@ -345,7 +345,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.5.6</span> Armele pot fi confiscate de membrii oricarui departament.
 
-### Confiscarea <span style="color:orange;">Drogurilor</span>
+### Confiscarea <span style="color:orange;">Drogurilor/Bombelor</span>
 
 <span style="color:var(--pink);">10.6.1</span> Se confisca atunci cand se gaseste un jucator care sa le aiba in posesia sa, chiar daca jucatorul este AFK (cu sau fara clepsidra).
 
@@ -390,7 +390,7 @@ Cateva exemple:
 
 <span style="color:var(--pink);">13.1.1</span> Nu este permisa acordarea de wanted in arene (paintball, gungame, etc) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">13.1.2</span> Nu aveti voie sa acordati wanted jucatorilor aflati AFK, exceptie atunci cand acestia detin droguri ori se pun AFK in fata voastra imediat ce au comis o infractiune (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">13.1.2</span> Nu aveti voie sa acordati wanted jucatorilor aflati AFK, exceptie atunci cand acestia detin droguri, bombe ori se pun AFK in fata voastra imediat ce au comis o infractiune (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">13.1.3</span> Nu aveti voie sa acordati wanted pentru atacare politist daca atacati un bunker pentru aprovizionare si proprietarul incearca sa-l apere. In acelasi timp, daca bunkerul unui politist este atacat, are voie sa-l apere. Atacul si apararea trebuie facute fara ca membrii departamentelor sa aiba duty activ (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -636,7 +636,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.2.2</span> Liderul are dreptul de a forta membrii sa foloseasca un anumit job pentru o durata determinata de timp in scopul realizarii muncii din factiune (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">21.2.3</span> Este interzis sa aveti asupra voastra materiale, droguri sau alte obiecte ilegale (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">21.2.3</span> Este interzis sa aveti asupra voastra materiale, droguri, bombe sau alte obiecte ilegale (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">21.2.4</span> Daca folositi alt job decat cel de Detectiv, sunteti obligati sa fiti off-duty.
 
