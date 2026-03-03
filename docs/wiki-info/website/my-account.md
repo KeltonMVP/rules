@@ -567,172 +567,211 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 
 **Nota:** Se pot afisa maxim 6 badge-uri pe profil.
 
-### Lista Badge-urilor disponibile
 
-#### Badge-uri Generale
-
-<figure markdown="span">![B-Pets Winner](https://www.rpg.b-zone.ro/public/img/Badges/B-Pets_Winner.png){ width="65" }<figcaption>B-Pets Winner</figcaption></figure>
-
-**B-Pets Winner** - Oferit jucatorilor care castiga **locul 1** la concursul B-Pets.
-
-<figure markdown="span">![B-Setups Winner](https://www.rpg.b-zone.ro/public/img/Badges/B-Setups_Winner.png){ width="65" }<figcaption>B-Setups Winner</figcaption></figure>
-
-**B-Setups Winner** - Oferit jucatorilor care castiga **locul 1** la concursul B-Setup.
-
-<figure markdown="span">![Donator](https://www.rpg.b-zone.ro/public/img/Badges/Donator.png){ width="65" }<figcaption>Donator</figcaption></figure>
-
-**Donator** - Oferit jucatorilor care au atins suma de **10.900 Gold** adaugat in joc.
-
-<figure markdown="span">![Economy Savior](https://www.rpg.b-zone.ro/public/img/Badges/Economy_Savior.png){ width="65" }<figcaption>Economy Savior</figcaption></figure>
-
-**Economy Savior** - Oferit jucatorilor carora li se retrage **$100,000,000** de pe cont.
-
-<figure markdown="span">![Marathon Completionist](https://www.rpg.b-zone.ro/public/img/Badges/Marathon_Completionist.png){ width="65" }<figcaption>Marathon Completionist</figcaption></figure>
-
-**Marathon Completionist** - Oferit jucatorilor care completeaza un intreg sezon de Maraton.
-
-<figure markdown="span">![Quest Completionist](https://www.rpg.b-zone.ro/public/img/Badges/Quest_Completionist.png){ width="65" }<figcaption>Quest Completionist</figcaption></figure>
-
-**Quest Completionist** - Oferit jucatorilor care completeaza tot Quest-ul.
-
-<figure markdown="span">![Miss B-Zone](https://www.rpg.b-zone.ro/public/img/Badges/Miss_B-Zone_Winner.png){ width="65" }<figcaption>Miss B-Zone</figcaption></figure>
-
-**Miss B-Zone** - Oferit jucatoarelor care castiga **locul 1** la concursul Miss and Mister.
-
-<figure markdown="span">![Mister B-Zone](https://www.rpg.b-zone.ro/public/img/Badges/Mister_B-Zone_Winner.png){ width="65" }<figcaption>Mister B-Zone</figcaption></figure>
-
-**Mister B-Zone** - Oferit jucatorilor care castiga **locul 1** la concursul Miss and Mister.
-
-<figure markdown="span">![Retired Admin](https://www.rpg.b-zone.ro/public/img/Badges/Retired_Admin.png){ width="65" }<figcaption>Retired Admin</figcaption></figure>
-
-**Retired Admin** - Oferit jucatorilor care au detinut **in trecut** functia de admin.
-
-<figure markdown="span">![Retired Helper](https://www.rpg.b-zone.ro/public/img/Badges/Retired_Helper.png){ width="65" }<figcaption>Retired Helper</figcaption></figure>
-
-**Retired Helper** - Oferit jucatorilor care au detinut **in trecut** functia de helper.
-
-<figure markdown="span">![Retired Leader](https://www.rpg.b-zone.ro/public/img/Badges/Retired_Leader.png){ width="65" }<figcaption>Retired Leader</figcaption></figure>
-
-**Retired Leader** - Oferit jucatorilor care au detinut **in trecut** functia de lider.
-
-<figure markdown="span">![Veteran Faction Member](https://www.rpg.b-zone.ro/public/img/Badges/Veteran_Faction_Member.png){ width="65" }<figcaption>Veteran Faction Member</figcaption></figure>
-
-**Veteran Faction Member** - Oferit jucatorilor care au acumulat **minim 4 ani** vechime intr-o singura factiune.
-
-<figure markdown="span">![VIP](https://www.rpg.b-zone.ro/public/img/Badges/VIP.png){ width="65" }<figcaption>VIP</figcaption></figure>
-
-**VIP** - Oferit exclusiv adminilor seniori (nivel 4+).
-
-<figure markdown="span">![Youtuber](https://www.rpg.b-zone.ro/public/img/Badges/Youtuber.png){ width="65" }<figcaption>Youtuber</figcaption></figure>
-
-**Youtuber** - Oferit jucatorilor care fac parte din **echipa oficiala** de creatori de continut ai comunitatii.
-
-<figure markdown="span">![B-Vlog Team](https://www.rpg.b-zone.ro/public/img/Badges/B-Vlog_Team.png){ width="65" }<figcaption>B-Vlog Team</figcaption></figure>
-
-**B-Vlog Team** - Oferit jucatorilor care fac parte din echipa oficiala **B-Vlog** a comunitatii.
-
-<figure markdown="span">![Social Media](https://www.rpg.b-zone.ro/public/img/Badges/Social_Media.png){ width="65" }<figcaption>Social Media</figcaption></figure>
-
-**Social Media** - Oferit jucatorilor care fac parte din echipa oficiala **Social Media** a comunitatii.
-
-<figure markdown="span">![B-Zone Radio DJ](https://www.rpg.b-zone.ro/public/img/Badges/B-Zone_Radio_DJ.png){ width="65" }<figcaption>B-Zone Radio DJ</figcaption></figure>
-
-**B-Zone Radio DJ** - Oferit jucatorilor care fac parte din echipa **Radio Team** a comunitatii.
-
-<figure markdown="span">![Cheater Team](https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team.png){ width="65" }<figcaption>Cheater Team</figcaption></figure>
-
-**Cheater Team** - Oferit membrilor staff care fac parte din echipa **Cheaters Team** a comunitatii.
-
-<figure markdown="span">![Cheater Team Manager](https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team_Manager.png){ width="65" }<figcaption>Cheater Team Manager</figcaption></figure>
-
-**Cheater Team Manager** - Oferit adminilor care coordoneaza echipa **Cheaters Team** a comunitatii.
-
-<figure markdown="span">![Community Founder](https://www.rpg.b-zone.ro/public/img/Badges/Community_Founder.png){ width="65" }<figcaption>Community Founder</figcaption></figure>
-
-**Community Founder** - **NU** este oferit jucatorilor, este detinut doar de catre **Bobo**.
-
-<figure markdown="span">![Community Manager](https://www.rpg.b-zone.ro/public/img/Badges/Community_Manager.png){ width="65" }<figcaption>Community Manager</figcaption></figure>
-
-**Community Manager** - **NU** este oferit jucatorilor, este detinut doar de catre **Kelton**.
-
-<figure markdown="span">![RPG Administrator](https://www.rpg.b-zone.ro/public/img/Badges/RPG_Administrator.png){ width="65" }<figcaption>RPG Administrator</figcaption></figure>
-
-**RPG Administrator** - Oferit **exclusiv** supervisorilor.
-
-<figure markdown="span">![Developer](https://www.rpg.b-zone.ro/public/img/Badges/Developer.png){ width="65" }<figcaption>Developer</figcaption></figure>
-
-**Developer** - Oferit **exclusiv** dezvoltatorilor de joc sau de website.
-
-**De retinut:** Toate aceste badge-uri se acorda in mod automat de catre server in momentul in care sunteti eligibili pentru respectivul badge, daca nu l-ati primit inseamna ca cel mai probabil nu sunteti momentan eligibil sa-l primiti. Se pot acorda si de catre STAFF daca cumva acestea fie nu au fost acordate in mod automat, fie nu sunt facute sa se acorde in mod automat.
-
-#### Badge-uri Speciale
-
-<figure markdown="span">![2023 Merger Quest](https://www.rpg.b-zone.ro/public/img/Badges/2023_Merger_Quest.png){ width="65" }<figcaption>2023 Merger Quest</figcaption></figure>
-
-**2023 Merger Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia fuziunii dintre RPG1 & RPG2.
-
-<figure markdown="span">![2023 Christmas Quest](https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_Quest.png){ width="65" }<figcaption>2023 Christmas Quest</figcaption></figure>
-
-**2023 Christmas Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Craciunului in 2023.
-
-<figure markdown="span">![2023 Discord B-Pass](https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png){ width="65" }<figcaption>2023 Discord B-Pass</figcaption></figure>
-
-**2023 Discord B-Pass** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final editia de B-Pass 2023 organizata pe serverul de discord al comunitatii.
-
-<figure markdown="span">![2024 Spring B-Pass](https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png){ width="65" }<figcaption>2024 Spring B-Pass</figcaption></figure>
-
-**2024 Spring B-Pass** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final editia de Primavara B-Pass 2024 organizata pe serverul de discord al comunitatii.
-
-<figure markdown="span">![2024 Quest Enthusiast](https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png){ width="65" }<figcaption>2024 Quest Enthusiast</figcaption></figure>
-
-**2024 Quest Enthusiast** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul de Ziua Copilului Editia 2024.
-
-<figure markdown="span">![16 Years Together](https://www.rpg.b-zone.ro/public/img/Badges/16_Years_Together.png){ width="65" }<figcaption>16 Years Together</figcaption></figure>
-
-**16 Years Together** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul de Ziua Comunitatii 2024.
-
-<figure markdown="span">![2024 Christmas Quest](https://nw.b-zone.ro/public/img/Badges/2024_Christmas_Quest.png){ width="65" }<figcaption>2024 Christmas Quest</figcaption></figure>
-
-**2024 Christmas Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Craciunului in 2024.
-
-<figure markdown="span">![2024 Christmas B-Pass](https://nw.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png){ width="65" }<figcaption>2024 Christmas B-Pass</figcaption></figure>
-
-**2024 Christmas B-Pass** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final editia de Craciun B-Pass 2024 organizata pe serverul de discord al comunitatii.
-
-<figure markdown="span">![2025 Unification Quest](https://nw.b-zone.ro/public/img/Badges/2025_Unification.png){ width="65" }<figcaption>2025 Unification Quest</figcaption></figure>
-
-**2025 Unification Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Micii Uniri in 2025.
-
-<figure markdown="span">![2025 Valentine's Days](https://nw.b-zone.ro/public/img/Badges/2025_Valentines_Quest.png){ width="65" }<figcaption>2025 Valentine's Days</figcaption></figure>
-
-**2025 Valentine's Days** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Zilei Indragostit ilor in 2025.
-
-<figure markdown="span">![2025 Women's Days](https://nw.b-zone.ro/public/img/Badges/2025_Womens_Day.png){ width="65" }<figcaption>2025 Women's Days</figcaption></figure>
-
-**2025 Women's Days** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Zilei Femeii in 2025.
-
-<figure markdown="span">![2025 Easter Quest](https://nw.b-zone.ro/public/img/Badges/2025_Easter_Quest.png){ width="65" }<figcaption>2025 Easter Quest</figcaption></figure>
-
-**2025 Easter Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Pastelui in 2025.
-
-<figure markdown="span">![2025 Spring B-Pass](https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png){ width="65" }<figcaption>2025 Spring B-Pass</figcaption></figure>
-
-**2025 Spring B-Pass** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final sezonul 4 de B-Pass 2025.
-
-<figure markdown="span">![2025 Children's Quest](https://nw.b-zone.ro/public/img/Badges/2025_Childrens_Day.png){ width="65" }<figcaption>2025 Children's Quest</figcaption></figure>
-
-**2025 Children's Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Zilei Copilului in 2025.
-
-<figure markdown="span">![2025 Halloween Quest](https://nw.b-zone.ro/public/img/Badges/2025_Halloween.png){ width="65" }<figcaption>2025 Halloween Quest</figcaption></figure>
-
-**2025 Halloween Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Halloween-ului in 2025.
-
-<figure markdown="span">![2025 Christmas Quest](https://nw.b-zone.ro/public/img/Badges/2025_Christmas_Quest.png){ width="65" }<figcaption>2025 Christmas Quest</figcaption></figure>
-
-**2025 Christmas Quest** - Acest badge a fost oferit tuturor jucatorilor care au completat pana la final quest-ul cu ocazia Craciunului in 2025.
-
-**De retinut:** Toate aceste badge-uri au fost oferite in mod automat de catre server la momentul respectiv, **nu pot fi acordate manual** nici macar de catre STAFF.
-
-#### Badge-uri la Comanda
+### Badge-uri Generale
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Pets_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>B-Pets Winner</b> - acordat castigatorilor concursului <b>B-Pets</b> organizat pe forum.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Setups_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>B-Setups Winner</b> - acordat castigatorilor concursului <b>B-Setups</b> organizat pe serverul de discord.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Donator.png" width="65" style="margin-right: 15px;">
+<div><b>Donator</b> - acordat jucatorilor care au adaugat minim <b>10,900 Gold</b> in contul de SA:MP.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Economy_Savior.png" width="65" style="margin-right: 15px;">
+<div><b>Economy Savior</b> - acordat exclusiv jucatorilor carora li s-a retras suma de minim <b>$100,000,000</b> din cont-ul de SA:MP.<br><b>INFO: <i>Pentru retragerea sumei necesare se deschide un ticket pe website.</b></i></div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Marathon_Completionist.png" width="65" style="margin-right: 15px;">
+<div><b>Marathon Completionist</b> - acordat jucatorilor care au finalizat pana la final o editie de maraton.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Completionist.png" width="65" style="margin-right: 15px;">
+<div><b>Quest Completionist</b> - acordat jucatorilor care au finalizat pana la final un quest special.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Miss_B-Zone_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>Miss B-Zone</b> - acordat jucatorilor (fetelor) care au castigat concursul <b>Miss & Mister B-Zone</b> organizat pe forum.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Mister_B-Zone_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>Mister B-Zone</b> - acordat jucatorilor (baietilor) care au castigat concursul <b>Miss & Mister B-Zone</b> organizat pe forum.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Retired_Admin.png" width="65" style="margin-right: 15px;">
+<div><b>Retired Admin</b> - acordat automat fostilor admini in momentul in care parasesc functia administrativa.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Retired_Helper.png" width="65" style="margin-right: 15px;">
+<div><b>Retired Helper</b> - acordat automat fostilor helperi in momentul in care parasesc functia administrativa.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Retired_Leader.png" width="65" style="margin-right: 15px;">
+<div><b>Retired Leader</b> - acordat automat fostilor lideri in momentul in care parasesc functia administrativa.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Veteran_Faction_Member.png" width="65" style="margin-right: 15px;">
+<div><b>Veteran Faction Member</b> - acordat membrilor factiunilor care au o vechime de minim 4 ani intr-o singura factiune.<br><b>INFO: <i>Pentru acordarea acestui badge se deschide un ticket pe website.</b></i></div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/VIP.png" width="65" style="margin-right: 15px;">
+<div><b>VIP</b> - acordat <b>exclusiv</b> adminilor de nivel 4+.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Youtuber.png" width="65" style="margin-right: 15px;">
+<div><b>YouTuber</b> - acordat jucatorilor care detin titlul de youtuber pe comunitate.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Vlog_Team.png" width="65" style="margin-right: 15px;">
+<div><b>B-Vlog Team</b> - acordat jucatorilor care fac parte din echipa de productie <b>B-Vlog.</b></div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Social_Media.png" width="65" style="margin-right: 15px;">
+<div><b>Social Media</b> - acordat jucatorilor care fac parte din echipa <b>Social Media</b>.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Zone_Radio_DJ.png" width="65" style="margin-right: 15px;">
+<div><b>Radio DJ</b> - acordat jucatorilor care fac parte din echipa de DJ ai comunitatii.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team.png" width="65" style="margin-right: 15px;">
+<div><b>Cheater Team</b> - acordat membrilor staff care fac parte din echipa <b>Cheater Team</b> a comunitatii.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team_Manager.png" width="65" style="margin-right: 15px;">
+<div><b>Cheater Team Manager</b> - este acordat <b>eclusiv</b> persoanei care se ocupa de administrarea echipei <b>Cheater Team</b>.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Community_Founder.png" width="65" style="margin-right: 15px;">
+<div><b>Community Founder</b> - este detinut <b>exclusiv</b> de catre fondatorul cumunitatii <b>Bobo</b>.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Community_Manager.png" width="65" style="margin-right: 15px;">
+<div><b>Community Manager</b> - este detinut <b>exclusiv</b> de catre managerul comunitatii <b>Kelton</b>.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/RPG_Administrator.png" width="65" style="margin-right: 15px;">
+<div><b>RPG Administrator</b> - este detinut <b>exclusiv</b> de catre adminii de nivel 6 care au ocupat titlul de <b>Supervisor</b> sau <b>RPG Administrator</b>.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 20px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Developer.png" width="65" style="margin-right: 15px;">
+<div><b>Developer</b> - acordat exclusiv persoanelor care au ocupat titlul de <b>Script Developer</b> sau <b>Website Developer</b>.</div>
+</div>
+
+
+<p style="margin: 0;"><b>De retinut:</b> Toate aceste badge-uri se acorda in mod automat de catre server in momentul in care sunteti eligibili pentru respectivul badge, daca nu l-ati primit inseamna ca cel mai probabil nu sunteti momentan eligibil sa-l primiti.<br>Se pot acorda si de catre STAFF daca cumva acestea fie nu au fost acordate in mod automat, fie nu sunt facute sa se acorde in mod automat.</p>
+
+
+### Badge-uri Speciale
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Merger_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Merger Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia fuziunii dintre RPG1 & RPG2 in 2023.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Christmas Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Craciunului in 2023.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png" width="65" style="margin-right: 15px;">
+<div><b>Quest Enthusiast</b> - acordat jucatorilor care au finalizat un quest special.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/16_Years_Together.png" width="65" style="margin-right: 15px;">
+<div><b>16 Years Together</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilelor comunitatii in 2024.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Christmas Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Craciunului in 2024.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Unification.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Unification</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Unirii Principatelor Romane in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Valentine's Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei indragostitilor in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Womens_Day.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Womens Day</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei femeii in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Easter_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Easter Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Pastelui in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Childrens_Day.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Childrens Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei copilului in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Halloween.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Halloween Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia halloween-ului in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Christmas Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Craciunului in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Valentine's Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei indragostitilor in 2026.</div>
+</div>
+
+
+### Badge-uri la Comanda
 
 Se ofera posibilitatea achizitionarii de badge la comanda in schimbul sumei de **3000 Gold (achizitionat din shop in ultimele 7 zile)**. Pentru mai multe detalii puteti deschide un ticket pe website unde ve-ti primi toate detaliile necesare despre achizitia unui badge al vostru.
