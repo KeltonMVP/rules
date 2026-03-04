@@ -144,6 +144,10 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 <span style="color:var(--pink);">5.10</span> You are not allowed to use [<span style="color:var(--pink);">/cancel needlicense</span>] without having a valid reason that requires evidence (<span style="color:red;">sanction: Faction Warn</span>).
 
+<span style="color:var(--pink);">5.11</span> If, during the license test, the candidate or instructor dies (regardless of cause - hitman, other players, or other external factors), the license test is automatically canceled and will be fully restarted from the beginning, regardless of where the instructor and candidate were during the test. Granting the license based on an incomplete test is prohibited (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
+
+<span style="color:var(--pink);">5.12</span> If a candidate uses the [<span style="color:var(--pink);">/q</span>] command during the test or receives a crash, the instructor is obligated to wait for them for 5 minutes and provide the necessary evidence. If the player does not return within this interval, the instructor can leave. If the candidate returns later, the license test will be fully restarted from the beginning (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
+
 ## 6. Faction Chat
 
 <span style="color:var(--pink);">6.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $30,000</span>, <span style="color:red;">Faction Warn</span> depending on severity).

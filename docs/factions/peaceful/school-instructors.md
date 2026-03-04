@@ -144,6 +144,10 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 <span style="color:var(--pink);">5.10</span> Nu aveti voie sa folositi [<span style="color:var(--pink);">/cancel needlicense</span>] fara a avea un motiv intemeiat care necesita dovezi (<span style="color:red;">sanctiune: Faction Warn</span>).
 
+<span style="color:var(--pink);">5.11</span> In cazul in care, pe parcursul testului pentru obtinerea licentei, candidatul sau instructorul moare (indiferent de cauza - hitman, alti jucatori sau alti factori externi), testul de licenta se anuleaza automat si va fi reluat integral de la inceput, indiferent de punctul in care se aflau instructorul si candidatul in timpul desfasurarii acestuia. Este interzisa acordarea licentei in baza unui test incomplet (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+
+<span style="color:var(--pink);">5.12</span> Daca un candidat foloseste comanda [<span style="color:var(--pink);">/q</span>] in timpul testului sau primeste crash, instructorul este obligat sa il astepte timp de 5 minute si sa faca dovezile necesare. Daca jucatorul nu revine in acest interval, instructorul poate pleca. In cazul in care candidatul revine ulterior, testul de licenta va fi reluat integral de la inceput (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+
 ## 6. Chatul Factiunii
 
 <span style="color:var(--pink);">6.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 30.000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> in functie de gravitate).
