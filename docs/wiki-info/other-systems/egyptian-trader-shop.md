@@ -16,22 +16,22 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
     * Tichete Diamond.
     * Tichete Onyx.
     * Tichete Upgrade
-* Tichetele pot fi transformate la *Traderul Egiptean* langa War Arena LV sau direct din Shop. Traderul Egiptean poate fi gasit folosind comanda [→ **Locatii Importante** → **Trader Shop (LV)**. (*vezi imaginea **#1***)
+* Tichetele pot fi transformate la **Traderul Egiptean** langa War Arena LV sau direct din Shop. Traderul Egiptean poate fi gasit folosind comanda [→ **Locatii Importante** → **Trader Shop (LV)**. (*vezi imaginea #1*)
 * Pentru a transforma un tichet de un anumit tip (Diamond/Onyx/Upgrade), ai nevoie de minim 5 fragmente de acelasi tip.
 * Transformarea fragmentelor in tickete se face prin apasarea pe imaginea cu fragmentul pe care vrei sa-l convertesti in ticket.
 * Nu exista o limita de cate fragmente sau tichete poate detine un jucator.
-* Numarul de Fragmente (Diamond/Onyx/Upgrade) detinute va aparea pe [/stats](**/gps**]).
-* Numarul de Tichete (Diamond/Onyx/Upgrade) detinute va aparea pe [# Sistemul de skinuri
+* Numarul de Fragmente (Diamond/Onyx/Upgrade) detinute va aparea pe /stats.
+* Numarul de Tichete (Diamond/Onyx/Upgrade) detinute va aparea pe Sistemul de skinuri.
 * Exista 6 tipuri de skinuri pe serverele B-Zone (Starter/Bronze/Silver/Platinum/Diamond/Onyx).
-* Spre deosebire de skinurile Bronze/Silver/Platinum care pot fi cumparate dintr-un Magazin de Haine, skinurile <span style="color:#11c8fa">**Diamond**</span> respectiv <span style="color:#fa8e0a">**Onyx**</span> pot fi obtinute doar prin urma unor upgrade-uri ale skinului <span style="color:#2c2e2e">**Platinum**</span>.
+* Spre deosebire de skinurile Bronze/Silver/Platinum care pot fi cumparate dintr-un Magazin de Haine, skinurile <span style="color:#11c8fa;">**Diamond**</span> respectiv <span style="color:#fa8e0a;">**Onyx**</span> pot fi obtinute doar prin urma unor upgrade-uri ale skinului <span style="color:#2c2e2e;">**Platinum**</span>.
 * Aceste 2 tipuri pot fi deblocate folosind Tichetele mentionate mai sus si vor oferi jucatorului diverse bonusuri bazate pe tipul de skin purtat.
-* Pentru a forma un ticket de un anumit tip (<span style="color:#fa8e0a">**Onyx**</span>/<span style="color:#11c8fa">**Diamond**</span>), ai nevoie de minim 5 fragmente de acelasi tip.
+* Pentru a forma un ticket de un anumit tip (<span style="color:#fa8e0a;">**Onyx**</span>/<span style="color:#11c8fa;">**Diamond**</span>), ai nevoie de minim 5 fragmente de acelasi tip.
 * Jucatorii pot imbunatati skinurile Bronze in Silver folosind tichete de upgrade, ulterior in Diamond si doar skinurile Diamond in Onyx folosind tichete Diamond/Onyx. Asadar, **Starter** nu pot fi imbunatatite.
 * Diferitele tipuri de skinuri sunt marcate cu diferite culori in garderoba (*vezi imaginea **#2***):
-    * <span style="color:#2c2e2e">**Skinuri Platinum**</span> - Negru
-    * <span style="color:#11c8fa">**Skinuri Diamond**</span> - Albastru Deschis
-    * <span style="color:#fa8e0a">**Skinuri Onyx**</span> - Portocaliu
-* De asemenea, exista un text specific de identificare deasupra capului jucatorului care poarta skinuri <span style="color:#11c8fa">**Diamond**</span>/<span style="color:#fa8e0a">**Onyx**</span>.
+    * <span style="color:#2c2e2e;font-weight:bold;">Skinuri Platinum</span> - Negru
+    * <span style="color:#11c8fa;font-weight:bold;">Skinuri Diamond</span> - Albastru Deschis
+    * <span style="color:#fa8e0a;font-weight:bold;">Skinuri Onyx</span> - Portocaliu
+* De asemenea, exista un text specific de identificare deasupra capului jucatorului care poarta skinuri <span style="color:#11c8fa;">**Diamond**</span>/<span style="color:#fa8e0a;">**Onyx**</span>.
 * Spre deosebire de celelalte tipuri de skinuri, skinurile Onyx si Diamond **pot fi schimbate prin Trade** cu alti jucatori.
     * **Nota:** Daca jucatorii nu au acelasi sex (Masculin/Feminim) nu vor putea face trade cu skinurile detinute.
 
@@ -44,16 +44,17 @@ Sistemul de upgrade al skinurilor se bazeaza pe Tichete şi Fragmente. Acestea s
 
 ## Skinurile Diamond si Onyx
 * Exista un total de 100 de Bonusuri pe care jucatorul le poate descoperi si de care se poate bucura daca detine un skin de tip Diamond sau Onyx. Aceste bonusuri pot crea diverse avantaje in cadrul unei factiuni sau ca jucator in general.
-* Daca jucatorul imbunatateste skinul <span style="color:#2c2e2e">**Platinum**</span> intr-un Skin <span style="color:#11c8fa">**Diamond**</span>:
-    * Jucatorul va avea de platit suma de 1.000.000$.
-    * Jucatorul va avea de platit 100 Puncte de Misiune.
-    * Jucatorul va avea de platit 1x Tichet Diamond.
+* Daca jucatorul imbunatateste skinul <span style="color:#A97142;">**Bronze**</span> in <span style="color:#ABABAB;">**Silver**</span> sau skinul <span style="color:#ABABAB;">**Silver**</span> in <span style="color:#2c2e2e;">**Platinum**</span> jucatorul va avea de platit suma de **500.000$, 50 Puncte de Misiune** si **1x Tichet Upgrade**.
+* Daca jucatorul imbunatateste skinul <span style="color:#2c2e2e;">**Platinum**</span> intr-un Skin <span style="color:#11c8fa;">**Diamond**</span>:
+    * Jucatorul va avea de platit suma de **1.000.000$**.
+    * Jucatorul va avea de platit **100 Puncte de Misiune**.
+    * Jucatorul va avea de platit **1x Tichet Diamond**.
     * Dupa imbunatatirea Skinului Platinum la Diamond jucatorul va primi 2 *bonusuri aleatorii* din cele 100 bonusuri posibile. Aceste bonusuri vor fi active *doar daca jucatorul poarta skinul in timp ce face o anumita activitate*.
-* Daca jucatorul imbunatateste Skinul <span style="color:#11c8fa">**Diamond**</span> intr-un Skin <span style="color:#fa8e0a">**Onyx**</span>:
-    * Jucatorul va avea de platit suma de 2.000.000$.
-    * Jucatorul va avea de platit 200 Puncte de Misiune.
-    * Jucatorul va avea de platit 1x Tichet Onyx.
-    * Dupa imbunatatirea Skinului Diamond in Skin Onyx jucatorul va mai primi *inca 2 bonusuri aleatorii* diferite de cele primite deja la skinul Diamond. Cele detinute deja vor ramane intacte si 2 noi bonusuri vor fi adaugate pe skinul imbunatatit. Asadar, skinul va avea un total de 4 bonusuri care vor fi active cat timp skinul este purtat.
+* Daca jucatorul imbunatateste Skinul <span style="color:#11c8fa;">**Diamond**</span> intr-un Skin <span style="color:#fa8e0a;">**Onyx**</span>:
+    * Jucatorul va avea de platit suma de **2.000.000$**.
+    * Jucatorul va avea de platit **200 Puncte de Misiune**.
+    * Jucatorul va avea de platit **1x Tichet Onyx**.
+    * Dupa imbunatatirea Skinului Diamond in Skin Onyx jucatorul va mai primi **inca 2 bonusuri aleatorii** diferite de cele primite deja la skinul Diamond. Cele detinute deja vor ramane intacte si 2 noi bonusuri vor fi adaugate pe skinul imbunatatit. Asadar, skinul va avea un total de 4 bonusuri care vor fi active cat timp skinul este purtat.
 * Daca jucatorul nu poarta skinul atunci bonusurile de orice tip nu vor fi aplicate.
 
 <figure markdown="span">

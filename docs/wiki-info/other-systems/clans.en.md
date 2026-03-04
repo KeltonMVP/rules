@@ -6,27 +6,32 @@ icon: material/shield-star
 
 <figure markdown="span">
   ![Clan Level /clanxp](/images/wiki/general/Clanxp.png){ width="450" }
-  <figcaption>Clan Level /clanxp</figcaption>
+  <figcaption>#1 Clan Level /clanxp</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Clan HQ](/images/wiki/general/ClanHQ.jpg){ width="450" }
-  <figcaption>Clan HQ</figcaption>
+  <figcaption>#2 Clan HQ</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Clan Spray](/images/wiki/general/Clan_spray.jpg){ width="450" }
-  <figcaption>Clan Spray</figcaption>
+  <figcaption>#3 Clan Spray</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Bonus Box Interface](/images/wiki/general/SpawnedBox.png){ width="450" }
-  <figcaption>Bonus Box Interface</figcaption>
+  <figcaption>#4 Bonus Box Interface</figcaption>
 </figure>
 
 <figure markdown="span">
   ![Bonus Box on Turf](/images/wiki/general/TurfBox.png){ width="450" }
-  <figcaption>Bonus Box on Turf</figcaption>
+  <figcaption>#5 Bonus Box on Turf</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Raid Zones](/images/wiki/general/raidZones.png){ width="450" }
+  <figcaption>#6 List of Raid Zones</figcaption>
 </figure>
 
 ## General Characteristics
@@ -46,7 +51,7 @@ icon: material/shield-star
 ** Using the arrows, the other existing levels can also be viewed, how much XP they require and what benefits they offer.
 * For a clan to advance in level, it must accumulate a certain amount of XP (*image #1*).
 * XP can be accumulated by any clan member who has a minimum seniority in the clan of one day, through various activities that are scored within the server.
-* The maximum level a clan can obtain at this time is **level 20**.
+* The maximum level a clan can obtain at this time is **level 30**.
 
 
 ### XP Activities
@@ -241,6 +246,189 @@ The XP accumulated by a player remains even if they leave the clan and return la
     * 240 XP maximum per member, 2.9x XP per activity.
     * **10 versus 10 Wars between Clans**
         * Find more details about wars in **War System**.
+    * Custom Clan Crest.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/21.png" width="150px" height="150px">
+
+* **Clan Level 21** - 540,000 XP required: 
+    * 250 XP maximum per member, 3x XP per activity.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/22.png" width="150px" height="150px">
+
+* **Clan Level 22** - 590,625 XP required: 
+    * 260 XP maximum per member, 3.1x XP per activity. 
+    * 50,000 materials capacity in the laboratory.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/23.png" width="150px" height="150px">
+
+* **Clan Level 23** - 643,500 XP required:
+    * 270 XP max per member, 3.2x XP per activity.
+    * 27% job earnings in the clan vault.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/24.png" width="150px" height="150px">
+
+* **Clan Level 24** - 698,625 XP required:
+    * 280 XP max per member, 3.3x XP per activity.
+    * $6,000 in clan vault money every payday.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/25.png" width="150px" height="150px">
+
+* **Clan Level 25** - 756,000 XP required:
+    * 290 XP maximum per member, 3.4x XP per activity.
+    * 40g of drugs in the lab.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/26.png" width="150px" height="150px">
+
+* **Clan Level 26** - 815,625 XP required:
+    * 300 XP maximum per member, 3.5x XP per activity.
+    * 60,000 materials capacity in the lab.
+    * 28% profit from jobs in the clan vault.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/27.png" width="150px" height="150px">
+
+* **Clan Level 27** - 877,500 XP required:
+    * 310 XP maximum per member, 3.6x XP per activity.
+    * Clan Order 1.
+        * Deagle with 75 bullets.
+        * **500** materials from the cost vault per package - to which an additional fee of **30%** is added.
+        * The final price being **650 materials** from the clan vault per package.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/28.png" width="150px" height="150px">
+
+* **Clan Level 28** - 941,625 XP required:
+    * 320 XP max per member, 3.7x XP per activity.
+    * $7,000 clan vault money every payday.
+    * Clan Order 2.
+        * Deagle with 75 bullets.
+        * AK-47 with 200 bullets.
+        * **3,200** vault materials cost per pack - plus a **20%** surcharge.
+        * The final price is:
+            * **600 materials** from the clan vault for package (order) 1.
+            * **3,840 materials** from the clan vault for package (order) 2.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/29.png" width="150px" height="150px">
+
+* **Clan Level 29** - 1,008,000 XP required:
+    * 330 XP maximum per member, 3.8x XP per activity.
+    * 29% earnings from clan vault jobs.
+    * Clan Order 3.
+        * Deagle with 75 bullets.
+        * M4 with 200 bullets.
+        * **6,000** materials from the vault cost per package - to which is added an additional tax of **10%**.
+        * The final price is:
+            * **550 materials** from the clan vault for package (order) 1.
+            * **3,520 materials** from the clan vault for package (order) 2.
+            * **6,600 materials** from the clan vault for package (order) 3.
+
+<img src="https://www.rpg.b-zone.ro/public/img/Crests/30.png" width="150px" height="150px">
+
+* **Clan Level 30** - 1,076,625 XP required:
+    * 350 XP maximum per member, 3.9x XP per activity.
+    * 70,000 materials capacity in the laboratory.
+    * 30% earnings from jobs in the clan vault.
+    * Clan Order 4.
+        * Deagle with 75 bullets.
+        * M4 with 200 bullets.
+        * Rifle with 150 bullets.
+        * **7,000 materials** from the cost vault per package - to which **no additional fee is added**.
+        * The final price being:
+            * **500 materials** from the clan vault for package(order) 1.
+            * **3,200 materials** from the clan vault for package(order) 2.
+            * **6,000 materials** from the clan vault for package(order) 3.
+            * **7,000 materials** from the clan vault for package(order) 4.
+    * **Raid between clans**  
+
+## Raid System
+* Clan Raids are an endgame feature unlocked at **Clan Level 30**. The system introduces mini-wars between two clans for control of a single Raid Turf.
+* One clan attacks, the other defends, and the winner gains control of the territory.
+* A raid has two phases:
+    * Lobby of **90 seconds** before the battle starts
+    * Active match of **30 minutes** after the start
+* Raids can only be started between **08:00 – 02:00** and are blocked during Gang Wars / Clan Wars / Weekend Wars.
+* A clan cannot:
+    * Attack its own owned turf.
+    * Attack a turf that is already being attacked by another raid.
+    * Attack if another initiated raid is defending.
+    * Defend or attack multiple raids simultaneously.
+
+### Raid Turfs and Claiming
+* Unoccupied Raid Turfs can be claimed using */claimraidturf* (inside the turf). The cost to claim is **$50,000, 50g of drugs, 10,000 clan vault materials**.
+* The requirements for claiming a Raid Turf are:
+    * Clan Level 30+
+    * Clan Rank 6+
+    * Clan must be under the maximum turf limit
+        * After claiming, the turf receives 24-hour protection, during which it cannot be attacked.
+* Additional rules:
+    * A clan can own **a maximum of 5 Raid Turfs**.
+    * After completing any raid, the turf goes on **24-hour cooldown**.
+    * If a clan expires while owning turfs, they are automatically reset.
+
+### Starting the Raid and the Teams
+* To start a raid, a member of the attacking clan must enter a Raid Turf owned by an enemy clan and use **/raid**.
+* The raid can only be initiated if:
+    * Turf is active
+    * It is owned by an enemy clan.
+    * It is not on protection cooldown.
+    * It is not already raided by another clan.
+* When using the **/raid** command:
+    * A 90-second lobby is created.
+    * The raid is announced to both clans.
+    * The initiator is automatically sent to the lobby.
+    * Members of both clans can join using **/joinraid**.
+    * The lobby is a safe zone: damage is blocked and players cannot fight.
+* Team size is determined by the number of online members from both clans, using the smaller part for balance:
+    * **10v10** if both clans have at least 10 online.
+    * **6v6** if both have at least 6.
+    * **5v5** if both have at least 5.
+    * **3v3** is the minimum required (the raid cannot start below 3v3).
+* Other rules to note:
+    * Teams are forced to be balanced.
+    * You cannot join if your side would outnumber the other.
+    * Neither team can exceed the current limit.
+* The raid starts when:
+    * As soon as both sides reach the required limit.
+    * Or at the end of the lobby, using the highest valid limit reached (10/6/5/3).
+    * **If no valid limit is reached (minimum 3v3), the raid is canceled, and the turf receives a short 5-minute cooldown**.
+* When a raid starts:
+    * Both teams are teleported to a dedicated arena.
+    * Friendly fire is disabled (you cannot damage teammates).
+    * Players will respawn in the arena during the match.
+    * After each respawn, players automatically receive the raid weapons they choose via the **/guns** command.
+    * A spawn protection is applied for 5 seconds (you cannot be killed for 5 seconds after respawning).
+        * This spawn protection is automatically removed if the player deals damage.
+* If a team runs out of members during the raid (everyone leaves or disconnects), the raid ends immediately and the other team is declared the winner.
+* Players can leave the raid using **/leaveraid**.
+    * The **/clanresign** command cannot be used in the lobby or during the raid.
+* If a player disconnects during a raid, reconnecting will automatically bring them back into the same raid and teleport them to the arena if the raid is still in progress.
+* A small health kit may appear upon player death:
+    * Picking it up grants **+35 HP**.
+    * The kit disappears **after 20 seconds** from spawning.
+    * There is a limit to the number of kits active simultaneously per raid.
+* On each payday, each Turf Raid offers a random reward:
+    * 50% chance: **$1,500 – $4,000**.
+    * 35% chance: **8,000 – 15,000 materials**.
+    * 15% chance: **2g – 5g drugs**.
+    * The reward is displayed in the clan chat and is only received by the clan that owns the turf.
+
+### Scoring System and Raid Winning
+* Raids use a points system. Each kill grants points to the killer's clan team.
+* Points awarded based on weapon:
+    * Deagle: **+1 point**
+    * M4: **+2 points**
+    * Rifle: **+3 points**
+    * Fist: **+5 points**
+    * Any other weapon: **+1 point**
+* The first team to reach **100 points** instantly wins the raid.
+* If the **30 minutes** ends before a team reaches 100 points:
+    * The team withhigher score
+    * If the score is tied, the defenders win (tie advantage)
+    * Turf only changes ownership if the attackers win.
+    * If the attackers win but are already at the 5 turf limit, the raid is won, but the turf cannot be captured (cooldown applies anyway).
+* If the server restarts during an active raid:
+    * The match is automatically closed
+    * The winner is decided based on the last saved score
+    * In case of a tie, the defenders win.
+    * Cooldown and ownership are applied accordingly
 
 ## War System
 * Clan Wars are unlocked starting at clan level 10, for 5 vs 5 wars, and from clan level 20 for 10 vs 10 wars.
@@ -309,6 +497,13 @@ During the war, every 5 minutes a bonus box will spawn randomly on the turf (*im
 * Using the Gold earned within the clan, a leader can buy a new color for their clan using the /clancolor command.
 
 
+## Clan Order
+* The ability to purchase weapons from the clan HQ is unlocked starting at **level 27**.
+* You can use the /corder command to order the desired weapon pack.
+* The command can be used once every **60 seconds**.
+* You can only order a pack if you have a valid weapon license.
+
+
 ## Clan HQ
 * The clan HQ can be obtained starting at **clan level 5**.
 * Only members of the clan that owns it can enter an HQ.
@@ -352,23 +547,6 @@ Monthly XP can be tracked using the [/claninfo] command in-game or on the websit
 
 
 ## Specific Commands
-### /clanmembers
-This command (*image #2*) will display all clan members (online, offline, afk) as well as:
-
-* Player name
-* Last server authentication date
-* Rank
-* Weekly XP number
-
-When selecting a clan member, the clan owner will have an option regarding the member's power in the clan from where they can offer the following permissions:
-
-* Access to invite a member to the clan.
-* Access to remove a member from the clan.
-* Access to open/close applications.
-* Access to promotions/demotions.
-* Access to apply/remove a clan warning.
-* Access to enroll/remove members from clan wars.
-
 ### /trade
 This command will allow you to sell the clan you own (cars and clan progress are not lost). Below you have the sale/purchase limits through trade:
 
@@ -388,97 +566,162 @@ This command will allow you to sell the clan you own (cars and clan progress are
 * Clan 75 Slots - maximum value $400,000
 
 ### /c
-This command will allow you to talk to all members of the clan you are part of.
+* This command will allow you to talk to all members of the clan you are part of.
 
 ### /claninvite
-This command allows inviting a player to the clan.
+* This command allows inviting a player to the clan.
 
 ### /tog
-This command allows blocking/unblocking certain things related to the clan such as clan chat.
+* This command allows blocking/unblocking certain things related to the clan such as clan chat.
+
+### /clanmembers
+This command (*image #2*) will display all clan members (online, offline, afk) as well as:
+
+* Player name
+* Last server authentication date
+* Rank
+* Weekly XP number
+
+When selecting a clan member, the clan owner will have an option regarding the member's power in the clan from where they can offer the following permissions:
+
+* Access to invite a member to the clan.
+* Access to remove a member from the clan.
+* Access to open/close applications.
+* Access to promotions/demotions.
+* Access to apply/remove a clan warning.
+* Access to enroll/remove members from clan wars.
 
 ### /clanresign
-This command allows leaving the clan or giving it up if the owner uses it.
+* This command allows leaving the clan or giving it up if the owner uses it.
 
 ### /setclanowner
-This command allows transferring clan owner status to another player.
+* This command allows transferring clan owner status to another player.
 
 ### /spray
-This command will allow you to conquer other zones (clan turfs) for your clan. To use this command you must be on duty for the clan.
+* This command will allow you to conquer other zones (clan turfs) for your clan. To use this command you must be on duty for the clan.
 
 ### /clanxp
-This command displays the current clan level, the XP held as well as the XP needed to unlock the next levels, as well as the benefits of each clan level.
+* This command displays the current clan level, the XP held as well as the XP needed to unlock the next levels, as well as the benefits of each clan level.
 
 ### /clanzones
-This command will display a table with all clan zones along with the name of the clan that owns the zone at that moment.
+* This command will display a table with all clan zones along with the name of the clan that owns the zone at that moment.
 
 *Note: You will receive 1 point at clanturf once every 2 minutes.*
 
+### /corder
+* This command allows you to get weapons from the clan HQ.
+* There are 4 weapon packs in total:
+    * Order 1: Deagle - 75 bullets.
+    * Order 2: Deagle - 75 bullets + AK-47 - 200 bullets.
+    * Order 3: Deagle - 75 bullets + M4 - 200 bullets.
+    * Order 4: Deagle - 75 bullets + M4 - 200 bullets + Rifle - 150 bullets.
+
+### /raid
+To be continued..
+
+### /joinraid
+To be continued..
+
+### /claimraidturf
+![ClanRaidTurf](/images/wiki/general/clanRaidTurf.png){ width="300" style="display:block; margin:0 0 15px 0;" }
+![ClaimedRaidTurf](/images/wiki/general/claimedRaidTurf.png){ width="800" style="display:block; margin:0 0 8px 0;" }
+
+* This command allows you to claim a clan turf if it is not owned by any clan.
+* The cost of claiming a clan turf is: **$50,000, 50g drugs, 10,000 materials** from the clan vault.
+* Once the command is used, you are asked in a confirmation dialog if you are sure you want to purchase.
+* After confirming, you will receive the turf for your clan along with 24-hour protection against attacks.
+
+### /clanzones
+* This command allows you to view the list of all clan zones available on the server.
+* Once a specific zone is selected, the server places a checkpoint on the map towards it.
+
 ### /clancolor
-This command allows changing the color of the clan tag.
-
-### /cmotd
-This command allows setting an informative message by the leader or a rank 6 of the clan that will always be displayed when connecting to the server for clan members.
-
-### /clanrename
-This command allows renaming each rank in the clan.
-
-### /clanleaders
-This command allows viewing a list of clan owners.
-
-### /clans
-This command allows viewing a list of all available clans and some details about them.
-
-### /ctalkpower
-This command allows setting a minimum rank to be able to communicate on clan chat.
-
-### /claimhq
-This command allows acquiring a clan HQ from a certain level.
-
-### /leavehq
-This command allows giving up the current clan HQ.
-
-### /interiorhq
-This command allows changing the current HQ interior to a new one.
-
-### /claninfo
-This command allows viewing certain details about the clan such as: clan XP, vehicle slots, Claim HQ slots, Interior HQ slots.
-
-### /cvs
-This command accesses the clan garage from where vehicles can be controlled.
-
-### /cvr
-This command allows respawning all unused clan vehicles.
-
-### /buyclanvehicle
-This command allows purchasing vehicles for the clan from the Dealership.
-
-### /clanturfs
-This command has the same effect as the /turfs command, but for clan zones.
-thumb|300px
-
-### /topclan
-This command will display the best clans on the server as well as the number of zones they own.
-
-### /clandeposit
-This command will allow you to deposit money in the clan safe.
-
-### /clanwithdraw
-This command will allow you to withdraw money from the clan safe.
-
-### /clanwithdrawpower
-This command allows setting a minimum rank for using the /clanwithdraw command.
-
-### /clanputmaterials
-This command will allow you to deposit materials in the clan safe.
-
-### /clangetmaterials
-This command will allow you to withdraw materials from the clan safe.
-
-### /clanputdrugs
-This command will allow you to deposit drugs in the clan safe.
-
-### /clangetdrugs
-This command will allow you to withdraw drugs from the clan safe.
+* This command allows changing the color of the clan tag.
 
 ### /clangoldwithdraw
-This command allows the clan leader to offer Gold from the clan safe to a certain member.
+* This command allows the clan leader to offer Gold from the clan safe to a certain member.
+
+### /cmotd
+* This command allows setting an informative message by the leader or a rank 6 of the clan that will always be displayed when connecting to the server for clan members.
+
+### /clanrename
+* This command allows renaming each rank in the clan.
+
+### /clandusty
+* This command allows you to use your privileges for clan war, conquering clan areas, killing members of opposing clans without getting wanted on the clan turf, etc.
+
+### /clanturfs
+* This command has the same effect as the /turfs command, but for clan zones.
+
+### /raidturfs
+* This command allows you to show/hide raid zones between clans.
+
+### /raidzones
+* This command displays a list of all raid zones between clans. *(see image #6)*
+
+### /clanleaders
+* This command allows viewing a list of clan owners.
+
+### /ctalkpower
+* This command allows setting a minimum rank to be able to communicate on clan chat.
+
+### /topclan
+* This command will display the best clans on the server as well as the number of zones they own.
+
+### /clanwithdraw
+* This command will allow you to withdraw money from the clan safe.
+
+### /clandeposit
+* This command will allow you to deposit money in the clan safe.
+
+### /clanputmaterials
+* This command will allow you to deposit materials in the clan safe.
+
+### /clanputdrugs
+* This command will allow you to deposit drugs in the clan safe.
+
+### /clangetmaterials
+* This command will allow you to withdraw materials from the clan safe.
+
+### /clangetdrugs
+* This command will allow you to withdraw drugs from the clan safe.
+
+### /leaveraid
+To be continued..
+
+### /clanwithdrawpower
+* This command allows setting a minimum rank for using the /clanwithdraw command.
+
+### /claimhq
+* This command allows acquiring a clan HQ from a certain level.
+
+### /leavehq
+* This command allows giving up the current clan HQ.
+
+### /interiorhq
+* This command allows changing the current HQ interior to a new one.
+
+### /claninfo
+* This command allows viewing certain details about the clan such as: clan XP, vehicle slots, Claim HQ slots, Interior HQ slots.
+
+### /cvs
+* This command accesses the clan garage from where vehicles can be controlled.
+
+### /cvr
+* This command allows respawning all unused clan vehicles.
+
+### /buyclanvehicle
+* This command allows purchasing vehicles for the clan from the Dealership.
+
+### /clanwar
+* This command opens the dialog for configuring members who can participate in clan wars.
+
+### /guns
+* This command allows you to choose the weapons you want to receive in clan wars.
+
+### /leavewar
+* This command allows you to exit clan wars.
+
+### /clans
+* This command allows viewing a list of all available clans and some details about them.
+

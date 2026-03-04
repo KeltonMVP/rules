@@ -67,7 +67,7 @@ It has 4 types of upgrades with the following prices:
 * **Equipment** worth $800,000.
 * **Staff** worth $800,000.
 * **Security** worth $400,000.
-* **Surveillance** worth $4,400,000.
+* **Surveillance** worth $4,000,000.
 * **Comfort** worth $2,000,000.
 
 Its location is in the center of the map, which makes it the perfect purchase for those looking for the most profitable Bunker.
@@ -255,7 +255,7 @@ Its location is in the center of the map, which makes it the perfect purchase fo
 
 ## Bunker Tiers
 * From this moment, the bunker will have various levels called **tiers**, these levels can be unlocked at a certain amount of money generated through the bunker. These tiers will bring you different benefits as follows:
-    * **Bunker Tier 0** - the level from which any bunker starts, this is automatically unlocked when purchasing the bunker, it offers a maximum capacity of 100 supplies and 100 stocks.
+    * **Bunker Tier 0** - the level from which any bunker starts, this is automatically unlocked when purchasing the bunker, it offers a maximum capacity of **100** supplies and **100** stocks.
     * **Bunker Tier 1** - the level is unlocked when the bunker generates **$20,000,000**, this will offer you a maximum capacity of **110** supplies and **100** stocks.
     * **Bunker Tier 2** - the level is unlocked when the bunker generates **$40,000,000**, this will offer you a maximum capacity of **120** supplies and **100** stocks.
     * **Bunker Tier 3** - the level is unlocked when the bunker generates **$60,000,000**, this will offer you a maximum capacity of **130** supplies and **100** stocks.
@@ -268,6 +268,5 @@ Its location is in the center of the map, which makes it the perfect purchase fo
     * **Bunker Tier 10** - the level is unlocked when the bunker generates **$250,000,000**, this will offer you a maximum capacity of **150** supplies and **150** stocks.
 
 **Notes:**
-
 * If the bunker is destroyed, the tier will be reset, if you buy another bunker you will restart from tier 0.
 * The bunker tier is specified both through the **/bunker** command, but also through the **/mybunker** command, from a distance.

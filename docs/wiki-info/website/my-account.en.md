@@ -571,167 +571,205 @@ After you have made the desired modifications you need to use the **Save** butto
 
 #### General Badges
 
-<figure markdown="span">![B-Pets Winner](https://www.rpg.b-zone.ro/public/img/Badges/B-Pets_Winner.png){ width="65" }<figcaption>B-Pets Winner</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Pets_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>B-Pets Winner</b> - awarded to the winners of the <b>B-Pets</b> contest organized on the forum.</div>
+</div>
 
-**B-Pets Winner** - Offered to players who win **1st place** in the B-Pets contest.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Setups_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>B-Setups Winner</b> - awarded to the winners of the <b>B-Setups</b> contest organized on the server of discord.</div>
+</div>
 
-<figure markdown="span">![B-Setups Winner](https://www.rpg.b-zone.ro/public/img/Badges/B-Setups_Winner.png){ width="65" }<figcaption>B-Setups Winner</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Donator.png" width="65" style="margin-right: 15px;">
+<div><b>Donor</b> - awarded to players who have added at least <b>10,900 Gold</b> to their SA:MP account.</div>
+</div>
 
-**B-Setups Winner** - Offered to players who win **1st place** in the B-Setup contest.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Economy_Savior.png" width="65" style="margin-right: 15px;">
+<div><b>Economy Savior</b> - awarded exclusively to players whose minimum amount has been withdrawn <b>$100,000,000</b> from the SA:MP account.<br><b>INFO: <i>To withdraw the required amount, a ticket is opened on the website.</b></i></div>
+</div>
 
-<figure markdown="span">![Donator](https://www.rpg.b-zone.ro/public/img/Badges/Donator.png){ width="65" }<figcaption>Donator</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Marathon_Completionist.png" width="65" style="margin-right: 15px;">
+<div><b>Marathon Completionist</b> - awarded to players who have completed a marathon edition to the end.</div>
+</div>
 
-**Donator** - Offered to players who have reached the amount of **10,900 Gold** added in-game.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Completionist.png" width="65" style="margin-right: 15px;">
+<div><b>Quest Completionist</b> - awarded to players who have completed a special quest.</div>
+</div>
 
-<figure markdown="span">![Economy Savior](https://www.rpg.b-zone.ro/public/img/Badges/Economy_Savior.png){ width="65" }<figcaption>Economy Savior</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Miss_B-Zone_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>Miss B-Zone</b> - awarded to players (girls) who won the <b>Miss & Mister B-Zone</b> contest organized on the forum.</div>
+</div>
 
-**Economy Savior** - Offered to players from whom **$100,000,000** is withdrawn from their account.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Mister_B-Zone_Winner.png" width="65" style="margin-right: 15px;">
+<div><b>Mister B-Zone</b> - awarded to players (boys) who won the <b>Miss & Mister B-Zone</b> contest organized on the forum.</div>
+</div>
 
-<figure markdown="span">![Marathon Completionist](https://www.rpg.b-zone.ro/public/img/Badges/Marathon_Completionist.png){ width="65" }<figcaption>Marathon Completionist</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Retired_Admin.png" width="65" style="margin-right: 15px;">
+<div><b>Retired Admin</b> - automatically granted to former admins when they leave the administrative position.</div>
+</div>
 
-**Marathon Completionist** - Offered to players who complete an entire Marathon season.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Retired_Helper.png" width="65" style="margin-right: 15px;">
+<div><b>Retired Helper</b> - automatically awarded to former helpers when they leave the administrative position.</div>
+</div>
 
-<figure markdown="span">![Quest Completionist](https://www.rpg.b-zone.ro/public/img/Badges/Quest_Completionist.png){ width="65" }<figcaption>Quest Completionist</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Retired_Leader.png" width="65" style="margin-right: 15px;">
+<div><b>Retired Leader</b> - automatically awarded to former leaders when they leave their administrative position.</div>
+</div>
 
-**Quest Completionist** - Offered to players who complete the entire Quest.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Veteran_Faction_Member.png" width="65" style="margin-right: 15px;">
+<div><b>Veteran Faction Member</b> - awarded to members of factions who have been in a single faction for at least 4 years.<br><b>INFO: <i>A ticket is opened on the website to award this badge.</b></i></div>
+</div>
 
-<figure markdown="span">![Miss B-Zone](https://www.rpg.b-zone.ro/public/img/Badges/Miss_B-Zone_Winner.png){ width="65" }<figcaption>Miss B-Zone</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/VIP.png" width="65" style="margin-right: 15px;">
+<div><b>VIP</b> - awarded <b>exclusively</b> to level 4+ admins.</div>
+</div>
 
-**Miss B-Zone** - Offered to female players who win **1st place** in the Miss and Mister contest.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Youtuber.png" width="65" style="margin-right: 15px;">
+<div><b>YouTuber</b> - awarded to players who hold the title of YouTuber in the community.</div>
+</div>
 
-<figure markdown="span">![Mister B-Zone](https://www.rpg.b-zone.ro/public/img/Badges/Mister_B-Zone_Winner.png){ width="65" }<figcaption>Mister B-Zone</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Vlog_Team.png" width="65" style="margin-right: 15px;">
+<div><b>B-Vlog Team</b> - awarded to players who are part of the <b>B-Vlog production team.</b></div>
+</div>
 
-**Mister B-Zone** - Offered to male players who win **1st place** in the Miss and Mister contest.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Social_Media.png" width="65" style="margin-right: 15px;">
+<div><b>Social Media</b> - awarded to players who are part of the <b>Social Media</b> team.</div>
+</div>
 
-<figure markdown="span">![Retired Admin](https://www.rpg.b-zone.ro/public/img/Badges/Retired_Admin.png){ width="65" }<figcaption>Retired Admin</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/B-Zone_Radio_DJ.png" width="65" style="margin-right: 15px;">
+<div><b>Radio DJ</b> - awarded to players who are part of the community DJ team.</div>
+</div>
 
-**Retired Admin** - Offered to players who held **in the past** the admin function.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team.png" width="65" style="margin-right: 15px;">
+<div><b>Cheater Team</b> - awarded to staff members who are part of the community's <b>Cheater Team</b>.</div>
+</div>
 
-<figure markdown="span">![Retired Helper](https://www.rpg.b-zone.ro/public/img/Badges/Retired_Helper.png){ width="65" }<figcaption>Retired Helper</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team_Manager.png" width="65" style="margin-right: 15px;">
+<div><b>Cheater Team Manager</b> - is granted <b>exclusively</b> to the person who manages the <b>Cheater Team</b>.</div>
+</div>
 
-**Retired Helper** - Offered to players who held **in the past** the helper function.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Community_Founder.png" width="65" style="margin-right: 15px;">
+<div><b>Community Founder</b> - is owned <b>exclusively</b> by the founder of the <b>Bobo</b> community.</div>
+</div>
 
-<figure markdown="span">![Retired Leader](https://www.rpg.b-zone.ro/public/img/Badges/Retired_Leader.png){ width="65" }<figcaption>Retired Leader</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Community_Manager.png" width="65" style="margin-right: 15px;">
+<div><b>Community Manager</b> - is owned <b>exclusively</b> by community manager <b>Kelton</b>.</div>
+</div>
 
-**Retired Leader** - Offered to players who held **in the past** the leader function.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/RPG_Administrator.png" width="65" style="margin-right: 15px;">
+<div><b>RPG Administrator</b> - is owned <b>exclusively</b> by level 6 admins who have held the title of <b>Supervisor</b> or <b>RPG Administrator</b>.</div>
+</div>
 
-<figure markdown="span">![Veteran Faction Member](https://www.rpg.b-zone.ro/public/img/Badges/Veteran_Faction_Member.png){ width="65" }<figcaption>Veteran Faction Member</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 20px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Developer.png" width="65" style="margin-right: 15px;">
+<div><b>Developer</b> - awarded exclusively to people who have held the title of <b>Script Developer</b> or <b>Website Developer</b>.</div>
+</div>
 
-**Veteran Faction Member** - Offered to players who have accumulated **at least 4 years** of seniority in a single faction.
+<p style="margin: 0;"><b>Please note:</b> All these badges are awarded automatically by the server when you are eligible for the respective badge, if you have not received it, it means that you are most likely not currently eligible to receive it.<br>They can also be awarded by STAFF if somehow they were either not awarded automatically, or are not made to be awarded automatically.</p>
 
-<figure markdown="span">![VIP](https://www.rpg.b-zone.ro/public/img/Badges/VIP.png){ width="65" }<figcaption>VIP</figcaption></figure>
-
-**VIP** - Offered exclusively to senior admins (level 4+).
-
-<figure markdown="span">![Youtuber](https://www.rpg.b-zone.ro/public/img/Badges/Youtuber.png){ width="65" }<figcaption>Youtuber</figcaption></figure>
-
-**Youtuber** - Offered to players who are part of the **official team** of community content creators.
-
-<figure markdown="span">![B-Vlog Team](https://www.rpg.b-zone.ro/public/img/Badges/B-Vlog_Team.png){ width="65" }<figcaption>B-Vlog Team</figcaption></figure>
-
-**B-Vlog Team** - Offered to players who are part of the official **B-Vlog** team of the community.
-
-<figure markdown="span">![Social Media](https://www.rpg.b-zone.ro/public/img/Badges/Social_Media.png){ width="65" }<figcaption>Social Media</figcaption></figure>
-
-**Social Media** - Offered to players who are part of the official **Social Media** team of the community.
-
-<figure markdown="span">![B-Zone Radio DJ](https://www.rpg.b-zone.ro/public/img/Badges/B-Zone_Radio_DJ.png){ width="65" }<figcaption>B-Zone Radio DJ</figcaption></figure>
-
-**B-Zone Radio DJ** - Offered to players who are part of the **Radio Team** of the community.
-
-<figure markdown="span">![Cheater Team](https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team.png){ width="65" }<figcaption>Cheater Team</figcaption></figure>
-
-**Cheater Team** - Offered to staff members who are part of the **Cheaters Team** of the community.
-
-<figure markdown="span">![Cheater Team Manager](https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team_Manager.png){ width="65" }<figcaption>Cheater Team Manager</figcaption></figure>
-
-**Cheater Team Manager** - Offered to admins who coordinate the **Cheaters Team** of the community.
-
-<figure markdown="span">![Community Founder](https://www.rpg.b-zone.ro/public/img/Badges/Community_Founder.png){ width="65" }<figcaption>Community Founder</figcaption></figure>
-
-**Community Founder** - **NOT** offered to players, held only by **Bobo**.
-
-<figure markdown="span">![Community Manager](https://www.rpg.b-zone.ro/public/img/Badges/Community_Manager.png){ width="65" }<figcaption>Community Manager</figcaption></figure>
-
-**Community Manager** - **NOT** offered to players, held only by **Kelton**.
-
-<figure markdown="span">![RPG Administrator](https://www.rpg.b-zone.ro/public/img/Badges/RPG_Administrator.png){ width="65" }<figcaption>RPG Administrator</figcaption></figure>
-
-**RPG Administrator** - Offered **exclusively** to supervisors.
-
-<figure markdown="span">![Developer](https://www.rpg.b-zone.ro/public/img/Badges/Developer.png){ width="65" }<figcaption>Developer</figcaption></figure>
-
-**Developer** - Offered **exclusively** to game or website developers.
-
-**To remember:** All these badges are awarded automatically by the server when you are eligible for that badge, if you haven't received it it means you are most likely not currently eligible to receive it. They can also be awarded by STAFF if somehow they were not awarded automatically or are not made to be awarded automatically.
 
 #### Special Badges
 
-<figure markdown="span">![2023 Merger Quest](https://www.rpg.b-zone.ro/public/img/Badges/2023_Merger_Quest.png){ width="65" }<figcaption>2023 Merger Quest</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Merger_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Merger Quest</b> - awarded to players who completed the quest on the occasion of the merger between RPG1 & RPG2 in 2023.</div>
+</div>
 
-**2023 Merger Quest** - This badge was offered to all players who completed the quest to the end on the occasion of the merger between RPG1 & RPG2.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Christmas Quest</b> - awarded to players who completed to the end the quest on the occasion of Christmas in 2023.</div>
+</div>
 
-<figure markdown="span">![2023 Christmas Quest](https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_Quest.png){ width="65" }<figcaption>2023 Christmas Quest</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Spring B-Pass</b> - awarded to players who have completed the Battlepass on the discord server.</div>
+</div>
 
-**2023 Christmas Quest** - This badge was offered to all players who completed the quest to the end on the occasion of Christmas in 2023.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png" width="65" style="margin-right: 15px;">
+<div><b>Quest Enthusiast</b> - awarded to players who have completed a special quest.</div>
+</div>
 
-<figure markdown="span">![2023 Discord B-Pass](https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png){ width="65" }<figcaption>2023 Discord B-Pass</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/16_Years_Together.png" width="65" style="margin-right: 15px;">
+<div><b>16 Years Together</b> - awarded to players who completed the quest on the occasion of community days in 2024.</div>
+</div>
 
-**2023 Discord B-Pass** - This badge was offered to all players who completed the 2023 B-Pass edition to the end, organized on the community's discord server.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Christmas Quest</b> - awarded to players who have completed until the end of the quest on the occasion of Christmas in 2024.</div>
+</div>
 
-<figure markdown="span">![2024 Spring B-Pass](https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png){ width="65" }<figcaption>2024 Spring B-Pass</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+</div>
 
-**2024 Spring B-Pass** - This badge was offered to all players who completed the Spring 2024 B-Pass edition to the end, organized on the community's discord server.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Unification.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Unification</b> - awarded to players who have completed the quest on the occasion of the Unification of the Romanian Principalities in 2025.</div>
+</div>
 
-<figure markdown="span">![2024 Quest Enthusiast](https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png){ width="65" }<figcaption>2024 Quest Enthusiast</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Valentine's Quest</b> - awarded to players who have completed the quest on the occasion of Valentine's Day in 2025.</div>
+</div>
 
-**2024 Quest Enthusiast** - This badge was offered to all players who completed the Children's Day Quest 2024 Edition to the end.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Womens_Day.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Womens Day</b> - awarded to players who have completed the quest on the occasion of Women's Day in 2025.</div>
+</div>
 
-<figure markdown="span">![16 Years Together](https://www.rpg.b-zone.ro/public/img/Badges/16_Years_Together.png){ width="65" }<figcaption>16 Years Together</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Easter_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Easter Quest</b> - awarded to players who have completed the quest on the occasion of Easter in 2025.</div>
+</div>
 
-**16 Years Together** - This badge was offered to all players who completed the Community Day Quest 2024 to the end.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Spring B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+</div>
 
-<figure markdown="span">![2024 Christmas Quest](https://nw.b-zone.ro/public/img/Badges/2024_Christmas_Quest.png){ width="65" }<figcaption>2024 Christmas Quest</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Childrens_Day.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Childrens Quest</b> - awarded to players who have completed the quest on the occasion of Children's Day in 2025.</div>
+</div>
 
-**2024 Christmas Quest** - This badge was offered to all players who completed the quest to the end on the occasion of Christmas in 2024.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Halloween.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Halloween Quest</b> - awarded to players who have completed the quest on the occasion of Halloween in 2025.</div>
+</div>
 
-<figure markdown="span">![2024 Christmas B-Pass](https://nw.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png){ width="65" }<figcaption>2024 Christmas B-Pass</figcaption></figure>
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Christmas Quest</b> - awarded to players who have completed the quest on the occasion of Christmas in 2025.</div>
+</div>
 
-**2024 Christmas B-Pass** - This badge was offered to all players who completed the Christmas 2024 B-Pass edition to the end, organized on the community's discord server.
-
-<figure markdown="span">![2025 Unification Quest](https://nw.b-zone.ro/public/img/Badges/2025_Unification.png){ width="65" }<figcaption>2025 Unification Quest</figcaption></figure>
-
-**2025 Unification Quest** - This badge was offered to all players who completed the quest to the end on the occasion of the Small Union in 2025.
-
-<figure markdown="span">![2025 Valentine's Days](https://nw.b-zone.ro/public/img/Badges/2025_Valentines_Quest.png){ width="65" }<figcaption>2025 Valentine's Days</figcaption></figure>
-
-**2025 Valentine's Days** - This badge was offered to all players who completed the quest to the end on the occasion of Valentine's Day in 2025.
-
-<figure markdown="span">![2025 Women's Days](https://nw.b-zone.ro/public/img/Badges/2025_Womens_Day.png){ width="65" }<figcaption>2025 Women's Days</figcaption></figure>
-
-**2025 Women's Days** - This badge was offered to all players who completed the quest to the end on the occasion of Women's Day in 2025.
-
-<figure markdown="span">![2025 Easter Quest](https://nw.b-zone.ro/public/img/Badges/2025_Easter_Quest.png){ width="65" }<figcaption>2025 Easter Quest</figcaption></figure>
-
-**2025 Easter Quest** - This badge was offered to all players who completed the quest to the end on the occasion of Easter in 2025.
-
-<figure markdown="span">![2025 Spring B-Pass](https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png){ width="65" }<figcaption>2025 Spring B-Pass</figcaption></figure>
-
-**2025 Spring B-Pass** - This badge was offered to all players who completed season 4 of B-Pass 2025 to the end.
-
-<figure markdown="span">![2025 Children's Quest](https://nw.b-zone.ro/public/img/Badges/2025_Childrens_Day.png){ width="65" }<figcaption>2025 Children's Quest</figcaption></figure>
-
-**2025 Children's Quest** - This badge was offered to all players who completed the quest to the end on the occasion of Children's Day in 2025.
-
-<figure markdown="span">![2025 Halloween Quest](https://nw.b-zone.ro/public/img/Badges/2025_Halloween.png){ width="65" }<figcaption>2025 Halloween Quest</figcaption></figure>
-
-**2025 Halloween Quest** - This badge was offered to all players who completed the quest to the end on the occasion of Halloween in 2025.
-
-<figure markdown="span">![2025 Christmas Quest](https://nw.b-zone.ro/public/img/Badges/2025_Christmas_Quest.png){ width="65" }<figcaption>2025 Christmas Quest</figcaption></figure>
-
-**2025 Christmas Quest** - This badge was offered to all players who completed the quest to the end on the occasion of Christmas in 2025.
-
-**To remember:** All these badges were offered automatically by the server at the respective time, **they cannot be awarded manually** not even by STAFF.
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Valentine's Quest</b> - awarded to players who have completed the quest on Valentine's Day in 2026.</div>
+</div>
 
 #### Custom Badges
 

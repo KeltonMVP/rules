@@ -20,18 +20,18 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 * To convert a ticket of a certain type (Diamond/Onyx/Upgrade), you need at least 5 fragments of the same type.
 * Converting fragments into tickets is done by clicking on the image with the fragment you want to convert into a ticket.
 * There is no limit to how many fragments or tickets a player can hold.
-* The number of Fragments (Diamond/Onyx/Upgrade) held will appear on [/stats](**/gps**]).
-* The number of Tickets (Diamond/Onyx/Upgrade) held will appear on [# Skin system
+* The number of Fragments (Diamond/Onyx/Upgrade) held will appear on [/stats].
+* The number of Tickets (Diamond/Onyx/Upgrade) held will appear on Skins System.
 * There are 6 types of skins on B-Zone servers (Starter/Bronze/Silver/Platinum/Diamond/Onyx).
-* Unlike Bronze/Silver/Platinum skins which can be purchased from a Clothing Store, <span style="color:#11c8fa">**Diamond**</span> and <span style="color:#fa8e0a">**Onyx**</span> skins can only be obtained through upgrades of the <span style="color:#2c2e2e">**Platinum**</span> skin.
+* Unlike Bronze/Silver/Platinum skins which can be purchased from a Clothing Store, <span style="color:#11c8fa;">**Diamond**</span> and <span style="color:#fa8e0a;">**Onyx**</span> skins can only be obtained through upgrades of the <span style="color:#2c2e2e;">**Platinum**</span> skin.
 * These 2 types can be unlocked using the Tickets mentioned above and will offer the player various bonuses based on the type of skin worn.
-* To form a ticket of a certain type (<span style="color:#fa8e0a">**Onyx**</span>/<span style="color:#11c8fa">**Diamond**</span>), you need at least 5 fragments of the same type.
+* To form a ticket of a certain type (<span style="color:#fa8e0a;">**Onyx**</span>/<span style="color:#11c8fa;">**Diamond**</span>), you need at least 5 fragments of the same type.
 * Players can upgrade Bronze skins to Silver using upgrade tickets, then to Diamond and only Diamond skins to Onyx using Diamond/Onyx tickets. Therefore, **Starter** skins cannot be upgraded.
 * Different types of skins are marked with different colors in the wardrobe (*see image **#2***):
-    * <span style="color:#2c2e2e">**Platinum Skins**</span> - Black
-    * <span style="color:#11c8fa">**Diamond Skins**</span> - Light Blue
-    * <span style="color:#fa8e0a">**Onyx Skins**</span> - Orange
-* Also, there is a specific identification text above the head of the player wearing <span style="color:#11c8fa">**Diamond**</span>/<span style="color:#fa8e0a">**Onyx**</span> skins.
+    * <span style="color:#2c2e2e; font-weight:bold;">Platinum Skins</span> - Black
+    * <span style="color:#11c8fa; font-weight:bold;">Diamond Skins</span> - Light Blue
+    * <span style="color:#fa8e0a; font-weight:bold;">Onyx Skins</span> - Orange
+* Also, there is a specific identification text above the head of the player wearing <span style="color:#11c8fa;">**Diamond**</span>/<span style="color:#fa8e0a;">**Onyx**</span> skins.
 * Unlike other types of skins, Onyx and Diamond skins **can be traded** with other players.
     * **Note:** If players do not have the same gender (Male/Female) they will not be able to trade with owned skins.
 
@@ -43,15 +43,16 @@ The skin upgrade system is based on Tickets and Fragments. These are very well k
 
 ## Diamond and Onyx Skins
 * There are a total of 100 Bonuses that the player can discover and enjoy if they own a Diamond or Onyx type skin. These bonuses can create various advantages within a faction or as a player in general.
-* If the player upgrades the <span style="color:#2c2e2e">**Platinum**</span> skin to a <span style="color:#11c8fa">**Diamond**</span> Skin:
-    * The player will have to pay the amount of $1,000,000.
-    * The player will have to pay 100 Mission Points.
-    * The player will have to pay 1x Diamond Ticket.
-    * After upgrading the Platinum Skin to Diamond, the player will receive 2 *random bonuses* from the 100 possible bonuses. These bonuses will be active *only if the player wears the skin while doing a certain activity*.
+* If the player upgrade the <span style="color:#A97142;">**Bronze**</span> skin into <span style="color:#ABABAB;">**Silver**</span> or the <span style="color:#ABABAB;">**Silver**</span> skin into <span style="color:#2c2e2e;">**Platinum**</span> the player will have to pay the amount of **$500,000, 50 Mission Points** and **1x Upgrade Ticket**.
+* If the player upgrades the <span style="color:#2c2e2e;">**Platinum**</span> skin to a <span style="color:#11c8fa;">**Diamond**</span> Skin:
+    * The player will have to pay the amount of **$1,000,000**.
+    * The player will have to pay **100 Mission Points**.
+    * The player will have to pay **1x Diamond Ticket**.
+    * After upgrading the Platinum Skin to Diamond, the player will receive 2 **random bonuses** from the 100 possible bonuses. These bonuses will be active *only if the player wears the skin while doing a certain activity*.
 * If the player upgrades the <span style="color:#11c8fa">**Diamond**</span> Skin to an <span style="color:#fa8e0a">**Onyx**</span> Skin:
-    * The player will have to pay the amount of $2,000,000.
-    * The player will have to pay 200 Mission Points.
-    * The player will have to pay 1x Onyx Ticket.
+    * The player will have to pay the amount of **$2,000,000**.
+    * The player will have to pay **200 Mission Points**.
+    * The player will have to pay **1x Onyx Ticket**.
     * After upgrading the Diamond Skin to Onyx Skin, the player will receive *2 more random bonuses* different from those already received on the Diamond skin. Those already owned will remain intact and 2 new bonuses will be added to the upgraded skin. Therefore, the skin will have a total of 4 bonuses that will be active as long as the skin is worn.
 * If the player does not wear the skin then bonuses of any type will not be applied.
 

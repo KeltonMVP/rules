@@ -3,7 +3,6 @@ icon: material/home-lock
 ---
 
 # Bunkers
-
 <figure markdown="span">
   ![Bunkers](/images/wiki/general/Bunkers.png){ width="390" }
   <figcaption>Bunkers</figcaption>
@@ -15,7 +14,6 @@ Exista in total trei Bunkere (imaginea #1) adaugate care pot fi cumparate **ince
 
 ## Bunkers
 ### Basin Bunker
-
 <figure markdown="span">
   ![Basin Bunker](/images/wiki/general/Basinlocation.png){ width="390" }
   <figcaption>Basin Bunker</figcaption>
@@ -34,7 +32,6 @@ Acesta dispune de 4 tipuri de upgrade-uri avand urmatoarele preturi:
 Amplasamentul acestui bunker nu este cel mai grozav, de aici si pretul cel mai scazut dintre toate, insa este ideal pentru persoanele care vor sa vada cum functioneaza bunkerul si nu vor sa aiba cheltuiala prea mare din prima.
 
 ### Diablo Bunker
-
 <figure markdown="span">
   ![Diablo Bunker](/images/wiki/general/Diablolocation.png){ width="390" }
   <figcaption>Diablo Bunker</figcaption>
@@ -54,7 +51,6 @@ Amplasamentul acestuia este ideal, nu chiar cel mai bun, avand rute relativ rapi
 
 
 ### Blueberry Bunker
-
 <figure markdown="span">
   ![Blueberry Bunker](/images/wiki/general/Blueberrylocation.png){ width="390" }
   <figcaption>Blueberry Bunker</figcaption>
@@ -67,13 +63,12 @@ Acesta dispune de 4 tipuri de upgrade-uri avand urmatoarele preturi:
 * **Echipament** valorand 800.000$.
 * **Staff** valorand 800.000$.
 * **Securitate** valorand 400,000$.
-* **Supraveghere** valorand 4.400.000$.
+* **Supraveghere** valorand 4.000.000$.
 * **Confort** valorand $2.000.000.
 
 Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta pentru cei care cauta Bunkerul cel mai profitabil.
 
 ## Caracteristici Generale
-
 <figure markdown="span">
   ![/buybunker](/images/wiki/general/Diabloprice.png){ width="390" }
   <figcaption>/buybunker</figcaption>
@@ -87,7 +82,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Misiunile din Bunker nu pot fi incepute fara a detine licentele aferente.
 
 ## Centrul de Comanda
-
 <figure markdown="span">
   ![Centrul de Comanda](/images/wiki/general/Commanddefault.png){ width="390" }
   <figcaption>Centrul de Comanda</figcaption>
@@ -97,7 +91,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Centrul de comanda permite sa verificati proviziile, stocul, castigul total din Bunker, sa incepeti misiuni de aprovizionare, misiuni de vanzare, sa cumparati imbunatatiri sau sa renuntati la Bunker.
 
 ## Reaprovizionarea si Proviziile
-
 <figure markdown="span">
   ![Aprovizionare](/images/wiki/general/Resupply.png){ width="390" }
   <figcaption>Aprovizionare</figcaption>
@@ -112,7 +105,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 *Nota: Misiunile bunkerului pot fi anulate folosind comanda /cancel bunker*
 
 ### Rob a Rival
-
 <figure markdown="span">
   ![Rob a Rival](/images/wiki/general/Robrival.jpg){ width="390" }
   <figcaption>Rob a Rival</figcaption>
@@ -126,12 +118,10 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Daca misiunea are succes, Bunkerul atacat va pierde 25 unitati de provizii iar atacatorul va primi 25 unitati de provizii pentru fiecare seif spart, astfel ca poate umple proviziile Bunkerului dintr-o singura astfel de misiune.
 
 ### Salvage Yard Job
-
 <figure markdown="span">
   ![Salvage Yard Job](/images/wiki/general/Salvage.png){ width="390" }
   <figcaption>Salvage Yard Job</figcaption>
 </figure>
-
 
 * Undeva pe harta vor fi spawnate niste vehicule de tip Rumpo care contin provizii si trebuie livrate la Bunker (imaginea #9).
 * Cand incepeti o misiune de aprovizionare nu uitati sa aveti un vehicul langa Bunker pentru a avea mijloc de transport pana la destinatie.
@@ -140,7 +130,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Timpul alocat acestei misiuni este intre 20 si 30 de minute in functie de Bunkerul detinut.
 
 ### Steal the Cargobob
-
 <figure markdown="span">
   ![Steal the Cargobob](/images/wiki/general/Stealcargobob.png){ width="390" }
   <figcaption>Steal the Cargobob</figcaption>
@@ -153,7 +142,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Timpul alocat acestei misiuni este intre 20 si 30 de minute in functie de Bunkerul detinut.
 
 ### Get the Cash
-
 <figure markdown="span">
   ![Get the Cash](/images/wiki/general/Getthecash.png){ width="390" }
   <figcaption>Get the Cash</figcaption>
@@ -167,7 +155,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 
 
 ### Bring the Boats
-
 <figure markdown="span">
   ![Bring The Boats Route](/images/wiki/general/Bunkerwaterroutes.png){ width="390" }
   <figcaption>Bring The Boats Route</figcaption>
@@ -182,17 +169,15 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 
 
 ### Barracks Supply Run
-
 * Aceasta misiune are 15% sansa sa fie generata la pornirea unei aprovizionari, disponibila exclusiv pentru ownerul bunkerului (daca acesta are ajutoare, doar el poate primi misiunea).
 * Scopul este capturarea unui vehicul militar de tip **Barracks** si livrarea acestuia la bunker.
-*Misiunea are doua etape obligatorii:
+* Misiunea are doua etape obligatorii:
     * **Picklocking** – Deblocheaza lacatul vehiculului prin pozitionarea corecta a tuturor pinilor (indicati cu verde deschis) folosind tastele **W/A/S/D** pentru deplasarea uneltei si a pinilor, respectiv **ENTER** pentru blocarea pinului curent. Culorile indica apropierea de pozitia corecta (galben - verde), iar depasirea pozitiei corecte coloreaza pinul in rosu si reseteaza intregul minigame.
     * **Hotwiring** – Dupa succesul de la prima parte a misiunii, jucatorul este fortat sofer in Barracks (**F/ENTER**) si trebuie sa porneasca motorul conectand doua fire intre cuplele marcate cu galben.
-
 **Nota:** Nerezolvarea oricarui minigame in timp util duce la esecul misiunii. La livrarea cu succes a Barracksului, bunkerul este aprovizionat instant la capacitate maxima de provizii, indiferent de cantitatea anterioara.
 
-### Folosirea Proviziilor
 
+### Folosirea Proviziilor
 * Ca un Bunker sa produca stoc acesta trebuie sa detina provizii.
 * Bunkerele cu imbunatatiri vor consuma mai greu proviziile, astfel ca vor produce mai mult stoc in timp si vor trebui aprovizionate mai rar.
 * Aceste provizii se consuma in timp, astfel:
@@ -203,7 +188,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 
 
 ## Vanzarea si Stocul
-
 * Stocul poate fi vandut incepand cu minim 1 unitate de stoc.
 * Pretul per unitate de stoc este de 1,000$ pentru vanzarea la o locatie apropiata sau 2,000$ pentru vanzarea la o locatie departata.
 * Astfel daca detineti 100 unitati de stoc veti primi 100,000$ la vanzarea apropiata sau 200,000$ la vanzarea departata.
@@ -211,8 +195,8 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Fiecare ajutor la misiunea de vanzare va primi 10% din banii platii finale, fara a scadea din banii pe care ii primeste proprietarul Bunkerului.
 * Timpul alocat vanzarii de stoc este de 5 minute pentru vanzarea apropiata si 10 minute vanzarea departata.
 
-### Stocul
 
+### Stocul
 * Ca un Bunker sa produca stoc acesta trebuie sa detina provizii.
 * Stocul va fi produs **numai** daca proprietarul este **online**.
 * Bunkerele cu imbunatatiri vor crea mai repede stoc, astfel ca vor produce mai mult stoc in timp si vor aduce profit mai repede.
@@ -223,8 +207,8 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
 * Avand in vedere cifrele de mai sus, un Bunker fara vreo imbunatatire va avea stoc maxim in aproximativ 33 de ore in timp ce un Bunker imbunatatit la maxim isi va umple stocul in aproximativ 16 ore.
 * De aici au fost stabilite inclusiv preturile pentru Bunkere si imbunatatiri, astfel ca in timp fiecare dintre ele isi vor amortiza investitia si vor produce doar profit.
 
-### Imbunatatirile
 
+### Imbunatatirile
 <figure markdown="span">
   ![imbunatatiri](/images/wiki/general/Bunkerupgrades.png){ width="390" }
   <figcaption>imbunatatiri</figcaption>
@@ -243,7 +227,6 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
     * Posibilitatea de vindecare in interiorul acestuia (membrii PD la datorie primesc si armura).
     * Posibilitatea de a folosi comanda /sleep in interior.
     * Posibilitatea de setare a bunker-ului ca locatie principala de spawn.
-
 * **Nota:** Beneficiile se aplica exclusiv ownerului buncarului. Jucatorii care patrund in alt buncar (ex. hitmani prin /ram) nu pot accesa aceste functii.
 * Imbunatatirile se pierd la schimbarea sau distrugerea Bunkerului.
 
@@ -268,6 +251,5 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
     * **Bunker Tier 10** - nivelul se deblocheaza cand bunkerul genereaza **$250.000.000**, acesta va va oferi o capacitate maxima de **150** provizii si **150** stocuri.
 
 **Note:**
-
 * Daca bunkerul va fi distrus, tierul va fi resetat, daca veti cumpara alt bunker veti reincepe de la tier 0.
 * Tierul bunkerului este precizat atat prin intermediul comenzii **/bunker**, dar si prin intermediul comenzii **/mybunker**, de la distanta.
