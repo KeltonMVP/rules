@@ -601,6 +601,11 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png" width="65" style="margin-right: 15px;">
+<div><b>Quest Enthusiast</b> - acordat jucatorilor care au finalizat un quest special.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/Miss_B-Zone_Winner.png" width="65" style="margin-right: 15px;">
 <div><b>Miss B-Zone</b> - acordat jucatorilor (fetelor) care au castigat concursul <b>Miss & Mister B-Zone</b> organizat pe forum.</div>
 </div>
@@ -662,7 +667,7 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/Cheater_Team_Manager.png" width="65" style="margin-right: 15px;">
-<div><b>Cheater Team Manager</b> - este acordat <b>eclusiv</b> persoanei care se ocupa de administrarea echipei <b>Cheater Team</b>.</div>
+<div><b>Cheater Team Manager</b> - este acordat <b>exclusiv</b> persoanei care se ocupa de administrarea echipei <b>Cheater Team</b>.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -702,13 +707,13 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2024 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png" width="65" style="margin-right: 15px;">
-<div><b>Quest Enthusiast</b> - acordat jucatorilor care au finalizat un quest special.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -762,8 +767,18 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/17_Years_Together.png" width="65" style="margin-right: 15px;">
+<div><b>17 Year Together</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilelor comunitatii in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2025 Christmas Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Craciunului in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">

@@ -17,7 +17,7 @@ The /buylevel command means buying a level, in the case of the B-Zone RPG server
 Any community player is allowed to use this command and automatically advance to a new level, only if they have the respect points necessary to purchase that level.
 To find out how many respect points you have, use the /stats command.
 If you have more respect points than those required to advance to the next level, they **will be lost** once you purchase the new level.
-For each level advancement, the player will receive **10 Gold** as a reward.
+For each level advancement, the player will receive **20 Gold** as a reward.
 
 **Notes:**
 
