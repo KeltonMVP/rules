@@ -74,7 +74,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">4.6</span> You are not allowed to use the command [<span style="color:var(--pink);">/repair</span>] during tests, especially during Flying and Sailing license tests (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.7</span> You are not allowed to administer two or more tests at the same time (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
+<span style="color:var(--pink);">4.7</span> You are not allowed to administer two or more tests at the same time or accept a license request while already sustaining tests. First finish your testing and then you can accept a new request. (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> for the next).
 
 <span style="color:var(--pink);">4.8</span> If you are on duty [<span style="color:var(--pink);">/duty</span>] and there are available commands [<span style="color:var(--pink);">/servicecalls</span>] or [<span style="color:var(--pink);">/needlicenses</span>], you are OBLIGATED to accept them if you don't have a client (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 

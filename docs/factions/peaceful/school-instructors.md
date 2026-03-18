@@ -74,7 +74,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.6</span> Nu aveti voie sa folositi comanda [<span style="color:var(--pink);">/repair</span>] in timpul testelor, mai ales in timpul testelor pentru licentele Flying si Sailing (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">4.7</span> Nu aveti voie sa dati doua sau mai multe teste in acelasi timp (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
+<span style="color:var(--pink);">4.7</span> Nu aveti voie sa dati doua sau mai multe teste in acelasi timp si nici sa acceptati o alta cerere de licenta in timp ce sustineti deja unul. Trebuie finalizat testul respectiv si apoi preluata o noua cerere. (<span style="color:red;">sanctiune: Faction Warn</span> la prima abatere, <span style="color:red;">demitere</span> la urmatoarea).
 
 <span style="color:var(--pink);">4.8</span> In cazul in care sunteti la datorie [<span style="color:var(--pink);">/duty</span>] si sunt comenzi disponibile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] sunteti OBLIGATI sa le acceptati in cazul in care nu aveti client (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
