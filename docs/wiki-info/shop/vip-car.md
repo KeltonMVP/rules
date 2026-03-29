@@ -35,8 +35,8 @@ Jucatorii isi pot personaliza vehiculele dupa bunul lor plac. Daca doriti un veh
 ## Convertire
 
 - Convertirea vehiculelor se face din meniul de vehicule (/v) prin selectarea vehiculului dorit, iar apoi optiunea de Convert to VIP car.
-- Exista un numar limitat de vehicule care pot fi convertite: **Sultan, Cheetah, Turismo, Banshee, Bullet, Infernus, Hotring, Hotring A, Hotring B, Monster, Monster A, Monster B, Maverick, Packer, Stuntplane, Sparrow, Shamal, Dune, Flatbed, Raindance, Bus/Coach, Roadtrain, Leviathan, DFT-30 si Tractor**.
-- Vehiculele VIP vor aparea in meniul de vehicule cu statutul de VIP.
+- Exista un numar limitat de vehicule care pot fi convertite: **Flatbed, Raindance, Bus/Coach, Roadtrain, Leviathan, DFT-30, Tractor, Dune, Shamal, Maverick, Sparrow, Stuntplane, Hotring A/B/C, Monster A/B/C, Packer, Infernus, Bullet, Banshee, Turismo, Cheetah, Buffalo, Comet, Sultan, Elegy, Jester, Sandking, Savanna, Huntley, Voodoo, Tampa, NRG-500.**
+- Vehiculele VIP vor aparea in meniul de vehicule cu statutul de **VIP**.
 - Pozitia textului pe vehiculele VIP este dinamica, textul putand fi amplasat oriunde doreste proprietarul in apropierea vehiculului.
 - Sistemul va permite sa modificati textul si culoarea acestuia de cate ori doriti.
 

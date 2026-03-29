@@ -25,6 +25,18 @@ The blackjack tables are located at the end of the interior, numbering 12.
 - The game will start only when there are at least 2 players at a table.
 - To be able to join a table you need a minimum level 3 and the minimum entry amount, which is displayed at each table.
 - There are a total of 12 tables, each with its minimum entry amount.
+    - Table 1: **$10,000** buy-in.
+    - Table 2: **$50,000** buy-in.
+    - Table 3: **$100,000** buy-in.
+    - Table 4: **$200,000** buy-in.
+    - Table 5: **$400,000** buy-in.
+    - Table 6: **$800,000** buy-in.
+    - Table 7: **$1,000,000** buy-in.
+    - Table 8: **$2,000,000** buy-in.
+    - Table 9: **$3,000,000** buy-in.
+    - Table 10: **$4,000,000** buy-in.
+    - Table 11: **$5,000,000** buy-in.
+    - Table 12: **$6,000,000** buy-in.
 - From the pot won at the end of a round, 95% of the money will be received by the winning player or players, 4.9% of the money will be deleted from the server and 0.1% of the money will go into the business safe.
 - Real played hours will accumulate during the blackjack game.
 - Players who do not choose any option for 60 seconds will be removed from the table for AFK.

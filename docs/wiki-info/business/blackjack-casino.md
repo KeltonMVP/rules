@@ -18,13 +18,25 @@ Pentru jucatorii cu adictie in jocuri de noroc, serverele B-Zone va pun la dispo
 
 Mesele de blackjack sunt situate in capatul interiorului, in numar de 12.
 
-## Caracteristici
+## Caracteristici Generale
 
 - Puteti juca blackjack daca aveti minim nivel 3.
 - Pot exista cel mult 7 jucatori simultan la o singura masa.
 - Jocul va incepe doar cand exista minim 2 jucatori la o masa.
 - Pentru a putea intra la o masa aveti nevoie de minim level 3 si de suma minima pentru intrare, care este afisata la fiecare masa.
 - Exista un total de 12 mese, fiecare cu suma sa minima pentru intrare.
+    - Masa 1: **$10,000** pret de intrare.
+    - Masa 2: **$50,000** pret de intrare.
+    - Masa 3: **$100,000** pret de intrare.
+    - Masa 4: **$200,000** pret de intrare.
+    - Masa 5: **$400,000** pret de intrare.
+    - Masa 6: **$800,000** pret de intrare.
+    - Masa 7: **$1,000,000** pret de intrare.
+    - Masa 8: **$2,000,000** pret de intrare.
+    - Masa 9: **$3,000,000** pret de intrare.
+    - Masa 10: **$4,000,000** pret de intrare.
+    - Masa 11: **$5,000,000** pret de intrare.
+    - Masa 12: **$6,000,000** pret de intrare.
 - Din pot-ul castigat la finalul unei runde, 95% din bani ii va primi jucatorul sau jucatorii castigatori, 4.9% din bani vor fi stersi de pe server iar 0.1% din bani vor intra in seiful bizului.
 - Se vor acumula ore jucate reale in timpul jocului de blackjack.
 - Jucatorii care nu aleg nicio optiune timp de 60 de secunde vor fi scosi de la masa pentru AFK.
