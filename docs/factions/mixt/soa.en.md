@@ -26,7 +26,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
     - <span style="color:var(--pink);">[/order 2]</span> - (rank 2 / 2850 mats) Desert Eagle, M4.
     - <span style="color:var(--pink);">[/order 3]</span> - (rank 3 / 5850 mats) Desert Eagle, M4, Rifle.
     - <span style="color:var(--pink);">[/order 4]</span> - (rank 4 / 6500 mats) Desert Eagle, M4, Uzi, Sawn-off Shotgun, Rifle.
-- <span style="color:var(--pink);">[/extort] or [/ext]</span> - to extort a civilian wearing one of the faction skins.
+- <span style="color:var(--pink);">[/extort] or [/ext]</span> - to extort a player wearing one of the faction skins.
 - <span style="color:var(--pink);">[/imp]</span> - to see online players wearing a Sons of Anarchy skin.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
 - <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
@@ -111,7 +111,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 7. Extorsion
 
-<span style="color:var(--pink);">7.1</span> Sons of Anarchy members can use [<span style="color:var(--pink);">/extort</span>] or [<span style="color:var(--pink);">/ext</span>] on any civilian using one of the faction skins to steal money, materials, and drugs from them.
+<span style="color:var(--pink);">7.1</span> Sons of Anarchy members can use [<span style="color:var(--pink);">/extort</span>] or [<span style="color:var(--pink);">/ext</span>] on any player using one of the faction skins to steal money, materials, and drugs from them.
 
 <span style="color:var(--pink);">7.2</span> You are not allowed to ask players to allow you to extort them (<span style="color:red">sanction: Faction Warn</span>).
 
