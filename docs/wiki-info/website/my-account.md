@@ -786,6 +786,12 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 <div><b>2026 Valentine's Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei indragostitilor in 2026.</div>
 </div>
 
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Easter_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Easter B-Pass</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Pastelui in 2026.</div>
+</div>
+
+
 
 ### Badge-uri la Comanda
 

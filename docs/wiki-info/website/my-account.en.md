@@ -786,6 +786,11 @@ After you have made the desired modifications you need to use the **Save** butto
 <div><b>2026 Valentine's Quest</b> - awarded to players who have completed the quest on Valentine's Day in 2026.</div>
 </div>
 
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Easter B-Pass</b> - awarded to players who have completed the quest on Easter in 2026.</div>
+</div>
+
 #### Custom Badges
 
 The possibility of purchasing custom badges is offered in exchange for the amount of **3000 Gold (bought from the shop in the last 7 days)**. For more details you can open a ticket on the website where you will receive all the necessary details about purchasing your own badge.

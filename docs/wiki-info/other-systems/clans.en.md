@@ -69,7 +69,18 @@ icon: material/shield-star
 * **Quarry Worker** - 3 XP for a completed trip.
 * **Garbage Man / Chemist** - 6 XP for a completed trip.
 * **Lumberjack / Miner** - 3 XP for a completed trip.
-* **Fisherman** - 2 XP for a completed trip.
+* **Fisherman:**
+    * Tier 1 Fish - factor = 0.1.
+    * Tier 2 Fish - factor = 0.2.
+    * Tier 3 Fish - factor = 0.2.
+    * Tier 4 Fish - factor = 0.3.
+    * Tier 5 Fish - factor = 0.3.
+    * Tier 6 Fish - factor = 0.4.
+    * Tier 7 Fish - factor = 0.5.
+    * Tier 8 Fish - factor = 0.6.
+    * **fish_number x factor = X => Y skill points**.
+        * Result **X** is rounded by **addition**.
+        * If the number of points you get after the calculation is 0, you will receive 1 skill point.
 * **Pickpocket** - 5 XP for each theft, regardless of result.
 * **Craftsman** - 20 XP for each item sold.
 * **Archaeologist** - 1 XP for each artifact sold.

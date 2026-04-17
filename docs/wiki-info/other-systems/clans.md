@@ -69,7 +69,18 @@ icon: material/shield-star
 * **Muncitor la Cariera** - 3 XP pentru o cursa finalizata.
 * **Gunoier / Chemist** - 6 XP pentru o cursa finalizata.
 * **Taietor de Lemne / Miner** - 3 XP pentru o cursa finalizata.
-* **Pescar** - 2 XP pentru o cursa finalizata.
+* **Pescar:** 
+    * Peste Tier 1 - factor = 0.1.
+    * Peste Tier 2 - factor = 0.2.
+    * Peste Tier 3 - factor = 0.2.
+    * Peste Tier 4 - factor = 0.3.
+    * Peste Tier 5 - factor = 0.3.
+    * Peste Tier 6 - factor = 0.4.
+    * Peste Tier 7 - factor = 0.5.
+    * Peste Tier 8 - factor = 0.6.
+    * **nr_pesti x factor = X => Y puncte de skill**.
+        * Rezultatul **X** este rotunjit prin **adaos**.
+        * Daca numarul de puncte pe care il obtineti in urma calcului este 0, veti primi 1 punct de skill.
 * **Hot de Buzunare** - 5 XP pentru fiecare furt, indiferent de rezultat.
 * **Meşter** - 20 XP pentru fiecare obiect vandut.
 * **Arheolog** - 1 XP pentru fiecare artefact vandut.
