@@ -706,20 +706,20 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">22.1</span> Aceste amenzi o sa fie acordate in joc folosind sistemul de [<span style="color:var(--pink);">/fines</span>] doar de catre lider sau sublideri atunci cand este necesar in baza unor dovezi clare. Aceste amenzi pot sa fie achitate in maximum 48 de ore de cand au fost primite. Membrii care nu platesc amenzile active prin comanda [<span style="color:var(--pink);">/fines</span>] in maximum 48 de ore de cand le-au primit o sa fie sanctionati automat de catre server cu <span style="color:red;">Faction Warn.</span>
 
-- Parcatul neregulamentar - <span style="color:var(--green);">30,000$</span>
-- Condus neregulamentar - <span style="color:var(--green);">35,000$</span>
-- Folosirea hidraulicelor pe un drum public - <span style="color:var(--green);">100,000$</span>
-- Folosirea de NOS - <span style="color:var(--green);">100,000$</span>
+- Parcatul neregulamentar - <span style="color:var(--green);">80,000$</span>
+- Condus neregulamentar - <span style="color:var(--green);">85,000$</span>
+- Folosirea hidraulicelor pe un drum public - <span style="color:var(--green);">150,000$</span>
+- Folosirea de NOS - <span style="color:var(--green);">150,000$</span>
 - Depasire viteza legala intre 50-100 km/h - platiti amenda politistului in joc
 - Depasire viteza legala peste 100 km/h  - platiti amenda politistului in joc
-- Headlights off (faruri oprite) - <span style="color:var(--green);">30,000$</span>
-- Folosirea comenzii [<span style="color:var(--pink);">/FVR</span>] fara a se anunta in prealabil - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> prima abatatere, <span style="color:red;">Faction Warn</span> daca se repeta
-- Folosirea Caps Lock-ului intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
-- Nerespectarea indicatiilor unui rang superior la activitati/antrenamente - <span style="color:var(--green);">75,000$</span>
-- Folosirea unui emoticon intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">30,000$</span>
-- Spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
-- Masina parcata pe locul vehiculelor factiunii sau blocarea intrarii/iesirii cu acestea - <span style="color:var(--green);">50,000$</span>
-- Folosirea in exces a comenzii [<span style="color:var(--pink);">/FVS</span>] atunci cand nu este nevoie, ex: activitate, parada, filtru - <span style="color:var(--green);">75,000$</span>
+- Headlights off (faruri oprite) - <span style="color:var(--green);">70,000$</span>
+- Folosirea comenzii [<span style="color:var(--pink);">/FVR</span>] fara a se anunta in prealabil - <span style="color:var(--green);">100,000$</span> + <span style="color:orange;">Avertisment Verbal</span> prima abatatere, <span style="color:red;">Faction Warn</span> daca se repeta
+- Folosirea Caps Lock-ului intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">130,000$</span>
+- Nerespectarea indicatiilor unui rang superior la activitati/antrenamente - <span style="color:var(--green);">150,000$</span>
+- Folosirea unui emoticon intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">80,000$</span>
+- Spam pe [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">50,000$</span>
+- Masina parcata pe locul vehiculelor factiunii sau blocarea intrarii/iesirii cu acestea - <span style="color:var(--green);">100,000$</span>
+- Folosirea in exces a comenzii [<span style="color:var(--pink);">/FVS</span>] atunci cand nu este nevoie, ex: activitate, parada, filtru - <span style="color:var(--green);">175,000$</span>
 
 ## 23. Exceptii
 
