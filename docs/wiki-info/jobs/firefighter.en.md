@@ -4,6 +4,17 @@ icon: material/fire-truck
 
 # Firefighter
 
+<figure markdown="span">
+  ![#1 Firefighter job Location](/images/wiki/jobs/Firefighter.png){ width="450" }
+  <figcaption>#1 Firefighter job Location</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![#2 Firefighter work location](/images/wiki/jobs/FirefighterBehind.png){ width="450" }
+  <figcaption>#2 Firefighter work location</figcaption>
+</figure>
+
+
 ## General Characteristics
 - The Firefighter job is a dynamic job based on emergency interventions, different from classic delivery type jobs.
 - Players respond to calls through a dispatch system and participate in various scenarios such as firefighting, gas leak management or rescue missions.

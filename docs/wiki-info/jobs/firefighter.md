@@ -4,6 +4,16 @@ icon: material/fire-truck
 
 # Pompier
 
+<figure markdown="span">
+  ![#1 Locatie job Pompier](/images/wiki/jobs/Firefighter.png){ width="450" }
+  <figcaption>#1 Locatie job Pompier</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![#2 Locatie incepere munca Pompier](/images/wiki/jobs/FirefighterBehind.png){ width="450" }
+  <figcaption>#2 Locatie incepere munca Pompier</figcaption>
+</figure>
+
 ## Prezentare Generala
 - Jobul Firefighter (Pompier) este un job dinamic bazat pe interventii de urgenta, diferit de joburile clasice de tip livrare.
 - Jucatorii raspund la apeluri printr-un sistem de dispecerat si participa la scenarii variate precum stingerea incendiilor, gestionarea scurgerilor de gaze sau misiuni de salvare.
