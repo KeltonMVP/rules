@@ -197,11 +197,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/business/arenas/"/>
     </url>
     <url>
-        <loc>Nonewiki-info/business/blackjack-casino/</loc>
+        <loc>Nonewiki-info/business/caligulas-casino/</loc>
         <lastmod>2026-05-04</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/business/blackjack-casino/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/business/blackjack-casino/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/business/caligulas-casino/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/business/caligulas-casino/"/>
     </url>
     <url>
         <loc>Nonewiki-info/business/car-color/</loc>
@@ -631,6 +631,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/jobs/farmer/"/>
     </url>
     <url>
+        <loc>Nonewiki-info/jobs/firefighter/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/jobs/firefighter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/jobs/firefighter/"/>
+    </url>
+    <url>
         <loc>Nonewiki-info/jobs/fisherman/</loc>
         <lastmod>2026-05-04</lastmod>
         <changefreq>daily</changefreq>
@@ -909,6 +916,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/other-systems/slots/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/other-systems/slots/"/>
+    </url>
+    <url>
+        <loc>Nonewiki-info/other-systems/tasks/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/other-systems/tasks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/other-systems/tasks/"/>
     </url>
     <url>
         <loc>Nonewiki-info/other-systems/trade/</loc>
@@ -1583,11 +1597,11 @@
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/business/arenas/"/>
     </url>
     <url>
-        <loc>Noneen/wiki-info/business/blackjack-casino/</loc>
+        <loc>Noneen/wiki-info/business/caligulas-casino/</loc>
         <lastmod>2026-05-04</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/business/blackjack-casino/"/>
-        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/business/blackjack-casino/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/business/caligulas-casino/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/business/caligulas-casino/"/>
     </url>
     <url>
         <loc>Noneen/wiki-info/business/car-color/</loc>
@@ -2023,6 +2037,13 @@
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/jobs/farmer/"/>
     </url>
     <url>
+        <loc>Noneen/wiki-info/jobs/firefighter/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/jobs/firefighter/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/jobs/firefighter/"/>
+    </url>
+    <url>
         <loc>Noneen/wiki-info/jobs/fisherman/</loc>
         <lastmod>2026-05-04</lastmod>
         <changefreq>daily</changefreq>
@@ -2301,6 +2322,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/other-systems/slots/"/>
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/other-systems/slots/"/>
+    </url>
+    <url>
+        <loc>Noneen/wiki-info/other-systems/tasks/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/other-systems/tasks/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/other-systems/tasks/"/>
     </url>
     <url>
         <loc>Noneen/wiki-info/other-systems/trade/</loc>
