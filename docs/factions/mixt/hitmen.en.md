@@ -170,15 +170,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 8. Fines
 
-- AFK at HQ (Interior / exterior) in "i" if blocking player access - <span style="color:var(--green);">$25,000</span>
-- Spam on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$30,000</span>
-- Caps on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$30,000</span>
-- Delay in announced meeting / Training / Activity - <span style="color:var(--green);">$30,000</span>
-- Speaking without permission during Meeting / Training - <span style="color:var(--green);">$25,000</span>
-- AFK during an activity - <span style="color:var(--green);">$35,000</span>
-- Parking vehicles in the HQ courtyard in a way that obstructs faction vehicle traffic. - <span style="color:var(--green);">$50,000</span>, second offense <span style="color:orange;">Verbal Warning</span> + fine <span style="color:var(--green);">$50,000</span>
-- Unannounced FVR - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity.
-- FVR when another colleague rank 5+ was announced: <span style="color:var(--green);">$50,000</span>
+- AFK at HQ (Interior / exterior) in "i" if blocking player access - <span style="color:var(--green);">$50,000</span>
+- Spam on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$75,000</span>
+- Caps on [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">$75,000</span>
+- Delay in announced meeting / Training / Activity - <span style="color:var(--green);">$75,000</span>
+- Speaking without permission during Meeting / Training - <span style="color:var(--green);">$50,000</span>
+- AFK during an activity - <span style="color:var(--green);">$75,000</span>
+- Parking vehicles in the HQ courtyard in a way that obstructs faction vehicle traffic. - <span style="color:var(--green);">$100,000</span>, second offense <span style="color:orange;">Verbal Warning</span> + fine <span style="color:var(--green);">$100,000</span>
+- Unannounced FVR - <span style="color:var(--green);">$100,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity.
+- FVR when another colleague rank 5+ was announced: <span style="color:var(--green);">$100,000</span>
 
 !!! example "Info note"
     If it is proven that [<span style="color:var(--pink);">/fvr</span>] was deliberately used to hinder the member, the sanction for abuse of [<span style="color:var(--pink);">/fvr</span>] applies.
