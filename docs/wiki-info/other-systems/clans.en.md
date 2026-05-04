@@ -69,7 +69,18 @@ icon: material/shield-star
 * **Quarry Worker** - 3 XP for a completed trip.
 * **Garbage Man / Chemist** - 6 XP for a completed trip.
 * **Lumberjack / Miner** - 3 XP for a completed trip.
-* **Fisherman** - 2 XP for a completed trip.
+* **Fisherman:**
+    * Tier 1 Fish - factor = 0.1.
+    * Tier 2 Fish - factor = 0.2.
+    * Tier 3 Fish - factor = 0.2.
+    * Tier 4 Fish - factor = 0.3.
+    * Tier 5 Fish - factor = 0.3.
+    * Tier 6 Fish - factor = 0.4.
+    * Tier 7 Fish - factor = 0.5.
+    * Tier 8 Fish - factor = 0.6.
+    * **fish_number x factor = X => Y skill points**.
+        * Result **X** is rounded by **addition**.
+        * If the number of points you get after the calculation is 0, you will receive 1 skill point.
 * **Pickpocket** - 5 XP for each theft, regardless of result.
 * **Craftsman** - 20 XP for each item sold.
 * **Archaeologist** - 1 XP for each artifact sold.
@@ -263,13 +274,13 @@ The XP accumulated by a player remains even if they leave the clan and return la
 
 * **Clan Level 23** - 643,500 XP required:
     * 270 XP max per member, 3.2x XP per activity.
-    * 27% job earnings in the clan vault.
+    * 27% job earnings in the clan safe.
 
 <img src="https://www.rpg.b-zone.ro/public/img/Crests/24.png" width="150px" height="150px">
 
 * **Clan Level 24** - 698,625 XP required:
     * 280 XP max per member, 3.3x XP per activity.
-    * $6,000 in clan vault money every payday.
+    * $6,000 in clan safe money every payday.
 
 <img src="https://www.rpg.b-zone.ro/public/img/Crests/25.png" width="150px" height="150px">
 
@@ -282,7 +293,7 @@ The XP accumulated by a player remains even if they leave the clan and return la
 * **Clan Level 26** - 815,625 XP required:
     * 300 XP maximum per member, 3.5x XP per activity.
     * 60,000 materials capacity in the lab.
-    * 28% profit from jobs in the clan vault.
+    * 28% profit from jobs in the clan safe.
 
 <img src="https://www.rpg.b-zone.ro/public/img/Crests/27.png" width="150px" height="150px">
 
@@ -290,52 +301,52 @@ The XP accumulated by a player remains even if they leave the clan and return la
     * 310 XP maximum per member, 3.6x XP per activity.
     * Clan Order 1.
         * Deagle with 75 bullets.
-        * **500** materials from the cost vault per package - to which an additional fee of **30%** is added.
-        * The final price being **650 materials** from the clan vault per package.
+        * **500** materials from the cost safe per package - to which an additional fee of **30%** is added.
+        * The final price being **650 materials** from the clan safe per package.
 
 <img src="https://www.rpg.b-zone.ro/public/img/Crests/28.png" width="150px" height="150px">
 
 * **Clan Level 28** - 941,625 XP required:
     * 320 XP max per member, 3.7x XP per activity.
-    * $7,000 clan vault money every payday.
+    * $7,000 clan safe money every payday.
     * Clan Order 2.
         * Deagle with 75 bullets.
         * AK-47 with 200 bullets.
-        * **3,200** vault materials cost per pack - plus a **20%** surcharge.
+        * **3,200** safe materials cost per pack - plus a **20%** surcharge.
         * The final price is:
-            * **600 materials** from the clan vault for package (order) 1.
-            * **3,840 materials** from the clan vault for package (order) 2.
+            * **600 materials** from the clan safe for package (order) 1.
+            * **3,840 materials** from the clan safe for package (order) 2.
 
 <img src="https://www.rpg.b-zone.ro/public/img/Crests/29.png" width="150px" height="150px">
 
 * **Clan Level 29** - 1,008,000 XP required:
     * 330 XP maximum per member, 3.8x XP per activity.
-    * 29% earnings from clan vault jobs.
+    * 29% earnings from clan safe jobs.
     * Clan Order 3.
         * Deagle with 75 bullets.
         * M4 with 200 bullets.
-        * **6,000** materials from the vault cost per package - to which is added an additional tax of **10%**.
+        * **6,000** materials from the safe cost per package - to which is added an additional tax of **10%**.
         * The final price is:
-            * **550 materials** from the clan vault for package (order) 1.
-            * **3,520 materials** from the clan vault for package (order) 2.
-            * **6,600 materials** from the clan vault for package (order) 3.
+            * **550 materials** from the clan safe for package (order) 1.
+            * **3,520 materials** from the clan safe for package (order) 2.
+            * **6,600 materials** from the clan safe for package (order) 3.
 
 <img src="https://www.rpg.b-zone.ro/public/img/Crests/30.png" width="150px" height="150px">
 
 * **Clan Level 30** - 1,076,625 XP required:
     * 350 XP maximum per member, 3.9x XP per activity.
     * 70,000 materials capacity in the laboratory.
-    * 30% earnings from jobs in the clan vault.
+    * 30% earnings from jobs in the clan safe.
     * Clan Order 4.
         * Deagle with 75 bullets.
         * M4 with 200 bullets.
         * Rifle with 150 bullets.
-        * **7,000 materials** from the cost vault per package - to which **no additional fee is added**.
+        * **7,000 materials** from the cost safe per package - to which **no additional fee is added**.
         * The final price being:
-            * **500 materials** from the clan vault for package(order) 1.
-            * **3,200 materials** from the clan vault for package(order) 2.
-            * **6,000 materials** from the clan vault for package(order) 3.
-            * **7,000 materials** from the clan vault for package(order) 4.
+            * **500 materials** from the clan safe for package (order) 1.
+            * **3,200 materials** from the clan safe for package (order) 2.
+            * **6,000 materials** from the clan safe for package (order) 3.
+            * **7,000 materials** from the clan safe for package (order) 4.
     * **Raid between clans**  
 
 ## Raid System

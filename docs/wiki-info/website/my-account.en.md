@@ -602,6 +602,11 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png" width="65" style="margin-right: 15px;">
+<div><b>Quest Enthusiast</b> - awarded to players who have completed a special quest.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/Miss_B-Zone_Winner.png" width="65" style="margin-right: 15px;">
 <div><b>Miss B-Zone</b> - awarded to players (girls) who won the <b>Miss & Mister B-Zone</b> contest organized on the forum.</div>
 </div>
@@ -702,13 +707,13 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2024 Spring B-Pass</b> - awarded to players who have completed the Battlepass on the discord server.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/Quest_Enthusiast.png" width="65" style="margin-right: 15px;">
-<div><b>Quest Enthusiast</b> - awarded to players who have completed a special quest.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Spring B-Pass</b> - awarded to players who have completed the Battlepass on the discord server.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -762,13 +767,28 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/17_Years_Together.png" width="65" style="margin-right: 15px;">
+<div><b>17 Years Together</b> - awarded to players who completed the quest on the occasion of community days in 2025.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2025 Christmas Quest</b> - awarded to players who have completed the quest on the occasion of Christmas in 2025.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2026 Valentine's Quest</b> - awarded to players who have completed the quest on Valentine's Day in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Easter B-Pass</b> - awarded to players who have completed the quest on Easter in 2026.</div>
 </div>
 
 #### Custom Badges

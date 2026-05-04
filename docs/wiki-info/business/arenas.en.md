@@ -45,12 +45,69 @@ The B-Zone RPG server has multiple arenas: Paintball Arena, Racing Arena, War Ar
 - At the end of the waiting period, a vote will be held to determine the weapons used. You can vote for a match with a single weapon or a match with a pair of weapons. The voting lasts a few seconds, and each player has the right to choose only one option.
 - In Paintball Arena, 6 types of weapons are available: Deagle, MP5, M4, AK47, Tec-9 and Combat Shotgun.
 - As soon as the voting ends, a weapon or pair of weapons is chosen as the winner, and a 4-minute match begins.
+    - If there are **at least 4 players** in the arena, the match becomes a Ranked match
+    - If the round is Ranked, the kills and deaths in that match will count towards the player's permanent Paintball stats and rank progression.
+    - If there are fewer than 4 players, the match will still be playable, but will not count as a Ranked round.
+    - Players will receive a message at the start of the match telling them whether the round is Ranked or not.
 - Now, at the bottom of the screen you will be able to see a scoreboard. Here appears the name of the player in the lead, their number of kills, as well as your personal score.
 - This personal score consists of: kills, deaths, streak and longest streak. Streak represents the number of players killed without dying, and longest streak is the maximum number of players killed without dying throughout the entire match.
 - At the end of the 4 minutes, the winner will be announced, the player with the highest streak and your personal score.
 - Throughout an active match you can continue to enter the arena and you will start with zero score.
 - The sum won by the best player will be $110.
 - To leave the arena use the /leavepaintball command.
+
+
+### Ranked Matches
+- Instead of each match being just a temporary round, players can now build permanent progression through their overall Paintball performance.
+- Players now have a Paintball rank based on their total kills, deaths, and KDR. The better a player plays over time, the higher they can climb the Paintball ranked ladder.
+- The Ranked Paintball system is built around 19 ranks, starting from **Unranked** and going all the way up to **Global Elite**.
+* Each rank requires both a minimum number of permanent Paintball kills and a minimum KDR. Players must meet both requirements to advance to the next rank.
+    * **Unranked** - 0 kills / 0.00 KDR 
+    * **Silver I** - 30 kills / 0.80 KDR 
+    * **Silver II** - 45 kills / 0.95 KDR 
+    * **Silver III** - 60 kills / 1.05 KDR 
+    * **Silver IV** - 80 kills / 1.15 KDR 
+    * **Silver Elite** - 100 kills / 1.25 KDR 
+    * **Silver Elite Master** - 125 kills / 1.35 KDR 
+    * **Gold Nova I** - 150 kills / 1.50 KDR 
+    * **Gold Nova II** - 180 kills / 1.65 KDR 
+    * **Gold Nova III** - 210 kills / 1.80 KDR 
+    * **Gold Nova Master** - 250 kills / 2.00 KDR 
+    * **Master Guardian I** - 300 kills / 2.20 KDR 
+    * **Master Guardian II** - 360 kills / 2.40 KDR 
+    * **Master Guardian Elite** - 430 kills / 2.65 KDR 
+    * **Distinguished Master Guardian**- 500 kills / 2.90 KDR 
+    * **Legendary Eagle** - 650 kills / 3.20 KDR 
+    * **Legendary Eagle Master** - 800 kills / 3.50 KDR 
+    * **Supreme Master First Class** - 1000 kills / 4.00 KDR 
+    * **Global Elite** - 1300 kills / 4.75 KDR
+
+
+### Rank Paintball menu and personal scoreboard
+* The command **/pbrank** opens the new Paintball Rank Menu, where players can see the entire ranked system directly in the game.
+* From this menu, players can check their current Paintball rank, permanent kills, permanent deaths, KDR, and position within their current rank.
+* The menu also displays all available ranks along with the number of kills and KDR required, so players can more easily understand how close they are to the next rank.
+* Players can select any rank from the menu to see the Top 20 players in that specific rank.
+* The leaderboard is sorted by performance, using KDR first, then kills, and then the lowest number of deaths.
+* The Paintball scoreboard has also been updated. During a Paintball match, players can now see their current rank and KDR directly on their personal scoreboard, along with kills, deaths, current streak, and highest streak.
+
+### Paintball Leaderboards
+![Top 5 Leaderboards](/images/wiki/businesses/PaintballBoards.png){ style="width:700px; display:block; margin: auto;" }
+
+* New physical boards have been added outside of the Paintball Arena. These boards display the top players in the highest Paintball ranks.
+* Top 5 Global Elite
+* Top 5 Supreme Master First Class
+* Top 5 Legendary Eagle Master
+* Each board displays the player's position, name, kills, deaths, and KDR.
+* The boards are automatically updated after ranked Paintball rounds, so that the arena leaderboards remain connected to the current ranked standings.
+
+### Penalty for leaving ranked matches
+* If a player leaves or disconnects during an active ranked Paintball round, they will receive a penalty.
+* The penalty is +1 permanent death in Paintball. This means that players can no longer leave ranked rounds to protect their KDR or avoid a poor match result.
+* The penalty only applies when the Paintball round is ranked. If the round is not ranked, leaving the match will not affect the player's permanent ranked stats.
+* Players who leave a ranked match will also receive a warning message explaining that they have received a quit penalty.
+
+
 
 ## Racing Arena
 

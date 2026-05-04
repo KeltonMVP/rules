@@ -29,7 +29,7 @@ Wars are confrontations between gangs, as a result of which respect and supremac
 * Wars take place on B-Zone RPG servers every Monday, Tuesday, Wednesday, Thursday and Friday between 20:00-22:00. During summer, wars are held in an interval established following a poll on the website.
 * When a gang has a war, members of the respective gangs will see on the game map the territory for which the war is held, oscillating between the color of the offensive gang and the color of the defensive gang (to view territories use the /turfs command).
 * During the war, only personal vehicles or vehicles owned by the mafia can be used.
-    * **Exception:** Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed and Enforcer.
+    * **Exception:** Forklift, Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed and Enforcer.
 * Each gang has the obligation to listen to the instructions of the leader and sub-leaders of the faction.
 
 ### Weapon distribution

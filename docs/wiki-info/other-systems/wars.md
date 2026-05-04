@@ -29,7 +29,7 @@ Warurile sunt confruntarile dintre ganguri, in urma carora se poate castiga resp
 * Warurile au loc pe serverele B-Zone RPG in fiecare luni, marti, miercuri, joi si vineri intre orele 20:00-22:00. in timpul verii, warurile se poarta intr-un interval stabilit in urma unui sondaj pe website.
 * Atunci cand un gang are un razboi, membrii respectivelor ganguri vor vedea pe harta jocului teritoriul pentru care se tine razboiu, osciland intre culoarea gangului ofensiv si culoarea gangului defensiv (pentru vizualizarea teritoriilor se foloseste comanda /turfs).
 * In timpul razboiului pot fi folosite numai vehicule personale sau detinute de mafie.
-    * **Exceptie:** Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed si Enforcer.
+    * **Exceptie:** Forklift, Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed si Enforcer.
 * Fiecare gang are obligatia de a asculta indicatiile liderului si subliderilor factiunii.
 
 ### Distribuirea armelor

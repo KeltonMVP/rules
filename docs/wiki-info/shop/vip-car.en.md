@@ -35,8 +35,8 @@ Players can customize their vehicles as they wish. If you want a unique vehicle 
 ## Conversion
 
 - Vehicle conversion is done from the vehicle menu (/v) by selecting the desired vehicle, then the Convert to VIP car option.
-- There is a limited number of vehicles that can be converted: **Sultan, Cheetah, Turismo, Banshee, Bullet, Infernus, Hotring, Hotring A, Hotring B, Monster, Monster A, Monster B, Maverick, Packer, Stuntplane, Sparrow, Shamal, Dune, Flatbed, Raindance, Bus/Coach, Roadtrain, Leviathan, DFT-30 and Tractor**.
-- VIP vehicles will appear in the vehicle menu with VIP status.
+- There is a limited number of vehicles that can be converted: **Flatbed, Raindance, Bus/Coach, Roadtrain, Leviathan, DFT-30, Tractor, Dune, Shamal, Maverick, Sparrow, Stuntplane, Hotring A/B/C, Monster A/B/C, Packer, Infernus, Bullet, Banshee, Turismo, Cheetah, Buffalo, Comet, Sultan, Elegy, Jester, Sandking, Savanna, Huntley, Voodoo, Tampa, NRG-500.**
+- VIP vehicles will appear in the vehicle menu with **VIP** status.
 - The text position on VIP vehicles is dynamic, the text can be placed anywhere the owner wants near the vehicle.
 - The system will allow you to modify the text and its color as many times as you want.
 

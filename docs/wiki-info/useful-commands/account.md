@@ -17,7 +17,7 @@ Comanda /buylevel, prin traducere inseamna a cumpara un nivel, in cazul serverul
 Oricarui jucator al comunitatii ii este permisa folosirea comenzii respective si automat trecerea la un nou nivel, doar daca acesta are punctele de respect necesare cumpararii nivelului respectiv.
 Pentru a afla cate puncte de respect detineti, folositi comanda /stats.
 Daca detineti mai multe puncte de respect decat cele cerute pentru avansarea la urmatorul nivel acestea **vor fi pierdute** odata cu achizitionarea noului nivel.
-Pentru fiecare avansare in nivel jucatorul va primi cate **10 Gold** drept recompensa.
+Pentru fiecare avansare in nivel jucatorul va primi cate **20 Gold** drept recompensa.
 
 **Note:**
 

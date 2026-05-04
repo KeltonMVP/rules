@@ -45,12 +45,70 @@ Serverul B-Zone RPG detine multiple arene: Paintball Arena, Racing Arena, War Ar
 - La sfarsitul perioadei de asteptare, se va tine un vot pentru a determina armele folosite. Se poate vota meci cu o singura arma sau meci cu o pereche de arme. Votarea dureaza cateva secunde, iar fiecare jucator are dreptul de a alege o singura optiune.
 - In Paintball Arena sunt disponibile 6 tipuri de arme: Deagle, MP5, M4, AK47, Tec-9 si Combat Shotgun.
 - Imediat ce votarea se termina, o arma sau pereche de arme sunt alese castigatoare, iar un meci de 4 minute incepe.
+    - Daca exista **minim 4 jucatori** in arena, meciul devine unul Ranked
+    - Daca runda este ranked, kill-urile si death-urile din acel meci vor conta pentru statisticile permanente de Paintball ale jucatorului si pentru progresul in rank.
+    - Daca sunt mai putin de 4 jucatori, meciul va putea fi jucat in continuare, dar nu va conta ca runda ranked.
+    - Jucatorii vor primi un mesaj la inceputul meciului care le va spune daca runda este ranked sau nu.
 - Acum, in partea de jos a ecranului veti putea vedea un tabel (scoreboard). Aici apare numele jucatorului aflat la conducere, numarul lor de ucideri (kills), cat si scorul vostru personal.
 - Acest scor personal este alcatuit din: kills, deaths, streak si longest streak. Streak reprezinta numarul de jucatori ucisi fara a muri, iar longest streak este numarul maxim de jucatori ucisi fara a muri pe parcursul intregului meci.
 - La sfarsitul celor 4 minute, se va anunta castigatorul, jucatorul cu cel mai mare streak si scorul vostru personal.
 - Pe tot parcursul unui meci activ se poate intra in continuare in arena si veti incepe cu scor zero.
 - Suma castigata de cel mai bun jucator va fi de $110.
 - Pentru a parasi arena folositi comanda /leavepaintball.
+
+### Meciurile Ranked
+- In loc ca fiecare meci sa fie doar o runda temporara, jucatorii pot acum sa isi construiasca un progres permanent prin performanta lor totala in Paintball.
+- Jucatorii au acum un rank de Paintball bazat pe numarul total de kill-uri, death-uri si KDR. Cu cat un jucator joaca mai bine in timp, cu atat poate urca mai sus in ladder-ul de rank-uri Paintball.
+- Sistemul Ranked de Paintball este construit in jurul a 19 rank-uri, incepand de la **Unranked** si ajungand pana la **Global Elite**.
+* Fiecare rank necesita atat un numar minim de kill-uri permanente in Paintball, cat si un KDR minim. Jucatorii trebuie sa indeplineasca ambele cerinte pentru a ajunge la urmatorul rank.
+    * **Unranked** - 0 kills / 0.00 KDR
+    * **Silver I** - 30 kills / 0.80 KDR
+    * **Silver II** - 45 kills / 0.95 KDR
+    * **Silver II**I - 60 kills / 1.05 KDR
+    * **Silver IV** - 80 kills / 1.15 KDR
+    * **Silver Elite** - 100 kills / 1.25 KDR
+    * **Silver Elite Master** - 125 kills / 1.35 KDR
+    * **Gold Nova I** - 150 kills / 1.50 KDR
+    * **Gold Nova II** - 180 kills / 1.65 KDR
+    * **Gold Nova III** - 210 kills / 1.80 KDR
+    * **Gold Nova Master** - 250 kills / 2.00 KDR
+    * **Master Guardian I** - 300 kills / 2.20 KDR
+    * **Master Guardian II** - 360 kills / 2.40 KDR
+    * **Master Guardian Elite** - 430 kills / 2.65 KDR
+    * **Distinguished Master Guardian**- 500 kills / 2.90 KDR
+    * **Legendary Eagle** - 650 kills / 3.20 KDR
+    * **Legendary Eagle Master** - 800 kills / 3.50 KDR
+    * **Supreme Master First Class** - 1000 kills / 4.00 KDR
+    * **Global Elite** - 1300 kills / 4.75 KDR
+
+
+### Meniul Rank Paintball si scoreboard-ul personal
+* Comanda **/pbrank** deschide noul meniu Paintball Rank Menu, unde jucatorii pot vedea intregul sistem ranked direct in joc.
+* Din acest meniu, jucatorii isi pot verifica rank-ul actual de Paintball, kill-urile permanente, death-urile permanente, KDR-ul si pozitia in cadrul rank-ului lor actual.
+* Meniul afiseaza, de asemenea, toate rank-urile disponibile impreuna cu numarul de kill-uri si KDR-ul necesar, astfel incat jucatorii sa poata intelege mai usor cat de aproape sunt de urmatorul rank.
+* Jucatorii pot selecta orice rank din meniu pentru a vedea Top 20 jucatori din acel rank specific.
+* Lista topului este sortata dupa performanta, folosind mai intai KDR-ul, apoi kill-urile, iar apoi numarul mai mic de death-uri.
+* Scoreboard-ul de Paintball a fost, de asemenea, actualizat. In timpul unui meci de Paintball, jucatorii pot vedea acum rank-ul actual si KDR-ul direct pe scoreboard-ul personal, impreuna cu kill-urile, death-urile, streak-ul actual si cel mai mare streak.
+
+
+### Tabele Leaderboard Paintball
+![Tabele Top 5](/images/wiki/businesses/PaintballBoards.png){ style="width:700px; display:block; margin: auto;" }
+
+* Noi tabele fizice au fost adaugate in afara Arenei de Paintball. Aceste boards afiseaza cei mai buni jucatori din cele mai inalte rank-uri Paintball.
+    * Top 5 Global Elite
+    * Top 5 Supreme Master First Class
+    * Top 5 Legendary Eagle Master
+* Fiecare tabela afiseaza pozitia jucatorului, numele, kill-urile, death-urile si KDR-ul.
+* Tabelele sunt actualizate automat dupa rundele ranked de Paintball, astfel incat leaderboard-urile din arena sa ramana conectate la clasamentul ranked actual.
+
+
+### Penalizare pentru parasirea meciurilor ranked
+* Daca un jucator paraseste sau se deconecteaza in timpul unei runde ranked active de Paintball, acesta va primi o penalizare.
+* Penalizarea este de +1 death permanent in Paintball. Asta inseamna ca jucatorii nu mai pot parasi rundele ranked pentru a-si proteja KDR-ul sau pentru a evita un rezultat slab al meciului.
+* Penalizarea se aplica doar atunci cand runda de Paintball este ranked. Daca runda nu este ranked, parasirea meciului nu va afecta statisticile ranked permanente ale jucatorului.
+* Jucatorii care parasesc un meci ranked vor primi, de asemenea, un mesaj de avertizare care le explica faptul ca au primit o penalizare de quit.
+
+
 
 ## Racing Arena
 
