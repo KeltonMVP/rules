@@ -168,189 +168,233 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
     * **Onyx Fragments:** 1 pentru 40 Gold sau 20,000$.
     * **Onyx Tickets:** 1 pentru 200 Gold sau 100,000$.
     * **Skin Upgrade Ticket:** 1 pentru 120 Gold sau $60.000.
-    * **Skin Upgrade Fragment** 1 pentru 24 Gold sau $12.000.
+    * **Skin Upgrade Fragment:** 1 pentru 24 Gold sau $12.000.
+    * **Red Crate:** 1 pentru 18 Puncte de Misiune.
+    * **Green Crate:** 1 pentru 30 Puncte de Misiune.
+    * **Cyan Crate:** 1 pentru 45 Puncte de Misiune.
+    * **Yellow Crate:** 1 pentru 60 Puncte de Misiune.
+    * **Purple Crate:** 1 pentru 60 Puncte de Misiune.
+    * **Silver Crate:** 1 pentru 75 Puncte de Misiune.
+    * **Blue Crate:** 1 pentru 75 Puncte de Misiune.
+    * **White Crate:** 1 pentru 45 Puncte de Misiune.
+    * **Olive Crate:** 1 pentru 75 Puncte de Misiune.
+    * **Brown Crate:** 1 pentru 75 Puncte de Misiune.
+    * **Magenta Crate:** 1 pentru 105 Puncte de Misiune.
+    * **Pink Crate:** 1 pentru 120 Puncte de Misiune.
+    * **Orange Crate:** 1 pentru 45 Puncte de Misiune.
+    * **Lime Crate:** 1 pentru 105 Puncte de Misiune.
 
 ## Bonusuri
-* Pentru a verifica bonusurile unui skin se va folosi comanda /skinbonus.<br/>
+* Pentru a verifica bonusurile unui skin se va folosi comanda /skinbonus.
 
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:7vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Health Regeneration</span>
-  <p style="line-height: normal;">Regenerare Viata 5% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 10% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 15% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 20% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare Viata 25% din totalul de viata.</p></div>
+<div style="display:flex; flex-wrap:wrap; column-gap:10px; row-gap:5px; font-size:14px;">
+  <!-- Health Regeneration -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">Health Regeneration</h3>
+    <p style="margin:2px 0;">Regenerare Viata 5% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare Viata 10% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare Viata 15% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare Viata 20% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare Viata 25% din totalul de viata.</p>
+  </div>
 
+  <!-- Food Replanish -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">Food Replanish</h3>
+    <p style="margin:2px 0;">Regenerare cu Mancare 5% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare cu Mancare 10% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare cu Mancare 15% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare cu Mancare 20% din totalul de viata.</p>
+    <p style="margin:2px 0;">Regenerare cu Mancare 25% din totalul de viata.</p>
+  </div>
 
-<div style="width: 33.33%;text-align: center; margin-top:7vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Food Replanish</span>
-  <p style="line-height: normal;">Regenerare cu Mancare 5% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 10% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 15% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 20% din totalul de viata.</p>
-  <p style="line-height: normal;">Regenerare cu Mancare 25% din totalul de viata.</p></div>
+  <!-- Pickup-uri Viata la Waruri -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">Pickup-uri Viata la Waruri</h3>
+    <p style="margin:2px 0;">Pickup Viata la Waruri +5HP per pickup (maxim de +30 HP la viata curenta).</p>
+    <p style="margin:2px 0;">Pickup Viata la Waruri +10HP per pickup (maxim de +35 HP la viata curenta).</p>
+    <p style="margin:2px 0;">Pickup Viata la Waruri +15HP per pickup (maxim de +40 HP la viata curenta).</p>
+    <p style="margin:2px 0;">Pickup Viata la Waruri +20HP per pickup (maxim de +45 HP la viata curenta).</p>
+    <p style="margin:2px 0;">Pickup Viata la Waruri +25HP per pickup (maxim de +50 HP la viata curenta).</p>
+  </div>
 
+  <!-- La Casa De Papel -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">La Casa De Papel</h3>
+    <p style="margin:2px 0;">Capacitate marita cu 5 bijuterii.</p>
+    <p style="margin:2px 0;">Capacitate marita cu 10 bijuterii.</p>
+    <p style="margin:2px 0;">Capacitate marita cu 15 bijuterii.</p>
+    <p style="margin:2px 0;">Capacitate marita cu 20 bijuterii.</p>
+    <p style="margin:2px 0;">Capacitate marita cu 25 bijuterii.</p>
+  </div>
 
-<div style="width: 33.33%;text-align: center; margin-top:15vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Pickup-uri Viata la Waruri</span>
-  <p style="line-height: normal;">Pickup Viata la Waruri +5HP per pickup (maxim de +30 HP la viata curenta).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +10HP per pickup (maxim de +35 HP la viata curenta).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +15HP per pickup (maxim de +40 HP la viata curenta).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +20HP per pickup (maxim de +45 HP la viata curenta).</p>
-  <p style="line-height: normal;">Pickup Viata la Waruri +25HP per pickup (maxim de +50 HP la viata curenta).</p></div>
+  <!-- The XP Farmer -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The XP Farmer</h3>
+    <p style="margin:2px 0;">5% sansa de a primi dublu PayDay.</p>
+    <p style="margin:2px 0;">10% sansa de a primi dublu PayDay.</p>
+    <p style="margin:2px 0;">15% sansa de a primi dublu PayDay.</p>
+    <p style="margin:2px 0;">20% sansa de a primi dublu PayDay.</p>
+    <p style="margin:2px 0;">25% sansa de a primi dublu PayDay.</p>
+    <p style="margin-top:6px;"><b>Nota:</b> Acest bonus se va multiplica daca existaFun Hours sau First Payday of the Day.</p>
+  </div>
+
+  <!-- The Hard Worker -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Hard Worker</h3>
+    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin-top:6px;"><b>Nota:</b> Bonusul nu este valabil la joburile:Pescar, Fermier, Detectiv, Avocat şi Hoţ de Buzunare.</p>
+  </div>
+
+  <!-- The Income Worker -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Income Worker</h3>
+    <p style="margin:2px 0;">5% sansa de a primi cu 30 % mai multi bani la joburi.</p>
+    <p style="margin:2px 0;">10% sansa de a primi cu 30 % mai multi bani la joburi.</p>
+    <p style="margin:2px 0;">15% sansa de a primi cu 30 % mai multi bani la joburi.</p>
+    <p style="margin:2px 0;">20% sansa de a primi cu 30 % mai multi bani la joburi.</p>
+    <p style="margin:2px 0;">25% sansa de a primi cu 30 % mai multi bani la joburi.</p>
+  </div>
+
+  <!-- The Faction Income Worker -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Faction Income Worker</h3>
+    <p style="margin:2px 0;">5% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
+    <p style="margin:2px 0;">10% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
+    <p style="margin:2px 0;">15% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
+    <p style="margin:2px 0;">20% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
+    <p style="margin:2px 0;">25% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
+  </div>
+
+  <!-- The No-Wanted Worker -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The No-Wanted Worker</h3>
+    <p style="margin:2px 0;">5% sansa de a nu primi wanted la joburi ilegale.</p>
+    <p style="margin:2px 0;">10% sansa de a nu primi wanted la joburi ilegale.</p>
+    <p style="margin:2px 0;">15% sansa de a nu primi wanted la joburi ilegale.</p>
+    <p style="margin:2px 0;">20% sansa de a nu primi wanted la joburi ilegale.</p>
+    <p style="margin:2px 0;">25% sansa de a nu primi wanted la joburi ilegale.</p>
+  </div>
+
+  <!-- The Stock Master -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Stock Master</h3>
+    <p style="margin:2px 0;">5% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
+    <p style="margin:2px 0;">10% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
+    <p style="margin:2px 0;">15% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
+    <p style="margin:2px 0;">20% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
+    <p style="margin:2px 0;">25% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
+  </div>
+
+  <!-- The Heisenberg -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Heisenberg</h3>
+    <p style="margin:2px 0;">5 puncte de recuperare inlaturate per ora.</p>
+    <p style="margin:2px 0;">10 puncte de recuperare inlaturate per ora.</p>
+    <p style="margin:2px 0;">15 puncte de recuperare inlaturate per ora.</p>
+    <p style="margin:2px 0;">20 puncte de recuperare inlaturate per ora.</p>
+    <p style="margin:2px 0;">25 puncte de recuperare inlaturate per ora.</p>
+  </div>
+
+  <!-- The Loot Collector -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Loot Collector</h3>
+    <p style="margin:2px 0;">5% sansa de a primi cu 30 % mai mult loot la Mester.</p>
+    <p style="margin:2px 0;">10% sansa de a primi cu 30 % mai mult loot la Mester.</p>
+    <p style="margin:2px 0;">15% sansa de a primi cu 30 % mai mult loot la Mester.</p>
+    <p style="margin:2px 0;">20% sansa de a primi cu 30 % mai mult loot la Mester.</p>
+    <p style="margin:2px 0;">25% sansa de a primi cu 30 % mai mult loot la Mester.</p>
+  </div>
+
+  <!-- The Weapon Factory -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Weapon Factory</h3>
+    <p style="margin:2px 0;">5% mai putine materiale pentru crearea de arme.</p>
+    <p style="margin:2px 0;">10% mai putine materiale pentru crearea de arme.</p>
+    <p style="margin:2px 0;">15% mai putine materiale pentru crearea de arme.</p>
+    <p style="margin:2px 0;">20% mai putine materiale pentru crearea de arme.</p>
+    <p style="margin:2px 0;">25% mai putine materiale pentru crearea de arme.</p>
+  </div>
+
+  <!-- The Professor -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Professor</h3>
+    <p style="margin:2px 0;">Cu 5.000$ mai mult la jaf.</p>
+    <p style="margin:2px 0;">Cu 10.000$ mai mult la jaf.</p>
+    <p style="margin:2px 0;">Cu 15.000$ mai mult la jaf.</p>
+    <p style="margin:2px 0;">Cu 20.000$ mai mult la jaf.</p>
+    <p style="margin:2px 0;">Cu 25.000$ mai mult la jaf.</p>
+  </div>
+
+  <!-- The Prison Breaker -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Prison Breaker</h3>
+    <p style="margin:2px 0;">Intarziere de 5 secunde.</p>
+    <p style="margin:2px 0;">Intarziere de 10 secunde</p>
+    <p style="margin:2px 0;">Intarziere de 15 secunde.</p>
+    <p style="margin:2px 0;">Intarziere de 20 secunde.</p>
+    <p style="margin:2px 0;">Intarziere de 25 secunde.</p>
+    <p style="margin-top:6px;"><b>Nota:</b> Wanted-ul este in mod normal oferit la exact 1 minut dupa evadare, jucatorii vor primi acest timp peste timpul normal inainte de a primi wanted.</p>
+  </div>
+
+  <!-- The Master Robber -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Master Robber</h3>
+    <p style="margin:2px 0;">1 punct de jaf mai putin.</p>
+    <p style="margin:2px 0;">2 punct de jaf mai putin.</p>
+    <p style="margin:2px 0;">3 punct de jaf mai putin.</p>
+    <p style="margin:2px 0;">4 punct de jaf mai putin.</p>
+    <p style="margin:2px 0;">5 punct de jaf mai putin.</p>
+    <p style="margin-top:6px;"><b>Nota:</b> Acest bonus se va aplica la ambele tipuri de jaf (singur sau in echipa).</p>
+  </div>
+
+  <!-- The Escaper -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Escaper</h3>
+    <p style="margin:2px 0;">1 punct de evadare mai putin.</p>
+    <p style="margin:2px 0;">2 punct de evadare mai putin.</p>
+    <p style="margin:2px 0;">3 punct de evadare mai putin.</p>
+    <p style="margin:2px 0;">4 punct de evadare mai putin.</p>
+    <p style="margin:2px 0;">5 punct de evadare mai putin.</p>
+  </div>
+
+  <!-- The Fence Digger -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Fence Digger</h3>
+    <p style="margin:2px 0;">1 daune suplimentare per /hit.</p>
+    <p style="margin:2px 0;">2 daune suplimentare per /hit.</p>
+    <p style="margin:2px 0;">3 daune suplimentare per /hit.</p>
+    <p style="margin:2px 0;">4 daune suplimentare per /hit.</p>
+    <p style="margin:2px 0;">5 daune suplimentare per /hit.</p>
+    <p style="margin-top:6px;"><b>Nota:</b> Valoarea initiala a daunelor la /hit este de 3, daca jucatorul primeste acest bonus daunele totale vor fi adunate (3 + suma oferita de bonus).</p>
+  </div>
+
+  <!-- The Wanted Dodger -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Wanted Dodger</h3>
+    <p style="margin:2px 0;">1 minut reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">2 minut reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">3 minut reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">4 minut reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">5 minut reducere timp de expirare wanted.</p>
+    <p style="margin-top:6px;"><b>Nota:</b> Acest lucru va functiona numai atunci cand jucatorul primeste wanted in timp ce poarta acest skin. Daca primesti wanted si apoi schimbi skinul nu vei beneficia de acest bonus.</p>
+  </div>
+
+  <!-- The Greedy One -->
+  <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
+    <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Greedy One</h3>
+    <p style="margin:2px 0;">5% mai putine secunde in inchisoare.</p>
+    <p style="margin:2px 0;">10% mai putine secunde in inchisoare.</p>
+    <p style="margin:2px 0;">15% mai putine secunde in inchisoare.</p>
+    <p style="margin:2px 0;">20% mai putine secunde in inchisoare.</p>
+    <p style="margin:2px 0;">25% mai putine secunde in inchisoare.</p>
+  </div>
 </div>
 
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:25vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">La Casa De Papel</span>
-  <p style="line-height: normal;">Capacitate marita cu 5 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 10 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 15 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 20 bijuterii.</p>
-  <p style="line-height: normal;">Capacitate marita cu 25 bijuterii.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:32vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The XP Farmer</span>
-  <p style="line-height: normal;">5% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">10% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">15% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">20% sansa de a primi dublu PayDay.</p>
-  <p style="line-height: normal;">25% sansa de a primi dublu PayDay.</p>
-<b>Nota:</b> Acest bonus se va multiplica daca existaFun Hours sau First Payday of the Day.</div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:40vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Hard Worker</span>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-  <p style="line-height: normal;">5% sansa de a primi dublu puncte de skill la job.</p>
-<b>Nota:</b> Bonusul nu este valabil la joburile:Pescar, Fermier, Detectiv, Avocat şi Hoţ de Buzunare.</div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Income Worker</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai multi bani la joburi.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai multi bani la joburi.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Faction Income Worker</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai multi bani la raportul de activitate.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The No-Wanted Worker</span>
-  <p style="line-height: normal;">5% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">10% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">15% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">20% sansa de a nu primi wanted la joburi ilegale.</p>
-  <p style="line-height: normal;">25% sansa de a nu primi wanted la joburi ilegale.</p></div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Stock Master</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai multi bani la vanzarea de stoc bunker.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Heisenberg</span>
-  <p style="line-height: normal;">5 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">10 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">15 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">20 puncte de recuperare inlaturate per ora.</p>
-  <p style="line-height: normal;">25 puncte de recuperare inlaturate per ora.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Loot Collector</span>
-  <p style="line-height: normal;">5% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">10% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">15% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">20% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-  <p style="line-height: normal;">25% sansa de a primi cu 30 % mai mult loot la Mester.</p></div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:74vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Weapon Factory</span>
-  <p style="line-height: normal;">5% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">10% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">15% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">20% mai putine materiale pentru crearea de arme.</p>
-  <p style="line-height: normal;">25% mai putine materiale pentru crearea de arme.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:66vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Professor</span>
-  <p style="line-height: normal;">Cu 5.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 10.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 15.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 20.000$ mai mult la jaf.</p>
-  <p style="line-height: normal;">Cu 25.000$ mai mult la jaf.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:75vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Prison Breaker</span>
-  <p style="line-height: normal;">Intarziere de 5 secunde.</p>
-  <p style="line-height: normal;">Intarziere de 10 secunde</p>
-  <p style="line-height: normal;">Intarziere de 15 secunde.</p>
-  <p style="line-height: normal;">Intarziere de 20 secunde.</p>
-  <p style="line-height: normal;">Intarziere de 25 secunde.</p>
-<b>Nota:</b> Wanted-ul este in mod normal oferit la exact 1 minut dupa evadare, jucatorii vor primi acest timp peste timpul normal inainte de a primi wanted.</div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:88vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Master Robber</span>
-  <p style="line-height: normal;">1 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">2 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">3 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">4 punct de jaf mai putin.</p>
-  <p style="line-height: normal;">5 punct de jaf mai putin.</p>
-<b>Nota:</b> Acest bonus se va aplica la ambele tipuri de jaf (singur sau in echipa).</div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:82vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Escaper</span>
-  <p style="line-height: normal;">1 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">2 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">3 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">4 punct de evadare mai putin.</p>
-  <p style="line-height: normal;">5 punct de evadare mai putin.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:90vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Fence Digger</span>
-  <p style="line-height: normal;">1 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">2 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">3 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">4 daune suplimentare per /hit.</p>
-  <p style="line-height: normal;">5 daune suplimentare per /hit.</p>
-<b>Nota:</b> Valoarea initiala a daunelor la /hit este de 3, daca jucatorul primeste acest bonus daunele totale vor fi adunate (3 + suma oferita de bonus).</div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:112vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Wanted Dodger</span>
-  <p style="line-height: normal;">1 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">2 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">3 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">4 minut reducere timp de expirare wanted.</p>
-  <p style="line-height: normal;">5 minut reducere timp de expirare wanted.</p>
-<b>Nota:</b> Acest lucru va functiona numai atunci cand jucatorul primeste wanted in timp ce poarta acest skin. Daca primesti wanted si apoi schimbi skinul nu vei beneficia de acest bonus.</div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:93vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Greedy One</span>
-  <p style="line-height: normal;">5% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">10% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">15% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">20% mai putine secunde in inchisoare.</p>
-  <p style="line-height: normal;">25% mai putine secunde in inchisoare.</p></div>
-</div>
 
 <style>
 /* Fix footer positioning for this page only */

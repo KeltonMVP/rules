@@ -23,33 +23,30 @@ Dupa executarea comenzii, un formular prin care veti seta modul de desfasurare a
 * Minimum Participants - numarul minim de participanti necesari pentru a incepe evenimentul.
 * Maximum Participants - numarul maxim de jucatori ce vor putea lua parte la eveniment.
 * Event Type - tipul de eveniment ce va fi creat.
-
-Tipurile de evenimente sunt prestabilite dupa cum urmeaza:
-
-- Ultimul jucator ramas
-- Ultimul vehicul ramas
-- Dueluri
-- Protejeaza VIP-ul
-- X/O
-- SMS
-- Trivia
-- Whisper
-- Stunt
-- Kill
-- Gaseste-l si adu-l
-- Parkour
-- Curse
-- Simon spune
-- Ruleta ruseasca
-- Par/Impar
-- Arena de curse
-- Paintball
-- Gungame
-- War Arena
-- Slenderman
-- Risky Squares
-- PubG
-
+    * Tipurile de evenimente sunt prestabilite dupa cum urmeaza:
+    - Ultimul jucator ramas
+    - Ultimul vehicul ramas
+    - Dueluri
+    - Protejeaza VIP-ul
+    - X/O
+    - SMS
+    - Trivia
+    - Whisper
+    - Stunt
+    - Kill
+    - Gaseste-l si adu-l
+    - Parkour
+    - Curse
+    - Simon spune
+    - Ruleta ruseasca
+    - Par/Impar
+    - Arena de curse
+    - Paintball
+    - Gungame
+    - War Arena
+    - Slenderman
+    - Risky Squares
+    - PubG
 * Interior/Location - determina interiorul sau locatia in care se va desfasura evenimentul. Pentru fiecare tip de eveniment, sunt disponibile locatii diferite pentru organizare, organizatorul avand la dispozitie o lista prestabilita.
 * Event Helpers - aloca evenimentului adjuvanti. Evenimentele pot avea maxim 3 adjuvanti.
 * Prize - stabileste premiul evenimentului.

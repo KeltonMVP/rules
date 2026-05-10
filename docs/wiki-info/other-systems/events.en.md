@@ -23,33 +23,30 @@ After executing the command, a form through which you will set the event's mode 
 * Minimum Participants - the minimum number of participants needed to start the event.
 * Maximum Participants - the maximum number of players who can participate in the event.
 * Event Type - the type of event that will be created.
-
-The types of events are preset as follows:
-
-- Last man standing
-- Last vehicle standing
-- Duels
-- Protect the VIP
-- X/O
-- SMS
-- Trivia
-- Whisper
-- Stunt
-- Kill
-- Find and bring
-- Parkour
-- Races
-- Simon says
-- Russian roulette
-- Even/Odd
-- Race Arena
-- Paintball
-- Gungame
-- War Arena
-- Slenderman
-- Risky Squares
-- PubG
-
+    * The types of events are preset as follows:
+    - Last man standing
+    - Last vehicle standing
+    - Duels
+    - Protect the VIP
+    - X/O
+    - SMS
+    - Trivia
+    - Whisper
+    - Stunt
+    - Kill
+    - Find and bring
+    - Parkour
+    - Races
+    - Simon says
+    - Russian roulette
+    - Even/Odd
+    - Race Arena
+    - Paintball
+    - Gungame
+    - War Arena
+    - Slenderman
+    - Risky Squares
+    - PubG
 * Interior/Location - determines the interior or location where the event will take place. For each type of event, different locations are available for organization, with the organizer having a preset list at their disposal.
 * Event Helpers - assigns helpers to the event. Events can have a maximum of 3 helpers.
 * Prize - sets the event prize.

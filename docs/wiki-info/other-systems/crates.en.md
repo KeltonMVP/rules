@@ -29,7 +29,7 @@ To buy a crate you must go to the specially arranged location in San Fierro city
 
 Prizes are awarded based on chance. If your chance is to win a prize that you cannot receive (you have all prizes from that category, you have permanent premium account, you don't have car slots or similar), you will not be able to win a prize from a higher category.
 
-## Opening crates
+## Opening Crates
 
 To open a crate or view the number of crates held, type the **/crates** command.
 
@@ -39,7 +39,7 @@ When opening the crate, an interface will be displayed and several colors will a
 
 To cancel opening a crate, you can type the */cancel crate* command.
 
-## Types of crates
+## Types of Crates
 ### Red Case (Premium Case)
 ![Red Case](/images/wiki/general/redcrate.png){ width="250" }
 
@@ -230,3 +230,10 @@ Contains:
 * Money Amount - $70,000 - Chance: 15%
 * Diamond Fragment - Chance: 10%
 * Onyx Fragment - Chance: 5%
+
+
+
+## Recycling Crates
+* Crates that you don't open or that are of no use to you can be recycled at the [Egyptian Trader](/en/wiki-info/other-systems/egyptian-trader-shop) in LV in exchange for **30%** of their price in Mission Points.
+* Crates can be recycled **only** in Mission Points, even if the box was purchased with Gold.
+* Both crates purchased by you and crates received from the server on various occasions (special events, quests, etc.) can be recycled.
