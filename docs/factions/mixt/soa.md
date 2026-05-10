@@ -124,23 +124,23 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 8. Amenzi
 
-<span style="color:var(--pink);">8.1</span> Daca stati AFK in interior/exteriorul HQ-ului in "<span style="color:var(--pink);">i</span>" si blocati accesul jucatorilor - <span style="color:var(--green);">25,000$</span>
+<span style="color:var(--pink);">8.1</span> Daca stati AFK in interior/exteriorul HQ-ului in "<span style="color:var(--pink);">i</span>" si blocati accesul jucatorilor - <span style="color:var(--green);">50,000$</span>
 
-<span style="color:var(--pink);">8.2</span> Nu este permis sa faceti spam pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">30,000$</span>
+<span style="color:var(--pink);">8.2</span> Nu este permis sa faceti spam pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">75,000$</span>
 
-<span style="color:var(--pink);">8.3</span> Nu este permis sa folositi caps pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">30,000$</span>
+<span style="color:var(--pink);">8.3</span> Nu este permis sa folositi caps pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">75,000$</span>
 
-<span style="color:var(--pink);">8.4</span> Daca intarziati la sedinta/antrenament/activitate anuntata - <span style="color:var(--green);">30,000$</span>
+<span style="color:var(--pink);">8.4</span> Daca intarziati la sedinta/antrenament/activitate anuntata - <span style="color:var(--green);">75,000$</span>
 
-<span style="color:var(--pink);">8.5</span> Daca vorbiti neintrebati in timpul sedintei/antrenamentului - <span style="color:var(--green);">25,000$</span>
+<span style="color:var(--pink);">8.5</span> Daca vorbiti neintrebati in timpul sedintei/antrenamentului - <span style="color:var(--green);">50,000$</span>
 
-<span style="color:var(--pink);">8.6</span> Daca sunteti AFK in timpul unei activitati - <span style="color:var(--green);">35,000$</span>
+<span style="color:var(--pink);">8.6</span> Daca sunteti AFK in timpul unei activitati - <span style="color:var(--green);">75,000$</span>
 
-<span style="color:var(--pink);">8.7</span> Parcarea masinilor in curtea HQ-ului astfel incat sa deranjeze circulatia vehiculelor factiunii - <span style="color:var(--green);">50,000$</span>, <span style="color:orange;">Avertisment Verbal</span> daca continua + <span style="color:var(--green);">50,000$</span>
+<span style="color:var(--pink);">8.7</span> Parcarea masinilor in curtea HQ-ului astfel incat sa deranjeze circulatia vehiculelor factiunii - <span style="color:var(--green);">100,000$</span>, <span style="color:orange;">Avertisment Verbal</span> daca continua + <span style="color:var(--green);">100,000$</span>
 
-<span style="color:var(--pink);">8.8</span> Daca folositi comanda [<span style="color:var(--pink);">/fvr</span>] fara sa anuntati - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertiment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de gravitate, intamplari
+<span style="color:var(--pink);">8.8</span> Daca folositi comanda [<span style="color:var(--pink);">/fvr</span>] fara sa anuntati - <span style="color:var(--green);">100,000$</span> + <span style="color:orange;">Avertiment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de gravitate, intamplari
 
-<span style="color:var(--pink);">8.9</span> Daca folositi comanda [<span style="color:var(--pink);">/fvr</span>] dupa ce un coleg de rank 5+ a anuntat deja acest lucru - <span style="color:var(--green);">50,000$</span>
+<span style="color:var(--pink);">8.9</span> Daca folositi comanda [<span style="color:var(--pink);">/fvr</span>] dupa ce un coleg de rank 5+ a anuntat deja acest lucru - <span style="color:var(--green);">100,000$</span>
 
 ## 9. Drugs Lab
 

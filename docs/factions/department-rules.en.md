@@ -707,20 +707,20 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">22.1</span> These fines will be awarded in-game using the [<span style="color:var(--pink);">/fines</span>] system only by the leader or subleaders when necessary based on clear evidence. These fines can be paid within a maximum of 48 hours from the time they were received. Members who do not pay the active fines using the [<span style="color:var(--pink);">/fines</span>] command within 48 hours of receiving them will be automatically sanctioned by the server with <span style="color:red;">Faction Warn</span>.
 
-- Illegal parking - <span style="color:var(--green);">30,000$</span>
-- Reckless driving - <span style="color:var(--green);">35,000$</span>
-- Using hydraulics on a public road - <span style="color:var(--green);">100,000$</span>
-- Using NOS - <span style="color:var(--green);">100,000$</span>
+- Illegal parking - <span style="color:var(--green);">80,000$</span>
+- Reckless driving - <span style="color:var(--green);">85,000$</span>
+- Using hydraulics on a public road - <span style="color:var(--green);">150,000$</span>
+- Using NOS - <span style="color:var(--green);">150,000$</span>
 - Exceeding legal speed between 50-100 km/h - pay fine to the police officer in-game
 - Exceeding legal speed over 100 km/h - pay fine to the police officer in-game
-- Headlights off - <span style="color:var(--green);">30,000$</span>
-- Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated
-- Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
-- Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">75,000$</span>
-- Excessive use of emoticons on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">30,000$</span>
-- Spam on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">30,000$</span>
-- Vehicle parked in the faction's vehicle spot or blocking entry/exit with them - <span style="color:var(--green);">50,000$</span>
-- Excessive use of the [<span style="color:var(--pink);">/FVS</span>] command when not needed, e.g., activity, parade, checkpoint - <span style="color:var(--green);">75,000$</span>
+- Headlights off - <span style="color:var(--green);">70,000$</span>
+- Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">100,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated
+- Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">130,000$</span>
+- Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">150,000$</span>
+- Excessive use of emoticons on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">80,000$</span>
+- Spam on [<span style="color:var(--pink);">/r</span>] - <span style="color:var(--green);">50,000$</span>
+- Vehicle parked in the faction's vehicle spot or blocking entry/exit with them - <span style="color:var(--green);">100,000$</span>
+- Excessive use of the [<span style="color:var(--pink);">/FVS</span>] command when not needed, e.g., activity, parade, checkpoint - <span style="color:var(--green);">175,000$</span>
 
 ## 23. Exceptions
 

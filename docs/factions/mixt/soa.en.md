@@ -124,23 +124,23 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 8. Fines
 
-<span style="color:var(--pink);">8.1</span> If you stay AFK inside/outside the HQ in "<span style="color:var(--pink);">i</span>" and block player access - <span style="color:var(--green);">$25,000</span>
+<span style="color:var(--pink);">8.1</span> If you stay AFK inside/outside the HQ in "<span style="color:var(--pink);">i</span>" and block player access - <span style="color:var(--green);">$50,000</span>
 
-<span style="color:var(--pink);">8.2</span> Spamming on [<span style="color:var(--pink);">/f</span>] is not allowed - <span style="color:var(--green);">$30,000</span>
+<span style="color:var(--pink);">8.2</span> Spamming on [<span style="color:var(--pink);">/f</span>] is not allowed - <span style="color:var(--green);">$75,000</span>
 
-<span style="color:var(--pink);">8.3</span> Using caps on [<span style="color:var(--pink);">/f</span>] is not allowed - <span style="color:var(--green);">$30,000</span>
+<span style="color:var(--pink);">8.3</span> Using caps on [<span style="color:var(--pink);">/f</span>] is not allowed - <span style="color:var(--green);">$75,000</span>
 
-<span style="color:var(--pink);">8.4</span> If you're late for a announced meeting/training/activity - <span style="color:var(--green);">$30,000</span>
+<span style="color:var(--pink);">8.4</span> If you're late for a announced meeting/training/activity - <span style="color:var(--green);">$75,000</span>
 
-<span style="color:var(--pink);">8.5</span> If you speak without permission during a meeting/training - <span style="color:var(--green);">$25,000</span>
+<span style="color:var(--pink);">8.5</span> If you speak without permission during a meeting/training - <span style="color:var(--green);">$50,000</span>
 
-<span style="color:var(--pink);">8.6</span> If you are AFK during an activity - <span style="color:var(--green);">$35,000</span>
+<span style="color:var(--pink);">8.6</span> If you are AFK during an activity - <span style="color:var(--green);">$75,000</span>
 
-<span style="color:var(--pink);">8.7</span> Parking cars in the HQ courtyard in a way that disrupts faction vehicle traffic - <span style="color:var(--green);">$50,000</span>, <span style="color:orange;">Verbal Warning</span> if it persists + <span style="color:var(--green);">$50,000</span>
+<span style="color:var(--pink);">8.7</span> Parking cars in the HQ courtyard in a way that disrupts faction vehicle traffic - <span style="color:var(--green);">$100,000</span>, <span style="color:orange;">Verbal Warning</span> if it persists + <span style="color:var(--green);">$100,000</span>
 
-<span style="color:var(--pink);">8.8</span> If you use the [<span style="color:var(--pink);">/fvr</span>] command without announcing - <span style="color:var(--green);">$50,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity, incidents
+<span style="color:var(--pink);">8.8</span> If you use the [<span style="color:var(--pink);">/fvr</span>] command without announcing - <span style="color:var(--green);">$100,000</span> + <span style="color:orange;">Verbal Warning</span> or <span style="color:red;">Faction Warn</span> depending on severity, incidents
 
-<span style="color:var(--pink);">8.9</span> If you use the [<span style="color:var(--pink);">/fvr</span>] command after a Rank 5+ colleague has already announced it - <span style="color:var(--green);">$50,000</span>
+<span style="color:var(--pink);">8.9</span> If you use the [<span style="color:var(--pink);">/fvr</span>] command after a Rank 5+ colleague has already announced it - <span style="color:var(--green);">$100,000</span>
 
 ## 9. Drugs Lab
 

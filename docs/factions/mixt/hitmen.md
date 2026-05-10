@@ -170,15 +170,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ## 8. Amenzi
 
-- AFK HQ (Interior / exterior) in “<span style="color:var(--pink);">i</span>“ daca blocheaza accesul jucatorilor - <span style="color:var(--green);">25,000$</span>
-- Spam pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">30,000$</span>
-- Caps pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">30,000$</span>
-- Intarziere sedinta / Antrenament / Activitate anuntata - <span style="color:var(--green);">30,000$</span>
-- Vorbit neintrebat in timpul Sedintei / Antrenamentului - <span style="color:var(--green);">25,000$</span>
-- AFK in timpul unei activitati - <span style="color:var(--green);">35,000$</span>
-- Parcarea masinilor in curtea HQ-ului astfel incat sa deranjeze circulatia vehiculelor factiunii. - <span style="color:var(--green);">50,000$</span>, a doua abatere <span style="color:orange;">Avertisment Verbal</span>  + amenda <span style="color:var(--green);">50,000$</span>
-- FVR neanuntat - <span style="color:var(--green);">50,000$</span> + <span style="color:orange;">Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de gravitate.
-- FVR cand a anuntat alt coleg rank 5+ : <span style="color:var(--green);">50,000$</span>
+- AFK HQ (Interior / exterior) in “<span style="color:var(--pink);">i</span>“ daca blocheaza accesul jucatorilor - <span style="color:var(--green);">50,000$</span>
+- Spam pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">75,000$</span>
+- Caps pe [<span style="color:var(--pink);">/f</span>] - <span style="color:var(--green);">75,000$</span>
+- Intarziere sedinta / Antrenament / Activitate anuntata - <span style="color:var(--green);">75,000$</span>
+- Vorbit neintrebat in timpul Sedintei / Antrenamentului - <span style="color:var(--green);">50,000$</span>
+- AFK in timpul unei activitati - <span style="color:var(--green);">75,000$</span>
+- Parcarea masinilor in curtea HQ-ului astfel incat sa deranjeze circulatia vehiculelor factiunii. - <span style="color:var(--green);">100,000$</span>, a doua abatere <span style="color:orange;">Avertisment Verbal</span>  + amenda <span style="color:var(--green);">100,000$</span>
+- FVR neanuntat - <span style="color:var(--green);">100,000$</span> + <span style="color:orange;">Avertisment Verbal</span> sau <span style="color:red;">Faction Warn</span> in functie de gravitate.
+- FVR cand a anuntat alt coleg rank 5+ : <span style="color:var(--green);">100,000$</span>
 
 !!! example "Nota informativa"
     Daca se dovedeste ca s-a dat [<span style="color:var(--pink);">/fvr</span>] special pentru a incurcat membrul, se aplica sanctiunea pentru abuz de [<span style="color:var(--pink);">/fvr</span>].
