@@ -29,7 +29,7 @@ Pentru a cumpara o cutie trebuie sa va deplasati la locatia special amenajata in
 
 Premiile sunt oferite in functie de sansa. Daca sansa voastra este de a castiga un premiu pe care nu-l puteti primi (detineti toate premiile din acea categorie, aveti cont premium permanent, nu aveti car sloturi sau similar), nu veti putea castiga un premiu dintr-o categorie superioara.
 
-## Deschiderea cutiilor
+## Deschiderea Cutiilor
 
 Pentru a deschide o cutie sau a vizualiza numarul de cutii detinute se tasteaza comanda **/crates**.
 
@@ -230,3 +230,10 @@ Contine:
 * Suma de Bani - $70.000 - Sansa: 15%
 * Fragment de Diamant - Sansa: 10%
 * Fragment de Onyx - Sansa: 5%
+
+
+
+## Reciclarea Cutiilor
+* Cutiile pe care nu le deschideti sau care nu va sunt de folos le puteti recicla la [Traderul Egiptean](/wiki-info/other-systems/egyptian-trader-shop) din LV in schimbul a **30%** din pretul lor in Puncte de Misiune.
+* Cutiile se pot recicla **doar** in Puncte de Misiune, chiar daca cutia a fost cumparata cu Gold.
+* Se pot recicla atat cutiile cumparate de voi, cat si cutiile primite de la server la diverse ocazii (evenimente speciale, quest-uri, etc).

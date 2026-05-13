@@ -95,7 +95,7 @@ icon: material/clipboard-check
 
 
 <details style="border: 2px solid rgb(231, 76, 60); border-radius: 12px; padding: 15px; background: rgba(0, 0, 0, 0.1); color: white; transition: 0.3s ease;">
-  <summary style="cursor: pointer; font-weight: bold; font-size: 16px; color: rgb(231, 76, 60);">17 Task-urilor Medii</summary>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 16px; color: rgb(231, 76, 60);">17 Task-urilor Grele</summary>
   <div style="padding: 20px 0 0 20px; font-size: 16px;">
     1. Completează 3 livrări ca Trucker în locații diferite<br>
     2. Finalizează cu succes un jaf (rob)<br>

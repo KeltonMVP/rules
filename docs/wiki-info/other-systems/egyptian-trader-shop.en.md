@@ -166,186 +166,231 @@ There are 4 rarities of Diamond/Onyx skins:
     * **Onyx Tickets:** 1 for 200 Gold or $100,000.
     * **Skin Upgrade Ticket:** 1 for 120 Gold or $60.000.
     * **Skin Upgrade Fragment** 1 for 24 Gold or $12.000.
+    * **Red Crate:** 1 for 18 Mission Points. 
+    * **Green Crate:** 1 for 30 Mission Points. 
+    * **Cyan Crate:** 1 for 45 Mission Points. 
+    * **Yellow Crate:** 1 for 60 Mission Points. 
+    * **Purple Crate:** 1 for 60 Mission Points. 
+    * **Silver Crate:** 1 for 75 Mission Points. 
+    * **Blue Crate:** 1 for 75 Mission Points. 
+    * **White Crate:** 1 for 45 Mission Points. 
+    * **Olive Crate:** 1 for 75 Mission Points. 
+    * **Brown Crate:** 1 for 75 Mission Points. 
+    * **Magenta Crate:** 1 for 105 Mission Points. 
+    * **Pink Crate:** 1 for 120 Mission Points. 
+    * **Orange Crate:** 1 for 45 Mission Points. 
+    * **Lime Crate:** 1 for 105 Mission Points.
+
 
 ## Bonuses
 * To check a skin's bonuses use the /skinbonus command.<br/>
 
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:7vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Health Regeneration</span>
-  <p style="line-height: normal;">Health Regeneration 5% of total health.</p>
-  <p style="line-height: normal;">Health Regeneration 10% of total health.</p>
-  <p style="line-height: normal;">Health Regeneration 15% of total health.</p>
-  <p style="line-height: normal;">Health Regeneration 20% of total health.</p>
-  <p style="line-height: normal;">Health Regeneration 25% of total health.</p></div>
+<div style="display:flex; flex-wrap:wrap; column-gap:10px; row-gap:5px; font-size:14px;"> 
+<!-- Health Regeneration --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+  <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">Health Regeneration</h3> 
+  <p style="margin:2px 0;">Health Regeneration 5% of total life.</p> 
+  <p style="margin:2px 0;">Health Regeneration 10% of total life.</p> 
+  <p style="margin:2px 0;">Health Regeneration 15% of total life.</p> 
+  <p style="margin:2px 0;">Health Regeneration 20% of total life.</p> 
+  <p style="margin:2px 0;">Health Regeneration 25% of total life.</p> 
+</div> 
 
+<!-- Food Replenishment --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">Food Replenishment</h3> 
+  <p style="margin:2px 0;">Regeneration with Food 5% of total life.</p> 
+  <p style="margin:2px 0;">Regeneration with Food 10% of total health.</p> 
+  <p style="margin:2px 0;">Regeneration with Food 15% of total health.</p> 
+  <p style="margin:2px 0;">Regeneration with Food 20% of total life.</p> 
+  <p style="margin:2px 0;">Regeneration with Food 25% of total health.</p> 
+</div> 
 
-<div style="width: 33.33%;text-align: center; margin-top:7vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Food Replenish</span>
-  <p style="line-height: normal;">Food Regeneration 5% of total health.</p>
-  <p style="line-height: normal;">Food Regeneration 10% of total health.</p>
-  <p style="line-height: normal;">Food Regeneration 15% of total health.</p>
-  <p style="line-height: normal;">Food Regeneration 20% of total health.</p>
-  <p style="line-height: normal;">Food Regeneration 25% of total health.</p></div>
+<!-- Pickups Life at Waruri --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">Health War Pickup</h3> 
+  <p style="margin:2px 0;">War Health Pickup +5HP per pickup (maximum of +30 HP at current health).</p> 
+  <p style="margin:2px 0;">War Health Pickup +10HP per pickup (maximum of +35 HP at current health).</p> 
+  <p style="margin:2px 0;">War Health Pickup +15HP per pickup (maximum of +40 HP at current health).</p> 
+  <p style="margin:2px 0;">War Health Pickup +20HP per pickup (maximum of +45 HP at current health).</p> 
+  <p style="margin:2px 0;">War Health Pickup +25HP per pickup (maximum of +50 HP at current health).</p> 
+</div> 
 
+<!-- At Casa De Papel --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+  <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">La Casa De Papel</h3> 
+  <p style="margin:2px 0;">Capacity increased by 5 jewels.</p> 
+  <p style="margin:2px 0;">Capacity increased by 10 jewels.</p> 
+  <p style="margin:2px 0;">Capacity increased by 15 jewels.</p> 
+  <p style="margin:2px 0;">Capacity increased by 20 jewels.</p> 
+  <p style="margin:2px 0;">Capacity increased by 25 jewels.</p> 
+</div> 
 
-<div style="width: 33.33%;text-align: center; margin-top:15vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">Health Pickups at Wars</span>
-  <p style="line-height: normal;">Health Pickup at Wars +5HP per pickup (max +30 HP to current health).</p>
-  <p style="line-height: normal;">Health Pickup at Wars +10HP per pickup (max +35 HP to current health).</p>
-  <p style="line-height: normal;">Health Pickup at Wars +15HP per pickup (max +40 HP to current health).</p>
-  <p style="line-height: normal;">Health Pickup at Wars +20HP per pickup (max +45 HP to current health).</p>
-  <p style="line-height: normal;">Health Pickup at Wars +25HP per pickup (max +50 HP to current health).</p></div>
+<!-- The XP Farmer --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+  <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The XP Farmer</h3> 
+  <p style="margin:2px 0;">5% chance to receive double PayDay.</p> 
+  <p style="margin:2px 0;">10% chance to receive double PayDay.</p> 
+  <p style="margin:2px 0;">15% chance to receive double PayDay.</p> 
+  <p style="margin:2px 0;">20% chance to receive double PayDay.</p> 
+  <p style="margin:2px 0;">25% chance to receive double PayDay.</p> 
+  <p style="margin-top:6px;"><b>Note:</b> This bonus will multiply if there are Fun Hours or First Payday of the Day.</p> 
+</div> 
+
+<!-- The Hard Worker --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Hard Worker</h3> 
+  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
+  <p style="margin-top:6px;"><b>Note:</b> The bonus is not valid for the jobs: Fisherman, Farmer, Detective, Lawyer and Pickpocket.</p> 
+</div> 
+
+<!-- The Income Worker --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+  <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Income Worker</h3> 
+  <p style="margin:2px 0;">5% chance to receive 30% more money at jobs.</p> 
+  <p style="margin:2px 0;">10% chance to receive 30% more money at jobs.</p> 
+  <p style="margin:2px 0;">15% chance to receive 30% more money at jobs.</p> 
+  <p style="margin:2px 0;">20% chance to receive 30% more money at jobs.</p> 
+  <p style="margin:2px 0;">25% chance to receive 30% more money at jobs.</p> 
+</div> 
+
+<!-- The Faction Income Worker --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Faction Income Worker</h3> 
+  <p style="margin:2px 0;">5% chance to receive 30% more money on activity report.</p> 
+  <p style="margin:2px 0;">10% chance to receive 30% more money on activity report.</p> 
+  <p style="margin:2px 0;">15% chance to receive 30% more money on activity report.</p> 
+  <p style="margin:2px 0;">20% chance to receive 30% more money on activity report.</p> 
+  <p style="margin:2px 0;">25% chance to receive 30% more money on activity report.</p> 
+</div> 
+
+<!-- The No-Wanted Worker --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The No-Wanted Worker</h3> 
+  <p style="margin:2px 0;">5% chance of not getting wanted for illegal jobs.</p> 
+  <p style="margin:2px 0;">10% chance of not getting wanted for illegal jobs.</p> 
+  <p style="margin:2px 0;">15% chance of not getting wanted for illegal jobs.</p> 
+  <p style="margin:2px 0;">20% chance of not getting wanted for illegal jobs.</p> 
+  <p style="margin:2px 0;">25% chance of not getting wanted for illegal jobs.</p> 
+</div> 
+
+<!-- The Stock Master --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Stock Master</h3> 
+  <p style="margin:2px 0;">5% chance to receive 30% more money when selling bunker stock.</p> 
+  <p style="margin:2px 0;">10% chance to receive 30% more money when selling bunker stock.</p> 
+  <p style="margin:2px 0;">15% chance to receive 30% more money when selling bunker stock.</p> 
+  <p style="margin:2px 0;">20% chance to receive 30% more money when selling bunker stock.</p> 
+  <p style="margin:2px 0;">25% chance to receive 30% more money when selling bunker stock.</p> 
+</div> 
+
+<!-- The Heisenberg --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Heisenberg</h3> 
+  <p style="margin:2px 0;">5 addiction points removed per hour.</p> 
+  <p style="margin:2px 0;">10 addiction points removed per hour.</p> 
+  <p style="margin:2px 0;">15 addiction points removed per hour.</p> 
+  <p style="margin:2px 0;">20 recaddictionovery points removed per hour.</p> 
+  <p style="margin:2px 0;">25 addiction points removed per hour.</p> 
+</div> 
+
+<!-- The Loot Collector --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Loot Collector</h3> 
+  <p style="margin:2px 0;">5% chance to receive 30% more loot at Master.</p> 
+  <p style="margin:2px 0;">10% chance to receive 30% more loot at Master.</p> 
+  <p style="margin:2px 0;">15% chance to receive 30% more loot at Master.</p> 
+  <p style="margin:2px 0;">20% chance to receive 30% more loot at Master.</p> 
+  <p style="margin:2px 0;">25% chance to receive 30% more loot at Master.</p> 
+</div> 
+
+<!-- The Weapon Factory --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Weapon Factory</h3> 
+  <p style="margin:2px 0;">5% less weapon crafting materials.</p> 
+  <p style="margin:2px 0;">10% less weapon crafting materials.</p> 
+  <p style="margin:2px 0;">15% less weapon crafting materials.</p> 
+  <p style="margin:2px 0;">20% less weapon crafting materials.</p> 
+  <p style="margin:2px 0;">25% less weapon crafting materials.</p> 
+</div> 
+
+<!-- The Professor --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Professor</h3> 
+  <p style="margin:2px 0;">$5,000 more in robbery.</p> 
+  <p style="margin:2px 0;">$10,000 more in robbery.</p> 
+  <p style="margin:2px 0;">$15,000 more in robbery.</p> 
+  <p style="margin:2px 0;">$20,000 more in robbery.</p> 
+  <p style="margin:2px 0;">$25,000 more in robbery.</p> 
+</div> 
+
+<!-- The Prison Breaker --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Prison Breaker</h3> 
+  <p style="margin:2px 0;">5 second delay in escape.</p> 
+  <p style="margin:2px 0;">10 second delay in escape.</p> 
+  <p style="margin:2px 0;">15 second delay in escape.</p> 
+  <p style="margin:2px 0;">20 second delay in escape.</p> 
+  <p style="margin:2px 0;">25 second delay in escape.</p> 
+  <p style="margin-top:6px;"><b>Note:</b> The wanted is normally offered exactly 1 minute after the escape, players will receive this time on top of the normal time before receiving the wanted.</p> 
+</div> 
+
+<!-- The Master Robber --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom: 8px; text-decoration:underline;">The Master Robber</h3> 
+  <p style="margin:2px 0;">1 point less necessary for rob.</p> 
+  <p style="margin:2px 0;">2 points point less necessary for rob.</p> 
+  <p style="margin:2px 0;">3 points points less necessary for rob.</p> 
+  <p style="margin:2px 0;">4 points points less necessary for rob.</p> 
+  <p style="margin:2px 0;">5 points points less necessary for rob.</p> 
+  <p style="margin-top:6px;"><b>Note:</b> This bonus will apply to both types of robbery (alone or in a team).</p> 
+</div> 
+
+<!-- The Escape --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom: 8px; text-decoration:underline;">The Escaper</h3> 
+  <p style="margin:2px 0;">1 escape point less necessary for escape.</p> 
+  <p style="margin:2px 0;">2 escape points less necessary for escape.</p> 
+  <p style="margin:2px 0;">3 less escape point necessary for escape.</p> 
+  <p style="margin:2px 0;">4 less escape point necessary for escape.</p> 
+  <p style="margin:2px 0;">5 escape point less necessary for escape.</p> 
+</div> 
+
+<!-- The Fence Digger --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom: 8px; text-decoration:underline;">The Fence Digger</h3> 
+  <p style="margin:2px 0;">1 extra damage per /hit.</p> 
+  <p style="margin:2px 0;">2 extra damage per /hit.</p> 
+  <p style="margin:2px 0;">3 extra damage per /hit.</p> 
+  <p style="margin:2px 0;">4 additional damage per /hit.</p> 
+  <p style="margin:2px 0;">5 extra damage per /hit.</p> 
+  <p style="margin-top:6px;"><b>Note:</b> The initial amount of damage per hit is 3, if the player receives this bonus the total damage will be added (3 + the amount offered by the bonus).</p> 
+</div> 
+
+<!-- The Wanted Dodger --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom: 8px; text-decoration:underline;">The Wanted Dodger</h3> 
+  <p style="margin:2px 0;">1 minute less wanted time.</p> 
+  <p style="margin:2px 0;">2 minutes less wanted time.</p> 
+  <p style="margin:2px 0;">3 minutes less wanted time.</p> 
+  <p style="margin:2px 0;">4 minutes less wanted time.</p> 
+  <p style="margin:2px 0;">5 minutes less wanted time.</p> 
+  <p style="margin-top:6px;"><b>Note:</b> This will only work when the player gets wanted while wearing this skin. If you get wanted and then change the skin, you will not benefit from this bonus.</p> 
+</div> 
+
+<!-- The Greedy One --> 
+<div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
+<h3 style="color:rgb(165,42,42); margin-bottom: 8px; text-decoration:underline;">The Greedy One</h3> 
+  <p style="margin:2px 0;">5% less seconds in jail.</p> 
+  <p style="margin:2px 0;">10% less seconds in jail.</p> 
+  <p style="margin:2px 0;">15% less seconds in jail.</p> 
+  <p style="margin:2px 0;">20% less seconds in jail.</p> 
+  <p style="margin:2px 0;">25% less seconds in jail.</p> 
 </div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:25vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">La Casa De Papel</span>
-  <p style="line-height: normal;">Increased capacity by 5 jewels.</p>
-  <p style="line-height: normal;">Increased capacity by 10 jewels.</p>
-  <p style="line-height: normal;">Increased capacity by 15 jewels.</p>
-  <p style="line-height: normal;">Increased capacity by 20 jewels.</p>
-  <p style="line-height: normal;">Increased capacity by 25 jewels.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:32vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The XP Farmer</span>
-  <p style="line-height: normal;">5% chance to receive double PayDay.</p>
-  <p style="line-height: normal;">10% chance to receive double PayDay.</p>
-  <p style="line-height: normal;">15% chance to receive double PayDay.</p>
-  <p style="line-height: normal;">20% chance to receive double PayDay.</p>
-  <p style="line-height: normal;">25% chance to receive double PayDay.</p>
-<b>Note:</b> This bonus will be multiplied if Fun Hours or First Payday of the Day exist.</div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:40vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Hard Worker</span>
-  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
-  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
-  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
-  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
-  <p style="line-height: normal;">5% chance to receive double skill points at job.</p>
-<b>Note:</b> Bonus is not valid for jobs: Fisherman, Farmer, Detective, Lawyer and Pickpocket.</div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Income Worker</span>
-  <p style="line-height: normal;">5% chance to receive 30% more money at jobs.</p>
-  <p style="line-height: normal;">10% chance to receive 30% more money at jobs.</p>
-  <p style="line-height: normal;">15% chance to receive 30% more money at jobs.</p>
-  <p style="line-height: normal;">20% chance to receive 30% more money at jobs.</p>
-  <p style="line-height: normal;">25% chance to receive 30% more money at jobs.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Faction Income Worker</span>
-  <p style="line-height: normal;">5% chance to receive 30% more money at activity report.</p>
-  <p style="line-height: normal;">10% chance to receive 30% more money at activity report.</p>
-  <p style="line-height: normal;">15% chance to receive 30% more money at activity report.</p>
-  <p style="line-height: normal;">20% chance to receive 30% more money at activity report.</p>
-  <p style="line-height: normal;">25% chance to receive 30% more money at activity report.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:115vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The No-Wanted Worker</span>
-  <p style="line-height: normal;">5% chance to not receive wanted at illegal jobs.</p>
-  <p style="line-height: normal;">10% chance to not receive wanted at illegal jobs.</p>
-  <p style="line-height: normal;">15% chance to not receive wanted at illegal jobs.</p>
-  <p style="line-height: normal;">20% chance to not receive wanted at illegal jobs.</p>
-  <p style="line-height: normal;">25% chance to not receive wanted at illegal jobs.</p></div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Stock Master</span>
-  <p style="line-height: normal;">5% chance to receive 30% more money at bunker stock sale.</p>
-  <p style="line-height: normal;">10% chance to receive 30% more money at bunker stock sale.</p>
-  <p style="line-height: normal;">15% chance to receive 30% more money at bunker stock sale.</p>
-  <p style="line-height: normal;">20% chance to receive 30% more money at bunker stock sale.</p>
-  <p style="line-height: normal;">25% chance to receive 30% more money at bunker stock sale.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Heisenberg</span>
-  <p style="line-height: normal;">5 recovery points removed per hour.</p>
-  <p style="line-height: normal;">10 recovery points removed per hour.</p>
-  <p style="line-height: normal;">15 recovery points removed per hour.</p>
-  <p style="line-height: normal;">20 recovery points removed per hour.</p>
-  <p style="line-height: normal;">25 recovery points removed per hour.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:60px;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Loot Collector</span>
-  <p style="line-height: normal;">5% chance to receive 30% more loot at Craftsman.</p>
-  <p style="line-height: normal;">10% chance to receive 30% more loot at Craftsman.</p>
-  <p style="line-height: normal;">15% chance to receive 30% more loot at Craftsman.</p>
-  <p style="line-height: normal;">20% chance to receive 30% more loot at Craftsman.</p>
-  <p style="line-height: normal;">25% chance to receive 30% more loot at Craftsman.</p></div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:74vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Weapon Factory</span>
-  <p style="line-height: normal;">5% fewer materials for creating weapons.</p>
-  <p style="line-height: normal;">10% fewer materials for creating weapons.</p>
-  <p style="line-height: normal;">15% fewer materials for creating weapons.</p>
-  <p style="line-height: normal;">20% fewer materials for creating weapons.</p>
-  <p style="line-height: normal;">25% fewer materials for creating weapons.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:66vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Professor</span>
-  <p style="line-height: normal;">$5,000 more at robbery.</p>
-  <p style="line-height: normal;">$10,000 more at robbery.</p>
-  <p style="line-height: normal;">$15,000 more at robbery.</p>
-  <p style="line-height: normal;">$20,000 more at robbery.</p>
-  <p style="line-height: normal;">$25,000 more at robbery.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:75vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Prison Breaker</span>
-  <p style="line-height: normal;">5 seconds delay.</p>
-  <p style="line-height: normal;">10 seconds delay</p>
-  <p style="line-height: normal;">15 seconds delay.</p>
-  <p style="line-height: normal;">20 seconds delay.</p>
-  <p style="line-height: normal;">25 seconds delay.</p>
-<b>Note:</b> Wanted is normally given at exactly 1 minute after escape, players will receive this time on top of normal time before receiving wanted.</div>
-</div>
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:88vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Master Robber</span>
-  <p style="line-height: normal;">1 robbery point less.</p>
-  <p style="line-height: normal;">2 robbery points less.</p>
-  <p style="line-height: normal;">3 robbery points less.</p>
-  <p style="line-height: normal;">4 robbery points less.</p>
-  <p style="line-height: normal;">5 robbery points less.</p>
-<b>Note:</b> This bonus will apply to both types of robbery (solo or team).</div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:82vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Escaper</span>
-  <p style="line-height: normal;">1 escape point less.</p>
-  <p style="line-height: normal;">2 escape points less.</p>
-  <p style="line-height: normal;">3 escape points less.</p>
-  <p style="line-height: normal;">4 escape points less.</p>
-  <p style="line-height: normal;">5 escape points less.</p></div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:90vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Fence Digger</span>
-  <p style="line-height: normal;">1 additional damage per /hit.</p>
-  <p style="line-height: normal;">2 additional damage per /hit.</p>
-  <p style="line-height: normal;">3 additional damage per /hit.</p>
-  <p style="line-height: normal;">4 additional damage per /hit.</p>
-  <p style="line-height: normal;">5 additional damage per /hit.</p>
-<b>Note:</b> The initial damage value at /hit is 3, if the player receives this bonus the total damage will be added (3 + amount offered by bonus).</div>
-</div>
-
-
-<div style="display:flex; align-items: center; height:25vh;">
-  <div style="width: 33.33%;text-align: center; margin-top:112vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Wanted Dodger</span>
-  <p style="line-height: normal;">1 minute reduction wanted expiration time.</p>
-  <p style="line-height: normal;">2 minutes reduction wanted expiration time.</p>
-  <p style="line-height: normal;">3 minutes reduction wanted expiration time.</p>
-  <p style="line-height: normal;">4 minutes reduction wanted expiration time.</p>
-  <p style="line-height: normal;">5 minutes reduction wanted expiration time.</p>
-<b>Note:</b> This will only work when the player receives wanted while wearing this skin. If you receive wanted and then change the skin you will not benefit from this bonus.</div>
-
-
-<div style="width: 33.33%;text-align: center; margin-top:93vh;"><span style="line-height: 3em; color:rgb(165, 42, 42);font-weight:bolder;">The Greedy One</span>
-  <p style="line-height: normal;">5% fewer seconds in jail.</p>
-  <p style="line-height: normal;">10% fewer seconds in jail.</p>
-  <p style="line-height: normal;">15% fewer seconds in jail.</p>
-  <p style="line-height: normal;">20% fewer seconds in jail.</p>
-  <p style="line-height: normal;">25% fewer seconds in jail.</p></div>
 </div>
 
 <style>
