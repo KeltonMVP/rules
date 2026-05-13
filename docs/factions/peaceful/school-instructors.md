@@ -150,7 +150,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 ## 6. Chatul Factiunii
 
-<span style="color:var(--pink);">6.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 30.000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> in functie de gravitate).
+<span style="color:var(--pink);">6.1</span> Nu aveti voie sa faceti spam sau sa folositi Caps-Lock (<span style="color:orange;">sanctiune: amenda 50.000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> in functie de gravitate).
 
 <span style="color:var(--pink);">6.2</span> Nu aveti voie sa dati [<span style="color:var(--pink);">/TOG</span>] la chatul factiuni. Exceptie facand membrii Rank 4+ care dau test de intrare in factiune cu candidatii sau cu aprobarea unui Rank 6+ (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -162,13 +162,13 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 <span style="color:var(--pink);">7.3</span> Va este permis sa utilizati chatul [<span style="color:var(--pink);">/sx</span>] intr-o maniera deschisa, anume free-chat doar intre orele 20:00 - 08:00 (<span style="color:red;">nerespectarea intervalului: Avertisment Verbal</span> prima abatere, <span style="color:red;">Faction Warn</span> a doua abatere).
 
-<span style="color:var(--pink);">7.4</span> Nu aveti voie sa faceti <span style="color:var(--pink);">SPAM</span> sau sa folositi <span style="color:var(--pink);">CAPS</span>. Cine incalca regula va primi <span style="color:orange;">amenda 30,000$.</span>
+<span style="color:var(--pink);">7.4</span> Nu aveti voie sa faceti <span style="color:var(--pink);">SPAM</span> sau sa folositi <span style="color:var(--pink);">CAPS</span>. Cine incalca regula va primi <span style="color:orange;">amenda 50,000$.</span>
 
 <span style="color:var(--pink);">7.5</span> Membrii de Rank 0 le este interzis sa foloseasca chat-ul comun [<span style="color:var(--pink);">/sx</span>]. Cine incalca aceasta regula va fi sanctionat cu <span style="color:red">picarea testelor!</span>
 
 ## 8. Sedinte
 
-<span style="color:var(--pink);">8.1</span> In timpul sedintei doar liderul/subliderul vorbeste. Daca aveti o intrebare/completare la subiectul discutat in acel moment, ridicati mana (/wave). Restul intrebarilor le adresati la sfarsitul sedintei (<span style="color:orange;">sanctiune: amenda 25,000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
+<span style="color:var(--pink);">8.1</span> In timpul sedintei doar liderul/subliderul vorbeste. Daca aveti o intrebare/completare la subiectul discutat in acel moment, ridicati mana (/wave). Restul intrebarilor le adresati la sfarsitul sedintei (<span style="color:orange;">sanctiune: amenda 100,000$</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 <span style="color:var(--pink);">8.2</span> Nu stati AFK in timpul sedintei (mai mult de 3 minute) (<span style="color:red;">sanctiune: Faction Warn</span>).
 
@@ -186,7 +186,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 - intarziere de pana la 10 minute: <span style="color:var(--green);">nimic.</span>
 - intarziere intre 10 si 20 de minute: <span style="color:orange;">Avertisment Verbal.</span>
-- intarziere intre 20 si 30 de minute: <span style="color:orange;">Avertisment Verbal</span> + <span style="color:var(--green);">Amenda 50,000$.</span>
+- intarziere intre 20 si 30 de minute: <span style="color:orange;">Avertisment Verbal</span> + <span style="color:var(--green);">Amenda 75,000$.</span>
 - intarziere de peste 30 de minute: <span style="color:red;">Faction Warn.</span>
 
 ## 9. Candidatii (rank 0)

@@ -150,7 +150,7 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 ## 6. Faction Chat
 
-<span style="color:var(--pink);">6.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $30,000</span>, <span style="color:red;">Faction Warn</span> depending on severity).
+<span style="color:var(--pink);">6.1</span> You are not allowed to spam or use Caps-Lock (<span style="color:orange;">sanction: fine of $50,000</span>, <span style="color:red;">Faction Warn</span> depending on severity).
 
 <span style="color:var(--pink);">6.2</span> You are not allowed to use [<span style="color:var(--pink);">/TOG</span>] in faction chat. Exception being Rank 4+ members conducting entrance tests with candidates or with approval from Rank 6+ members (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -162,13 +162,13 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 <span style="color:var(--pink);">7.3</span> You are allowed to use the [<span style="color:var(--pink);">/sx</span>] chat in an open manner, namely free-chat only between 20:00 - 08:00 (<span style="color:red;">failure to comply with the interval: Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> second offense).
 
-<span style="color:var(--pink);">7.4</span> You are not allowed to <span style="color:var(--pink);">SPAM</span> or use <span style="color:var(--pink);">CAPS</span>. Violators of this rule will receive a <span style="color:orange;">fine of $30,000.</span>
+<span style="color:var(--pink);">7.4</span> You are not allowed to <span style="color:var(--pink);">SPAM</span> or use <span style="color:var(--pink);">CAPS</span>. Violators of this rule will receive a <span style="color:orange;">fine of $50,000.</span>
 
 <span style="color:var(--pink);">7.5</span> Rank 0 members are prohibited from using the common chat [<span style="color:var(--pink);">/sx</span>]. Violators of this rule will be sanctioned with <span style="color:red">test failures!</span>
 
 ## 8. Meetings
 
-<span style="color:var(--pink);">8.1</span> During the meeting, only the leader/subleader speaks. If you have a question/comment on the topic being discussed at that moment, raise your hand (/wave). All other questions should be addressed at the end of the meeting (<span style="color:orange;">sanction: fine 25,000$</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
+<span style="color:var(--pink);">8.1</span> During the meeting, only the leader/subleader speaks. If you have a question/comment on the topic being discussed at that moment, raise your hand (/wave). All other questions should be addressed at the end of the meeting (<span style="color:orange;">sanction: fine 100,000$</span> for the first offense, <span style="color:red;">Faction Warn</span> for the next).
 
 <span style="color:var(--pink);">8.2</span> Do not stay AFK during the meeting (more than 3 minutes) (<span style="color:red;">sanction: Faction Warn</span>).
 
@@ -186,7 +186,7 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 - being late of up to 10 minutes: <span style="color:var(--green);">nothing.</span>
 - being late between 10 and 20 minutes: <span style="color:orange;">Verbal Warning.</span>
-- being late between 20 and 30 minutes: <span style="color:orange;">Verbal Warning</span> + <span style="color:var(--green);">Fine $50,000.</span>
+- being late between 20 and 30 minutes: <span style="color:orange;">Verbal Warning</span> + <span style="color:var(--green);">Fine $75,000.</span>
 - being late of over 30 minutes: <span style="color:red;">Faction Warn.</span>
 
 ## 9. Candidates (rank 0)
