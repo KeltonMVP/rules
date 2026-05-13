@@ -293,21 +293,21 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <!-- The Heisenberg -->
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Heisenberg</h3>
-    <p style="margin:2px 0;">5 puncte de recuperare inlaturate per ora.</p>
-    <p style="margin:2px 0;">10 puncte de recuperare inlaturate per ora.</p>
-    <p style="margin:2px 0;">15 puncte de recuperare inlaturate per ora.</p>
-    <p style="margin:2px 0;">20 puncte de recuperare inlaturate per ora.</p>
-    <p style="margin:2px 0;">25 puncte de recuperare inlaturate per ora.</p>
+    <p style="margin:2px 0;">5 puncte de dependenta inlaturate per ora.</p>
+    <p style="margin:2px 0;">10 puncte de dependenta inlaturate per ora.</p>
+    <p style="margin:2px 0;">15 puncte de dependenta inlaturate per ora.</p>
+    <p style="margin:2px 0;">20 puncte de dependenta inlaturate per ora.</p>
+    <p style="margin:2px 0;">25 puncte de dependenta inlaturate per ora.</p>
   </div>
 
   <!-- The Loot Collector -->
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Loot Collector</h3>
-    <p style="margin:2px 0;">5% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-    <p style="margin:2px 0;">10% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-    <p style="margin:2px 0;">15% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-    <p style="margin:2px 0;">20% sansa de a primi cu 30 % mai mult loot la Mester.</p>
-    <p style="margin:2px 0;">25% sansa de a primi cu 30 % mai mult loot la Mester.</p>
+    <p style="margin:2px 0;">5% sansa de a primi cu 30 % mai multe materiale la Mester.</p>
+    <p style="margin:2px 0;">10% sansa de a primi cu 30 % mai multe materiale la Mester.</p>
+    <p style="margin:2px 0;">15% sansa de a primi cu 30 % mai multe materiale la Mester.</p>
+    <p style="margin:2px 0;">20% sansa de a primi cu 30 % mai multe materiale la Mester.</p>
+    <p style="margin:2px 0;">25% sansa de a primi cu 30 % mai multe materiale la Mester.</p>
   </div>
 
   <!-- The Weapon Factory -->
@@ -333,43 +333,43 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <!-- The Prison Breaker -->
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Prison Breaker</h3>
-    <p style="margin:2px 0;">Intarziere de 5 secunde.</p>
-    <p style="margin:2px 0;">Intarziere de 10 secunde</p>
-    <p style="margin:2px 0;">Intarziere de 15 secunde.</p>
-    <p style="margin:2px 0;">Intarziere de 20 secunde.</p>
-    <p style="margin:2px 0;">Intarziere de 25 secunde.</p>
+    <p style="margin:2px 0;">Intarziere de 5 secunde la evadare.</p>
+    <p style="margin:2px 0;">Intarziere de 10 secunde la evadare.</p>
+    <p style="margin:2px 0;">Intarziere de 15 secunde la evadare.</p>
+    <p style="margin:2px 0;">Intarziere de 20 secunde la evadare.</p>
+    <p style="margin:2px 0;">Intarziere de 25 secunde la evadare.</p>
     <p style="margin-top:6px;"><b>Nota:</b> Wanted-ul este in mod normal oferit la exact 1 minut dupa evadare, jucatorii vor primi acest timp peste timpul normal inainte de a primi wanted.</p>
   </div>
 
   <!-- The Master Robber -->
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Master Robber</h3>
-    <p style="margin:2px 0;">1 punct de jaf mai putin.</p>
-    <p style="margin:2px 0;">2 punct de jaf mai putin.</p>
-    <p style="margin:2px 0;">3 punct de jaf mai putin.</p>
-    <p style="margin:2px 0;">4 punct de jaf mai putin.</p>
-    <p style="margin:2px 0;">5 punct de jaf mai putin.</p>
+    <p style="margin:2px 0;">1 punct de jaf mai putin necesar pentru rob.</p>
+    <p style="margin:2px 0;">2 punct de jaf mai putin necesare pentru rob.</p>
+    <p style="margin:2px 0;">3 punct de jaf mai putin necesare pentru rob.</p>
+    <p style="margin:2px 0;">4 punct de jaf mai putin necesare pentru rob.</p>
+    <p style="margin:2px 0;">5 punct de jaf mai putin necesare pentru rob.</p>
     <p style="margin-top:6px;"><b>Nota:</b> Acest bonus se va aplica la ambele tipuri de jaf (singur sau in echipa).</p>
   </div>
 
   <!-- The Escaper -->
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Escaper</h3>
-    <p style="margin:2px 0;">1 punct de evadare mai putin.</p>
-    <p style="margin:2px 0;">2 punct de evadare mai putin.</p>
-    <p style="margin:2px 0;">3 punct de evadare mai putin.</p>
-    <p style="margin:2px 0;">4 punct de evadare mai putin.</p>
-    <p style="margin:2px 0;">5 punct de evadare mai putin.</p>
+    <p style="margin:2px 0;">1 punct de evadare mai putin necesar pentru escape.</p>
+    <p style="margin:2px 0;">2 punct de evadare mai putin necesare pentru escape.</p>
+    <p style="margin:2px 0;">3 punct de evadare mai putin necesare pentru escape.</p>
+    <p style="margin:2px 0;">4 punct de evadare mai putin necesare pentru escape.</p>
+    <p style="margin:2px 0;">5 punct de evadare mai putin necesare pentru escape.</p>
   </div>
 
   <!-- The Fence Digger -->
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Fence Digger</h3>
-    <p style="margin:2px 0;">1 daune suplimentare per /hit.</p>
-    <p style="margin:2px 0;">2 daune suplimentare per /hit.</p>
-    <p style="margin:2px 0;">3 daune suplimentare per /hit.</p>
-    <p style="margin:2px 0;">4 daune suplimentare per /hit.</p>
-    <p style="margin:2px 0;">5 daune suplimentare per /hit.</p>
+    <p style="margin:2px 0;">+1 damage suplimentar per /hit.</p>
+    <p style="margin:2px 0;">+2 damage suplimentar per /hit.</p>
+    <p style="margin:2px 0;">+3 damage suplimentar per /hit.</p>
+    <p style="margin:2px 0;">+4 damage suplimentar per /hit.</p>
+    <p style="margin:2px 0;">+5 damage suplimentar per /hit.</p>
     <p style="margin-top:6px;"><b>Nota:</b> Valoarea initiala a daunelor la /hit este de 3, daca jucatorul primeste acest bonus daunele totale vor fi adunate (3 + suma oferita de bonus).</p>
   </div>
 
@@ -377,10 +377,10 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Wanted Dodger</h3>
     <p style="margin:2px 0;">1 minut reducere timp de expirare wanted.</p>
-    <p style="margin:2px 0;">2 minut reducere timp de expirare wanted.</p>
-    <p style="margin:2px 0;">3 minut reducere timp de expirare wanted.</p>
-    <p style="margin:2px 0;">4 minut reducere timp de expirare wanted.</p>
-    <p style="margin:2px 0;">5 minut reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">2 minute reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">3 minute reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">4 minute reducere timp de expirare wanted.</p>
+    <p style="margin:2px 0;">5 minute reducere timp de expirare wanted.</p>
     <p style="margin-top:6px;"><b>Nota:</b> Acest lucru va functiona numai atunci cand jucatorul primeste wanted in timp ce poarta acest skin. Daca primesti wanted si apoi schimbi skinul nu vei beneficia de acest bonus.</p>
   </div>
 
