@@ -57,7 +57,7 @@ To start an ATM robbery attempt, the player must meet all of the following condi
 * The player has 90 seconds to pick up the money bag.
 * If they don't pick up the bag in this interval → the loot expires and the robbery is considered failed.
 * Upon collection:
-    * The player receives Wanted for robbery.
+    * The player receives Wanted 4 for robbery (without surrender).
     * The ATM becomes disabled for a set cooldown (default 180 s) — during this period it cannot be robbed or used for banking operations.
     * After the cooldown expires, the ATM returns to normal state.
 
