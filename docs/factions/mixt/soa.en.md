@@ -157,7 +157,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ## 10. Improved Drugs
 
-<span style="color:var(--pink);">10.1</span> The minimum selling price per gram is <span style="color:var(--pink);">$200</span> during the week (<span style="color:var(--pink);">Monday-Friday</span>) and at least <span style="color:var(--pink);">$100</span> on the weekend. Selling at a lower price leads to sanctions (<span style="color:red">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">10.1</span> The minimum selling price per gram is <span style="color:var(--pink);">$150</span> during the week (<span style="color:var(--pink);">Monday-Friday</span>) and at least <span style="color:var(--pink);">$75</span> on the weekend. Selling at a lower price leads to sanctions (<span style="color:red">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">10.2</span> The maximum quantity that can be sold in a single transaction is 1,000 grams, and the maximum amount allowed by the script is $200,000.
 
