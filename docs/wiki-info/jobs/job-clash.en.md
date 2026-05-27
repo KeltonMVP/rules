@@ -27,6 +27,7 @@ After each successful run, you will receive a confirmation message showing your 
 
 ## Additional Information
 - Job Clash can run at the same time as Job of the Day (both can be active together).
+- Eligible jobs to be chosen are: **Transporter, Drugs Dealer, Car Jacker, Car Mechanic, Arms Dealer, Archeologist, Electrician, Quarry Worker, Lumberjack, Miner, Garbage Man, Fisherman, Trucker, Chemist and Firefighter.**
 - Only successfully completed races in the active Clash Job count towards the leaderboard. Races from other jobs will not be recorded for Job Clash.
 - If two or more players finish with the same number of races, the higher position will be awarded to the older player.
 - Winners will receive rewards even if they are offline at midnight.
