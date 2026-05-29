@@ -20,7 +20,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
 - <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
-- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii. 
+- <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii.
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii on-duty.
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre mecanici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/dl]</span> - afiseaza HP-ul masinii, necesar cand tractati.
@@ -47,7 +47,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - 5 Utility Van - Rank 3.
 - 1 Maverick - Rank 4.
 
-<span style="color:var(--pink);">3.1</span> Inainte de a efectua [<span style="color:var(--pink);">/fvr</span>], un membru rank 5+ este obligat sa anunte si sa astepte minim 5 secunde pana la tastarea comenzii, in caz contrar acesta este <span style="color:orange;">sanctionat cu Amenda</span> la prima abatere iar la a doua cu <span style="color:red;">Avertisment Verbal</span>, iar in cele din urma <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">3.1</span> Inainte de a efectua [<span style="color:var(--pink);">/fvr</span>], un membru rank 5+ este obligat sa anunte si sa astepte minim 5 secunde pana la tastarea comenzii, in caz contrar acesta este <span style="color:orange;">sanctionat cu Amenda 50,000$ + Avertisment Verbal</span> la prima abatere iar la a doua cu <span style="color:red;">Faction Warn</span>.
 
 <span style="color:var(--pink);">3.2</span> In cazul in care un membru rank 5+ anunta [<span style="color:var(--pink);">/fvr</span>], alt membru rank 5+ nu are voie sa intervina dand el [<span style="color:var(--pink);">/fvr</span>] decat cu acordul celui ce a anuntat primul! (<span style="color:red;">sanctiune: amenda</span>).
 
@@ -71,10 +71,10 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">4.6</span> In timpul sedintelor / activitatilor obligatorii membrilor le este stric interzis sa stea AFK (clepsidra sau [/sleep]) fara acordul organizatorului. Cine este prins AFK fara acord o sa fie sanctionat astfel: <span style="color:red;">0-2 minute Avertisment Verbal, peste 3 minute Faction Warn.</span>
 
-<span style="color:var(--pink);">4.7</span> Oferirea de [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refillgascan</span>], [<span style="color:var(--pink);">/sellkit</span>] este activitatea secundara exercitata toti membrii factiunii. Deasemenea aceste servicii fac parte din raportul saptamanal. Oferirea acestor servicii se face respectand urmatoarele preturi: 
+<span style="color:var(--pink);">4.7</span> Oferirea de [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refillgascan</span>], [<span style="color:var(--pink);">/sellkit</span>] este activitatea secundara exercitata toti membrii factiunii. Deasemenea aceste servicii fac parte din raportul saptamanal. Oferirea acestor servicii se face respectand urmatoarele preturi:
 
 - [<span style="color:var(--pink);">/refill</span>] - 50$
-- [<span style="color:var(--pink);">/repair</span>] - 50$ 
+- [<span style="color:var(--pink);">/repair</span>] - 50$
 - [<span style="color:var(--pink);">/refillgascan</span>] - 20$
 - [<span style="color:var(--pink);">/sellkit repair</span>] - 4000$
 - [<span style="color:var(--pink);">/sellkit fuel</span>] - 8000$
@@ -103,7 +103,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.4</span> Dupa ce v-ati terminat activitatea cu Tow Truckul respectiv, trebuie sa respawnati Tow Truckul si sa anuntati pe chatul factiunii [<span style="color:var(--pink);">/f</span>] ca acesta a fost respawnat (exemplu: "am respawnat tow truck / tt rr" ...etc) (<span style="color:red;">sanctiune: Amenda</span>).
 
-<span style="color:var(--pink);">5.5</span> Tow Truckurile sunt folosite strict pentru a tracta, nu pentru uz personal (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatare, <span style="color:red;">Faction Warn</span> la urmatoarea). 
+<span style="color:var(--pink);">5.5</span> Tow Truckurile sunt folosite strict pentru a tracta, nu pentru uz personal (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatare, <span style="color:red;">Faction Warn</span> la urmatoarea).
 
 !!! example "Nota informativa"
     Pentru nevoile personale se poate folosi Utility (rank 3 minim) sau masinile personale.

@@ -26,10 +26,10 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/dl]</span> - displays the HP of a vehicle, necessary when towing.
 - <span style="color:var(--pink);">[/ft]</span> - list of online candidates.
 - <span style="color:var(--pink);">[/togcomms]</span> - (un)lock the communication channels of the candidate.
-- <span style="color:var(--pink);">[/repair < name/ID > < price >]</span> - parameters are optional. Using the command without parameters repairs your vehicle; using it with parameters repairs another player's vehicle.  
-- <span style="color:var(--pink);">[/refill < name/ID > < price >]</span> - parameters are optional. Using the command without parameters refuels your vehicle; using it with parameters refuels another player's vehicle.  
-- <span style="color:var(--pink);">[/refillgascan < name/ID > < price >]</span> - fills another player's gas can.  
-- <span style="color:var(--pink);">[/sellkit < name/ID > < repair/fuel > < price >]</span> - sells a repair or refuel kit to another player.  
+- <span style="color:var(--pink);">[/repair < name/ID > < price >]</span> - parameters are optional. Using the command without parameters repairs your vehicle; using it with parameters repairs another player's vehicle.
+- <span style="color:var(--pink);">[/refill < name/ID > < price >]</span> - parameters are optional. Using the command without parameters refuels your vehicle; using it with parameters refuels another player's vehicle.
+- <span style="color:var(--pink);">[/refillgascan < name/ID > < price >]</span> - fills another player's gas can.
+- <span style="color:var(--pink);">[/sellkit < name/ID > < repair/fuel > < price >]</span> - sells a repair or refuel kit to another player.
 
 ## 2. Faction Skins
 
@@ -47,7 +47,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - 5 Utility Van - Rank 3.
 - 1 Maverick - Rank 4.
 
-<span style="color:var(--pink);">3.1</span> Before performing [<span style="color:var(--pink);">/fvr</span>], a rank 5+ member is required to announce and wait for a minimum of 5 seconds before typing the command; otherwise, they are <span style="color:orange;">sanctioned with a Fine</span> for the first offense, and with a <span style="color:red;">Verbal Warning</span> for the second offense, and ultimately with a <span style="color:red;">Faction Warn</span>.
+<span style="color:var(--pink);">3.1</span> Before performing [<span style="color:var(--pink);">/fvr</span>], a rank 5+ member is required to announce and wait for a minimum of 5 seconds before typing the command; otherwise, they are <span style="color:orange;">sanctioned with a Fine 50,000$ + Verbal Warning</span> for the first offense, and with a <span style="color:red;">Faction Warning</span> for the second offense.
 
 <span style="color:var(--pink);">3.2</span> If a rank 5+ member announces [<span style="color:var(--pink);">/fvr</span>], another rank 5+ member is not allowed to intervene by issuing [<span style="color:var(--pink);">/fvr</span>] unless with the agreement of the first announcer! (<span style="color:red;">sanction: fine</span>).
 
@@ -74,7 +74,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 <span style="color:var(--pink);">4.7</span> Offering [<span style="color:var(--pink);">/refill</span>], [<span style="color:var(--pink);">/repair</span>], [<span style="color:var(--pink);">/refillgascan</span>], [<span style="color:var(--pink);">/sellkit</span>] is the secondary activity performed by all faction members. These services are also part of the weekly report. Offering these services is done respecting the following prices:
 
 - [<span style="color:var(--pink);">/refill</span>] - 50$
-- [<span style="color:var(--pink);">/repair</span>] - 50$ 
+- [<span style="color:var(--pink);">/repair</span>] - 50$
 - [<span style="color:var(--pink);">/refillgascan</span>] - 20$
 - [<span style="color:var(--pink);">/sellkit repair</span>] - 4000$
 - [<span style="color:var(--pink);">/sellkit fuel</span>] - 8000$
