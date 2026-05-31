@@ -89,13 +89,13 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 ### Raport de Activitate
 
-<span style="color:var(--pink);">4.2.1</span> In cazul gangurilor, raportul de activitate consta in prezenta la warurile obligatorii din timpul saptamanii (Luni-Vineri).<br/>
+<span style="color:var(--pink);">4.2.1</span> In cazul gangurilor, raportul de activitate consta in prezenta la warurile obligatorii din timpul saptamanii (Luni-Marti-Miercuri).<br/>
 Pentru mai multe detalii, vizitati rubrica de [Regulament Waruri](#10-regulament-waruri).
 
 !!! example "Nota informativa"
     Sunt scutiti de prezenta la waruri jucatorii cu cereri de inactivitate sau de absenta acceptate.
 
-<span style="color:var(--pink);">4.2.2</span> Puteti debloca un bonus in urma acumularii unui numar stabilit de secunde la warurile obligatorii de Luni pana Vineri, bonus care va aduce suma de $100,000 si o reducere a perioadei de promovare cat si a perioadei de stergere a unui Faction Warn cu 3 zile pentru fiecare bonus deblocat.
+<span style="color:var(--pink);">4.2.2</span> Puteti debloca un bonus in urma acumularii unui numar stabilit de secunde la warurile obligatorii de Luni-Marti-Miercuri, bonus care va aduce suma de $100,000 si o reducere a perioadei de promovare cat si a perioadei de stergere a unui Faction Warn cu 3 zile pentru fiecare bonus deblocat.
 
 <span style="color:var(--pink);">4.2.2.1</span> Numarul de secunde necesare pentru bonus va fi afisat pe [<span style="color:var(--pink);">/raport</span>]. Doar bonusurile deblocate dupa data ultimei promovari sau dupa data Faction Warnului primit ofera zile de deducere.
 
@@ -230,9 +230,9 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 ### Informatii Waruri
 
-<span style="color:var(--pink);">10.1.1</span> Programul warurilor obligatorii in perioada de toamna-iarna-primavara este de Luni pana Vineri intre orele 20:00 - 22:00.
+<span style="color:var(--pink);">10.1.1</span> Programul warurilor obligatorii in perioada de toamna-iarna-primavara este de Luni-Marti-Miercuri intre orele 20:00 - 22:00.
 
-<span style="color:var(--pink);">10.1.2</span> Programul warurilor obligatorii in perioada de vara este de Luni pana Vineri intre un interval stabilit prin vot anual.
+<span style="color:var(--pink);">10.1.2</span> Programul warurilor obligatorii in perioada de vara este de Luni-Marti-Miercuri intre un interval stabilit prin vot anual.
 
 <span style="color:var(--pink);">10.1.3</span> Programul warurilor optionale este Sambata de la ora 20:00 si Duminica de la ora 20:00.
 
@@ -307,9 +307,26 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 ### Absenta Waruri Obligatorii
 
+Cand gangul are <span style="color:var(--green);">6 waruri:</span>
+
+- absent la 1/6 - amenda 25.000$.
+- absent la 2/6 - amenda 50.000$.
+- absent la 3/6 - <span style="color:orange;">Avertisment Verbal.</span>
+- absent la 4/6 - <span style="color:orange;">Avertisment Verbal</span> + amenda 25.000$.
+- absent la 5/6 - <span style="color:orange;">Avertisment Verbal</span> + amenda 50.000$.
+- absent la 6/6 - <span style="color:red;">Faction Warn.</span>
+
+Cand gangul are <span style="color:var(--green);">5 waruri:</span>
+
+- absent la 1/5 - amenda 25.000$.
+- absent la 2/5 - amenda 50.000$.
+- absent la 3/5 - <span style="color:orange;">Avertisment Verbal.</span>
+- absent la 4/5 - <span style="color:orange;">Avertisment Verbal</span> + amenda 50.000$.
+- absent la 5/5 - <span style="color:red;">Faction Warn.</span>
+
 Cand gangul are <span style="color:var(--green);">4 waruri:</span>
 
-- absent la 1/4 - amenda 25.000$.
+- absent la 1/4 - amenda 50.000$.
 - absent la 2/4 - <span style="color:orange;">Avertisment Verbal.</span>
 - absent la 3/4 - <span style="color:orange;">Avertisment Verbal</span> + amenda 50.000$.
 - absent la 4/4 - <span style="color:red;">Faction Warn.</span>
@@ -347,10 +364,10 @@ Cand gangul are <span style="color:var(--green);">1 war:</span>
 
 ### Invoirile
 
-- orice membru are dreptul la 2 invoiri pe saptamana.
+- orice membru are dreptul la 1 invoire pe saptamana.
 - <span style="color:green;">primele 5 invoiri la waruri sunt acceptate</span>, <span style="color:red;">restul vor fi respinse</span>. La alte activitati se va anunta daca se impune o limita.
 - daca un membru face invoire si este prezent la activitate sau la toate warurile din acea zi, invoirea va fi respinsa.
-- la 2 sau mai multe invoiri in zile consecutive conducerea factiunii isi rezerva dreptul de a respinge invoirea.
+- la 2 invoiri in zile consecutive (Miercuri-Luni) conducerea factiunii isi rezerva dreptul de a respinge invoirea.
 - invoirile facute in timpul warurilor vor fi respinse.
 
 ## 11. Altele

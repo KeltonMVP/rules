@@ -1235,9 +1235,9 @@ Members will be sanctioned as follows:
 
 <span style="color:var(--pink);">8.4.2</span> Leaders who knowingly accept individuals using cheats will be sanctioned with <span style="color:red;">Leader Warn or Dismissal</span>, depending on the case.
 
-<span style="color:var(--pink);">8.4.3</span> Leaders and Subleaders are required to be present for at least 3 days of wars per week, whether attacking or defending. Both you and the Subleaders can take leave for up to 2 days of wars, but you are still required to meet the minimum of 3 days.<br/>
+<span style="color:var(--pink);">8.4.3</span> Leaders and Subleaders are required to be present for at least 2 days of wars per week, whether attacking or defending. Both you and the Subleaders can take leave for up to 1 day of wars, but you are still required to meet the minimum of 2 days.<br/>
 
-Subleaders can use the <span style="color:var(--pink);">2 weekly leaves</span> to take leave, and Leaders must post in the specific channel on the Staff Discord (penalty: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues).
+Subleaders can use the <span style="color:var(--pink);">weekly leave</span> to take leave, and Leaders must post in the specific channel on the Staff Discord (penalty: <span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Leader Warn</span> for the second offense, and <span style="color:red;">Dismissal</span> if it continues).
 
 <span style="color:var(--pink);">8.4.4</span> Members who are part of a gang and meanwhile receive an <span style="color:var(--pink);">interdiction</span> will always be dismissed with <span style="color:red;">FP 60/60</span>. Players who receive an interdiction will be able to be accepted into another gang after a minimum of one month from receiving the ban. Leaders who accept players with interdictions will be sanctioned with <span style="color:red;">Leader Warn</span>, even for the first offense.
 
@@ -1267,8 +1267,8 @@ Subleaders can use the <span style="color:var(--pink);">2 weekly leaves</span> t
 
 <span style="color:var(--pink);">8.6.1</span> Gang Leaders can set the time limit for attendance at gang wars according to the following formula:
 
-- for wars in the gang's city, the limit can be set between <span style="color:var(--green);">500 - 800 seconds.</span>
-- for wars in other cities, the limit can be set between <span style="color:var(--green);">300 - 600 seconds.</span>
+- for wars in the gang's city, the limit can be set between <span style="color:var(--green);">340 - 540 seconds.</span>
+- for wars in other cities, the limit can be set between <span style="color:var(--green);">200 - 400 seconds.</span>
 
 <span style="color:var(--pink);">8.6.2</span> The Leader can decide not to consider seconds for a particular war day, requiring <span style="color:var(--pink);">30 seconds per turf for attendance.</span>
 

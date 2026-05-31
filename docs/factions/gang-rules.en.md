@@ -89,13 +89,13 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 ### Activity Report
 
-<span style="color:var(--pink);">4.2.1</span> In the case of gangs, the activity report consists of attendance at mandatory wars during the week (Monday-Friday).<br/>
+<span style="color:var(--pink);">4.2.1</span> In the case of gangs, the activity report consists of attendance at mandatory wars during the week (Monday-Tuesday-Wednesday).<br/>
 For more details, visit the section on [War Rules](#10-war-rules).
 
 !!! example "Information Note"
     Players with accepted requests for inactivity or absence are exempt from attending wars.
 
-<span style="color:var(--pink);">4.2.2</span> You can unlock a bonus by obtaining a certain number of seconds in the obligatory wars from Monday to Friday. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.
+<span style="color:var(--pink);">4.2.2</span> You can unlock a bonus by obtaining a certain number of seconds in the obligatory wars from Monday-Tuesday-Wednesday. This bonus grants you $100,000 and reduces both the promotion period and the Faction Warn removal period by 3 days for each unlocked bonus.
 
 <span style="color:var(--pink);">4.2.2.1</span> The number of seconds required for the bonus will be displayed on [<span style="color:var(--pink);">/raport</span>]. Only bonuses unlocked after the date of the last promotion or after receiving a Faction Warn will provide a deduction in days.
 
@@ -230,9 +230,9 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ### War Information
 
-<span style="color:var(--pink);">10.1.1</span> The schedule for mandatory wars during the autumn-winter-spring period is from Monday to Friday between 20:00 - 22:00.
+<span style="color:var(--pink);">10.1.1</span> The schedule for mandatory wars during the autumn-winter-spring period is from Monday-Tuesday-Wednesday between 20:00 - 22:00.
 
-<span style="color:var(--pink);">10.1.2</span> The schedule for mandatory wars during the summer period is from Monday to Friday within a time frame determined annually by vote.
+<span style="color:var(--pink);">10.1.2</span> The schedule for mandatory wars during the summer period is from Monday-Tuesday-Wednesday within a time frame determined annually by vote.
 
 <span style="color:var(--pink);">10.1.3</span> The schedule for optional wars is on Saturday at 20:00 and Sunday at 20:00.
 
@@ -307,9 +307,26 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 ### Absence Mandatory Wars
 
+When the gang has <span style="color:var(--green);">6 wars:</span>
+
+- absent at 1/6 - fine 25.000$.
+- absent at 2/6 - fine 50.000$.
+- absent at 3/6 - <span style="color:orange;">Verbal Warning.</span>
+- absent at 4/6 - <span style="color:orange;">Verbal Warning</span> + fine 25.000$.
+- absent at 5/6 - <span style="color:orange;">Verbal Warning</span> + fine 50.000$.
+- absent at 6/6 - <span style="color:red;">Faction Warn.</span>
+
+When the gang has <span style="color:var(--green);">5 wars:</span>
+
+- absent at 1/5 - fine 25.000$.
+- absent at 2/5 - fine 50.000$.
+- absent at 3/5 - <span style="color:orange;">Verbal Warning.</span>
+- absent at 4/5 - <span style="color:orange;">Verbal Warning</span> + fine 50.000$.
+- absent at 5/5 - <span style="color:red;">Faction Warn.</span>
+
 When the gang has <span style="color:var(--green);">4 wars:</span>
 
-- absent at 1/4 - fine 25.000$.
+- absent at 1/4 - fine 50.000$.
 - absent at 2/4 - <span style="color:orange;">Verbal Warning.</span>
 - absent at 3/4 - <span style="color:orange;">Verbal Warning</span> + fine 50.000$.
 - absent at 4/4 - <span style="color:red;">Faction Warn.</span>
@@ -347,10 +364,10 @@ When the gang has <span style="color:var(--green);">1 war:</span>
 
 ### Absence Requests
 
-- every member is entitled to 2 accepted requests per week.
+- every member is entitled to 1 accepted request per week.
 - <span style="color:green;">the first 5 absence requests for wars are accepted</span>, <span style="color:red;">the rest will be rejected</span>. For other activities, a limit will be announced if necessary.
 - if a member requests absence and is present at the activity or all wars during that day, the request will be rejected.
-- for 2 or more requests on consecutive days, faction leadership reserves the right to reject the request.
+- for 2 requests on consecutive days (Wednesday-Monday), faction leadership reserves the right to reject the request.
 - requests made during wars will be rejected.
 
 ## 11. Others
