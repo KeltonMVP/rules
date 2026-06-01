@@ -13,20 +13,21 @@ Wars are confrontations between gangs, as a result of which respect and supremac
 ## Classic wars
 
 ### Conduct and information
-
-* The duration of a war is 30 minutes, and the maximum number of wars that can take place per day in a gang is 4.
+* Wars take place only 3 days per week, namely: **Monday, Tuesday and Wednesday**.
+* The duration of a war is 20 minutes, and the maximum number of wars that can take place per day in a gang is 6.
 * Throughout a war, gang members have the duty to kill as many opponents as possible or to dominate the area to fulfill their goal, that of winning the territory they are fighting for.
 * Each war takes place in a different virtual world than the one in which the other players are located so that the wars are not influenced.
 * Gangsters manage to annihilate their opponents using weapons such as: Desert Eagle (Deagle), M4, AK47, Rifle, TEC-9 and Combat Shotgun.
 * Once they enter the war territory with the gang car they come from, gangsters have 10 seconds to position their cars favorably, and after these 10 seconds they will be automatically taken out of the vehicle if they have not already gotten out.
 * Also, once on the turf, a gangster can no longer enter a vehicle under any circumstances.
-* A 30-minute war takes place over 15 rounds.
+* A 20-minute war takes place over 11 rounds, and each round lasts **109 seconds**.
 * Once a gangster leaves the turf, they will still be considered on the turf for a few seconds.
 * For a gang to win the war, they must dominate at least 8 rounds.
 * To win a round, the gang must obtain a higher score than the other in the current round.
 * If both gangs manage to obtain an equal score, the gang defending the territory will win the round.
 * At the end of each war, the score of the best gangster on the winning team and the weakest player on the losing team is calculated.
-* Wars take place on B-Zone RPG servers every Monday, Tuesday, Wednesday, Thursday and Friday between 20:00-22:00. During summer, wars are held in an interval established following a poll on the website.
+* Wars take place on B-Zone RPG servers every Monday, Tuesday, Wednesday, Thursday and Friday between 20:00-22:00. 
+    * During summer, wars are held in an interval established following a poll on the website.
 * When a gang has a war, members of the respective gangs will see on the game map the territory for which the war is held, oscillating between the color of the offensive gang and the color of the defensive gang (to view territories use the /turfs command).
 * During the war, only personal vehicles or vehicles owned by the mafia can be used.
     * **Exception:** Forklift, Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed and Enforcer.
@@ -53,6 +54,22 @@ Wars are confrontations between gangs, as a result of which respect and supremac
 * Rank 4: Available command is /order 4 and offers Deagle, M4, Tec9, Combat Shotgun and Rifle weapons.
 
 *Note: The **/order** command is only accessible inside the HQ, house and clan HQ.*
+
+### Assist's
+* You can get an assist if you damage an enemy before a teammate kills them.
+* To receive an assist: 
+    * You must do at least 10.0 damage to the enemy. 
+    * The enemy must die within a maximum of 15 seconds after the damage done by you.
+* The player who makes the kill only receives the kill, not the assist.
+* A kill can provide assists for a maximum of 8 players who have recently dealt damage to the same enemy.
+* If more than 8 players have done damage to the same enemy, the system will take into account the most recent 8 validated players, not those who did the most damage.
+* Friendly fire, blocked damage or invalid damage in war will not be taken into account.
+* The scoreboard on the turf displays how many assists you have accumulated during the war.
+* Assists are included in the final war score, so helping teammates to get kills will count. 
+* The calculation formula for the final score is: **Kills + (0.5 × Assists) - Deaths.** 
+    * Every 2 assists is worth as much as 1 kill in the final score. 
+    * The final score is rounded to the nearest whole number.
+* The system of **Best Member** and **Worst Member** uses the same formula to determine the player.
 
 ### Drugs
 

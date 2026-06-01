@@ -13,20 +13,21 @@ Warurile sunt confruntarile dintre ganguri, in urma carora se poate castiga resp
 ## Warurile clasice
 
 ### Desfasurare si informatii
-
-* Durata unui war este de 30 de minute, iar numarul maxim de war-uri ce se pot desfasura pe zi intr-un gang este de 4.
+* Warurile se desfasoara doar 3 zile pe saptamana, si anume: **Luni, Marti si Miercuri**.
+* Durata unui war este de 20 de minute, iar numarul maxim de war-uri ce se pot desfasura pe zi intr-un gang este de 6.
 * Pe toata durata unui war, membrii unui gang au datoria de a ucide cat mai multi adversari sau de a domina zona pentru a-si indeplini scopul, acela de a castiga teritoriul pentru care se lupta.
 * Fiecare war se desfasoara in alt virtual world decat cel in care se afla ceilalti jucatori pentru ca warurile sa nu fie influentate.
 * Gangsterii reusesc sa-si anihileze adversarii folosindu-se de arme precum: Desert Eagle (Deagle), M4, AK47, Rifle, TEC-9 si Combat Shotgun.
 * Odata intrati pe teritoriul de razboi cu masina gangului din care provin, gangsterii au la dispozitie 10 secunde sa-si pozitioneze masinile favorabil, urmand ca dupa aceste 10 secunde sa fie dati jos automat din vehicul in cazul in care nu au coborat deja.
 * De asemenea, odata intrat pe turf, un gangster nu mai poate intra sub niciun fel in vehicul.
-* Un razboi de 30 de minute se desfasoara de-a lungul a 15 runde.
+* Un razboi de 20 de minute se desfasoara de-a lungul a 11 runde, iar fiecare runda dureaza **109 secunde**.
 * O data ce un gangster paraseste turful, acesta va fi considerat inca pe turf pentru cateva secunde.
 * Pentru ca un gang sa castige warul, acesta trebuie sa domine cel putin 8 runde.
 * Pentru a castiga o runda, gangul trebuie sa obtina un punctaj mai mare decat al celuilalt, in runda curenta.
 * In cazul in care ambele ganguri reusesc sa obtina un punctaj egal, gangul care apara teritoriul va castiga runda.
 * La sfarsitul fiecarui razboi se calculeaza scorul celui mai bun gangster din echipa castigatorilor si celui mai slab jucator din echipa invinsilor.
-* Warurile au loc pe serverele B-Zone RPG in fiecare luni, marti, miercuri, joi si vineri intre orele 20:00-22:00. in timpul verii, warurile se poarta intr-un interval stabilit in urma unui sondaj pe website.
+* Warurile au loc pe serverele B-Zone RPG in fiecare luni, marti, miercuri, joi si vineri intre orele 20:00-22:00.
+    * In timpul verii, warurile se poarta intr-un interval stabilit in urma unui sondaj pe website.
 * Atunci cand un gang are un razboi, membrii respectivelor ganguri vor vedea pe harta jocului teritoriul pentru care se tine razboiu, osciland intre culoarea gangului ofensiv si culoarea gangului defensiv (pentru vizualizarea teritoriilor se foloseste comanda /turfs).
 * In timpul razboiului pot fi folosite numai vehicule personale sau detinute de mafie.
     * **Exceptie:** Forklift, Journey, Mr.Whoopee, Coach, Hotdog, Packer, Bus, DFT-30, Dune, Tanker, Petrol Trailer/Article Trailer, Trashmaster, Barracks, Roadtrain, Linerunner, Flatbed si Enforcer.
@@ -53,6 +54,22 @@ Warurile sunt confruntarile dintre ganguri, in urma carora se poate castiga resp
 * Rang 4: Comanda disponibila este /order 4 si ofera armele Deagle, M4, Tec9, Combat Shotgun si Rifle.
 
 *Nota: Comanda **/order** este accesibila numai in interiorul HQ-ului, casei si HQ-ului de clan.*
+
+### Assist-urile
+* Poti primi un assist daca faci damage unui inamic inainte ca un coechipier sa il omoare.
+* Pentru a primi un assist:
+    * Trebuie sa faci cel putin 10.0 damage inamicului.
+    * Inamicul trebuie sa moara in maximum 15 secunde dupa damage-ul facut de tine.
+* Jucatorul care face killul primeste doar killul, nu si assist.
+* Un kill poate oferi assisturi pentru maximum 8 jucatori care au facut recent damage aceluiasi inamic.
+* Daca mai mult de 8 jucatori au facut damage aceluiasi inamic, sistemul va lua in calcul cei mai recenti 8 jucatori validati, nu cei care au facut cel mai mare damage.
+* Friendly fire, damage blocat sau damage invalid in war nu va fi luat in calcul.
+* Scoreboard-ul de pe turf afiseaza cate assisturi ai acumulat in timpul warului.
+* ​Assisturile sunt incluse in scorul final de war, astfel incat ajutorul oferit coechipierilor pentru a obtine killuri va conta.
+    * Formula de calcul pentru scorul final este: **Kills + (0.5 × Assists) - Deaths.**
+    * La fiecare 2 assisturi valoreaza cat 1 kill in scorul final.
+    * Scorul final este rotunjit la cel mai apropiat numar intreg.
+* Sistemul de **Best Member** si **Worst Member** foloseste aceiasi formula de determinare a jucatorului.
 
 ### Droguri
 
