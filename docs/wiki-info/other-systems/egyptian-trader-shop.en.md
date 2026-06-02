@@ -241,10 +241,10 @@ There are 4 rarities of Diamond/Onyx skins:
 <div style="flex:1 1 calc(33.333% - 30px); text-align:center;"> 
 <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Hard Worker</h3> 
   <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
-  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
-  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
-  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
-  <p style="margin:2px 0;">5% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">10% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">15% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">20% chance to receive double skill points at the job.</p> 
+  <p style="margin:2px 0;">25% chance to receive double skill points at the job.</p> 
   <p style="margin-top:6px;"><b>Note:</b> The bonus is not valid for the jobs: Fisherman, Farmer, Detective, Lawyer and Pickpocket.</p> 
 </div> 
 

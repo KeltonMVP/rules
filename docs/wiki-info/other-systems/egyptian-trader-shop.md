@@ -243,10 +243,10 @@ Exista 4 raritati ale skinurilor Diamond/Onyx:
   <div style="flex:1 1 calc(33.333% - 30px); text-align:center;">
     <h3 style="color:rgb(165,42,42); margin-bottom:8px; text-decoration:underline;">The Hard Worker</h3>
     <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
-    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
-    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
-    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
-    <p style="margin:2px 0;">5% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">10% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">15% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">20% sansa de a primi dublu puncte de skill la job.</p>
+    <p style="margin:2px 0;">25% sansa de a primi dublu puncte de skill la job.</p>
     <p style="margin-top:6px;"><b>Nota:</b> Bonusul nu este valabil la joburile:Pescar, Fermier, Detectiv, Avocat şi Hoţ de Buzunare.</p>
   </div>
 

@@ -57,7 +57,7 @@ Pentru a incepe tentativa de jaf la un ATM, jucatorul trebuie sa indeplineasca t
 * Jucatorul are 90 de secunde pentru a ridica sacul de bani.
 * Daca nu ridica sacul in acest interval → prada expira si jaful este considerat esuat.
 * La colectare:
-    * Jucatorul primeste Wanted pentru jaf.
+    * Jucatorul primeste Wanted 4 pentru jaf (fara drept de predare).
     * ATM-ul devine dezactivat pentru un cooldown setat (implicit 180 s) — in aceasta perioada nu poate fi jefuit sau folosit pentru operatiuni bancare.
     * Dupa expirarea cooldown-ului, ATM-ul revine la starea normala.
 

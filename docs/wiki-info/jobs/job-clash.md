@@ -27,6 +27,7 @@ După fiecare cursă de succes, vei primi un mesaj de confirmare arătând curse
 
 ## Informatii Suplimentare
 - Job Clash poate rula in acelasi timp cu Job of the Day (ambele pot fi active impreuna).
+- Job-urile eligibile pentru a fi alese sunt: **Transporter, Drugs Dealer, Car Jacker, Car Mechanic, Arms Dealer, Archeologist, Electrician, Quarry Worker, Lumberjack, Miner, Garbage Man, Fisherman, Trucker, Chemist si Pompier.**
 - Doar cursele de succes completate la Clash Job-ul activ conteaza catre clasament. Cursele de la alte job-uri nu vor fi inregistrate pentru Job Clash.
 - Daca doi sau mai multi jucatori termina cu acelasi numar de curse, pozitia mai inalta va fi acordata jucatorului mai vechi.
 - Castigatorii vor primi recompensele chiar daca sunt offline la miezul noptii.

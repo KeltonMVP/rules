@@ -787,8 +787,8 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
-<div><b>2026 Easter B-Pass</b> - awarded to players who have completed the quest on Easter in 2026.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Easter_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Easter B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
 </div>
 
 #### Custom Badges
