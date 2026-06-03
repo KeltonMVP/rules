@@ -1262,21 +1262,3 @@ Subleaders can use the <span style="color:var(--pink);">weekly leave</span> to t
 
 !!! example "Info note"
 	A member is considered present at a war if they have at least 30 seconds on the turf or a minimum of 3 kills/deaths in total.
-
-#### <span style="color:#3baad5;">War Seconds</span>
-
-<span style="color:var(--pink);">8.6.1</span> Gang Leaders can set the time limit for attendance at gang wars according to the following formula:
-
-- for wars in the gang's city, the limit can be set between <span style="color:var(--green);">340 - 540 seconds.</span>
-- for wars in other cities, the limit can be set between <span style="color:var(--green);">200 - 400 seconds.</span>
-
-<span style="color:var(--pink);">8.6.2</span> The Leader can decide not to consider seconds for a particular war day, requiring <span style="color:var(--pink);">30 seconds per turf for attendance.</span>
-
-!!! danger "Important"
-	  In case of abuses related to this rule, a <span style="color:red;">Leader Warn</span> will be issued directly. Faction managers (admins 4+) can request evidence from the Leader to demonstrate that they have announced the number of seconds.
-
-!!! example "Info note"
-	  - the rule aims to impose a reasonable interval of seconds, thus a Leader cannot impose an exaggerated number of seconds.
-    - the most important part of this rule is that if the Leader chooses NOT to add seconds for a war day, ONLY 30 seconds per turf are required to be considered present.
-    - the rule allows for flexible adjustment of seconds depending on the war/day of war.
-    - the rule will require you to provide evidence when announcing the number of seconds for a war or a war day (preferably on /fmotd).

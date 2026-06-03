@@ -370,6 +370,27 @@ Cand gangul are <span style="color:var(--green);">1 war:</span>
 - la 2 invoiri in zile consecutive (Miercuri-Luni) conducerea factiunii isi rezerva dreptul de a respinge invoirea.
 - invoirile facute in timpul warurilor vor fi respinse.
 
+!!! example "Nota informativa"
+	Un membru este considerat prezent la war daca are un minim de 40 de secunde pe turf sau minim 3 omoruri/decese in total.
+
+### Secundele la Warurile Obligatorii
+
+<span style="color:var(--pink);">10.5.1</span> Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula:
+
+- pentru warurile din orasul gangului limita poate fi impusa intre <span style="color:var(--green);">340 - 540 secunde.</span>
+- pentru warurile din celelalte orase limita poate fi impusa intre <span style="color:var(--green);">200 - 400 secunde.</span>
+
+<span style="color:var(--pink);">10.5.2</span> Liderul poate decide sa nu tina cont de secunde pentru o anumita zi de war, fiind necesare <span style="color:var(--pink);">40 de secunde pe turf pentru prezenta.</span>
+
+!!! danger "Important"
+	In cazul in care exista abuzuri ce tin de aceasta regula se va acorda direct <span style="color:red;">Leader Warn.</span> Managerii de factiuni (adminii 4+) pot solicita dovezi Liderului prin care sa demonstreaza ca a anuntat numarul de secunde.
+
+!!! example "Nota informativa"
+	- regula doreste sa impuna un interval de secunde decent, astfel un Lider nu poate impune un numar exagerat de secunde.
+	- partea cea mai importanta a acestei reguli este faptul ca in cazul in care Liderul doreste sa NU adauge secunde pentru o zi de war sunt necesare DOAR 40 de secunde pe turf pentru a putea fi considerat prezent.
+	- regula permite o modificare flexibila a secundelor in functie de war/zi de war.
+	- regula va obliga sa faceti dovezi atunci cand anuntati numarul de secunde pentru un war sau pentru o zi de war (de preferat sa se faca pe /fmotd).
+
 ## 11. Altele
 
 ### Statutul de Tester
