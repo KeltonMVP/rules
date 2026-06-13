@@ -713,7 +713,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 - Using NOS - <span style="color:var(--green);">150,000$</span>
 - Exceeding legal speed between 50-100 km/h - pay fine to the police officer in-game
 - Exceeding legal speed over 100 km/h - pay fine to the police officer in-game
-- Headlights off - <span style="color:var(--green);">70,000$</span>
+- Headlights off (between the hours of 20:00 and 08:00) - <span style="color:var(--green);">70,000$</span>
 - Using the [<span style="color:var(--pink);">/FVR</span>] command without prior announcement - <span style="color:var(--green);">100,000$</span> + <span style="color:orange;">Verbal Warning</span> first offense, <span style="color:red;">Faction Warn</span> if repeated
 - Excessive use of Caps Lock on [<span style="color:var(--pink);">/r</span>] or any chat during an activity/training - <span style="color:var(--green);">130,000$</span>
 - Disobeying instructions of a higher rank during activities/training - <span style="color:var(--green);">150,000$</span>

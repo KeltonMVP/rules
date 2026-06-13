@@ -712,7 +712,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 - Folosirea de NOS - <span style="color:var(--green);">150,000$</span>
 - Depasire viteza legala intre 50-100 km/h - platiti amenda politistului in joc
 - Depasire viteza legala peste 100 km/h  - platiti amenda politistului in joc
-- Headlights off (faruri oprite) - <span style="color:var(--green);">70,000$</span>
+- Headlights off (faruri oprite intre orele 20:00 - 08:00) - <span style="color:var(--green);">70,000$</span>
 - Folosirea comenzii [<span style="color:var(--pink);">/FVR</span>] fara a se anunta in prealabil - <span style="color:var(--green);">100,000$</span> + <span style="color:orange;">Avertisment Verbal</span> prima abatatere, <span style="color:red;">Faction Warn</span> daca se repeta
 - Folosirea Caps Lock-ului intr-un mod excesiv pe [<span style="color:var(--pink);">/r</span>] sau pe orice chat la o activitate/antrenament - <span style="color:var(--green);">130,000$</span>
 - Nerespectarea indicatiilor unui rang superior la activitati/antrenamente - <span style="color:var(--green);">150,000$</span>
