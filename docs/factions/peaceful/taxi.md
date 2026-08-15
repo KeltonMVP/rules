@@ -116,7 +116,7 @@ Timpul de AFK nu se aduna daca se pune de mai multe ori AFK, atentie totusi sa n
 !!! danger "Important"
     Nerespectarea tarifelor de mai sus este sanctionata cu <span style="color:red;">Avertisment Verbal</span> la prima abatere sau cu <span style="color:red;">Faction Warn</span> daca se repeta.
 
-    Daca aveti o comanda activa (clientul se afla in taxi) care se desfasoara in ultima parte a zilei (exemplu: 19:58) si se continua in prima parte a seriii (exemplu: 20:05), il taxati in continuare cu tariful de zi (/fare 30). Regula se aplica si pentru trecerea de la tariful de noapte la tariful de zi. In caz de reclamatie aveti nevoie de dovezi (<span style="color:red;">sanctiune: Faction Warn</span>).
+    Daca aveti o comanda activa (clientul se afla in taxi) care se desfasoara in ultima parte a zilei (exemplu: 19:58) si se continua in prima parte a seriii (exemplu: 20:05), il taxati in continuare cu tariful de zi (/fare 35). Regula se aplica si pentru trecerea de la tariful de noapte la tariful de zi. In caz de reclamatie aveti nevoie de dovezi (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.1</span> Este interzis sa folositi alt [<span style="color:var(--pink);">/fare</span>]. Schimbati-l in maxim 1km de la pornire daca l-ati setat gresit (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> daca se repeta).
 

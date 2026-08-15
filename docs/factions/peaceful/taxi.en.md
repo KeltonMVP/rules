@@ -116,7 +116,7 @@ The AFK time does not accumulate if you go AFK multiple times, but be careful no
 !!! danger "Important"
     Failure to comply with the above fares will result in a <span style="color:red;">Verbal Warning</span> for the first offense or a <span style="color:red;">Faction Warn</span> if repeated.
 
-    If you have an active command (the client is in the taxi) that spans the transition from day to night (e.g., 19:58 to 20:05), you should continue to charge them with the daytime fare (/fare 30). The same rule applies when transitioning from nighttime fare to daytime fare. In case of a complaint, you will need evidence. (<span style="color:red;">sanction: Faction Warn</span>).
+    If you have an active command (the client is in the taxi) that spans the transition from day to night (e.g., 19:58 to 20:05), you should continue to charge them with the daytime fare (/fare 35). The same rule applies when transitioning from nighttime fare to daytime fare. In case of a complaint, you will need evidence. (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">4.1</span> It is forbidden to use another [<span style="color:var(--pink);">/fare</span>]. Change it within 1km of starting if set incorrectly (<span style="color:red;">Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> if repeated).
 
