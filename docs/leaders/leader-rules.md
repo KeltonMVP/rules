@@ -1261,4 +1261,4 @@ Subliderii pot folosi <span style="color:var(--pink);">invoirea saptamanala</spa
 - daca sunt mai mult de 5 invoiri primele 5 au prioritate. In cazul in care un membru care are invoire a fost prezent la toate warurile din ziua respectiva, invoirea lui va fi respinsa.
 
 !!! example "Nota informativa"
-	Un membru este considerat prezent la war daca are un minim de 30 de secunde pe turf sau minim 3 omoruri/decese in total.
+	Un membru este considerat prezent la war daca are un minim de 40 de secunde pe turf sau minim 3 omoruri/decese in total.

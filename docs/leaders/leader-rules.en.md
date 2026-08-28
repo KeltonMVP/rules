@@ -1261,4 +1261,4 @@ Subleaders can use the <span style="color:var(--pink);">weekly leave</span> to t
 - if there are more than 5 absence requests, the first 5 will have priority. If a member who has an absence request has been present at all wars on that day, their request will be rejected.
 
 !!! example "Info note"
-	A member is considered present at a war if they have at least 30 seconds on the turf or a minimum of 3 kills/deaths in total.
+	A member is considered present at a war if they have at least 40 seconds on the turf or a minimum of 3 kills/deaths in total.
