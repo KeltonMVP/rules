@@ -168,6 +168,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - The buyer must not be a SoA member.
 - At least 10 minutes must have passed since the last valid transaction with that buyer.
 
+<span style="color:var(--pink);">10.4</span> Selling improved drugs is prohibited for members below rank 4 (<span style="color:red;">sanction: Faction Warn</span> for the first offense, <span style="color:red;">dismissal</span> if repeated).
+
 ## 11. Import/Export System
 
 <span style="color:var(--pink);">11.1</span> The Import/Export system resets weekly on Sunday at 23:00.

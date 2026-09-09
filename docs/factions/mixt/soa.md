@@ -168,6 +168,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - Cumparatorul sa nu fie membru SoA.
 - Sa fi trecut minim 10 minute de la ultima tranzactie valida cu acel cumparator.
 
+<span style="color:var(--pink);">10.4</span> Este interzisa vanzarea drogurilor imbunatatite de membrii cu rank mai mic de 4 (<span style="color:red;">sanctiune: Faction Warn</span> prima abatere, <span style="color:red;">demitere</span> daca se repeta).
+
 ## 11. Sistemul de Import/Export
 
 <span style="color:var(--pink);">11.1</span> Sistemul de Import/Export se va reseta saptamanal Duminica la ora 23:00.
