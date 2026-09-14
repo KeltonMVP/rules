@@ -218,16 +218,16 @@ Amplasamentul acestuia este pe centrul hartii, ceea ce-l face achizitia perfecta
     * **Securitate:** un Bunker cu aceasta imbunatatire nu va putea fi atacat de catre rivali.
     * **Staff:** un Bunker cu aceasta imbunatatire va consuma mai greu proviziile, deci va trebui aprovizionat mai rar, si va produce mai repede stoc, deci va aduce profit mai repede.
     * **Echipament:** un Bunker cu aceasta imbunatatire va consuma mai greu proviziile, deci va trebui aprovizionat mai rar, si va produce mai repede stoc, deci va aduce profit mai repede.
-    * **Supraveghere:** un Bunker cu aceasta imbunatatire va debloca comanda /mybunker, cu ajutorul careia puteti verifica in timp real:
-    * Proviziile si stock-ul din bunker.
-    * Procentajul de boost al bunker-ului pe care il detineti.
-    * Perioada in care se va termina boost-ul.
-    * Sursa de unde provine boost-ul pentru bunker.
+    * **Supraveghere:** un Bunker cu aceasta imbunatatire va debloca comanda **/mybunker**, cu ajutorul careia puteti verifica in timp real:
+        * Proviziile si stock-ul din bunker.
+        * Procentajul de boost al bunker-ului pe care il detineti.
+        * Perioada in care se va termina boost-ul.
+        * Sursa de unde provine boost-ul pentru bunker.
     * **Confort:** un Bunker cu aceasta imbunatatire (optionala) va adauga facilitati interioare buncarului. Odata achizitionat, ofera:
-    * Posibilitatea de vindecare in interiorul acestuia (membrii PD la datorie primesc si armura).
-    * Posibilitatea de a folosi comanda /sleep in interior.
-    * Posibilitatea de setare a bunker-ului ca locatie principala de spawn.
-* **Nota:** Beneficiile se aplica exclusiv ownerului buncarului. Jucatorii care patrund in alt buncar (ex. hitmani prin /ram) nu pot accesa aceste functii.
+        * Posibilitatea de vindecare in interiorul acestuia (membrii PD la datorie primesc si armura).
+        * Posibilitatea de a folosi comanda /sleep in interior.
+        * Posibilitatea de setare a bunker-ului ca locatie principala de spawn.
+* **Nota:** Beneficiile se aplica exclusiv ownerului bunker-ului. Jucatorii care patrund in alt bunker (ex. hitmani prin /ram) nu pot accesa aceste functii.
 * Imbunatatirile se pierd la schimbarea sau distrugerea Bunkerului.
 
 

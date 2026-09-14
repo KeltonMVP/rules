@@ -235,15 +235,14 @@ Its location is in the center of the map, which makes it the perfect purchase fo
     * **Staff:** a Bunker with this upgrade will consume supplies more slowly, so it will need to be resupplied less often, and will produce stock faster, so it will bring profit faster.
     * **Equipment:** a Bunker with this upgrade will consume supplies more slowly, so it will need to be resupplied less often, and will produce stock faster, so it will bring profit faster.
     * **Surveillance:** a Bunker with this upgrade will unlock the /mybunker command, with which you can check in real time:
-    * Supplies and stock in the bunker.
-    * The boost percentage of the bunker you own.
-    * The period when the boost will end.
-    * The source from which the bunker boost comes.
+        * Supplies and stock in the bunker.
+        * The boost percentage of the bunker you own.
+        * The period when the boost will end.
+        * The source from which the bunker boost comes.
     * **Comfort:** a Bunker with this upgrade (optional) will add interior facilities to the bunker. Once purchased, it offers:
-    * The possibility of healing inside it (on-duty PD members also receive armor).
-    * The possibility to use the /sleep command inside.
-    * The possibility to set the bunker as the main spawn location.
-
+        * The possibility of healing inside it (on-duty PD members also receive armor).
+        * The possibility to use the /sleep command inside.
+        * The possibility to set the bunker as the main spawn location.
 * **Note:** Benefits apply exclusively to the bunker owner. Players who enter another bunker (e.g., hitmen through /ram) cannot access these functions.
 * Upgrades are lost when changing or destroying the Bunker.
 

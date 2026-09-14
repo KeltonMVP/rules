@@ -76,113 +76,113 @@ If multiple players try to park manually in the same parking lot and there are n
 
 ## Earnings based on route for each skill
 
-* **Rockshore East LV - 9.8 KM (3 parking spaces)**
-    * **Skill 1:** $868 - Minimum round trip time 268 seconds.
-    * **Skill 2:** $883 - Minimum round trip time 268 seconds.
-    * **Skill 3:** $849 - Minimum round trip time 238 seconds.
-    * **Skill 4:** $958 - Minimum round trip time 238 seconds.
-    * **Skill 5:** $890 - Minimum round trip time 188 seconds.
-    * **Skill 6:** $924 - Minimum round trip time 188 seconds.
-    * **Skill 7:** $968 - Minimum round trip time 188 seconds.
-    * **Skill 8:** $1,002 - Minimum round trip time 188 seconds.
-    * **Skill 9:** $1,055 - Minimum round trip time 188 seconds.
-    * **Skill 10:** $1,096 - Minimum round trip time 188 seconds.
+* **Rockshore East LV - 9.8 KM (3 parking places)**
+    * **Skill 1:** $1,960 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 2:** $2,156 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 3:** $2,352 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 4:** $2,548 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 5:** $2,744 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 6:** $2,940 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 7:** $3,136 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 8:** $3,332 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 9:** $3,528 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
+    * **Skill 10:** $3,724 — Minimum time: **Linerunner:** 143 seconds | **Tanker:** 130 seconds | **Roadtrain:** 111 seconds.
 
-* **Creek LV - 12.4 KM (8 parking spaces)**
-    * **Skill 1:** $1,062 - Minimum round trip time 328 seconds.
-    * **Skill 2:** $1,081 - Minimum round trip time 328 seconds.
-    * **Skill 3:** $1,141 - Minimum round trip time 320 seconds.
-    * **Skill 4:** $1,288 - Minimum round trip time 320 seconds.
-    * **Skill 5:** $1,316 - Minimum round trip time 278 seconds.
-    * **Skill 6:** $1,366 - Minimum round trip time 278 seconds.
-    * **Skill 7:** $1,431 - Minimum round trip time 278 seconds.
-    * **Skill 8:** $1,482 - Minimum round trip time 278 seconds.
-    * **Skill 9:** $1,561 - Minimum round trip time 278 seconds.
-    * **Skill 10:** $1,621 - Minimum round trip time 278 seconds.
+* **Creek LV - 12.4 KM (8 parking places)**
+    * **Skill 1:** $2,480 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 2:** $2,728 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 3:** $2,976 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 4:** $3,224 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 5:** $3,472 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 6:** $3,720 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 7:** $3,968 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 8:** $4,216 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 9:** $4,464 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
+    * **Skill 10:** $4,712 — Minimum time: **Linerunner:** 196 seconds | **Tanker:** 179 seconds | **Roadtrain:** 154 seconds.
 
-* **Prickle Pine LV - 9.7 KM (11 parking spaces)**
-    * **Skill 1:** $1,062 - Minimum round trip time XXX seconds.
-    * **Skill 2:** $1,081 - Minimum round trip time XXX seconds.
-    * **Skill 3:** $1,141 - Minimum round trip time XXX seconds.
-    * **Skill 4:** $1,288 - Minimum round trip time XXX seconds.
-    * **Skill 5:** $1,316 - Minimum round trip time XXX seconds.
-    * **Skill 6:** $1,366 - Minimum round trip time XXX seconds.
-    * **Skill 7:** $1,431 - Minimum round trip time XXX seconds.
-    * **Skill 8:** $1,482 - Minimum round trip time XXX seconds.
-    * **Skill 9:** $1,561 - Minimum round trip time XXX seconds.
-    * **Skill 10:** $1,621 - Minimum round trip time XXX seconds.
+* **Prickle Pine LV - 9.7 KM (11 parking places)**
+    * **Skill 1:** $1,940 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 2:** $2,134 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 3:** $2,328 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 4:** $2,522 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 5:** $2,716 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 6:** $2,910 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 7:** $3,104 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 8:** $3,298 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 9:** $3,492 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
+    * **Skill 10:** $3,686 — Minimum time: **Linerunner:** 179 seconds | **Tanker:** 164 seconds | **Roadtrain:** 141 seconds.
 
-* **LVA Freight Depot LV - 5.6 KM (9 parking spaces)**
-    * **Skill 1:** $1,062 - Minimum round trip time XXX seconds.
-    * **Skill 2:** $1,081 - Minimum round trip time XXX seconds.
-    * **Skill 3:** $1,141 - Minimum round trip time XXX seconds.
-    * **Skill 4:** $1,288 - Minimum round trip time XXX seconds.
-    * **Skill 5:** $1,316 - Minimum round trip time XXX seconds.
-    * **Skill 6:** $1,366 - Minimum round trip time XXX seconds.
-    * **Skill 7:** $1,431 - Minimum round trip time XXX seconds.
-    * **Skill 8:** $1,482 - Minimum round trip time XXX seconds.
-    * **Skill 9:** $1,561 - Minimum round trip time XXX seconds.
-    * **Skill 10:** $1,621 - Minimum round trip time XXX seconds.
+* **LVA Freight Depot LV - 5.6 KM (9 parking places)**
+    * **Skill 1:** $1,120 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 2:** $1,232 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 3:** $1,344 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 4:** $1,456 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 5:** $1,568 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 6:** $1,680 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 7:** $1,792 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 8:** $1,904 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 9:** $2,016 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
+    * **Skill 10:** $2,128 — Minimum time: **Linerunner:** 140 seconds | **Tanker:** 127 seconds | **Roadtrain:** 107 seconds.
 
-* **Whitewood Estates LV - 7.2 KM (6 parking spaces)**
-    * **Skill 1:** $1,062 - Minimum round trip time XXX seconds.
-    * **Skill 2:** $1,081 - Minimum round trip time XXX seconds.
-    * **Skill 3:** $1,141 - Minimum round trip time XXX seconds.
-    * **Skill 4:** $1,288 - Minimum round trip time XXX seconds.
-    * **Skill 5:** $1,316 - Minimum round trip time XXX seconds.
-    * **Skill 6:** $1,366 - Minimum round trip time XXX seconds.
-    * **Skill 7:** $1,431 - Minimum round trip time XXX seconds.
-    * **Skill 8:** $1,482 - Minimum round trip time XXX seconds.
-    * **Skill 9:** $1,561 - Minimum round trip time XXX seconds.
-    * **Skill 10:** $1,621 - Minimum round trip time XXX seconds.
+* **Whitewood Estates LV - 7.2 KM (6 parking places)**
+    * **Skill 1:** $1,440 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 2:** $1,584 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 3:** $1,728 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 4:** $1,872 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 5:** $2,016 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 6:** $2,160 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 7:** $2,304 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 8:** $2,448 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 9:** $2,592 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
+    * **Skill 10:** $2,736 — Minimum time: **Linerunner:** 132 seconds | **Tanker:** 120 seconds | **Roadtrain:** 102 seconds.
 
-* **Whetstone SF - 10.3 KM (5 parking spaces)**
-    * **Skill 1:** $1,036 - Minimum round trip time 320 seconds.
-    * **Skill 2:** $1,055 - Minimum round trip time 320 seconds.
-    * **Skill 3:** $984 - Minimum round trip time 276 seconds.
-    * **Skill 4:** $1,111 - Minimum round trip time 276 seconds.
-    * **Skill 5:** $1,231 - Minimum round trip time 260 seconds.
-    * **Skill 6:** $1,278 - Minimum round trip time 260 seconds.
-    * **Skill 7:** $1,339 - Minimum round trip time 260 seconds.
-    * **Skill 8:** $1,386 - Minimum round trip time 260 seconds.
-    * **Skill 9:** $1,460 - Minimum round trip time 260 seconds.
-    * **Skill 10:** $1,516 - Minimum round trip time 260 seconds.
+* **Whetstone SF - 10.3 KM (5 parking places)**
+    * **Skill 1:** $2,060 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 2:** $2,266 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 3:** $2,472 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 4:** $2,678 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 5:** $2,884 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 6:** $3,090 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 7:** $3,296 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 8:** $3,502 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 9:** $3,708 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
+    * **Skill 10:** $3,914 — Minimum time: **Linerunner:** 188 seconds | **Tanker:** 172 seconds | **Roadtrain:** 149 seconds.
 
-* **Santa Flora SF - 8.6 KM (7 parking spaces)**
-    * **Skill 1:** $1,062 - Minimum round trip time XXX seconds.
-    * **Skill 2:** $1,081 - Minimum round trip time XXX seconds.
-    * **Skill 3:** $1,141 - Minimum round trip time XXX seconds.
-    * **Skill 4:** $1,288 - Minimum round trip time XXX seconds.
-    * **Skill 5:** $1,316 - Minimum round trip time XXX seconds.
-    * **Skill 6:** $1,366 - Minimum round trip time XXX seconds.
-    * **Skill 7:** $1,431 - Minimum round trip time XXX seconds.
-    * **Skill 8:** $1,482 - Minimum round trip time XXX seconds.
-    * **Skill 9:** $1,561 - Minimum round trip time XXX seconds.
-    * **Skill 10:** $1,621 - Minimum round trip time XXX seconds.
+* **Santa Flora SF - 8.6 KM (7 parking places)**
+    * **Skill 1:** $1,720 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 2:** $1,892 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 3:** $2,064 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 4:** $2,236 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 5:** $2,408 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 6:** $2,580 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 7:** $2,752 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 8:** $2,924 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 9:** $3,096 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
+    * **Skill 10:** $3,268 — Minimum time: **Linerunner:** 170 seconds | **Tanker:** 156 seconds | **Roadtrain:** 135 seconds.
 
-* **Bayside Marina SF - 10.6 KM (8 parking spaces)**
-    * **Skill 1:** $1,237 - Minimum round trip time 354 seconds.
-    * **Skill 2:** $1,259 - Minimum round trip time 382 seconds.
-    * **Skill 3:** $1,212 - Minimum round trip time 340 seconds.
-    * **Skill 4:** $1,369 - Minimum round trip time 340 seconds.
-    * **Skill 5:** $1,429 - Minimum round trip time 302 seconds.
-    * **Skill 6:** $1,484 - Minimum round trip time 302 seconds.
-    * **Skill 7:** $1,555 - Minimum round trip time 302 seconds.
-    * **Skill 8:** $1,610 - Minimum round trip time 302 seconds.
-    * **Skill 9:** $1,696 - Minimum round trip time 302 seconds.
-    * **Skill 10:** $1,761 - Minimum round trip time 302 seconds.
+* **Bayside Marina SF - 10.6 KM (8 parking places)**
+    * **Skill 1:** $2,120 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 2:** $2,332 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 3:** $2,544 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 4:** $2,756 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 5:** $2,968 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 6:** $3,180 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 7:** $3,392 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 8:** $3,604 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 9:** $3,816 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
+    * **Skill 10:** $4,028 — Minimum time: **Linerunner:** 216 seconds | **Tanker:** 198 seconds | **Roadtrain:** 170 seconds.
 
-* **Ocean Docks LS - 10.3 KM (9 parking spaces)**
-    * **Skill 1:** $1,134 - Minimum round trip time 350 seconds.
-    * **Skill 2:** $1,153 - Minimum round trip time 350 seconds.
-    * **Skill 3:** $1,162 - Minimum round trip time 326 seconds.
-    * **Skill 4:** $1,312 - Minimum round trip time 326 seconds.
-    * **Skill 5:** $1,515 - Minimum round trip time 320 seconds.
-    * **Skill 6:** $1,573 - Minimum round trip time 320 seconds.
-    * **Skill 7:** $1,648 - Minimum round trip time 320 seconds.
-    * **Skill 8:** $1,706 - Minimum round trip time 320 seconds.
-    * **Skill 9:** $1,797 - Minimum round trip time 320 seconds.
-    * **Skill 10:** $1,866 - Minimum round trip time 320 seconds.
+* **Ocean Docks LS - 10.3 KM (9 parking places)**
+    * **Skill 1:** $2,060 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 2:** $2,266 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 3:** $2,472 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 4:** $2,678 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 5:** $2,884 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 6:** $3,090 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 7:** $3,296 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 8:** $3,502 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 9:** $3,708 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
+    * **Skill 10:** $3,914 — Minimum time: **Linerunner:** 151 seconds | **Tanker:** 139 seconds | **Roadtrain:** 121 seconds.
 
 **Please note:**
 

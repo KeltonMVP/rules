@@ -77,112 +77,112 @@ Daca mai multi jucatori incearca sa parcheze manual in aceeasi parcare si nu mai
 ## Castiguri in functie de cursa pentru fiecare skill
 
 * **Rockshore East LV - 9.8 KM (3 locuri de parcare)**
-    * **Skill 1:** $868 - Timp minim dus-intors 268 secunde.
-    * **Skill 2:** $883 - Timp minim dus-intors 268 secunde.
-    * **Skill 3:** $849 - Timp minim dus-intors 238 secunde.
-    * **Skill 4:** $958 - Timp minim dus-intors 238 secunde.
-    * **Skill 5:** $890 - Timp minim dus-intors 188 secunde.
-    * **Skill 6:** $924 - Timp minim dus-intors 188 secunde.
-    * **Skill 7:** $968 - Timp minim dus-intors 188 secunde.
-    * **Skill 8:** $1,002 - Timp minim dus-intors 188 secunde.
-    * **Skill 9:** $1,055 - Timp minim dus-intors 188 secunde.
-    * **Skill 10:** $1,096 - Timp minim dus-intors 188 secunde.
+    * **Skill 1:** $1,960 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 2:** $2,156 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 3:** $2,352 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 4:** $2,548 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 5:** $2,744 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 6:** $2,940 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 7:** $3,136 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 8:** $3,332 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 9:** $3,528 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
+    * **Skill 10:** $3,724 — Timp minim: **Linerunner:** 143 secunde | **Tanker:** 130 secunde | **Roadtrain:** 111 secunde.
 
 * **Creek LV - 12.4 KM (8 locuri de parcare)**
-    * **Skill 1:** $1,062 - Timp minim dus-intors 328 secunde.
-    * **Skill 2:** $1,081 - Timp minim dus-intors 328 secunde.
-    * **Skill 3:** $1,141 - Timp minim dus-intors 320 secunde.
-    * **Skill 4:** $1,288 - Timp minim dus-intors 320 secunde.
-    * **Skill 5:** $1,316 - Timp minim dus-intors 278 secunde.
-    * **Skill 6:** $1,366 - Timp minim dus-intors 278 secunde.
-    * **Skill 7:** $1,431 - Timp minim dus-intors 278 secunde.
-    * **Skill 8:** $1,482 - Timp minim dus-intors 278 secunde.
-    * **Skill 9:** $1,561 - Timp minim dus-intors 278 secunde.
-    * **Skill 10:** $1,621 - Timp minim dus-intors 278 secunde.
-
+    * **Skill 1:** $2,480 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 2:** $2,728 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 3:** $2,976 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 4:** $3,224 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 5:** $3,472 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 6:** $3,720 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 7:** $3,968 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 8:** $4,216 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 9:** $4,464 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+    * **Skill 10:** $4,712 — Timp minim: **Linerunner:** 196 secunde | **Tanker:** 179 secunde | **Roadtrain:** 154 secunde.
+**
 * **Prickle Pine LV - 9.7 KM (11 locuri de parcare)**
-    * **Skill 1:** $1,062 - Timp minim dus-intors XXX secunde.
-    * **Skill 2:** $1,081 - Timp minim dus-intors XXX secunde.
-    * **Skill 3:** $1,141 - Timp minim dus-intors XXX secunde.
-    * **Skill 4:** $1,288 - Timp minim dus-intors XXX secunde.
-    * **Skill 5:** $1,316 - Timp minim dus-intors XXX secunde.
-    * **Skill 6:** $1,366 - Timp minim dus-intors XXX secunde.
-    * **Skill 7:** $1,431 - Timp minim dus-intors XXX secunde.
-    * **Skill 8:** $1,482 - Timp minim dus-intors XXX secunde.
-    * **Skill 9:** $1,561 - Timp minim dus-intors XXX secunde.
-    * **Skill 10:** $1,621 - Timp minim dus-intors XXX secunde.
+    * **Skill 1:** $1,940 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 2:** $2,134 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 3:** $2,328 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 4:** $2,522 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 5:** $2,716 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 6:** $2,910 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 7:** $3,104 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 8:** $3,298 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 9:** $3,492 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
+    * **Skill 10:** $3,686 — Timp minim: **Linerunner:** 179 secunde | **Tanker:** 164 secunde | **Roadtrain:** 141 secunde.
 
 * **LVA Freight Depot LV - 5.6 KM (9 locuri de parcare)**
-    * **Skill 1:** $1,062 - Timp minim dus-intors XXX secunde.
-    * **Skill 2:** $1,081 - Timp minim dus-intors XXX secunde.
-    * **Skill 3:** $1,141 - Timp minim dus-intors XXX secunde.
-    * **Skill 4:** $1,288 - Timp minim dus-intors XXX secunde.
-    * **Skill 5:** $1,316 - Timp minim dus-intors XXX secunde.
-    * **Skill 6:** $1,366 - Timp minim dus-intors XXX secunde.
-    * **Skill 7:** $1,431 - Timp minim dus-intors XXX secunde.
-    * **Skill 8:** $1,482 - Timp minim dus-intors XXX secunde.
-    * **Skill 9:** $1,561 - Timp minim dus-intors XXX secunde.
-    * **Skill 10:** $1,621 - Timp minim dus-intors XXX secunde.
+    * **Skill 1:** $1,120 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 2:** $1,232 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 3:** $1,344 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 4:** $1,456 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 5:** $1,568 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 6:** $1,680 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 7:** $1,792 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 8:** $1,904 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 9:** $2,016 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
+    * **Skill 10:** $2,128 — Timp minim: **Linerunner:** 140 secunde | **Tanker:** 127 secunde | **Roadtrain:** 107 secunde.
 
 * **Whitewood Estates LV - 7.2 KM (6 locuri de parcare)**
-    * **Skill 1:** $1,062 - Timp minim dus-intors XXX secunde.
-    * **Skill 2:** $1,081 - Timp minim dus-intors XXX secunde.
-    * **Skill 3:** $1,141 - Timp minim dus-intors XXX secunde.
-    * **Skill 4:** $1,288 - Timp minim dus-intors XXX secunde.
-    * **Skill 5:** $1,316 - Timp minim dus-intors XXX secunde.
-    * **Skill 6:** $1,366 - Timp minim dus-intors XXX secunde.
-    * **Skill 7:** $1,431 - Timp minim dus-intors XXX secunde.
-    * **Skill 8:** $1,482 - Timp minim dus-intors XXX secunde.
-    * **Skill 9:** $1,561 - Timp minim dus-intors XXX secunde.
-    * **Skill 10:** $1,621 - Timp minim dus-intors XXX secunde.
+    * **Skill 1:** $1,440 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 2:** $1,584 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 3:** $1,728 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 4:** $1,872 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 5:** $2,016 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 6:** $2,160 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 7:** $2,304 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 8:** $2,448 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 9:** $2,592 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
+    * **Skill 10:** $2,736 — Timp minim: **Linerunner:** 132 secunde | **Tanker:** 120 secunde | **Roadtrain:** 102 secunde.
 
 * **Whetstone SF - 10.3 KM (5 locuri de parcare)**
-    * **Skill 1:** $1,036 - Timp minim dus-intors 320 secunde.
-    * **Skill 2:** $1,055 - Timp minim dus-intors 320 secunde.
-    * **Skill 3:** $984 - Timp minim dus-intors 276 secunde.
-    * **Skill 4:** $1,111 - Timp minim dus-intors 276 secunde.
-    * **Skill 5:** $1,231 - Timp minim dus-intors 260 secunde.
-    * **Skill 6:** $1,278 - Timp minim dus-intors 260 secunde.
-    * **Skill 7:** $1,339 - Timp minim dus-intors 260 secunde.
-    * **Skill 8:** $1,386 - Timp minim dus-intors 260 secunde.
-    * **Skill 9:** $1,460 - Timp minim dus-intors 260 secunde.
-    * **Skill 10:** $1,516 - Timp minim dus-intors 260 secunde.
+    * **Skill 1:** $2,060 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 2:** $2,266 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 3:** $2,472 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 4:** $2,678 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 5:** $2,884 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 6:** $3,090 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 7:** $3,296 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 8:** $3,502 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 9:** $3,708 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
+    * **Skill 10:** $3,914 — Timp minim: **Linerunner:** 188 secunde | **Tanker:** 172 secunde | **Roadtrain:** 149 secunde.
 
 * **Santa Flora SF - 8.6 KM (7 locuri de parcare)**
-    * **Skill 1:** $1,062 - Timp minim dus-intors XXX secunde.
-    * **Skill 2:** $1,081 - Timp minim dus-intors XXX secunde.
-    * **Skill 3:** $1,141 - Timp minim dus-intors XXX secunde.
-    * **Skill 4:** $1,288 - Timp minim dus-intors XXX secunde.
-    * **Skill 5:** $1,316 - Timp minim dus-intors XXX secunde.
-    * **Skill 6:** $1,366 - Timp minim dus-intors XXX secunde.
-    * **Skill 7:** $1,431 - Timp minim dus-intors XXX secunde.
-    * **Skill 8:** $1,482 - Timp minim dus-intors XXX secunde.
-    * **Skill 9:** $1,561 - Timp minim dus-intors XXX secunde.
-    * **Skill 10:** $1,621 - Timp minim dus-intors XXX secunde.
+    * **Skill 1:** $1,720 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 2:** $1,892 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 3:** $2,064 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 4:** $2,236 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 5:** $2,408 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 6:** $2,580 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 7:** $2,752 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 8:** $2,924 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 9:** $3,096 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
+    * **Skill 10:** $3,268 — Timp minim: **Linerunner:** 170 secunde | **Tanker:** 156 secunde | **Roadtrain:** 135 secunde.
 
 * **Bayside Marina SF - 10.6 KM (8 locuri de parcare)**
-    * **Skill 1:** $1,237 - Timp minim dus-intors 354 secunde.
-    * **Skill 2:** $1,259 - Timp minim dus-intors 382 secunde.
-    * **Skill 3:** $1,212 - Timp minim dus-intors 340 secunde.
-    * **Skill 4:** $1,369 - Timp minim dus-intors 340 secunde.
-    * **Skill 5:** $1,429 - Timp minim dus-intors 302 secunde.
-    * **Skill 6:** $1,484 - Timp minim dus-intors 302 secunde.
-    * **Skill 7:** $1,555 - Timp minim dus-intors 302 secunde.
-    * **Skill 8:** $1,610 - Timp minim dus-intors 302 secunde.
-    * **Skill 9:** $1,696 - Timp minim dus-intors 302 secunde.
-    * **Skill 10:** $1,761 - Timp minim dus-intors 302 secunde.
+    * **Skill 1:** $2,120 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 2:** $2,332 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 3:** $2,544 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 4:** $2,756 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 5:** $2,968 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 6:** $3,180 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 7:** $3,392 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 8:** $3,604 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 9:** $3,816 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
+    * **Skill 10:** $4,028 — Timp minim: **Linerunner:** 216 secunde | **Tanker:** 198 secunde | **Roadtrain:** 170 secunde.
 
 * **Ocean Docks LS - 10.3 KM (9 locuri de parcare)**
-    * **Skill 1:** $1,134 - Timp minim dus-intors 350 secunde.
-    * **Skill 2:** $1,153 - Timp minim dus-intors 350 secunde.
-    * **Skill 3:** $1,162 - Timp minim dus-intors 326 secunde.
-    * **Skill 4:** $1,312 - Timp minim dus-intors 326 secunde.
-    * **Skill 5:** $1,515 - Timp minim dus-intors 320 secunde.
-    * **Skill 6:** $1,573 - Timp minim dus-intors 320 secunde.
-    * **Skill 7:** $1,648 - Timp minim dus-intors 320 secunde.
-    * **Skill 8:** $1,706 - Timp minim dus-intors 320 secunde.
-    * **Skill 9:** $1,797 - Timp minim dus-intors 320 secunde.
-    * **Skill 10:** $1,866 - Timp minim dus-intors 320 secunde.
+    * **Skill 1:** $2,060 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 2:** $2,266 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 3:** $2,472 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 4:** $2,678 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 5:** $2,884 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 6:** $3,090 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 7:** $3,296 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 8:** $3,502 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 9:** $3,708 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
+    * **Skill 10:** $3,914 — Timp minim: **Linerunner:** 151 secunde | **Tanker:** 139 secunde | **Roadtrain:** 121 secunde.
 
 **De retinut:**
 
@@ -202,7 +202,7 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 * Skill 8 la Skill 9: 350 de curse. (1550 total)
 * Skill 9 la Skill 10: 350 de curse. (1900 total)
 
-*Nota: O cursa reprezinta parcurgerea drumului dus-intors.*
+*Nota: O cursa reprezinta parcurgerea drumului dus-intor secunde.*
 
 ## Vehicule in functie de skill
 
