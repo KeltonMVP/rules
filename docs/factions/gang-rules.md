@@ -240,15 +240,13 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.1.5</span> Sunt permise tratatele de pace, nu si aliantele. Incalcarea tratatului de pace se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.6</span> In timpul warului sunteti obligati sa aveti <span style="color:var(--pink);">jobul de Arms Dealer.</span>
+<span style="color:var(--pink);">10.1.6</span> Cand cereti o arma in timpul warului trebuie sa spuneti ID-ul vostru, neprecizarea acestuia inseamna ca nu sunt obligati colegii sa va dea arme.
 
-<span style="color:var(--pink);">10.1.7</span> Cand cereti o arma in timpul warului trebuie sa spuneti ID-ul vostru, neprecizarea acestuia inseamna ca nu sunt obligati colegii sa va dea arme.
+<span style="color:var(--pink);">10.1.7</span> Neacordarea unei arme unui coleg care o cere in mod corect se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.8</span> Neacordarea unei arme unui coleg care o cere in mod corect se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.8</span> Pe durata warurilor trebuie sa aveti <span style="color:var(--pink);">minim $10,000 cash</span>, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.9</span> Pe durata warurilor trebuie sa aveti <span style="color:var(--pink);">minim $10,000 cash</span>, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">10.1.10</span> In absenta liderului, subliderii sunt obligati sa faca evidenta warurilor in decurs a 48 de ore daca nu au inactivitate, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.9</span> In absenta liderului, subliderii sunt obligati sa faca evidenta warurilor in decurs a 48 de ore daca nu au inactivitate, altfel veti fi sanctionati cu <span style="color:red;">Faction Warn.</span>
 
 !!! danger "Important"
     Evidenta incompleta sau facuta gresit neintentionat va fi sanctionata cu <span style="color:red;">Faction Warn</span>, in timp ce omiterea intentionata a mai multor jucatori din evidenta pentru a-i scapa de sanctiuni va fi sanctionata cu <span style="color:red;">rank down</span> sau <span style="color:red;">demitere</span> in functie de gravitate si numarul de jucatori omisi.

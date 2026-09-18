@@ -109,6 +109,8 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 <span style="color:var(--pink);">4.15</span> Membrii de rank 1 nu au voie sa accepte comenzile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] ale jucatorilor cu nivel 50+ (<span style="color:red;">sanctiune: amenda $50,000</span> la prima abatere, <span style="color:red;">Avertisment Verbal</span> la urmatoarea).
 
+<span style="color:var(--pink);">4.16</span> In cazul jucatorilor care detin suficiente RP-uri pentru a atinge nivelul 50, insa nu utilizeaza comanda [<span style="color:var(--pink);">/buylevel</span>], acestia pot primi licentele fara sustinerea testului. Licentele pot fi acordate exclusiv de membrii de rank 2+, cu respectarea prevederilor Regulii 4.12.
+
 ## 5. Clientii
 
 <span style="color:var(--pink);">5.1</span> Membrii de rank 1-4 atunci cand iau un client pentru licente sunt obligati sa anunte pe chatul factiunii in felul urmator:

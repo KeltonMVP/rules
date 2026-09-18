@@ -109,6 +109,8 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 <span style="color:var(--pink);">4.15</span> Rank 1 members are not allowed to accept commands [<span style="color:var(--pink);">/servicecalls</span>] or [<span style="color:var(--pink);">/needlicenses</span>] from players with level 50+ (<span style="color:red;">sanction: fine $50,000</span> on first offense, <span style="color:red;">Verbal Warning</span> on next).
 
+<span style="color:var(--pink);">4.16</span> Players who have enough RP to reach level 50 but do not use the [<span style="color:var(--pink);">/buylevel</span>] command may receive their licenses without taking the test. Licenses may be granted exclusively by rank 2+ members, in accordance with Rule 4.12.
+
 ## 5. Clients
 
 <span style="color:var(--pink);">5.1</span> Rank 1-4 members when taking a client for licenses are obligated to announce on the faction chat in the following manner:

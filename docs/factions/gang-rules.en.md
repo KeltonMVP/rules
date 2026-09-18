@@ -240,15 +240,13 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.1.5</span> Peace treaties are allowed, but not alliances. Violating a peace treaty will be punished with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.6</span> During wars, you are required to have the <span style="color:var(--pink);">Arms Dealer job.</span>
+<span style="color:var(--pink);">10.1.6</span> When requesting a weapon during war, you must provide your ID; failure to do so means colleagues are not obligated to provide you with weapons.
 
-<span style="color:var(--pink);">10.1.7</span> When requesting a weapon during war, you must provide your ID; failure to do so means colleagues are not obligated to provide you with weapons.
+<span style="color:var(--pink);">10.1.7</span> Failure to provide a weapon to a colleague who requests it correctly will be punished with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.8</span> Failure to provide a weapon to a colleague who requests it correctly will be punished with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.8</span> During wars, you must have <span style="color:var(--pink);">at least $10,000 cash</span>; otherwise, you will be punished with <span style="color:red;">Faction Warn.</span>
 
-<span style="color:var(--pink);">10.1.9</span> During wars, you must have <span style="color:var(--pink);">at least $10,000 cash</span>; otherwise, you will be punished with <span style="color:red;">Faction Warn.</span>
-
-<span style="color:var(--pink);">10.1.10</span> In the absence of the leader, subleaders are required to keep track of wars within 48 hours if they are not inactive, otherwise they will be punished with <span style="color:red;">Faction Warn.</span>
+<span style="color:var(--pink);">10.1.9</span> In the absence of the leader, subleaders are required to keep track of wars within 48 hours if they are not inactive, otherwise they will be punished with <span style="color:red;">Faction Warn.</span>
 
 !!! danger "Important"
     An incomplete or incorrectly made war record will be punished with a <span style="color:red;">Faction Warn</span>, while intentionally omitting multiple players from the record to help them avoid sanctions will be punished with a <span style="color:red;">rank down</span> or <span style="color:red;">dismissal</span>, depending on the severity and the number of omitted players.
