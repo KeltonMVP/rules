@@ -33,6 +33,7 @@ icon: material/trash-can
 * The cleaning process is done directly with the vehicle. You have to drive slowly over each marked dirt spot to remove it. The Sweeper cannot clean properly if it moves too fast, so the maximum speed allowed for cleaning is 35 km/h.
 * When you approach a dirt spot at the correct speed, it will be removed, a cleaning effect will appear, and the number of remaining tasks will be updated. If you move over the speed limit, the area will not be cleaned and you will be instructed to slow down.
 * The contract is completed after all dirt spots in the assigned area have been cleaned.
+* Each completed contract awards **1 Skill Point / Clan XP / Marathon Point**.
 * Street cleaning is the introductory activity of the Garbage Collector job and is done individually. The co-op system becomes available starting with skill 3.
 
 
@@ -42,6 +43,7 @@ icon: material/trash-can
 * You must get off Walton, approach a garbage bag, and press the Y interaction key to pick it up. While carrying the bag, return to Walton and press Y near the vehicle to load it.
 * The contract interface will permanently display the number of bags remaining and the number of bags already loaded. The contract is completed after all garbage bags in the residential area have been collected and loaded into Walton.
 * Residential Waste Collection can be completed individually or with a co-op partner. Both players can collect and load the bags, allowing the team to complete the area much faster.
+* Each completed collection awards **3 Skill Points / Clan XP / Marathon Points**.
 
 
 ### Skill 5-6: Yosemite - Bulky Waste Collection​
@@ -52,6 +54,7 @@ icon: material/trash-can
 * The hooks will lower to the object, grab it, lift it, and load it into the vehicle through a full animated sequence. The process must be repeated until all bulky objects have been recovered.
 * When working individually, the player can secure the object from the ground, return to the driver's seat, and operate the hooks.
 * When the contract is completed in co-op mode, it becomes a team-coordinated activity. One player can position and operate the Yosemite while the second player remains on the ground and secures the waste. This allows the team to continue loading objects without constantly changing positions.
+* Each completed collection awards **3 Skill Points / Clan XP / Marathon Points**.
 
 
 ### Skill 7-8: DFT-30 - Commercial Recycling
@@ -65,6 +68,7 @@ icon: material/trash-can
 * After collecting the object, return to the DFT and move to the correct sorting compartment. Press Y to insert the waste into the vehicle.
 * If you use the wrong compartment, you will be informed of the correct category, and the object must be sorted properly before the route can continue.
 * Both players can collect and sort waste during co-op activity. All progress is shared between the leader and the partner, and the contract is closed after each trade item has been placed in the correct compartment of the DFT.
+* Each completed sort awards **4 Skill Points / Clan XP / Marathon Points**.
 
 
 ### Skill 9-10: Trashmaster - Municipal Intervention
@@ -84,6 +88,7 @@ icon: material/trash-can
 * After resolving a complaint, another municipal call will be automatically assigned until the entire route is completed.
 * Players with skill 9 must resolve 3 municipal complaints for each contract.
 * Players with skill 10 must resolve 2 municipal complaints for each contract, representing a faster and more specialized intervention at a higher level.
+* Each completed intervention awards **4 Skill Points / Clan XP / Marathon Points**.
 * Municipal intervention offers full support for co-op mode. Both players can inspect problems, pick up tools, and contribute to the same common progress of the intervention.
 
 
@@ -192,6 +197,18 @@ icon: material/trash-can
     * Skill 9 - Municipal Intervention: $3,300
     * Skill 10 - Municipal Intervention: $3,900.
 * For residential waste collection, bulky waste collection and commercial recycling, the base payment is calculated based on the number of active objects included in the contract. Completing a full route provides the full amount mentioned above.
+
+
+## Progression in Skill
+* To advance from skill level 1 to 2, you must complete **30 runs**. (total: 30)
+* To advance from skill level 2 to 3, you must complete **90 runs**. (total: 120)
+* To advance from skill level 3 to 4, you must complete **210 runs**. (total: 350)
+* To advance from skill level 4 to 5, you must complete **450 runs**. (total: 800)
+* To advance from skill level 5 to 6, you must complete **650 runs**. (total: 1,450)
+* To advance from skill level 6 to 7, you must complete **900 runs**. (total: 2,350)
+* To advance from skill level 7 to 8, you must complete **1,200 runs**. (total: 3,550)
+* To advance from skill level 8 to 9, you must complete **1,550 runs**. (total: 5,100)
+* To advance from skill level 4 to 5, you must complete **1,900 runs**. (total: 7,000)
 
 
 ## Vehicles by Skill

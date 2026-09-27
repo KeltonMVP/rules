@@ -26,22 +26,24 @@ icon: material/trash-can
 
 ## Progresul vehiculelor si a contractelor
 
-### Skill 1-2: Sweeper - Curatarea strazilor​
+### Skill 1 - 2: Sweeper - Curatarea strazilor​
   * Gunoierii noi isi vor incepe cariera operand un Sweeper.
   * Dupa inceperea contractului, va fi selectata o zona murdara de pe strada si va fi marcata pe harta. Trebuie sa conduci Sweeper-ul pana in zona atribuita, unde vor aparea mai multe pete vizibile de murdarie pe strada.
   * Procesul de curatare este realizat direct cu vehiculul. Trebuie sa conduci incet peste fiecare pata de murdarie marcata pentru a o elimina. Sweeper-ul nu poate curata corect daca se deplaseaza prea repede, astfel incat viteza maxima permisa pentru curatare este de 35 km/h.
   * Atunci cand te apropii de o pata de murdarie cu viteza corecta, aceasta va fi eliminata, va aparea un efect de curatare, iar numarul sarcinilor ramase va fi actualizat. Daca te deplasezi peste limita de viteza, zona nu va fi curatata si vei primi instructiunea de a incetini.
   * Contractul este finalizat dupa ce toate petele de murdarie din zona atribuita au fost curatate.
+  * Fiecare contract finalizat ofera **1 Punct de Skill / XP la Clan / Punct de Maraton**.
   * Curatarea strazilor este activitatea introductiva a jobului de Gunoier si se realizeaza individual. Sistemul co-op devine disponibil incepand cu skill 3.
 
-### Skill 3-4: Walton - Colectarea deseurilor rezidentiale
+### Skill 3 - 4: Walton - Colectarea deseurilor rezidentiale
   * La skill 3, jucatorii deblocheaza contractele de colectare a deseurilor rezidentiale si primesc un Walton adaptat pentru activitatile de salubritate din cartiere.
   * O zona rezidentiala va fi atribuita si marcata pe harta. Dupa ce ajungi acolo, vor aparea mai multi saci de gunoi in intregul cartier.
   * Trebuie sa cobori din Walton, sa te apropii de un sac de gunoi si sa apesi tasta de interactiune Y pentru a-l ridica. In timp ce transporti sacul, intoarce-te la Walton si apasa Y in apropierea vehiculului pentru a-l incarca.
   * Interfata contractului va afisa permanent numarul sacilor ramasi si numarul celor deja incarcati. Contractul este finalizat dupa ce toti sacii de gunoi din zona rezidentiala au fost colectati si incarcati in Walton.
-  * Colectarea deseurilor rezidentiale poate fi finalizata individual sau impreuna cu un partener co-op. Ambii jucatori pot colecta si incarca sacii, permitand echipei sa finalizeze zona mult mai repede.  
+  * Colectarea deseurilor rezidentiale poate fi finalizata individual sau impreuna cu un partener co-op. Ambii jucatori pot colecta si incarca sacii, permitand echipei sa finalizeze zona mult mai repede.
+  * Fiecare colectare finalizata ofera **2 Puncte de Skill / XP la Clan / Puncte de Maraton**. 
 
-### Skill 5-6: Yosemite - Colectarea deșeurilor voluminoase​
+### Skill 5 - 6: Yosemite - Colectarea deșeurilor voluminoase​
   * La skill 5, jucătorii trec de la deșeurile menajere obișnuite la obiecte grele și de dimensiuni mari.
   * Aceste contracte folosesc un Yosemite special pregătit, echipat cu cârlige de încărcare animate. Vei fi trimis într-o zonă care conține mai multe obiecte voluminoase ce nu pot fi colectate manual.
   * Pentru a încărca un obiect, Yosemite-ul trebuie mai întâi să fie poziționat cu spatele în apropierea deșeului voluminos și oprit complet.
@@ -49,8 +51,9 @@ icon: material/trash-can
   * Cârligele vor coborî spre obiect, îl vor prinde, îl vor ridica și îl vor încărca în vehicul prin intermediul unei secvențe animate complete. Procesul trebuie repetat până când toate obiectele voluminoase au fost recuperate.
   * Atunci când lucrează individual, jucătorul poate fixa obiectul de la sol, se poate întoarce pe scaunul șoferului și poate opera cârligele.
   * Atunci când contractul este realizat în modul co-op, acesta devine o activitate coordonată de echipă. Un jucător poate poziționa și opera Yosemite-ul, în timp ce al doilea jucător rămâne la sol și fixează deșeurile. Acest lucru permite echipei să continue încărcarea obiectelor fără a schimba constant pozițiile.
+  * Fiecare colectare finalizata ofera **3 Puncte de Skill / XP la Clan / Puncte de Maraton**.
 
-### Skill 7-8: DFT-30 - Reciclare comerciala
+### Skill 7 - 8: DFT-30 - Reciclare comerciala
   * La skill 7, jucatorii deblocheaza contractele de reciclare comerciala si primesc un DFT-30 impartit in mai multe compartimente de sortare.
   * O locatie cu deseuri comerciale va fi atribuita si marcata pe harta. Dupa ce ajungi, vor aparea mai multe obiecte de tip deseu in jurul zonei.
   * Fiecare obiect apartine uneia dintre urmatoarele trei categorii:
@@ -61,8 +64,9 @@ icon: material/trash-can
   * Dupa colectarea obiectului, intoarce-te la DFT si deplaseaza-te langa compartimentul corect de sortare. Apasa Y pentru a introduce deseul in vehicul.
   * Daca folosesti compartimentul gresit, vei fi informat despre categoria corecta, iar obiectul trebuie sortat corespunzator inainte ca ruta sa poata continua.
   * Ambii jucatori pot colecta si sorta deseurile in timpul activitatii co-op. Intregul progres este partajat intre lider si partener, iar contractul se incheie dupa ce fiecare obiect comercial a fost introdus in compartimentul corect al DFT-ului.
+  * Fiecare sortare finalizata ofera **4 Puncte de Skill / XP la Clan / Puncte de Maraton**.
 
-### Skill 9-10: Trashmaster - Interventie municipala​
+### Skill 9 - 10: Trashmaster - Interventie municipala​
   * Cele mai ridicate skill-uri ale jobului de Gunoier deblocheaza contractele de interventie municipala, realizate cu un Trashmaster echipat cu mai multe unelte specializate pentru salubritate.
   * In loc sa colectezi un tip fix de deseu, vei raspunde sesizarilor de salubritate raportate in diferite zone ale orasului.
   * Trashmaster-ul trebuie mai intai condus pana la locatia raportata. Dupa sosire, problema reala de salubritate va aparea in apropiere si va fi marcata pe harta.
@@ -79,6 +83,7 @@ icon: material/trash-can
   * Dupa rezolvarea unei sesizari, un alt apel municipal va fi atribuit automat pana cand intreaga ruta este finalizata.
   * Jucatorii cu skill 9 trebuie sa rezolve 3 sesizari municipale pentru fiecare contract.
   * Jucatorii cu skill 10 trebuie sa rezolve 2 sesizari municipale pentru fiecare contract, reprezentand o interventie mai rapida si mai specializata la nivel inalt.
+  * Fiecare interventie finalizata ofera **4 Puncte de Skill / XP la Clan / Puncte de Maraton**.
   * Interventia municipala ofera suport complet pentru modul co-op. Ambii jucatori pot inspecta problemele, pot lua unelte si pot contribui la acelasi progres comun al interventiei.
 
 
@@ -187,6 +192,18 @@ icon: material/trash-can
     * Skill 9 - Interventie municipala: $3,300
     * Skill 10 - Interventie municipala: $3,900.
 * Pentru colectarea deseurilor rezidentiale, colectarea deseurilor voluminoase si reciclarea comerciala, plata de baza este calculata in functie de numarul de obiecte active incluse in contract. Finalizarea unei rute complete ofera intreaga suma mentionata mai sus.
+
+
+## Avansarea in Skill
+* Pentru a avansa de la skill 1 la skill 2, trebuie sa efectuati **30 de curse**. (total: 30)
+* Pentru a avansa de la skill 2 la skill 3, trebuie sa efectuati **90 de curse**. (total: 120)
+* Pentru a avansa de la skill 3 la skill 4, trebuie sa efectuati **210 de curse**. (total: 350)
+* Pentru a avansa de la skill 4 la skill 5, trebuie sa efectuati **450 de curse**. (total: 800)
+* Pentru a avansa de la skill 5 la skill 6, trebuie sa efectuati **650 de curse**. (total: 1,450)
+* Pentru a avansa de la skill 6 la skill 7, trebuie sa efectuati **900 de curse**. (total: 2,350)
+* Pentru a avansa de la skill 7 la skill 8, trebuie sa efectuati **1,200 de curse**. (total: 3,550)
+* Pentru a avansa de la skill 8 la skill 9, trebuie sa efectuati **1,550 de curse**. (total: 5,100)
+* Pentru a avansa de la skill 4 la skill 5, trebuie sa efectuati **1,900 de curse**. (total: 7,000)
 
 
 ## Vehicule in functie de skill

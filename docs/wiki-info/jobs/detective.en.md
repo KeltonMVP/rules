@@ -20,7 +20,7 @@ icon: material/magnify
 
 
 ## Investigation Scenarios
-* **Skill 1 & 2 - Witness Statements:** The primary type of investigation, based on gathering evidence and questioning witnesses. 
+* **Skill 1 - 2 - Witness Statements:** The primary type of investigation, based on gathering evidence and questioning witnesses. 
     * New detectives begin by investigating crime scenes using physical evidence and witness statements. 
     * Upon receiving a case, the assigned location is marked on the map, and the player must travel to the investigation scene. 
     * Once on-site, several pieces of evidence appear in the area. 
@@ -30,10 +30,12 @@ icon: material/magnify
     * Each witness provides a statement relevant to the case. 
     * Once all three witnesses have been interviewed, the Detective must return to the investigation marker and analyze the case. 
     * After analyzing the collected information, the final investigation report can be submitted, and the contract is completed. 
+    * Each completed contract awards **2 Skill Points**, respectively **2 Clan XP / Marathon Points**.
         * Witness Statements fully supports co-op gameplay. Both players can gather evidence and interview witnesses, allowing the case to be completed much faster. 
         * A co-op partner must actively participate in the investigation to receive the contract reward.
 * **Skill 3 - Witness Statements:** This skill continues the Witness Statements branch.
-* **Skills 4–6 - Bullet Trajectory Reconstruction:** These levels focus on reconstructing bullet trajectories and performing a more advanced analysis of the crime scene. 
+    * Each completed contract awards **3 Skill Points**, respectively **3 Clan XP / Marathon Points**.
+* **Skills 4 – 6 - Bullet Trajectory Reconstruction:** These levels focus on reconstructing bullet trajectories and performing a more advanced analysis of the crime scene. 
     * At Skill 4, Detectives unlock a completely different type of investigation focused on ballistic evidence. 
     * The player is sent to a crime scene containing multiple bullet impact points. 
     * Each impact must be examined and reconstructed individually. 
@@ -42,8 +44,12 @@ icon: material/magnify
     * Once the trajectory is correctly positioned, it can be locked in and recorded as part of the investigation. 
     * This process must be repeated for every bullet impact found at the crime scene. 
     * The case is completed once all required trajectories have been successfully reconstructed. 
-        * Bullet Trajectory Reconstruction also supports co-op gameplay.
-        * Both players can work simultaneously on different pieces of forensic evidence within the same investigation and contribute to the case's shared progress.
+    * Each completed reconstruction grants a certain number of skill points, as follows:
+        *  **Skill 4:** - awards **8 Skill Points** / **2 Clan XP / Marathon Points**.
+        *  **Skill 5:** - awards **16 Skill Points** / **2 Clan XP / Marathon Points**.
+        *  **Skill 6:** - awards **32 Skill Points** / **2 Clan XP / Marathon Points**.
+    * Bullet Trajectory Reconstruction also supports co-op gameplay.
+    * Both players can work simultaneously on different pieces of forensic evidence within the same investigation and contribute to the case's shared progress.
 * **Skill 7 - 9 - Coded Dead Drops:** These levels focus on cracking a secret 4-digit code to solve the crime. 
     * Detectives unlock intelligence-based investigations involving secret drop-off points and encrypted combinations. 
     * The player is sent to a randomly selected location containing three investigative clues. 
@@ -60,6 +66,10 @@ icon: material/magnify
     * Skill 7: 6 attempts.
     * Skill 8: 7 attempts.
     * Skill 9: 8 attempts. 
+* Each deciphered code grants a specific number of skill points, as follows:
+    *  **Skill 7:** - awards **64 Skill Points** / **2 Clan XP / Marathon Points**.
+    *  **Skill 8:** - awards **128 Skill Points** / **2 Clan XP / Marathon Points**. 
+    *  **Skill 9:** - awards **256 Skill Points** / **2 Clan XP / Marathon Points**.
 * Coded Dead Drop investigations fully support co-op gameplay. 
 * Both players can collect clues and use the shared decoder. 
 * When one player enters a combination, the updated decoder information becomes available to the other player as well. 
@@ -158,6 +168,18 @@ icon: material/magnify
 * When the partner does not contribute, the leader receives the full base pay.
 * Existing job bonuses continue to be calculated separately after the base reward is determined.
 * Witness investigations may also have a reduced monetary reward depending on the outcome of the submitted investigation, while other progression rewards remain unaffected.
+
+
+## Progression in Skill
+* To advance from skill level 1 to 2, you must complete **50 runs**. (total: 50)
+* To advance from skill level 2 to 3, you must complete **100 runs**. (total: 150)
+* To advance from skill level 3 to 4, you must complete **200 runs**. (total: 350)
+* To advance from skill level 4 to 5, you must complete **400 runs**. (total: 750)
+* To advance from skill level 5 to 6, you must complete **800 runs**. (total: 1,150)
+* To advance from skill level 6 to 7, you must complete **1,600 runs**. (total: 3,150)
+* To advance from skill level 7 to 8, you must complete **3,200 runs**. (total: 6,350)
+* To advance from skill level 8 to 9, you must complete **6,400 runs**. (total: 12,750)
+* To advance from skill level 4 to 5, you must complete **12,800 runs**. (total: 25,550)
 
 
 ## Learning System

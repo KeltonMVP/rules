@@ -31,9 +31,11 @@ icon: material/magnify
     * Fiecare martor ofera o declaratie relevanta pentru caz.
     * Dupa ce toti cei trei martori au fost intervievati, Detectivul trebuie sa revina la markerul investigatiei si sa analizeze cazul.
     * Dupa analizarea informatiilor colectate, raportul final al investigatiei poate fi trimis, iar contractul este finalizat.
+    * Fiecare contract finalizat ofera cate **2 Puncte de Skill**, respectiv **2 XP la Clan / Puncte de Maraton**.
         * Witness Statements suporta complet gameplay-ul co-op. Ambii jucatori pot colecta probe si intervieva martori, permitand finalizarea cazului mult mai rapid.
         * Un partener co-op trebuie sa participe efectiv la investigatie pentru a primi recompensa contractului.
 * **Skill 3 - Witness Statements** skill 3 continua ramura Witness Statements.
+    * Fiecare contract finalizat ofera cate **3 Puncte de Skill**.
 * **Skill 4 - 6 - Bullet Trajectory Reconstruction:** aceste niveluri se concentreaza pe reconstituirea traiectoriei gloantelor si pe o analiza mai avansata a scenei crimei.
     * ​​La skill 4, Detectivii deblocheaza un tip complet diferit de investigatie, concentrat pe probe balistice.
     * Jucatorul va fi trimis la o scena a crimei care contine mai multe puncte de impact ale gloantelor.
@@ -43,8 +45,12 @@ icon: material/magnify
     * Cand traiectoria a fost pozitionata corect, aceasta poate fi blocata si inregistrata ca parte a investigatiei.
     * Procesul trebuie repetat pentru fiecare impact de glont gasit la scena crimei.
     * Cazul este finalizat dupa ce toate traiectoriile necesare au fost reconstruite cu succes.
-        * Bullet Trajectory Reconstruction suporta, de asemenea, gameplay-ul co-op.
-        * Ambii jucatori pot lucra simultan la probe balistice diferite din cadrul aceleiasi investigatii si pot contribui la progresul comun al cazului.
+    * Fiecare reconstituire finalizata ofera un anumit numar de puncte de skill dupa cum urmeaza:
+        *  **Skill 4:** - ofera **8 Puncte de Skill** / **2 XP la Clan / Puncte de Maraton**.
+        *  **Skill 5:** - ofera **16 Puncte de Skill** / **2 XP la Clan / Puncte de Maraton**.
+        *  **Skill 6:** - ofera **32 Puncte de Skill** / **2 XP la Clan / Puncte de Maraton**.
+    * Bullet Trajectory Reconstruction suporta, de asemenea, gameplay-ul co-op.
+    * Ambii jucatori pot lucra simultan la probe balistice diferite din cadrul aceleiasi investigatii si pot contribui la progresul comun al cazului.
 * **Skill 7 - 9  - Coded Dead Drops:** aceste niveluri se concentreaza pe descifrarea unui cod secret din 4 cifre pentru descifrarea crimei.
     * ​Detectivii deblocheaza investigatii bazate pe informatii, care implica puncte secrete de predare si combinatii criptate.
     * Jucatorul este trimis intr-o locatie aleasa aleatoriu care contine trei indicii de investigatie.
@@ -61,6 +67,10 @@ icon: material/magnify
         * Skill 7: 6 incercari;
         * Skill 8: 7 incercari;
         * Skill 9: 8 incercari.
+    * Fiecare cod descifrat ofera un anumit numar de puncte de skill dupa cum urmeaza:
+        *  **Skill 7:** - ofera **64 Puncte de Skill** / **2 XP la Clan / Puncte de Maraton**.
+        *  **Skill 8:** - ofera **128 Puncte de Skill** / **2 XP la Clan / Puncte de Maraton**.
+        *  **Skill 9:** - ofera **256 Puncte de Skill** / **2 XP la Clan / Puncte de Maraton**.
     * Investigatiile Coded Dead Drop suporta complet gameplay-ul co-op. 
         * Ambii jucatori pot colecta indicii si utiliza decoder-ul comun.
         * Cand unul dintre jucatori introduce o combinatie, informatiile actualizate ale decoder-ului devin disponibile si pentru celalalt jucator.
@@ -161,6 +171,18 @@ icon: material/magnify
 * Atunci cand partenerul nu contribuie, liderul primeste intregul salariu de baza.
 * Bonusurile existente de job continua sa fie calculate separat dupa stabilirea recompensei de baza.
 * Investigatiile Witness pot avea, de asemenea, o recompensa monetara redusa in functie de rezultatul investigatiei trimise, in timp ce celelalte recompense de progres raman neafectate.
+
+
+## Avansarea in Skill
+* Pentru a avansa de la skill 1 la skill 2, trebuie sa efectuati **50 de curse**. (total: 50)
+* Pentru a avansa de la skill 2 la skill 3, trebuie sa efectuati **100 de curse**. (total: 150)
+* Pentru a avansa de la skill 3 la skill 4, trebuie sa efectuati **200 de curse**. (total: 350)
+* Pentru a avansa de la skill 4 la skill 5, trebuie sa efectuati **400 de curse**. (total: 750)
+* Pentru a avansa de la skill 5 la skill 6, trebuie sa efectuati **800 de curse**. (total: 1,150)
+* Pentru a avansa de la skill 6 la skill 7, trebuie sa efectuati **1,600 de curse**. (total: 3,150)
+* Pentru a avansa de la skill 7 la skill 8, trebuie sa efectuati **3,200 de curse**. (total: 6,350)
+* Pentru a avansa de la skill 8 la skill 9, trebuie sa efectuati **6,400 de curse**. (total: 12,750)
+* Pentru a avansa de la skill 4 la skill 5, trebuie sa efectuati **12,800 de curse**. (total: 25,550)
 
 
 ## Sistem de invatare
