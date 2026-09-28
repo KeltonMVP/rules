@@ -92,6 +92,12 @@ icon: material/shield-star
     * **Skill 1 - 4:** 1 XP for each completed minigame.
     * **Skill 5 - 6:** 2 XP for each completed minigame.
     * **Skill 7 - 10:** 3 XP for each completed minigame.
+* **Garbageman:**
+    * **Skill 1 - 2:** 1 XP for each street cleaned. 
+    * **Skill 3 - 4:** 2 XP for each piece of trash collected. 
+    * **Skill 5 - 6:** 3 XP for each bulky waste item collected. 
+    * **Skill 7 - 10:** 4 XP for each commercial pickup / municipal intervention.
+* **Detective** - 2 XP for each completed scenario.
 
 There is a maximum limit of XP that a single player can accumulate in a day, the limit set by the clan level. You can find more details about the limit in the **Level Benefits** chapter.
 The XP accumulated by a player remains even if they leave the clan and return later.

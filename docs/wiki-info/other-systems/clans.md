@@ -67,7 +67,7 @@ icon: material/shield-star
 * **Hot de Masini** - 10 XP pentru fiecare masina livrata.
 * **Trucker** - 5 XP pentru o cursa finalizata.
 * **Muncitor la Cariera** - 3 XP pentru o cursa finalizata.
-* **Gunoier / Chemist** - 6 XP pentru o cursa finalizata.
+* **Chemist** - 6 XP pentru o cursa finalizata.
 * **Taietor de Lemne / Miner** - 3 XP pentru o cursa finalizata.
 * **Pescar:** 
     * Peste Tier 1 - factor = 0.1.
@@ -92,6 +92,12 @@ icon: material/shield-star
     * **Skill 1 - 4:** 1 XP pentru fiecare minigame completat.
     * **Skill 5 - 6:** 2 XP pentru fiecare minigame completat.
     * **Skill 7 - 10:** 3 XP pentru fiecare minigame completat.
+* **Gunoier:**
+    * **Skill 1 - 2:** 1 XP pentru fiecare strada curatata.
+    * **Skill 3 - 4:** 2 XP pentru fiecare gunoi ridicat.
+    * **Skill 5 - 6:** 3 XP pentru fiecare deseu voluminos ridicat.
+    * **Skill 7 - 10:** 4 XP pentru fiecare ridicare comerciala / interventie municipala.
+* **Detectiv:** - 2 XP pentru fiecare scenariu completat.
 
 Exista o limita maxima de XP pe care un singur jucator il poate acumula intr-o zi, limita stabilita de nivelul clanului. Veti putea gasi mai multe detalii despre limita la capitolul **Beneficiile Nivelurilor**.
 XP-ul acumulat de un jucator ramane chiar daca acesta paraseste clanul si revine ulterior.
