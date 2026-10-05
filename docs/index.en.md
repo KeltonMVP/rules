@@ -7,8 +7,8 @@
 !!! example "Info note"
     All punishments will be given depending on the real level of the player (meaning we will calculate the respect points of the player to determinate their real level).
 
-!!! danger "Important"  
-    Multiple sanctions will not be applied for the same type of offense committed within a time difference of less than 15 minutes between incidents.  
+!!! danger "Important"
+    Multiple sanctions will not be applied for the same type of offense committed within a time difference of less than 15 minutes between incidents.
     For example: if a player is reported for fast c-bug within a time difference of less than 15 minutes between offenses/evidence, they will receive only one warning.
 
 ### Accounts/Goods Businesses
@@ -52,7 +52,7 @@
 
 !!! example "Info note"
 
-    Level 4+ admins reserve their right to punish someone who hacks accounts or to help someone with a hacked account if they consider necessary. 
+    Level 4+ admins reserve their right to punish someone who hacks accounts or to help someone with a hacked account if they consider necessary.
 
     Attention, admins have absolutely no obligation to punish someone or help you if your account got hacked.
 
@@ -186,7 +186,7 @@
 
 !!! example "Info note"
     The last 2 months of gameplay are always considered the last 2 months before the current month.
-    
+
     So if it is currently April, we will consider the last 2 months of gameplay to be: March + February.
 
     If we move to May, the last 2 months of gameplay will be: April + March. If we move to June, the last 2 months of gameplay will be: May + April, and so on.
@@ -239,7 +239,7 @@ Examples of allowed mods:
 - fake escape.
 - infinite run/stamina.
 - other mods that bring modifications only for visual aspects that you see and cannot be use abusively as regards to our script.
- 
+
 Examples of unallowed mods:
 
 - mods that modify the sensitivity in such a way that the player fires as like using cheats.
@@ -276,8 +276,8 @@ Abuse examples <span style="color:red;">punishable with warn from the first offe
 <span style="color:var(--pink);">3.1</span> All server deals will be made using the [<span style="color:var(--pink);">/trade</span>] command. Deals made without using this command may lead to scams and you risk remaining without your goods.
 
 !!! example "Info note"
-    Admins will not intervene in scams that players do only in certain circumstances established by them. Thus level 4+ admins reserver their right to intervene in certain scams and even punish the player doing the scam if needed. 
-    
+    Admins will not intervene in scams that players do only in certain circumstances established by them. Thus level 4+ admins reserver their right to intervene in certain scams and even punish the player doing the scam if needed.
+
     Attention, admins have no oblgation to punish someone or to help you if you got scammed.
 
 ## 4. Language
@@ -320,7 +320,7 @@ Examples of unpunishable language (<span style="color:red;">exception towards ad
 <span style="color:var(--pink);">4.4.3</span> Admins can ask a Level 6 Admin permission to offer bigger punishments than these if necessary.
 
 ### Property Name
-<span style="color:var(--pink);">4.5.1</span> Players that use offensive, vulgar or deceiving texts on owned properties (cars, businesses, houses) will be punished with <span style="color:red;">warn.</span> 
+<span style="color:var(--pink);">4.5.1</span> Players that use offensive, vulgar or deceiving texts on owned properties (cars, businesses, houses) will be punished with <span style="color:red;">warn.</span>
 
 <span style="color:var(--pink);">4.5.2</span> In the case of vehicles, players on board who do not own them may also risk being sanctioned, depending on the situation.
 
@@ -414,9 +414,9 @@ Examples of non-rp behavior:
     In the case of department members, they can use summons and directly sanction the player with a wanted level depending on the situation (non-compliance, DB, DM, etc.).
 
 ### Using cheaters in clan zones
-<span style="color:var(--pink);">7.6.1</span> We reserve our right to delete a clan where one or more players have been caught using cheats in order to help conquer clan zones. 
+<span style="color:var(--pink);">7.6.1</span> We reserve our right to delete a clan where one or more players have been caught using cheats in order to help conquer clan zones.
 
-<span style="color:var(--pink);">7.6.2</span> The clan owner is directly responsible with the players he invites in the clan, especially low level accounts who use cheats to conquer clan zones. 
+<span style="color:var(--pink);">7.6.2</span> The clan owner is directly responsible with the players he invites in the clan, especially low level accounts who use cheats to conquer clan zones.
 
 <span style="color:var(--pink);">7.6.3</span> The clan can be permanently deleted without returing the Gold spent on it to the clan owner.
 
@@ -469,6 +469,8 @@ Examples of non-rp behavior:
 
 <span style="color:var(--pink);">8.1.6</span> For browser proofs we accept only videos where there is a minimum of one refresh to the page to prove that there is nothing falsified (<span style="color:red;">complaint automatically rejected</span>).
 
+<span style="color:var(--pink);">8.1.7</span> For evidence to be considered safe and accepted by the staff, it must be uploaded to one of the following websites: [youtube](https://www.youtube.com/), [streamable](https://streamable.com/), [vimeo](https://vimeo.com/), [imgur](https://imgur.com/), [imgBB](https://imgbb.com/), [postimages](https://postimages.org/) (<span style="color:red;">evidence automatically rejected</span>).
+
 ### Content
 <span style="color:var(--pink);">8.2.1</span> It is forbidden to open complaints or tickets for inproper reasons (<span style="color:red;">punishment: suspend website 3 days</span>).
 
@@ -494,7 +496,7 @@ Examples of non-rp behavior:
     <span style="color:var(--pink);">8.2.8</span> Considering the various situations that may arise through complaints, the server staff is the only authority capable of deciding when a player is attempting posthunting.
 
     <span style="color:var(--pink);">Consequences of posthunting:</span>
-    
+
     - complaints will be ignored and a warning will be issued if there are only a few complaints.
     - if the player exaggerates or has already been warned, the complaints will be ignored and a minimum 3-day web suspension will be issued, with the sanction increasing depending on the number of offenses.
     - complaints from secondary accounts will also be ignored.

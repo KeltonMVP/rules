@@ -470,6 +470,8 @@ Exemple de comportament non-rp:
 
 <span style="color:var(--pink);">8.1.6</span> In cazul dovezilor de pe browser se accepta numai videouri in care sa se dea minim un refresh la pagina sa se vada ca dovada nu e falsificata (<span style="color:red;">reclamatie respinsa automat</span>).
 
+<span style="color:var(--pink);">8.1.7</span> Ca dovezile sa fie considerate sigure si acceptate de catre staff acestea trebuie sa fie incarcate pe unul dintre urmatoarele site-uri: [youtube](https://www.youtube.com/), [streamable](https://streamable.com/), [vimeo](https://vimeo.com/), [imgur](https://imgur.com/), [imgBB](https://imgbb.com/), [postimages](https://postimages.org/) (<span style="color:red;">dovezi respinse automat</span>).
+
 ### Continut
 <span style="color:var(--pink);">8.2.1</span> Este interzisa deschiderea reclamatiilor sau a ticketurilor fara motiv intemeiat (<span style="color:red;">sanctiune: suspend website 3 zile</span>).
 
