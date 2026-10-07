@@ -236,7 +236,7 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">10.1.3</span> Programul warurilor optionale este Sambata de la ora 20:00 si Duminica de la ora 20:00.
 
-<span style="color:var(--pink);">10.1.4</span> Atacurile se dau pe website-ul RPG in sectiunea [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs), de catre un rank 4+, intre incepand cu 5 minute dupa finalizarea programului de waruri si pana la cel mult o ora dupa finalizarea acestuia (ex: 22:05 - 22:59)
+<span style="color:var(--pink);">10.1.4</span> Atacurile se dau pe website-ul RPG in sectiunea [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs), de catre un rank 4+, intre incepand cu 5 minute dupa finalizarea programului de waruri si pana la cel mult o ora dupa finalizarea acestuia (ex: 22:05 - 22:59). Folosirea de programe terte care automatizeaza aceasta actiune si/sau ajuta la atacarea mult mai rapida decat atacul manual facut fizic de membru se sanctioneaza cu <span style="color:red;">demitere</span>.
 
 <span style="color:var(--pink);">10.1.5</span> Sunt permise tratatele de pace, nu si aliantele. Incalcarea tratatului de pace se sanctioneaza cu <span style="color:red;">Faction Warn.</span>
 

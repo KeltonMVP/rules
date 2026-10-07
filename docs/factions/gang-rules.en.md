@@ -236,7 +236,7 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">10.1.3</span> The schedule for optional wars is on Saturday at 20:00 and Sunday at 20:00.
 
-<span style="color:var(--pink);">10.1.4</span> Attacks are initiated on the RPG website in the [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs) section by a rank 4+ member, starting from 5 minutes after the war schedule ends and lasting up to one hour after its completion (ex: 22:05 - 22:59)
+<span style="color:var(--pink);">10.1.4</span> Attacks are initiated on the RPG website in the [Wars -> Turfs](https://www.rpg.b-zone.ro/wars/turfs) section by a rank 4+ member, starting from 5 minutes after the war schedule ends and lasting up to one hour after its completion (ex: 22:05 - 22:59). Using third-party programs that automate this action and/or help attack much faster than a member performing the attack manually in person will result in <span style="color:red;">dismissal</span>.
 
 <span style="color:var(--pink);">10.1.5</span> Peace treaties are allowed, but not alliances. Violating a peace treaty will be punished with <span style="color:red;">Faction Warn.</span>
 
