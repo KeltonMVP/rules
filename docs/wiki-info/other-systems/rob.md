@@ -148,7 +148,7 @@ Pentru a jefui o casa sau un biz aveti nevoie de:
 
 - Daca jucatorul indeplineste toate conditiile mentionate mai sus atunci acesta va putea initia comanda /rob in fata oricarei case sau biz de pe server.
 - La folosirea comenzii se va deschide o fereastra de unde va trebui sa selecteze optiunea de **Solo Rob** (*imaginea ##2*).
-- Dupa selectarea acestei optiuni jucatorul va intra automat intr-un interior special scazandu-i-se automat 10 puncte de jaf si va avea urmatoarele sarcini in functie de skill-ul sau la Rob:
+- Dupa selectarea acestei optiuni jucatorul va intra automat intr-un interior special scazandu-i-se automat 10 puncte de jaf si va avea urmatoarele sarcini in functie de skill-ul sau de la jobul de Electrician:
   - **De la Skill 1 la Skill 5:** Minijocul de scurtcircuit (minijocul implicit).
       - Sa sparga circuitul pentru a putea deschide usa de la incaperea seifului (*imaginea ##3*): cu ajutorul tastelor sus, jos, stanga, dreapta acesta trebuie sa directioneze sarma dintr-o parte a circuitului pana in cealalta fara a atinge peretii. Atingerea peretilor va rezulta in reinceperea din capatul initial al circuitului.
   - **De la Skill 6 la Skill 7:** Minijocul de tăiere a firelor SAU conectarea firelor.
