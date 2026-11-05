@@ -148,7 +148,7 @@ To rob a house or business you need:
 
 - If the player meets all the conditions mentioned above, they will be able to initiate the /rob command in front of any house or business on the server.
 - When using the command, a window will open from where they must select the **Solo Rob** option (*image ##2*).
-- After selecting this option, the player will automatically enter a special interior, automatically losing 10 robbery points and will have the following tasks:
+- After selecting this option, the player will automatically enter a special interior, automatically losing 10 robbery points and will have the following tasks depending on their Electrician job skill:
     - **From Skill 1 to Skill 5:** Short Circuit Minigame (default minigame).
         - To break the circuit to open the door to the safe room (*image ##3*): using the up, down, left, right keys, he must direct the wire from one side of the circuit to the other without touching the walls. Touching the walls will result in restarting from the original end of the circuit.
     - **From Skill 6 to Skill 7:** Wire Cutting OR Wire Connecting Minigame.
