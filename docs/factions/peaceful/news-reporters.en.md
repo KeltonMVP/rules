@@ -187,17 +187,15 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">5.3.11</span> It is prohibited for a reporter to post the same announcement from a player multiple times on [<span style="color:var(--pink);">/news</span>], with the announcement being identical (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.12</span> Members of the News Reporters faction reserve the right to ignore announcements from players on the faction's blacklist during the free announcement session.
+<span style="color:var(--pink);">5.3.12</span> You are allowed to send a message on [<span style="color:var(--pink);">/news</span>] confirming the continuation of the free announcement session only once, between xx:03:30 - xx:04:30 (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.13</span> You are allowed to send a message on [<span style="color:var(--pink);">/news</span>] confirming the continuation of the free announcement session only once after xx:03:30 (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">5.3.13</span> The minimum amount for selling / buying a personal item is $1,000 depending on the case (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.14</span> The minimum amount for selling / buying a personal item is $1,000 depending on the case (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">5.3.14</span> Reporters have the right to promote their goods through a single announcement during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.15</span> Reporters have the right to promote their goods through a single announcement during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
+<span style="color:var(--pink);">5.3.15</span> A reporter is entitled to provide only one announcement for a single faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
 
-<span style="color:var(--pink);">5.3.16</span> A reporter is entitled to provide only one announcement for a single faction colleague during a free announcement session (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent ones).
-
-<span style="color:var(--pink);">5.3.17</span> You are required to have proof of any message received from a player to send a free announcement:
+<span style="color:var(--pink);">5.3.16</span> You are required to have proof of any message received from a player to send a free announcement:
 
 - the proof must be strictly from the game, and the message must be sent only after the start of the respective free announcement session.
 - proofs with messages received on both [<span style="color:var(--pink);">/sms</span>] and other chats, such as [<span style="color:var(--pink);">/c</span>], [<span style="color:var(--pink);">/wt</span>], [<span style="color:var(--pink);">/f</span>], [<span style="color:var(--pink);">/ac</span>], etc., are accepted.
@@ -384,7 +382,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">6.4.9</span> If a contestant is removed from the contest by an Admin for a reason involving the [<span style="color:var(--pink);">/l</span>] command, they can no longer be invited back to the contest (<span style="color:red;">sanction: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.4.10</span> The prize for a contest represents 80% of the total amount of money paid by participants (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
+<span style="color:var(--pink);">6.4.10</span> The prize for a contest represents at least 80% of the total amount of money paid by participants (<span style="color:red;">sanction: Verbal Warning</span> for the first offense, <span style="color:red;">Faction Warn</span> for subsequent offenses).
 
 !!! danger "Important"
     Lack of proof that shows awarding the prize to the winning participant gets punished with a <span style="color:red;">Faction Warn</span>.

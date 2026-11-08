@@ -175,14 +175,34 @@
 !!! example "Info note"
     As long as you play normally, you move the account, one at a time and don't use methods to explicitly grow your activity abusively, you shouldn't have any fear and the rules above don't apply to you. They are intended for players that try to explicitly abuse, not players who play normally.
 
+### Automated Job Work
+<span style="color:var(--pink);">1.7.1</span> It is strictly forbidden to use any mods, programs, scripts or other methods that automatically work in your place at the server's jobs, including those bought from third parties (<span style="color:red;">punishment: ban 14 days</span>).
+
+<span style="color:var(--pink);">1.7.2</span> The second offence will be punished directly with <span style="color:red;">permanent ban.</span>
+
+<span style="color:var(--pink);">1.7.3</span> Since the punishments above are bans of at least 14 days, the player's secondary accounts with a higher level will also be punished, according to rule 1.5.2.
+
+<span style="color:var(--pink);">1.7.4</span> Besides the ban, depending on how much the player is considered to have abused or could have abused until the moment of the punishment, the staff can also apply <span style="color:red;">a reset of the skill to level 1 for the job where the abuse took place</span> and, where applicable, <span style="color:red;">the confiscation of money/goods worth the amounts earned from that job.</span>
+
+Examples of automated job work:
+
+- mods that automatically drive the job vehicle along the route or through checkpoints (including route recording mods).
+- mods that automatically perform the actions required by the job (loading, unloading, collecting, delivering, minigames etc.).
+- external programs or macros that automatically press the keys or buttons required by the job.
+
+!!! danger "Important"
+    Automated job work is punished according to the rules above and not according to rule 1.6.2, even if the method used also helps you accumulate hours played.
+
+    These rules apply whether or not you are at the computer while the work is being done automatically in your place.
+
 ### Inactivity
-<span style="color:var(--pink);">1.7.1</span> Players that do not have at least 20 REAL hours played in the last 2 months risk losing their house or shares to all owned businesses (no vehicles).
+<span style="color:var(--pink);">1.8.1</span> Players that do not have at least 20 REAL hours played in the last 2 months risk losing their house or shares to all owned businesses (no vehicles).
 
-<span style="color:var(--pink);">1.7.2</span> Players with houses bought from the shop need at least 10 REAL hours in the last 2 months not to lose them.
+<span style="color:var(--pink);">1.8.2</span> Players with houses bought from the shop need at least 10 REAL hours in the last 2 months not to lose them.
 
-<span style="color:var(--pink);">1.7.3</span> If you cannot play we suggest selling your properties so you don't lose them. You cannot recover properties lost due to inactivity.
+<span style="color:var(--pink);">1.8.3</span> If you cannot play we suggest selling your properties so you don't lose them. You cannot recover properties lost due to inactivity.
 
-<span style="color:var(--pink);">1.7.4</span> Attempts of trying to hide properties from inactive accounts will not stop you from losing them.
+<span style="color:var(--pink);">1.8.4</span> Attempts of trying to hide properties from inactive accounts will not stop you from losing them.
 
 !!! example "Info note"
     The last 2 months of gameplay are always considered the last 2 months before the current month.

@@ -172,7 +172,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3.7</span> Sunt permise urmatoarele abrevieri:
 
-- numele locatilor: LS (Los Santos) / SF (San Fierro) / LV (Las Venturas) / HQ (Headquarter).
+- numele locatiilor: LS (Los Santos) / SF (San Fierro) / LV (Las Venturas) / HQ (Headquarter).
 - numele factiunilor: NR (News Reporters) / LVPD (Las Venturas Police Departament) / LVSI (Las Venturas School Instructors).
 - numele afacerilor: CNN (Cable News Network) / PNS (Paint'n Spray) / GS (Gun Shop).
 
@@ -187,17 +187,15 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">5.3.11</span> Este interzis ca un reporter sa dea pe [<span style="color:var(--pink);">/news</span>] de mai multe ori acelasi anunt de la un jucator, anuntul fiind identic (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.12</span> Membrii factiunii News Reporters isi rezerva dreptul de a ignora anunturile jucatorilor aflati pe blacklistul factiunii in cadrul sesiunii de anunturi gratuite.
+<span style="color:var(--pink);">5.3.12</span> Aveti voie sa dati un mesaj pe [<span style="color:var(--pink);">/news</span>] care atesta continuarea sesiunii de anunturi gratuite o singura data in intervalul xx:03:30 - xx:04:30 (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.13</span> Aveti voie sa dati un mesaj pe [<span style="color:var(--pink);">/news</span>] care atesta continuarea sesiunii de anunturi gratuite o singura data dupa ora xx:03:30 (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">5.3.13</span> Suma minima pentru vinderea / cumpararea unui bun personal este de $1.000 in functie de caz (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.14</span> Suma minima pentru vinderea / cumpararea unui bun personal este de $1.000 in functie de caz (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">5.3.14</span> Reporterii au dreptul de a-si promova bunurile printr-un singur anunt in timpul unei sesiuni de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.15</span> Reporterii au dreptul de a-si promova bunurile printr-un singur anunt in timpul unei sesiuni de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">5.3.15</span> Un reporter are dreptul de a oferi un singur anunt pentru un singur un coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
-<span style="color:var(--pink);">5.3.16</span> Un reporter are dreptul de a oferi un singur anunt pentru un singur un coleg de factiune la o sesiune de anunturi gratuite (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
-
-<span style="color:var(--pink);">5.3.17</span> Sunteti obligati sa aveti dovada oricarui mesaj primit de la un jucator pentru a trimite un anunt gratuit:
+<span style="color:var(--pink);">5.3.16</span> Sunteti obligati sa aveti dovada oricarui mesaj primit de la un jucator pentru a trimite un anunt gratuit:
 
 - dovada trebuie sa fie strict din joc, iar mesajul trebuie sa fie trimis doar dupa inceputul sesiunii de anunturi gratuite respective.
 - se accepta dovezi cu mesaje primite atat pe [<span style="color:var(--pink);">/sms</span>], cat si pe alte chaturi, precum [<span style="color:var(--pink);">/c</span>], [<span style="color:var(--pink);">/wt</span>], [<span style="color:var(--pink);">/f</span>], [<span style="color:var(--pink);">/ac</span>], etc.
@@ -384,7 +382,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">6.4.9</span> Daca un invitat este scos din concurs de catre un Admin pentru un motiv ce implica comanda [<span style="color:var(--pink);">/l</span>], acesta nu mai poate fi invitat inapoi in emisiune (<span style="color:red;">sanctiune: Faction Warn</span>).
 
-<span style="color:var(--pink);">6.4.10</span> Premiul unui concurs reprezinta 80% din suma totala a banilor platiti de participanti (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
+<span style="color:var(--pink);">6.4.10</span> Premiul unui concurs reprezinta minim 80% din suma totala a banilor platiti de participanti (<span style="color:red;">sanctiune: Avertisment Verbal</span> la prima abatere, <span style="color:red;">Faction Warn</span> la urmatoarele).
 
 !!! danger "Important"
     Lipsa unei dovezi care atesta acordarea premiului participantului castigator duce la sanctionarea voastra cu <span style="color:red;">Faction Warn</span>.
