@@ -652,6 +652,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/jobs/garbage-man/"/>
     </url>
     <url>
+        <loc>Nonewiki-info/jobs/hunter/</loc>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/jobs/hunter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/jobs/hunter/"/>
+    </url>
+    <url>
         <loc>Nonewiki-info/jobs/job-clash/</loc>
         <lastmod>2026-11-08</lastmod>
         <changefreq>daily</changefreq>
@@ -1140,6 +1147,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/shop/vehicle-km-reset/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/shop/vehicle-km-reset/"/>
+    </url>
+    <url>
+        <loc>Nonewiki-info/shop/vip-account/</loc>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/shop/vip-account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/shop/vip-account/"/>
     </url>
     <url>
         <loc>Nonewiki-info/shop/vip-car/</loc>
@@ -2065,6 +2079,13 @@
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/jobs/garbage-man/"/>
     </url>
     <url>
+        <loc>Noneen/wiki-info/jobs/hunter/</loc>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/jobs/hunter/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/jobs/hunter/"/>
+    </url>
+    <url>
         <loc>Noneen/wiki-info/jobs/job-clash/</loc>
         <lastmod>2026-11-08</lastmod>
         <changefreq>daily</changefreq>
@@ -2553,6 +2574,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/shop/vehicle-km-reset/"/>
         <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/shop/vehicle-km-reset/"/>
+    </url>
+    <url>
+        <loc>Noneen/wiki-info/shop/vip-account/</loc>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki-info/shop/vip-account/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki-info/shop/vip-account/"/>
     </url>
     <url>
         <loc>Noneen/wiki-info/shop/vip-car/</loc>
