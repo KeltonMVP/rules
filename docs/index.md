@@ -175,14 +175,34 @@
 !!! example "Nota informativa"
     Atata timp cat jucati normal, va miscati voi contul, pe cate un cont odata si nu cautati in mod explicit metode de a va creste activitatea in mod abuziv, nu aveti de ce sa va temeti sau sa va intereseze regulile de mai sus. Ele vizeaza efectiv jucatorii care cauta in mod explicit sa abuzeze, nicidecum jucatorii care joaca normal.
 
+### Munca Automata la Joburi
+<span style="color:var(--pink);">1.7.1</span> Este strict interzisa folosirea oricaror moduri, programe, scripturi sau alte metode care muncesc in mod automat in locul vostru la joburile de pe server, inclusiv a celor cumparate de la terti (<span style="color:red;">sanctiune: ban 14 zile</span>).
+
+<span style="color:var(--pink);">1.7.2</span> A doua abatere va fi sanctionata direct cu <span style="color:red;">ban permanent.</span>
+
+<span style="color:var(--pink);">1.7.3</span> Deoarece sanctiunile de mai sus sunt banuri de minim 14 zile, se vor sanctiona si conturile secundare cu level mai mare ale jucatorului, conform regulii 1.5.2.
+
+<span style="color:var(--pink);">1.7.4</span> Pe langa ban, in functie de cat de mult se considera ca a abuzat sau ar fi putut abuza jucatorul pana in momentul sanctionarii, stafful poate aplica si <span style="color:red;">resetarea skillului la 1 pentru jobul la care a avut loc abuzul</span>, iar dupa caz si <span style="color:red;">confiscarea de bani/bunuri in valoarea sumelor obtinute din acel job.</span>
+
+Exemple de munca automata la joburi:
+
+- moduri care conduc automat vehiculul jobului pe traseu sau prin checkpoint-uri (inclusiv modurile de tip route recording).
+- moduri care fac automat actiunile cerute de job (incarcarea, descarcarea, colectarea, livrarea, minigame-urile etc.).
+- programe externe sau macro-uri care apasa automat tastele sau butoanele cerute de job.
+
+!!! danger "Important"
+    Munca automata la joburi se sanctioneaza conform regulilor de mai sus si nu conform regulii 1.6.2, chiar daca metoda folosita va ajuta si la acumularea de ore jucate.
+
+    Regulile se aplica indiferent daca sunteti sau nu la calculator in timp ce se munceste automat in locul vostru.
+
 ### Inactivitate
-<span style="color:var(--pink);">1.7.1</span> Jucatorii care nu au minim 20 de ore REALE jucate in ultimele 2 luni de joc risca pierderea casei sau a tuturor actiunilor bizurilor detinute (fara vehicule).
+<span style="color:var(--pink);">1.8.1</span> Jucatorii care nu au minim 20 de ore REALE jucate in ultimele 2 luni de joc risca pierderea casei sau a tuturor actiunilor bizurilor detinute (fara vehicule).
 
-<span style="color:var(--pink);">1.7.2</span> Jucatorii cu case cumparate de pe shop au nevoie de minim 10 ore REALE in ultimele 2 luni pentru a nu le pierde.
+<span style="color:var(--pink);">1.8.2</span> Jucatorii cu case cumparate de pe shop au nevoie de minim 10 ore REALE in ultimele 2 luni pentru a nu le pierde.
 
-<span style="color:var(--pink);">1.7.3</span> Daca nu puteti juca, va sugeram sa vindeti proprietatile ca sa nu le pierdeti. Nu puteti recupera proprietatile pierdute din cauza inactivitatii.
+<span style="color:var(--pink);">1.8.3</span> Daca nu puteti juca, va sugeram sa vindeti proprietatile ca sa nu le pierdeti. Nu puteti recupera proprietatile pierdute din cauza inactivitatii.
 
-<span style="color:var(--pink);">1.7.4</span> Incercarile de ascundere a proprietatile de pe conturile inactive nu va vor scuti de pierderea acestora.
+<span style="color:var(--pink);">1.8.4</span> Incercarile de ascundere a proprietatile de pe conturile inactive nu va vor scuti de pierderea acestora.
 
 !!! example "Nota informativa"
     Ultimele 2 luni de joc sunt considerate intotdeauna ultimele 2 luni de dinaintea lunii in care ne aflam.
