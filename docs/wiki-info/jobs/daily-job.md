@@ -21,4 +21,4 @@ Jobul zilei este un sistem creat pentru a dubla castigurile la diferite joburi d
 
 La acest nou castig se vor adauga atat bonusul de 50% pentru utilizatorii Premium cat si alte bonusuri active pe contul jucatorului.
 
-Joburile Pocket Thief, Detective, Lawyer, Farmer, Bus Driver si Craftsman **nu pot** fi alese de catre sistem pentru Jobul Zilei.
+Joburile Pocket Thief, Lawyer, Farmer, Bus Driver si Craftsman **nu pot** fi alese de catre sistem pentru Jobul Zilei.

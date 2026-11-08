@@ -5,22 +5,22 @@ icon: material/truck
 # Trucker
 
 <figure markdown="span">
-  ![Locatie Job](/images/wiki/general/Trucker_sf_job_radar_photo_secondplace.png){ width="400" }
+  ![Locatie Job](/images/wiki/jobs/trucker/Trucker_sf_job_radar_photo_secondplace.png){ width="400" }
   <figcaption>Locatia jobului Trucker</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Jucator muncind](/images/wiki/general/1trucker.jpg){ width="500" }
+  ![Jucator muncind](/images/wiki/jobs/trucker/1trucker.jpg){ width="500" }
   <figcaption>Jucator muncind ca tirist</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Meniu curse](/images/wiki/general/Trucker_menu.png){ width="400" }
+  ![Meniu tipuri transport](/images/wiki/jobs/trucker/Trucker_menu.png){ width="400" }
   <figcaption>Lista curselor disponibile</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Meniu transport](/images/wiki/general/Trucker_menu2.png){ width="400" }
+  ![Meniu transport](/images/wiki/jobs/trucker/Trucker_menu2.png){ width="400" }
   <figcaption>Lista tipurilor de transport disponibile</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ In momentul seletarii cursei dorite, o sa fiti intrebati ce doriti sa transporta
     - Se pot primi intre 40 - 60 Argint.
     - Limita maxima este de 999 materiale. Daca aceasta limita s-a atins, respectivul material nu va mai putea fi primit.
     - Acest tip de transport este deblocat incepand cu skill 4.
-- **Fuel** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 25%** sa primiti de la companie **cu 30% mai multi bani** pe cursa respectiva.
+- **Combustibil** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 25%** sa primiti de la companie **cu 30% mai multi bani** pe cursa respectiva.
     - Acest tip de transport este deblocat incepand cu skill 7.
 - **Marfa** - in momentul efectuarii unui transport de acest tip dus-intors aveti **o sansa de 5%** sa primiti de la companie **o cutie aleatorie**.
     - Acest tip de transport este deblocat incepand cu skill 9.
@@ -210,7 +210,6 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 
 <figure markdown="span">
   ![Linerunner](/images/wiki/vehicles/403.png){ width="250" }
-  <figcaption>Linerunner</figcaption>
 </figure>
 
 - Viteza maxima: 110 KM/h
@@ -223,7 +222,6 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 
 <figure markdown="span">
   ![Tanker](/images/wiki/vehicles/514.png){ width="250" }
-  <figcaption>Tanker</figcaption>
 </figure>
 
 - Viteza maxima: 120 KM/h
@@ -236,7 +234,6 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 
 <figure markdown="span">
   ![Roadtrain](/images/wiki/vehicles/515.png){ width="250" }
-  <figcaption>Roadtrain</figcaption>
 </figure>
 
 - Viteza maxima: 142 KM/h
@@ -246,6 +243,34 @@ Jucatorii cu cont premium primesc cu 50% mai mult din plata de baza a jobului.
 - Tunabil: TransFender
 
 **Nota: Vitezele sunt aceleasi indiferent daca tirul are remorca sau nu.**
+
+
+## Munca cu tirul personal
+
+<figure markdown="span">
+  ![Meniu selectare tip vehicule](/images/wiki/jobs/trucker/Trucker_vehicle_type.png){ width="400" }
+  <figcaption>Lista vehiculelor de transport</figcaption>
+</figure>
+
+* Jucatorii care ating skill 10 la job pot alege cu ce camion/remorca vor sa munceasca, cu cele oferite de job, sau cu cele personale.
+* Odata folosita comanda [/work] o sa vi se afiseze un dialog prin care trebuie sa alegi cum vreti sa munciti:
+    * Camion de job + remorca de job.
+    * Camion personal + remorca de job.
+    * Camion de job + remorca personala.
+    * Camion personal + remorca personala.
+        * <strong>Vehiculele personale trebuie sa apartina jucatorului care vrea sa munceasca, cele imprumutate de la alti jucatori nu sunt acceptate.</strong>
+* Cand jucatorii folosesc o remorca de job ei pot alege ce tip de transport sa efectueze.
+* Cand jucatorii folosesc o remorca personala, tipul transportului este determinat automat in functie de tipul remorcii:
+    * **Remorca Comerciala (id: 435):** se vor transporta bunuri comerciale.
+    * **Remorca de Constructii (id 450):** se vor transporta marteriale de constructii.
+    * **Remorca de Combustibil (id 584):** se vor transporta combustibil.
+    * **Remorca de Marfa (id 591):** se vor transporta marfuri.
+* Remorcile personale sunt detasate dupa livrare si raman dispobile pentru misiunile urmatoare.
+* Vehiculele personae sau anularea jobului pastreaza in continuare vehiculele persoane spawnate, se vor despawna doar cele de job.
+
+!!! warning
+    Munca cu vehiculele persoanle **nu ofera niciun castig in plus** fata de plata primita cu vehiculele de job.
+
 
 ## Comenzi specifice
 

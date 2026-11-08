@@ -21,4 +21,4 @@ The Daily Job is a system created to double the earnings from various server job
 
 This new earning will be added on top of the 50% bonus for Premium users as well as other active bonuses on the player's account.
 
-The jobs Pocket Thief, Detective, Lawyer, Farmer, Bus Driver and Craftsman **cannot** be selected by the system for the Daily Job.
+The jobs Pocket Thief, Lawyer, Farmer, Bus Driver and Craftsman **cannot** be selected by the system for the Daily Job.

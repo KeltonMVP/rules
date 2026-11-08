@@ -763,6 +763,16 @@ After you have made the desired modifications you need to use the **Save** butto
 <div><b>2026 Valentine's Quest</b> - awarded to players who have completed the quest on Valentine's Day in 2026.</div>
 </div>
 
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/18_Years_Together.png" width="65" style="margin-right: 15px;">
+<div><b>18 Years Together</b> - awarded to players who completed the quest on the occasion of community days in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Halloween.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Halloween Quest</b> - awarded to players who have completed the quest on the occasion of Halloween in 2026.</div>
+</div>
+
 
 
 #### Badges awarded at Battlepass on Discord

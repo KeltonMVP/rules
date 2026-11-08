@@ -10,19 +10,25 @@ icon: material/truck
 </figure>
 
 <figure markdown="span">
-  ![Player working](/images/wiki/general/1trucker.jpg){ width="500" }
+  ![Player working](/images/wiki/jobs/trucker/1trucker.jpg){ width="500" }
   <figcaption>Player working as a trucker</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Routes menu](/images/wiki/general/Trucker_menu.png){ width="400" }
+  ![Routes menu](/images/wiki/jobs/trucker/Trucker_menu.png){ width="400" }
   <figcaption>List of available routes</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Transport menu](/images/wiki/general/Trucker_menu2.png){ width="400" }
+  ![Transport menu types](/images/wiki/jobs/trucker/Trucker_menu2.png){ width="400" }
   <figcaption>List of available transport types</figcaption>
 </figure>
+
+<figure markdown="span">
+  ![Transport vehicles types](/images/wiki/jobs/trucker/Trucker_vehicle_type.png){ width="400" }
+  <figcaption>List of available transport vehicles types</figcaption>
+</figure>
+
 
 The base where all truckers load cargo into trailers is located between the three main cities, near the airport in San Fierro. This area is frequented by a large number of players, which makes it extremely crowded, even though the complex is quite large. Drive carefully inside the headquarters to avoid unwanted incidents. Continue reading this article, below you will find useful information about job earnings, skill advancement and other details.
 
@@ -210,7 +216,6 @@ Players with premium accounts receive 50% more of the job's base payment.
 
 <figure markdown="span">
   ![Linerunner](/images/wiki/vehicles/403.png){ width="250" }
-  <figcaption>Linerunner</figcaption>
 </figure>
 
 - Maximum speed: 110 KM/h
@@ -223,7 +228,6 @@ Players with premium accounts receive 50% more of the job's base payment.
 
 <figure markdown="span">
   ![Tanker](/images/wiki/vehicles/514.png){ width="250" }
-  <figcaption>Tanker</figcaption>
 </figure>
 
 - Maximum speed: 120 KM/h
@@ -236,7 +240,6 @@ Players with premium accounts receive 50% more of the job's base payment.
 
 <figure markdown="span">
   ![Roadtrain](/images/wiki/vehicles/515.png){ width="250" }
-  <figcaption>Roadtrain</figcaption>
 </figure>
 
 - Maximum speed: 142 KM/h
@@ -247,12 +250,38 @@ Players with premium accounts receive 50% more of the job's base payment.
 
 **Note: The speeds are the same whether the truck has a trailer or not.**
 
+
+## Working with Personal Trucks
+
+<figure markdown="span">
+  ![Selection menu of vehicle type](/images/wiki/jobs/trucker/Trucker_vehicle_type.png){ width="400" }
+  <figcaption>Transport vehicles list</figcaption>
+</figure>
+
+* Players who reach skill level 10 in the job can choose whether to use the trucks/trailers provided by the job or their own personal ones.
+* Once the [/work] command is used, a dialog will appear, allowing you to select how you wish to work:
+    * Job truck + job trailer. 
+    * Personal truck + job trailer. 
+    * Job truck + personal trailer. 
+    * Personal truck + personal trailer. 
+        * <strong>Personal vehicles must belong to the player performing the job; vehicles borrowed from other players are not accepted.</strong>
+* When using a job-provided trailer, players can choose the type of cargo to transport.
+* When using a personal trailer, the cargo type is automatically determined based on the trailer type:
+    * **Commercial Trailer (ID: 435):** Used for transporting commercial goods. 
+    * **Construction Trailer (ID: 450):** Used for transporting construction materials. 
+    * **Fuel Trailer (ID: 584):** Used for transporting fuel. 
+    * **Cargo Trailer (ID: 591):** Used for transporting general cargo.
+* Personal trailers are detached after delivery and remain available for subsequent missions.
+* If personal vehicles are used, or if the job is cancelled, the personal vehicles will remain spawned; only the job-provided vehicles will be despawned.
+
+!!! warning
+    Working with personal vehicles **does not provide any additional earnings** compared to the pay received when using job-provided vehicles.
+
+
 ## Specific commands
 
 ### /work
-
 Using this command, the server will offer you the appropriate vehicle (and a trailer), depending on your skill to start work. If you are not close enough to the location set as the mission starting point, the server will guide you to this area by fixing a red dot on your radar.
 
 ### /detach
-
 Using this command, the server detaches the current trailer you have attached to the truck. The command works even if the truck and trailer are personal.

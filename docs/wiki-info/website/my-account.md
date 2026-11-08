@@ -763,6 +763,16 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 <div><b>2026 Valentine's Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei indragostitilor in 2026.</div>
 </div>
 
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/18_Years_Together.png" width="65" style="margin-right: 15px;">
+<div><b>18 Years Together</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilelor comunitatii in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Halloween.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Halloween Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia halloween-ului in 2026.</div>
+</div>
+
 
 
 #### Badge-uri acordate la Battlepass-uri pe Discord
