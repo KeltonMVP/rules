@@ -17,9 +17,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/clothes]</span> - pentru a schimba skinul in magazinele de haine, in HQ sau in casa.
 - <span style="color:var(--pink);">[/fvs]</span> - pentru a spawna un vehicul al factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
-- <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
+- <span style="color:var(--pink);">[/fdeposit]</span> - adauga bani, materiale sau droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii. 
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre medici ce pot fi acceptate.
 - <span style="color:var(--pink);">[/corpses]</span> - afiseaza o lista cu toate cadavrele ce pot fi ridicate.

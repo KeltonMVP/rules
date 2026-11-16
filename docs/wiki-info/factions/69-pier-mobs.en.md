@@ -227,14 +227,19 @@ In case a member of a mafia needs help, they can use /backup to ask for help fro
 
 Any mafioso with rank 3 or higher has the right to use these two commands. They do nothing but kidnap, respectively release a player, the victim being unable to move.
 
-### /fput & /fget
+### /fdeposit & /fwithdraw
 
-The /fput and /fget commands use one of the following parameters:
+The /fdeposit and /fwithdraw commands use one of the following parameters:
 
-*materials
-*drugs
+- money
+- materials
+- drugs
 
-To deposit materials or drugs the /fput command is used, and to take them the /fget command is used.
+To deposit money, materials or drugs use the /fdeposit command, and to take them use the /fwithdraw command.
+
+_Example: /fdeposit materials 5000 and /fwithdraw drugs 100_
+
+The leader has no daily limit. Other members can take at most $250,000, 200,000 materials and 400 grams of drugs per day, and the leader can change these limits for each member from /members, under Daily withdrawal limits.
 
 ### /stealers
 

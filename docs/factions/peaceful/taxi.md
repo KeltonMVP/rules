@@ -23,13 +23,9 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fvs]</span> - spawnezi un vehicul al factiunii.
 - <span style="color:var(--pink);">[/fmotd]</span> - vezi mesajul zilei.
       - pentru Lider/sublider: scrie / sterge mesajul zilei.
-- <span style="color:var(--pink);">[/fdeposit < suma >]</span> - depui o suma de bani in seiful factiunii.
-- <span style="color:var(--pink);">[/fputmaterials < cantitate >]</span> - depui o cantitate de materiale in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetmaterials < cantitate >]</span> - extragi o cantitate de materiale din seiful factiunii.
-- <span style="color:var(--pink);">[/fputdrugs < cantitate >]</span> - depui o cantitate de droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetdrugs < cantitate >]</span> - extragi o cantitate de droguri din seiful factiunii.
-- <span style="color:var(--pink);">[/fwithdrawpower < 1-6 >]</span> - aceasta comanda permite membrilor de anumite rank-uri sa extraga bani din seiful factiunii.
-- <span style="color:var(--pink);">[/fwithdraw < suma >]</span> - extragi o suma de bani din seiful factiunii ca Lider/sublider.
+- <span style="color:var(--pink);">[/fdeposit < money/materials/drugs > < cantitate >]</span> - depui bani, materiale sau droguri in seiful factiunii.
+- <span style="color:var(--pink);">[/fwithdrawpower < money/drugs/materials > < 1-6 >]</span> - aceasta comanda permite membrilor de anumite rank-uri sa extraga bani, droguri sau materiale din seiful factiunii.
+- <span style="color:var(--pink);">[/fwithdraw < money/materials/drugs > < cantitate >]</span> - extragi bani, materiale sau droguri din seiful factiunii (rank stabilit de lider), in limita ta zilnica.
 - <span style="color:var(--pink);">[/vehrank]</span> - setezi rankul vehiculelor factiunii. Se poate folosi numai in interiorul HQ-ului ca Lider/sublider.
 - <span style="color:var(--pink);">[/testers]</span> - vezi testerii online / la datorie ca Lider/sublider.
 - <span style="color:var(--pink);">[/tduty]</span> - devii la datorie ca tester de la rank 4.

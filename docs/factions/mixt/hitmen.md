@@ -12,11 +12,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/clothes]</span> - pentru a schimba skinul, poate fi schimbat in casa, HQ sau intr-un magazin de haine.
 - <span style="color:var(--pink);">[/fvs]</span> - pentru a spawna un vehicul al factiunii.
 - <span style="color:var(--pink);">[/fvr]</span> - cu ajutorul acestei comenzi se respawneaza toate masinile factiunii (rank 5+).
-- <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
-- <span style="color:var(--pink);">[/fgetdrugs]</span> - cu ajutorul acestei comenzi puteti lua droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetmaterials]</span> - cu ajutorul acestei comenzi puteti lua materiale in seiful factiunii.
+- <span style="color:var(--pink);">[/fdeposit]</span> - adauga bani, materiale sau droguri in seiful factiunii.
+- <span style="color:var(--pink);">[/fwithdraw]</span> - cu ajutorul acestei comenzi puteti lua bani, materiale sau droguri din seiful factiunii, in limita ta zilnica.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklist-ul factiunii.
 - <span style="color:var(--pink);">[/tog Hitman Contracts]</span> - activeaza/dezactiveaza mesajele legate de contracte.

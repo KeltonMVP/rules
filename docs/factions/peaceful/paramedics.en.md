@@ -17,9 +17,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/clothes]</span> - to change your skin inside the clothes store, HQ or house.
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/timestamp]</span> - displays the time in chat. This command should always be active.
-- <span style="color:var(--pink);">[/fdeposit]</span> - adds a sum of money to the faction's safe.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - deposits drugs into the faction's safe.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - deposits materials into the faction's safe.
+- <span style="color:var(--pink);">[/fdeposit]</span> - adds money, materials or drugs to the faction's safe.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - displays the list of players on the faction's blacklist.
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to medics that can be accepted.
 - <span style="color:var(--pink);">[/corpses]</span> - displays a list of all corpses that can be picked up.

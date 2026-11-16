@@ -17,9 +17,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/fvr]</span> - with this command, all faction vehicles respawn (rank 5+).
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/timestamp]</span> - shows the time in chat. This command must always be active.
-- <span style="color:var(--pink);">[/fdeposit]</span> - add a sum of money to the faction safe.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - deposit drugs into the faction safe.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - deposit materials into the faction safe.
+- <span style="color:var(--pink);">[/fdeposit]</span> - add money, materials or drugs to the faction safe.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction blacklist.
 - <span style="color:var(--pink);">[/onduty]</span> - displays a list of all on-duty members.
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all mechanic service calls that can be accepted.

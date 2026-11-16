@@ -39,7 +39,7 @@ Warurile sunt confruntarile dintre ganguri, in urma carora se poate castiga resp
 * Gangsterii sunt obligati sa ofere arme coechipierilor la cerere.
 * Pentru a vinde arme, se foloseste comanda /sellgun.
 * Pentru ca vinderea armelor sa fie posibila, gangsterii au nevoie de materiale.
-* Exista comanda */fput materials* respectiv */fget materials* pentru controlul seifului de materiale al gangului.
+* Exista comenzile */fdeposit materials* respectiv */fwithdraw materials* pentru controlul seifului de materiale al gangului.
 * Aflati mai multe detalii despre materiale accesand pagina jobului Arms Dealer.
 
 ### Arme in functie de rang
@@ -80,7 +80,7 @@ In cazul in care un gangster ramane fara viata, el poate folosi droguri pentru a
 - Ecstasy - Acest drog poate fi folosit utilizand comanda */usedrugs ecstasy*. Se vor consuma 26 grame din totalul de droguri detinut, iar jucatorul va primi 50 HP. Spre deosebire de celelalte droguri, acesta ofera 10% dependenta si un efect secundar neobisnuit. Odata folosit acest drog caracterul va cadea la pamant automat pentru 10 secunde. in acest timp comanda /stopanim este inutila.
 - Meth sau metamfetamina - Acest drog este cel mai puternic, insa si cel mai de folos datorita consecintelor. Folosind comanda */usedrugs meth*, se vor consuma 38 grame de droguri. Jucatorul va primi 100% HP, insa si 20% dependenta si imposibilitatea de a se misca timp de 20 de secunde.
 
-Nota 1: Exista comanda */fput drugs* respectiv */fget drugs* pentru controlul seifului de droguri al gangului.
+Nota 1: Exista comenzile */fdeposit drugs* respectiv */fwithdraw drugs* pentru controlul seifului de droguri al gangului.
 
 Nota 2: Aceasta dependenta poate fi scazuta de la spitalul din orasul Los Santos folosind comanda /rehab.
 

@@ -148,9 +148,9 @@ This command is used by faction leaders to talk on the chat designated for leade
 
 ### /fwithdraw
 
-By typing the /fwithdraw command without specifying any parameter, you will get information about the amount of money held at that moment by the faction safe. To withdraw money from the faction safe, the amount of money is used as a parameter.
+The command is used to take money, materials or drugs from the faction safe. The type (money, materials or drugs) and the amount are used as parameters. Members who are not leaders have a daily limit, which the leader can change from /members.
 
-_Example: /fwithdraw 15000_
+_Example: /fwithdraw money 15000_
 
 ### /fmotd
 
@@ -158,11 +158,11 @@ By typing the /fmotd command without specifying any parameter, the server will s
 
 _Example: /fmotd Everyone to HQ!_
 
-### /fget & /fput
+### /fdeposit
 
-The command is used to put or take drugs or materials from HQ.
+The command is used to deposit money, materials or drugs in the faction safe. Typing the command without parameters shows what the safe contains.
 
-_Example: /fgetdrugs 100 and /fgetmaterials 100000_
+_Example: /fdeposit drugs 100 and /fdeposit materials 100000_
 
 ### /setgc
 
@@ -252,21 +252,19 @@ The command displays the top clans holding turfs.
 
 ### /clanwithdraw
 
-With this command, any member with rank 6+ can take money from the clan safe.
+With this command you can take money, materials or drugs from the clan safe, if you have the rank set by the clan leader. All members except the clan leader have a daily limit, which the leader can change from /clanmembers.
+
+_Example: /clanwithdraw materials 100000_
 
 ### /clandeposit
 
-With this command you can deposit money in the clan safe.
+With this command you can deposit money, materials or drugs in the clan safe.
 
-### /clanput & /clanget
-
-With this command you can put or retrieve materials or drugs.
-
-_Example: /clanputmaterials 1000000_
+_Example: /clandeposit materials 1000000_
 
 ### /cwithdrawpower
 
-The command is only available to clan leaders, they can set a rank that can use the /clanwithdraw and /clanget(drugs/materials) command.
+The command is only available to clan leaders, they can set the minimum rank that can use the /clanwithdraw command for money, materials or drugs.
 
 ### /claimhq
 

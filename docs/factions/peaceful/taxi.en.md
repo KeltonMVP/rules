@@ -23,13 +23,9 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/fvs]</span> - spawn a faction vehicle.
 - <span style="color:var(--pink);">[/fmotd]</span> - view the message of the day.
     - for Leader/Subleader: write/delete the message of the day.
-- <span style="color:var(--pink);">[/fdeposit < amount >]</span> - deposit an amount of money into the faction's safe.
-- <span style="color:var(--pink);">[/fputmaterials < quantity >]</span> - deposit a quantity of materials into the faction's safe.
-- <span style="color:var(--pink);">[/fgetmaterials < quantity >]</span> - extract a quantity of materials from the faction's safe.
-- <span style="color:var(--pink);">[/fputdrugs < quantity >]</span> - deposit a quantity of drugs into the faction's safe.
-- <span style="color:var(--pink);">[/fgetdrugs < quantity >]</span> - extract a quantity of drugs from the faction's safe.
-- <span style="color:var(--pink);">[/fwithdrawpower < 1-6 >]</span> - this command allows members of certain ranks to withdraw money from the faction's safe.
-- <span style="color:var(--pink);">[/fwithdraw < amount >]</span> - withdraw a sum of money from the faction's safe as Leader/Subleader.
+- <span style="color:var(--pink);">[/fdeposit < money/materials/drugs > < amount >]</span> - deposit money, materials or drugs into the faction's safe.
+- <span style="color:var(--pink);">[/fwithdrawpower < money/drugs/materials > < 1-6 >]</span> - this command allows members of certain ranks to withdraw money, drugs or materials from the faction's safe.
+- <span style="color:var(--pink);">[/fwithdraw < money/materials/drugs > < amount >]</span> - withdraw money, materials or drugs from the faction's safe (rank set by the leader), within your daily limit.
 - <span style="color:var(--pink);">[/vehrank]</span> - set the rank of faction vehicles. Can only be used inside the HQ as Leader/Subleader.
 - <span style="color:var(--pink);">[/testers]</span> - see online testers/on duty as Leader/Subleader.
 - <span style="color:var(--pink);">[/tduty]</span> - become on duty as a tester from rank 4.

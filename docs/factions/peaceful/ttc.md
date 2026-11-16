@@ -17,9 +17,7 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fvr]</span> - cu ajutorul acestei comenzi se respawneaza toate masinile factiunii (rank 5+).
 - <span style="color:var(--pink);">[/fvs]</span> - pentru a spawna un vehicul al factiunii.
 - <span style="color:var(--pink);">[/timestamp]</span> - iti arata timpul in chat. Aceasta comanda trebuie sa fie activa mereu.
-- <span style="color:var(--pink);">[/fdeposit]</span> - adauga o suma de bani in seiful factiunii.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - depune droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - depune materiale in seiful factiunii
+- <span style="color:var(--pink);">[/fdeposit]</span> - adauga bani, materiale sau droguri in seiful factiunii.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - lista cu jucatorii de pe blacklistul factiunii.
 - <span style="color:var(--pink);">[/onduty]</span> - afiseaza o lista cu toti membrii on-duty.
 - <span style="color:var(--pink);">[/servicecalls]</span> - afiseaza o lista cu toate apelurile catre mecanici ce pot fi acceptate.

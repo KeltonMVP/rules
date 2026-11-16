@@ -224,14 +224,19 @@ In cazul in care un membru al unei mafii are nevoie de ajutor, acesta poate sa f
 
 Orice mafiot cu rang 3 sau mai mare are dreptul la utilizarea acestor doua comenzi. Ele nu fac altceva decat sa rapeasca, respectiv elibereze un jucator, victima nemaiputand sa se miste.
 
-### /fput & /fget
+### /fdeposit & /fwithdraw
 
-Comenzile /fput si /fget folosesc unul dintre parametrii urmatori:
+Comenzile /fdeposit si /fwithdraw folosesc unul dintre parametrii urmatori:
 
-*materials
-*drugs
+- money
+- materials
+- drugs
 
-Pentru a depozita materiale sau droguri se foloseste comanda /fput, iar pentru a lua se foloseste comanda /fget.
+Pentru a depozita bani, materiale sau droguri se foloseste comanda /fdeposit, iar pentru a le lua se foloseste comanda /fwithdraw.
+
+_Exemplu: /fdeposit materials 5000 si /fwithdraw drugs 100_
+
+Liderul nu are limita zilnica. Ceilalti membri pot lua pe zi cel mult 250.000$, 200.000 materiale si 400 grame de droguri, iar liderul poate schimba aceste limite pentru fiecare membru din /members, la Limite zilnice de retragere.
 
 ### /stealers
 

@@ -9,10 +9,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 ## 1. Comenzile Factiunii
 
 - <span style="color:var(--pink);">[/f]</span> - (rank 1) chatul gangului.
-- <span style="color:var(--pink);">[/fdeposit]</span> - (rank 1) depozitezi bani in seiful gangului.
-- <span style="color:var(--pink);">[/fwithdraw]</span> - (rank stabilit de lider) retragi bani din seiful factiunii.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - (rank 1) depozitezi droguri in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetdrugs]</span> - (rank 1) retragi droguri din seiful factiunii.
+- <span style="color:var(--pink);">[/fdeposit]</span> - (rank 1) depozitezi bani, materiale sau droguri in seiful gangului.
+- <span style="color:var(--pink);">[/fwithdraw]</span> - (rank stabilit de lider) retragi bani, materiale sau droguri din seiful factiunii, in limita ta zilnica.
 - <span style="color:var(--pink);">[/turfs]</span> - (rank 1) vizionezi teritoriile gangului pe harta.
 - <span style="color:var(--pink);">[/gc]</span> - (rank 1) chatul aliantei.
 - <span style="color:var(--pink);">[/leavewar]</span> - (rank 1) parasesti warurile optionale.
@@ -26,8 +24,6 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 - <span style="color:var(--pink);">[/fvr]</span> - (rank 5) respawnezi toate vehiculele factiunii.
 - <span style="color:var(--pink);">[/ftalkpower]</span> - (rank 5) setezi rankul minim pentru a putea vorbi pe chatul factiunii.
 - <span style="color:var(--pink);">[/fwithdrawpower]</span> - (Lider) modifici rankul de la care poate fi accesat seiful factiunii.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - (rank 1) depozitezi materiale in seiful factiunii.
-- <span style="color:var(--pink);">[/fgetmaterials]</span> - (rank 1) retragi materiale din seiful factiunii.
 - <span style="color:var(--pink);">[/skins]</span> - (rank 1) schimbi skinul de factiune.
 - <span style="color:var(--pink);">[/setgc]</span> - (Lider) aplica o restrictie pe chatul factiunii.
 - <span style="color:var(--pink);">[/upcomingwars]</span> - (rank 1) arata warurile ce urmeaza.

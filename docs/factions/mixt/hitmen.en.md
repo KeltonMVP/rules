@@ -12,11 +12,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/clothes]</span> - to change the skin, it can be done at home, HQ, or at a clothing store.
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/fvr]</span> - using this command respawns all faction vehicles (rank 5+).
-- <span style="color:var(--pink);">[/fdeposit]</span> - adds a sum of money to the faction vault.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - deposits drugs into the faction vault.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - deposits materials into the faction vault.
-- <span style="color:var(--pink);">[/fgetdrugs]</span> - with this command, you can take drugs from the faction vault.
-- <span style="color:var(--pink);">[/fgetmaterials]</span> - with this command, you can take materials from the faction vault.
+- <span style="color:var(--pink);">[/fdeposit]</span> - adds money, materials or drugs to the faction vault.
+- <span style="color:var(--pink);">[/fwithdraw]</span> - with this command, you can take money, materials or drugs from the faction vault, within your daily limit.
 - <span style="color:var(--pink);">[/timestamp]</span> - shows the time in chat. This command must always be active.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction blacklist.
 - <span style="color:var(--pink);">[/tog Hitman Contracts]</span> - toggles hitman contract messages on/off.

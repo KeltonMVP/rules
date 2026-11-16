@@ -20,9 +20,7 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/clothes]</span> - to change the skin at clothing stores, HQ, or at home.
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/timestamp]</span> - shows the time in chat. This command must always be active.
-- <span style="color:var(--pink);">[/fdeposit]</span> - adds a sum of money to the faction's safe.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - deposit drugs into the faction's safe.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - deposit materials into the faction's safe.
+- <span style="color:var(--pink);">[/fdeposit]</span> - adds money, materials or drugs to the faction's safe.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction blacklist.
 - <span style="color:var(--pink);">[/onduty]</span> - displays a list of all online members, with on-duty members highlighted in green (Rank 3+).
 - <span style="color:var(--pink);">[/servicecalls]</span> - displays a list of all calls to instructors that can be accepted.

@@ -39,7 +39,7 @@ Wars are confrontations between gangs, as a result of which respect and supremac
 * Gangsters are required to provide weapons to teammates upon request.
 * To sell weapons, use the /sellgun command.
 * For the sale of weapons to be possible, gangsters need materials.
-* There is the */fput materials* and */fget materials* commands for controlling the gang's materials safe.
+* There are the */fdeposit materials* and */fwithdraw materials* commands for controlling the gang's materials safe.
 * Find out more details about materials by accessing the Arms Dealer job page.
 
 ### Weapons by rank
@@ -80,7 +80,7 @@ In case a gangster runs out of health, they can use drugs to recover it. Dependi
 - Ecstasy - This drug can be used using the command */usedrugs ecstasy*. 26 grams from the total drugs held will be consumed, and the player will receive 50 HP. Unlike other drugs, this offers 10% addiction and an unusual side effect. Once this drug is used, the character will automatically fall to the ground for 10 seconds. During this time the /stopanim command is useless.
 - Meth or methamphetamine - This drug is the most powerful, but also the most useful due to the consequences. Using the command */usedrugs meth*, 38 grams of drugs will be consumed. The player will receive 100% HP, but also 20% addiction and the inability to move for 20 seconds.
 
-Note 1: There is the */fput drugs* and */fget drugs* commands for controlling the gang's drug safe.
+Note 1: There are the */fdeposit drugs* and */fwithdraw drugs* commands for controlling the gang's drug safe.
 
 Note 2: This addiction can be reduced at the Los Santos city hospital using the /rehab command.
 

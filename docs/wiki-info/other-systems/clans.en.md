@@ -686,28 +686,17 @@ To be continued..
 * This command will display the best clans on the server as well as the number of zones they own.
 
 ### /clanwithdraw
-* This command will allow you to withdraw money from the clan safe.
+* This command will allow you to withdraw money, materials or drugs from the clan safe: /clanwithdraw < money/materials/drugs > < amount >.
+* The clan owner has no daily limit. Other members can withdraw at most $250,000, 200,000 materials and 400 drugs per day, and the owner can change these limits for each member from /clanmembers, under Change clan powers. Materials spent with /corder also count towards this limit.
 
 ### /clandeposit
-* This command will allow you to deposit money in the clan safe.
-
-### /clanputmaterials
-* This command will allow you to deposit materials in the clan safe.
-
-### /clanputdrugs
-* This command will allow you to deposit drugs in the clan safe.
-
-### /clangetmaterials
-* This command will allow you to withdraw materials from the clan safe.
-
-### /clangetdrugs
-* This command will allow you to withdraw drugs from the clan safe.
+* This command will allow you to deposit money, materials or drugs in the clan safe: /clandeposit < money/materials/drugs > < amount >.
 
 ### /leaveraid
 To be continued..
 
-### /clanwithdrawpower
-* This command allows setting a minimum rank for using the /clanwithdraw command.
+### /cwithdrawpower
+* This command allows setting a minimum rank for withdrawing money, materials or drugs with /clanwithdraw.
 
 ### /claimhq
 * This command allows acquiring a clan HQ from a certain level.

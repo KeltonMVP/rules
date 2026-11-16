@@ -12,11 +12,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 - <span style="color:var(--pink);">[/clothes]</span> - to change your skin, it can be done at home, HQ, or at a clothing store.
 - <span style="color:var(--pink);">[/fvs]</span> - to spawn a faction vehicle.
 - <span style="color:var(--pink);">[/fvr]</span> - with this command, all faction vehicles respawn (rank 5+).
-- <span style="color:var(--pink);">[/fdeposit]</span> - add a sum of money to the faction's safe.
-- <span style="color:var(--pink);">[/fputdrugs]</span> - deposit drugs into the faction's safe.
-- <span style="color:var(--pink);">[/fputmaterials]</span> - deposit materials into the faction's safe.
-- <span style="color:var(--pink);">[/fgetdrugs]</span> - with this command, you can take drugs from the faction's safe.
-- <span style="color:var(--pink);">[/fgetmaterials]</span> - with this command, you can take materials from the faction's safe.
+- <span style="color:var(--pink);">[/fdeposit]</span> - add money, materials or drugs to the faction's safe.
+- <span style="color:var(--pink);">[/fwithdraw]</span> - with this command, you can take money, materials or drugs from the faction's safe, within your daily limit.
 - <span style="color:var(--pink);">[/timestamp]</span> - shows the time in the chat. This command must always be active.
 - <span style="color:var(--pink);">[/blacklist [/bl]]</span> - list of players on the faction's blacklist.
 - <span style="color:var(--pink);">[/work]</span> - to start stealing a personal or police motorcycle.

@@ -148,9 +148,9 @@ Aceasta comanda este utilizata de liderii factiunilor pentru a vorbi pe chatul d
 
 ### /fwithdraw
 
-Tastand comanda /fwithdraw fara a specifica vreun parametru, veti obtine informatii despre suma de bani detinuta in acel moment de seiful factiunii. Pentru a sustrage bani din seiful factiunii, se foloseste drept parametru suma de bani.
+Comanda este folosita pentru a lua bani, materiale sau droguri din seiful factiunii. Se folosesc drept parametri tipul (money, materials sau drugs) si cantitatea. Membrii care nu sunt lideri au o limita zilnica, pe care liderul o poate schimba din /members.
 
-_Exemplu: /fwithdraw 15000_
+_Exemplu: /fwithdraw money 15000_
 
 ### /fmotd
 
@@ -158,11 +158,11 @@ Tastand comanda /fmotd fara a specifica vreun parametru, serverul va va trimete 
 
 _Exemplu: /fmotd Toata lumea la HQ!_
 
-### /fget & /fput
+### /fdeposit
 
-Comanda este folosita pentru a pune sau a lua droguri sau materiale din HQ.
+Comanda este folosita pentru a depozita bani, materiale sau droguri in seiful factiunii. Tastand comanda fara parametri, veti vedea ce contine seiful.
 
-_Exemplu: /fgetdrugs 100 si /fgetmaterials 100000_
+_Exemplu: /fdeposit drugs 100 si /fdeposit materials 100000_
 
 ### /setgc
 
@@ -252,21 +252,19 @@ Comanda afiseaza topul clanurilor detinатoare de turfuri.
 
 ### /clanwithdraw
 
-Cu aceasta comanda, orice membru cu rang 6+ poate lua bani din seiful clanului.
+Cu aceasta comanda puteti lua bani, materiale sau droguri din seiful clanului, daca aveti rangul stabilit de liderul clanului. Toti membrii, in afara de liderul clanului, au o limita zilnica, pe care acesta o poate schimba din /clanmembers.
+
+_Exemplu: /clanwithdraw materials 100000_
 
 ### /clandeposit
 
-Cu aceasta comanda puteti depozita bani in seiful clanului.
+Cu aceasta comanda puteti depozita bani, materiale sau droguri in seiful clanului.
 
-### /clanput & /clanget
-
-Cu aceasta comanda puteti pune sau prelua materiale sau droguri.
-
-_Exemplu: /clanputmaterials 1000000_
+_Exemplu: /clandeposit materials 1000000_
 
 ### /cwithdrawpower
 
-Comanda este disponibila doar pentru liderii de clan, acestia pot seta un rang care poate folosi comanda /clanwithdraw si /clanget(drugs/materials)
+Comanda este disponibila doar pentru liderii de clan, acestia pot seta rangul minim care poate folosi comanda /clanwithdraw pentru bani, materiale sau droguri.
 
 ### /claimhq
 

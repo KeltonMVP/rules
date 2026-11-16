@@ -689,28 +689,17 @@ To be continued..
 * Aceasta comanda va afiseaza cele mai bune clanuri de pe server cat si numarul de zone detinute de acestea.
 
 ### /clanwithdraw
-* Aceasta comanda va permite retragerea de bani din seiful clanului.
+* Aceasta comanda va permite retragerea de bani, materiale sau droguri din seiful clanului: /clanwithdraw < money/materials/drugs > < cantitate >.
+* Proprietarul clanului nu are limita zilnica. Ceilalti membri pot retrage pe zi cel mult 250.000$, 200.000 materiale si 400 droguri, iar proprietarul poate schimba aceste limite pentru fiecare membru din /clanmembers, la Schimba accesele in clan. Materialele folosite cu /corder intra si ele in aceasta limita.
 
 ### /clandeposit
-* Aceasta comanda va permite depozitarea de bani in seiful clanului.
-
-### /clanputmaterials
-* Aceasta comanda va permite depozitarea de materiale in seiful clanului.
-
-### /clanputdrugs
-* Aceasta comanda va permite depozitarea de droguri in seiful clanului.
-
-### /clangetmaterials
-* Aceasta comanda va permite retragerea de materiale din seiful clanului.
-
-### /clangetdrugs
-* Aceasta comanda va permite retragerea de droguri din seiful clanului.
+* Aceasta comanda va permite depozitarea de bani, materiale sau droguri in seiful clanului: /clandeposit < money/materials/drugs > < cantitate >.
 
 ### /leaveraid
 To be continued..
 
-### /clanwithdrawpower
-* Aceasta comanda permite stabilirea unui rank minim pentru folosirea comenzii /clanwithdraw.
+### /cwithdrawpower
+* Aceasta comanda permite stabilirea unui rank minim pentru retragerea banilor, materialelor sau drogurilor cu /clanwithdraw.
 
 ### /claimhq
 * Aceasta comanda permite dobandirea unui HQ de clan de la un anumit nivel.
