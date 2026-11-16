@@ -7452,10 +7452,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#fget-fput" class="md-nav__link">
+  <a href="#fdeposit" class="md-nav__link">
     <span class="md-ellipsis">
       
-        /fget &amp; /fput
+        /fdeposit
       
     </span>
   </a>
@@ -7704,17 +7704,6 @@
     <span class="md-ellipsis">
       
         /clandeposit
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#clanput-clanget" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        /clanput &amp; /clanget
       
     </span>
   </a>
@@ -9388,10 +9377,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#fget-fput" class="md-nav__link">
+  <a href="#fdeposit" class="md-nav__link">
     <span class="md-ellipsis">
       
-        /fget &amp; /fput
+        /fdeposit
       
     </span>
   </a>
@@ -9647,17 +9636,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#clanput-clanget" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        /clanput &amp; /clanget
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#cwithdrawpower" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -9871,14 +9849,14 @@ The second option is <strong>Faction Tests</strong>, and using this option you c
 <h3 id="lc">/lc<a class="headerlink" href="#lc" title="Permanent link">&para;</a></h3>
 <p>This command is used by faction leaders to talk on the chat designated for leaders.</p>
 <h3 id="fwithdraw">/fwithdraw<a class="headerlink" href="#fwithdraw" title="Permanent link">&para;</a></h3>
-<p>By typing the /fwithdraw command without specifying any parameter, you will get information about the amount of money held at that moment by the faction safe. To withdraw money from the faction safe, the amount of money is used as a parameter.</p>
-<p><em>Example: /fwithdraw 15000</em></p>
+<p>The command is used to take money, materials or drugs from the faction safe. The type (money, materials or drugs) and the amount are used as parameters. Members who are not leaders have a daily limit, which the leader can change from /members.</p>
+<p><em>Example: /fwithdraw money 15000</em></p>
 <h3 id="fmotd">/fmotd<a class="headerlink" href="#fmotd" title="Permanent link">&para;</a></h3>
 <p>By typing the /fmotd command without specifying any parameter, the server will send you a preset message by the leader or sub-leader, if it exists. To change the preset message (message of the day), the desired message is used as a parameter.</p>
 <p><em>Example: /fmotd Everyone to HQ!</em></p>
-<h3 id="fget-fput">/fget &amp; /fput<a class="headerlink" href="#fget-fput" title="Permanent link">&para;</a></h3>
-<p>The command is used to put or take drugs or materials from HQ.</p>
-<p><em>Example: /fgetdrugs 100 and /fgetmaterials 100000</em></p>
+<h3 id="fdeposit">/fdeposit<a class="headerlink" href="#fdeposit" title="Permanent link">&para;</a></h3>
+<p>The command is used to deposit money, materials or drugs in the faction safe. Typing the command without parameters shows what the safe contains.</p>
+<p><em>Example: /fdeposit drugs 100 and /fdeposit materials 100000</em></p>
 <h3 id="setgc">/setgc<a class="headerlink" href="#setgc" title="Permanent link">&para;</a></h3>
 <p>Using this command, a mafia leader can set the minimum rank needed to send a message on /gc, the chat during alliance war.</p>
 <h3 id="vehrank">/vehrank<a class="headerlink" href="#vehrank" title="Permanent link">&para;</a></h3>
@@ -9923,14 +9901,13 @@ The second option is <strong>Faction Tests</strong>, and using this option you c
 <h3 id="topclan">/topclan<a class="headerlink" href="#topclan" title="Permanent link">&para;</a></h3>
 <p>The command displays the top clans holding turfs.</p>
 <h3 id="clanwithdraw">/clanwithdraw<a class="headerlink" href="#clanwithdraw" title="Permanent link">&para;</a></h3>
-<p>With this command, any member with rank 6+ can take money from the clan safe.</p>
+<p>With this command you can take money, materials or drugs from the clan safe, if you have the rank set by the clan leader. All members except the clan leader have a daily limit, which the leader can change from /clanmembers.</p>
+<p><em>Example: /clanwithdraw materials 100000</em></p>
 <h3 id="clandeposit">/clandeposit<a class="headerlink" href="#clandeposit" title="Permanent link">&para;</a></h3>
-<p>With this command you can deposit money in the clan safe.</p>
-<h3 id="clanput-clanget">/clanput &amp; /clanget<a class="headerlink" href="#clanput-clanget" title="Permanent link">&para;</a></h3>
-<p>With this command you can put or retrieve materials or drugs.</p>
-<p><em>Example: /clanputmaterials 1000000</em></p>
+<p>With this command you can deposit money, materials or drugs in the clan safe.</p>
+<p><em>Example: /clandeposit materials 1000000</em></p>
 <h3 id="cwithdrawpower">/cwithdrawpower<a class="headerlink" href="#cwithdrawpower" title="Permanent link">&para;</a></h3>
-<p>The command is only available to clan leaders, they can set a rank that can use the /clanwithdraw and /clanget(drugs/materials) command.</p>
+<p>The command is only available to clan leaders, they can set the minimum rank that can use the /clanwithdraw command for money, materials or drugs.</p>
 <h3 id="claimhq">/claimhq<a class="headerlink" href="#claimhq" title="Permanent link">&para;</a></h3>
 <p>The command is only available to clan leaders, with this command they can claim an available Clan HQ.</p>
 <h3 id="leavehq">/leavehq<a class="headerlink" href="#leavehq" title="Permanent link">&para;</a></h3>
@@ -9971,7 +9948,7 @@ The second option is <strong>Faction Tests</strong>, and using this option you c
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 2, 2026 12:05:39 UTC">February 2, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 16, 2026 08:23:00 UTC">November 16, 2026</span>
   </span>
 
     
