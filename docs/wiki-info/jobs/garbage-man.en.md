@@ -43,7 +43,7 @@ icon: material/trash-can
 * You must get off Walton, approach a garbage bag, and press the Y interaction key to pick it up. While carrying the bag, return to Walton and press Y near the vehicle to load it.
 * The contract interface will permanently display the number of bags remaining and the number of bags already loaded. The contract is completed after all garbage bags in the residential area have been collected and loaded into Walton.
 * Residential Waste Collection can be completed individually or with a co-op partner. Both players can collect and load the bags, allowing the team to complete the area much faster.
-* Each completed collection awards **3 Skill Points / Clan XP / Marathon Points**.
+* Each completed collection awards **2 Skill Points / Clan XP / Marathon Points**.
 
 
 ### Skill 5-6: Yosemite - Bulky Waste Collection​
@@ -54,7 +54,7 @@ icon: material/trash-can
 * The hooks will lower to the object, grab it, lift it, and load it into the vehicle through a full animated sequence. The process must be repeated until all bulky objects have been recovered.
 * When working individually, the player can secure the object from the ground, return to the driver's seat, and operate the hooks.
 * When the contract is completed in co-op mode, it becomes a team-coordinated activity. One player can position and operate the Yosemite while the second player remains on the ground and secures the waste. This allows the team to continue loading objects without constantly changing positions.
-* Each completed collection awards **3 Skill Points / Clan XP / Marathon Points**.
+* Each completed collection awards **2 Skill Points / 3 Clan XP / 3 Marathon Points**.
 
 
 ### Skill 7-8: DFT-30 - Commercial Recycling
@@ -68,7 +68,7 @@ icon: material/trash-can
 * After collecting the object, return to the DFT and move to the correct sorting compartment. Press Y to insert the waste into the vehicle.
 * If you use the wrong compartment, you will be informed of the correct category, and the object must be sorted properly before the route can continue.
 * Both players can collect and sort waste during co-op activity. All progress is shared between the leader and the partner, and the contract is closed after each trade item has been placed in the correct compartment of the DFT.
-* Each completed sort awards **4 Skill Points / Clan XP / Marathon Points**.
+* Each completed sort awards **3 Skill Points / 4 Clan XP / 4 Marathon Points**.
 
 
 ### Skill 9-10: Trashmaster - Municipal Intervention
@@ -88,7 +88,7 @@ icon: material/trash-can
 * After resolving a complaint, another municipal call will be automatically assigned until the entire route is completed.
 * Players with skill 9 must resolve 3 municipal complaints for each contract.
 * Players with skill 10 must resolve 2 municipal complaints for each contract, representing a faster and more specialized intervention at a higher level.
-* Each completed intervention awards **4 Skill Points / Clan XP / Marathon Points**.
+* Each completed intervention awards **3 Skill Points / 4 Clan XP / 4 Marathon Points**.
 * Municipal intervention offers full support for co-op mode. Both players can inspect problems, pick up tools, and contribute to the same common progress of the intervention.
 
 
@@ -176,10 +176,7 @@ icon: material/trash-can
 * Single item loading and multi-item loading now have the same contribution requirement. After the partner has performed at least one valid action, the 50/50 split is activated for that contract.
 * Existing job bonuses are then calculated separately for each player. This means that leader bonuses are applied to the leader's share, and partner bonuses are applied separately to the partner's share.
 * Since each player can have different active bonuses, the final payouts may be different even if the base shares are equal.
-* Co-op partners who contribute also receive:
-    * 1 Scavenger skill point
-    * 1 Marathon point
-    * 1 Clan XP.
+* Co-op partners who contribute also receive the same Garbage Man Skill Points, Marathon Points and Clan XP as the leader, based on the leader's skill.
 * The leader continues to receive the normal contract rewards, calculated based on skill.
 
 

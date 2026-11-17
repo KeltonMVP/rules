@@ -51,7 +51,7 @@ icon: material/trash-can
   * Cârligele vor coborî spre obiect, îl vor prinde, îl vor ridica și îl vor încărca în vehicul prin intermediul unei secvențe animate complete. Procesul trebuie repetat până când toate obiectele voluminoase au fost recuperate.
   * Atunci când lucrează individual, jucătorul poate fixa obiectul de la sol, se poate întoarce pe scaunul șoferului și poate opera cârligele.
   * Atunci când contractul este realizat în modul co-op, acesta devine o activitate coordonată de echipă. Un jucător poate poziționa și opera Yosemite-ul, în timp ce al doilea jucător rămâne la sol și fixează deșeurile. Acest lucru permite echipei să continue încărcarea obiectelor fără a schimba constant pozițiile.
-  * Fiecare colectare finalizata ofera **3 Puncte de Skill / XP la Clan / Puncte de Maraton**.
+  * Fiecare colectare finalizata ofera **2 Puncte de Skill / 3 XP la Clan / 3 Puncte de Maraton**.
 
 ### Skill 7 - 8: DFT-30 - Reciclare comerciala
   * La skill 7, jucatorii deblocheaza contractele de reciclare comerciala si primesc un DFT-30 impartit in mai multe compartimente de sortare.
@@ -64,7 +64,7 @@ icon: material/trash-can
   * Dupa colectarea obiectului, intoarce-te la DFT si deplaseaza-te langa compartimentul corect de sortare. Apasa Y pentru a introduce deseul in vehicul.
   * Daca folosesti compartimentul gresit, vei fi informat despre categoria corecta, iar obiectul trebuie sortat corespunzator inainte ca ruta sa poata continua.
   * Ambii jucatori pot colecta si sorta deseurile in timpul activitatii co-op. Intregul progres este partajat intre lider si partener, iar contractul se incheie dupa ce fiecare obiect comercial a fost introdus in compartimentul corect al DFT-ului.
-  * Fiecare sortare finalizata ofera **4 Puncte de Skill / XP la Clan / Puncte de Maraton**.
+  * Fiecare sortare finalizata ofera **3 Puncte de Skill / 4 XP la Clan / 4 Puncte de Maraton**.
 
 ### Skill 9 - 10: Trashmaster - Interventie municipala​
   * Cele mai ridicate skill-uri ale jobului de Gunoier deblocheaza contractele de interventie municipala, realizate cu un Trashmaster echipat cu mai multe unelte specializate pentru salubritate.
@@ -83,7 +83,7 @@ icon: material/trash-can
   * Dupa rezolvarea unei sesizari, un alt apel municipal va fi atribuit automat pana cand intreaga ruta este finalizata.
   * Jucatorii cu skill 9 trebuie sa rezolve 3 sesizari municipale pentru fiecare contract.
   * Jucatorii cu skill 10 trebuie sa rezolve 2 sesizari municipale pentru fiecare contract, reprezentand o interventie mai rapida si mai specializata la nivel inalt.
-  * Fiecare interventie finalizata ofera **4 Puncte de Skill / XP la Clan / Puncte de Maraton**.
+  * Fiecare interventie finalizata ofera **3 Puncte de Skill / 4 XP la Clan / 4 Puncte de Maraton**.
   * Interventia municipala ofera suport complet pentru modul co-op. Ambii jucatori pot inspecta problemele, pot lua unelte si pot contribui la acelasi progres comun al interventiei.
 
 
@@ -171,10 +171,7 @@ icon: material/trash-can
     * Incarcarea unui singur obiect si incarcarea mai multor obiecte au in prezent aceeasi cerinta de contributie. Dupa ce partenerul a efectuat cel putin o actiune valida, impartirea 50/50 este activata pentru contractul respectiv.
     * Bonusurile existente ale jobului sunt apoi calculate separat pentru fiecare jucator. Acest lucru inseamna ca bonusurile liderului sunt aplicate partii liderului, iar bonusurile partenerului sunt aplicate separat partii partenerului.
     * Deoarece fiecare jucator poate avea bonusuri active diferite, platile finale pot fi diferite chiar daca partile de baza sunt egale.
-    * Partenerii co-op care contribuie primesc si:
-        * 1 punct de skill la jobul de Gunoier
-        * 1 punct Marathon
-        * 1 Clan XP.
+    * Partenerii co-op care contribuie primesc si aceleasi Puncte de Skill la jobul de Gunoier, Puncte de Maraton si XP la Clan ca liderul, calculate in functie de skill-ul liderului.
     * Liderul continua sa primeasca recompensele normale ale contractului, calculate in functie de skill.
 
 
